@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-09-05 21:53 KST",
-  "run_started_at": "2026-09-05T21:53:06.324495+09:00",
+  "updated_at": "2026-09-05 22:37 KST",
+  "run_started_at": "2026-09-05T22:37:00.259845+09:00",
   "coverage": {
-    "items": 16376,
+    "items": 16378,
     "oldest": "2025-09-06",
     "newest": "2026-09-05",
     "days_covered": 365,
@@ -12,26 +12,26 @@
     "정책": 0,
     "법령": 0,
     "연구": 0,
-    "기사": 9
+    "기사": 10
   },
   "period_counts": {
     "weekly": {
       "정책": 47,
       "법령": 0,
       "연구": 55,
-      "기사": 1219
+      "기사": 1221
     },
     "monthly": {
       "정책": 149,
       "법령": 18,
       "연구": 295,
-      "기사": 4992
+      "기사": 4994
     },
     "yearly": {
       "정책": 988,
       "법령": 756,
       "연구": 1166,
-      "기사": 13466
+      "기사": 13468
     }
   },
   "source_status": {
@@ -39,7 +39,7 @@
     "서울특별시": "20건 수집",
     "경기도": "16건 수집",
     "법령·입법": "22건 수집",
-    "연구기관": "91건 수집",
+    "연구기관": "60건 수집",
     "지역연구원": "29건 수집",
     "언론-도시계획": "14건 수집",
     "언론-지구단위": "99건 수집",
@@ -51,9 +51,9 @@
     "언론-공업지역산업단지": "92건 수집",
     "언론-스마트기후": "4건 수집",
     "분야:정책": "47건 수집",
-    "분야:연구": "120건 수집",
-    "분야:법령": "22건 수집",
-    "분야:기사": "555건 수집"
+    "분야:연구": "89건 수집",
+    "분야:기사": "555건 수집",
+    "분야:법령": "22건 수집"
   },
   "backfill_status": {},
   "municipal_notices": [
@@ -171,13 +171,13 @@
     }
   ],
   "municipal_status": {
-    "수원": "수원 기본·도시관리계획 0건, 검색보완 0건 / 수원 지구단위계획 0건, 검색보완 0건",
     "화성": "화성시 고시공고 4건",
-    "고양": "고양시 고시·도시계획 선별 0건, 검색보완 0건",
-    "서울": "서울도시공간포털 결정고시 12건",
     "과천": "과천시 고시공고 1건",
+    "서울": "서울도시공간포털 결정고시 12건",
     "광명": "광명시 고시공고 1건",
-    "성남": "성남 지구단위계획 고시·공고 SSLError, 검색보완 0건"
+    "고양": "고양시 고시·도시계획 선별 ConnectTimeout, 검색보완 0건",
+    "성남": "성남 지구단위계획 고시·공고 ConnectTimeout, 검색보완 0건",
+    "수원": "수원 지구단위계획 ConnectTimeout, 검색보완 0건 / 수원 기본·도시관리계획 ConnectTimeout, 검색보완 0건"
   },
   "seoul_housing_news": [],
   "seoul_housing_status": "공식 목록 0건, 검색보완 0건",
@@ -186,11 +186,22 @@
     {
       "id": "6e153941200bf5b5",
       "title": "응암동 101번지 일대 주택정비형 공공재개발",
-      "url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxPNHlYN1VWUzk3QWhnTURKcjJaUEJkSE9fMVNPVlhINnZudGJra1BpU2kwTzBhNXBLeFRJdjNWZ2FYY3Q1RDliYVM5dkExUVJUTFotUzZzMWJJY0xuSlBsNjRaZFNnUnVGZDAwTDBBanRWR3JmQkNqY1ZPeEVwSkkxRW1nQi0wX2NKYUs3dmNvTnFJcHhUNEl3am05SmpabjlNNGRCTGk4YzlRYkdPRE4zUEpoWUg0a25pRzhKRFZxWFhSd1BZYU5vcnFQUmRYUDhKYTF0eGV6OGJIbVA3NzV4b3cxR2VLRVdNZHoyTnVZRmFUVFdRSzN2ZExyY3dxSGhkVUU1Y0pDRkhJLWgwQ090VXdjSE9ycE5uMUQ5X0Jval81a2NRUlVPWnpLcmVMRmZic28wN2wyX2tzc2h5OHRvaUhn?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOTm9YY0MyUTZ1UHdteE9VZEM2NFNOeWhPY1hiZ2FjU2tQeGJmLVZrQXhiVlEzYUhTOHhOcWNzd05yQy1QWFRqNGU2RWQ1Y3RtaS1rVGFmNUsyb19oV1F1MVU2OGNZcUhvTDVoZ2RYTk42MmFaTDhQbmphdnAzdzM5RDFKS2k0ZFExUklhN2ZtM05oOUdBeGxVUi14UEN1TlZhZFFUY1Y3MDdiMEFtSWtGX0ctUGdmdXhVUGc?oc=5",
       "source": "서울",
       "category": "정비",
       "date": "2026-09-04",
       "description": "응암동 101번지 일대 주택정비형 공공재개발 정비사업 정보몽땅",
+      "city": "서울",
+      "source_type": "공식 정비사업 소식"
+    },
+    {
+      "id": "31f245b12634838c",
+      "title": "상계3재정비촉진구역 공공재개발정비사업",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQNnI5clplV2t4eHVDSnJsU1FDU3pPV3pVU0Nfemxab2dQVVhHOTdJTDBVX3ZPSkFVSXpKY2pkV0J6Qzh4ZGVreDhMUXVtbUF6MU9YTDZra2VwYVA0Uk5Lel9SeFdZUU9PbWdnMDNZZzFyX1FUOU1ObXpRVU9jcWoza0ZucXpHeHBPeGMyNTdQVXg4QnZQM0l5ZHZLTUJwMkhVbFFJOUNSbi0yTnNKcGhIQ29LT3FMUQ?oc=5",
+      "source": "서울",
+      "category": "정비",
+      "date": "2026-09-03",
+      "description": "상계3재정비촉진구역 공공재개발정비사업 정비사업 정보몽땅",
       "city": "서울",
       "source_type": "공식 정비사업 소식"
     },
@@ -201,34 +212,23 @@
       "source": "서울",
       "category": "정비",
       "date": "2026-09-02",
-      "description": "지역과 대학을 잇는 열린 주거단지 조성, 전농동 152-65 신통기획 확정 서울시청",
-      "city": "서울",
-      "source_type": "공식 정비사업 소식"
-    },
-    {
-      "id": "a1e77d2ef21c0ada",
-      "title": "응암동 101번지 일대 주택정비형 공공재개발",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUWpWUGtZY3JjNl9hVVE3VnRaYmV3eEZQQUNyUWlMVGtDTTNQejVGb2loR2lwVmlmS21VdXJDbjF1Z3RKamF4bFV4RThIcndaenNBUlBBTUp5LUE4S3ZUbDJjLVBkeVV0U1lDdGpjOGx4ckEtZjVFYTZpQWpFd0VNNXFMMGgtWlkwRnJnVE5xOWZDYWxMWmZkdUxOR1JYR2ZUc3BmS0RLQ2RPRjlLVTZOV2hyRUczdw?oc=5",
-      "source": "서울",
-      "category": "정비",
-      "date": "2026-09-02",
-      "description": "응암동 101번지 일대 주택정비형 공공재개발 정비사업 정보몽땅",
+      "description": "지역과 대학을 잇는 열린 주거단지 조성, 전농동 152-65 신통기획 확정 seoul.go.kr",
       "city": "서울",
       "source_type": "공식 정비사업 소식"
     }
   ],
   "maintenance_status": {
-    "인천": "0건",
-    "화성": "0건",
     "남양주": "0건",
+    "화성": "0건",
     "고양": "0건",
+    "인천": "0건",
     "수원": "0건",
+    "광명": "0건",
     "평택": "0건",
     "성남": "0건",
     "과천": "0건",
-    "광명": "0건",
-    "서울": "7건",
-    "광주": "0건"
+    "광주": "0건",
+    "서울": "8건"
   },
   "items": [
     {
@@ -257,6 +257,15 @@
       "category": "기사",
       "date": "2026-09-05",
       "description": "인천시, 노후계획도시정비위 개최...글로벌 미래도시 공간 재창조 시정일보"
+    },
+    {
+      "id": "d5c5b74b39dfe9a3",
+      "title": "건대 '청춘잇길' 나이트비어 축제 개최 … 골목상권 활력 넘친다",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA1NGM2SUFJdkM2VW5NSXhKdE41TUx3V292UGVMZzRIU2JDM1pmbE9BbjJ5U2F4MVVVdFEtZTA0LV9zdXJjMU5JUmVjN2RTTDAzQnoxTkltSjRzcjFMRC1qZ3pJTHRCYUcxZkZCOA?oc=5",
+      "source": "서울동북신문",
+      "category": "기사",
+      "date": "2026-09-05",
+      "description": "건대 '청춘잇길' 나이트비어 축제 개최 … 골목상권 활력 넘친다 서울동북신문"
     },
     {
       "id": "7f7762cf2d7aacbc",
@@ -311,6 +320,15 @@
       "category": "기사",
       "date": "2026-09-05",
       "description": "최완식 대구시의원 “도시철도 3호선 혁신도시 연장, 예타 통과 전략 마련해야” v.daum.net"
+    },
+    {
+      "id": "9d99dacd81a57691",
+      "title": "양산도시철도, 연내 개통 향한 최종장, 영업시운전 돌입",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBXX2JxVmNhbG9hOUQwNlZ0U0Npb3VpM2VVRDBaSmpwdEUtM0xuTXJHQW5VVnhoN1dPRXgxb3Q3STJ4Mk1BaTdGQ2NtaHNxVlg3SmVTYWhQYzNtdEF3dDViOGxYWHBUT0V0?oc=5",
+      "source": "환경일보",
+      "category": "기사",
+      "date": "2026-09-04",
+      "description": "양산도시철도, 연내 개통 향한 최종장, 영업시운전 돌입 환경일보"
     },
     {
       "id": "f58af611a8f87ae6",
@@ -1573,6 +1591,24 @@
       "description": "국가정책연구포털(NKIS) AI 쇼츠 영상공모전 안내 | 유관기관소식 | auri 소식 | 소식 건축공간연구원"
     },
     {
+      "id": "f4bbeaff922f32d6",
+      "title": "스마트+빌딩 정책 컨퍼런스 개최 | 보도자료",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOdDNqRjdUZXpWM2d1eGU0N2s4SGhIV2xLNDF4OUU3OHlGbFVxMGNaTDJzN19CazdnN3lLdEE4STNDOFhleGJGcVl3RWlYS3Z0VEE1cTlLZUtiQWhHS0dERko5M1dJSHVKTTZSeEJZSzM0UTA2Rm9Wdms4SFV1NWpoVVpBWWdPUQ?oc=5",
+      "source": "건축공간연구원",
+      "category": "연구",
+      "date": "2026-09-04",
+      "description": "스마트+빌딩 정책 컨퍼런스 개최 | 보도자료 | auri 소식 | 소식 건축공간연구원"
+    },
+    {
+      "id": "e5639831245d9509",
+      "title": "국가정책연구포털(NKIS) AI 쇼츠 영상공모전 안내 | 유관기관소식",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOLWUwSU1PWTcwdldmTjRiN3B5XzVGNHRSaV85VzhFSGN0OXZDSnIzSHp1SU1GYVljX0tRWTBYMWR0bXRxWnZsNi1ERHU0R3RPRGJXQlNQV3NITUxrY2taR01aNkE4aHF2NjZ1ZEt6WG5sU0tVdWxKUTdlNmN5cVJNb3BLSUFtUQ?oc=5",
+      "source": "건축공간연구원",
+      "category": "연구",
+      "date": "2026-09-04",
+      "description": "국가정책연구포털(NKIS) AI 쇼츠 영상공모전 안내 | 유관기관소식 | auri 소식 | 소식 건축공간연구원"
+    },
+    {
       "id": "7bcfeadca41e2a62",
       "title": "강원 그라운드골프협회장기대회 성황...정선 상권 활성화도 도움",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE95TFBmeUd2UE9LLTg5SnBiTTlxZEZkVGVGZWhjanFsekVua3hCUW9fNDlOb1ZKRE9jT3RlVmN6STV6eEhZSlRkbm90bjlmNXNaOU9WWFVmdjFLY1M1dExRSm9pX09ZWTg?oc=5",
@@ -1778,24 +1814,6 @@
       "category": "기사",
       "date": "2026-09-04",
       "description": "BC카드, 서울 10개 지역 상권 활성화 이벤트 실시 … 3000개 가맹점 참여 biz.newdaily.co.kr"
-    },
-    {
-      "id": "f4bbeaff922f32d6",
-      "title": "스마트+빌딩 정책 컨퍼런스 개최 | 보도자료",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOdDNqRjdUZXpWM2d1eGU0N2s4SGhIV2xLNDF4OUU3OHlGbFVxMGNaTDJzN19CazdnN3lLdEE4STNDOFhleGJGcVl3RWlYS3Z0VEE1cTlLZUtiQWhHS0dERko5M1dJSHVKTTZSeEJZSzM0UTA2Rm9Wdms4SFV1NWpoVVpBWWdPUQ?oc=5",
-      "source": "auri.re.kr",
-      "category": "연구",
-      "date": "2026-09-04",
-      "description": "스마트+빌딩 정책 컨퍼런스 개최 | 보도자료 | auri 소식 | 소식 auri.re.kr"
-    },
-    {
-      "id": "e5639831245d9509",
-      "title": "국가정책연구포털(NKIS) AI 쇼츠 영상공모전 안내 | 유관기관소식",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOLWUwSU1PWTcwdldmTjRiN3B5XzVGNHRSaV85VzhFSGN0OXZDSnIzSHp1SU1GYVljX0tRWTBYMWR0bXRxWnZsNi1ERHU0R3RPRGJXQlNQV3NITUxrY2taR01aNkE4aHF2NjZ1ZEt6WG5sU0tVdWxKUTdlNmN5cVJNb3BLSUFtUQ?oc=5",
-      "source": "auri.re.kr",
-      "category": "연구",
-      "date": "2026-09-04",
-      "description": "국가정책연구포털(NKIS) AI 쇼츠 영상공모전 안내 | 유관기관소식 | auri 소식 | 소식 auri.re.kr"
     },
     {
       "id": "6efe34b277caec3f",
@@ -2012,24 +2030,6 @@
       "category": "기사",
       "date": "2026-09-03",
       "description": "대방역세권 재개발추진위 정비업자·설계자·법무사·세무회계·추정분담금산정 업체 선정 하우징헤럴드"
-    },
-    {
-      "id": "05721a6c9e5c1fbf",
-      "title": "재개발 공동지분과 단독분양권",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9mVXQwSnF3UG9zQ0dyb0NZbm81NHplNXduaXVuXzJ6UWg2MTl4VW9hQnF2Wk1qRjBDWUVCUTlRWVBQODltZlFfUlRGNnNiTGtTQ0xkY2tpTWYzOXlmUHJjWGNzekNMdmlFTFItcXdqWHdRbEk?oc=5",
-      "source": "하우징헤럴드",
-      "category": "기사",
-      "date": "2026-09-03",
-      "description": "재개발 공동지분과 단독분양권 하우징헤럴드"
-    },
-    {
-      "id": "2e918b9f41dd2d72",
-      "title": "분당 아름마을 ‘풍선효’ 특별정비구역 지정 본안 접수 완료",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1NN01LQ2pPZVcxdktEZXdDSDFLbkNTYjFVNzlaOXBySDRpcjBfTWFyeGpZaW10VTEteXNhMklPZjNyVTF1VWtPMDkwam81TnpIQ3NyVGx2VF9Kb0NsNzhXWkpoZnpla2VLS05Zc1ZwR096ZXM?oc=5",
-      "source": "하우징헤럴드",
-      "category": "기사",
-      "date": "2026-09-03",
-      "description": "분당 아름마을 ‘풍선효’ 특별정비구역 지정 본안 접수 완료 하우징헤럴드"
     }
   ]
 }
