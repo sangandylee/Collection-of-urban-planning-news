@@ -1,17 +1,17 @@
 {
-  "updated_at": "2026-09-11 18:43 KST",
+  "updated_at": "2026-09-12 08:05 KST",
   "coverage": {
-    "items": 17596,
-    "oldest": "2025-09-12",
+    "items": 17639,
+    "oldest": "2025-09-13",
     "newest": "2026-09-11",
-    "days_covered": 365,
+    "days_covered": 364,
     "complete": true
   },
   "weekly": [
     {
       "topic": "재건축·재개발·정비사업",
-      "count": 263,
-      "trend_label": "직전 동일기간보다 145건 감소",
+      "count": 267,
+      "trend_label": "직전 동일기간보다 130건 감소",
       "analyzed_count": 15,
       "summary": {
         "points": [
@@ -58,8 +58,8 @@
     },
     {
       "topic": "철도·광역교통·역세권",
-      "count": 252,
-      "trend_label": "직전 동일기간보다 40건 감소",
+      "count": 263,
+      "trend_label": "직전 동일기간보다 13건 감소",
       "analyzed_count": 15,
       "summary": {
         "points": [
@@ -85,29 +85,29 @@
           "date": "2026-09-11"
         },
         {
+          "title": "대구시 도시철도 4호선 공론화위원회 출범…15명 전문가 참여, 장우영 위원장 선출",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9XRGJmYVFqWUdoSGlINldZcVg2NzlqNTJYd21rdkc2TlhMSDlReG94Z1RVa2NXaEE1RUowNmNWMnJ2YV85b0FCeEFPTUE0dDNPMW9lWE9DSk1TbTlfNWlWT0ZwYTVmM0J1Z3Br?oc=5",
+          "source": "웹플러스뉴스",
+          "date": "2026-09-11"
+        },
+        {
           "title": "부산 기장군, 기획예산처 장관에 도시철도 조기 착공 지원 요청",
           "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5Ib0U0V1BZM3ZldENBY09zZ282SXZqaTRqMXg1Z2pXdzRlYnZtUUEyNW4ySENoVlRGYnc4cklfMFRlWWhIdndQLWlaOEhmbHh6bnl0SHZyaUZVMXQybG9CbtIBYEFVX3lxTE5Ib0U0V1BZM3ZldENBY09zZ282SXZqaTRqMXg1Z2pXdzRlYnZtUUEyNW4ySENoVlRGYnc4cklfMFRlWWhIdndQLWlaOEhmbHh6bnl0SHZyaUZVMXQybG9Cbg?oc=5",
           "source": "연합뉴스",
           "date": "2026-09-11"
         },
         {
-          "title": "[대구 24시] 대구도시철도 4호선 공론화위 출범…운영세칙·연구용역 논의",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5TeGgwZ3F3M25iaThZYXhHNElUaFZ3NkhCeEJDWDFQUU9XNVhmbWJpV1RKeksxMDdrVWhUaUNYWmdsVE5aQVIwV2VINU9kcjhHd1BOZ0NpQXNLTW1QUnFYTmFXWFdqUEJyQmxSOGhMdHdHOEnSAXNBVV95cUxOU3hoMGdxdzNuYmk4WWF4RzRJVGhWdzZIQnhCQ1gxUFFPVzVYZm1iaVdUSnpLMTA3a1VoVGlDWFpnbFROWkFSMFdlSDVPZHI4R3dQTmdDaUFzS01tUFJxWE5hV1hXalBCckJsUjhoTHR3RzhJ?oc=5",
-          "source": "시사저널",
-          "date": "2026-09-11"
-        },
-        {
-          "title": "대구 도시철도 공론화 위원회 출범···본격 활동 시작",
-          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBJWDB6VENWTGt4VHAtSjZSanNpUUJBV19wdlA2Y19ib3NpV0M3S3EzRk13NzkzV0hxd3lMWWJuVzQxTF9XZXF4VnBOeVQ?oc=5",
-          "source": "대구MBC",
+          "title": "부산도시철도 건강기부계단, 10년간 5억원 취약계층 후원",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBKemRWY2NiWmhlZlZ5QWVoZEhFWDBnN2NDOWpGMk1YaE5heHFjNWNyVVdDZERRR1A3dDBTbHpranNpZkdsZjgwNC1LV21xbklGRVQ2S2M0YzdEbHfSAWBBVV95cUxOZzZEMXoxekVFd1k0VFhCcXdVdUJpczBENVhycXdOcWJCZXVUemNubnlzVU0xamgxUVdCMzlZTU83alRjVjNZUXVkOFByaTlDdDJCSFZQSC1xTWU5eklCSVI?oc=5",
+          "source": "연합뉴스",
           "date": "2026-09-11"
         }
       ]
     },
     {
       "topic": "도시재생·빈집·원도심",
-      "count": 227,
-      "trend_label": "직전 동일기간보다 14건 증가",
+      "count": 225,
+      "trend_label": "직전 동일기간보다 7건 증가",
       "analyzed_count": 15,
       "summary": {
         "points": [
@@ -154,20 +154,25 @@
     },
     {
       "topic": "국토계획·용도지역·규제",
-      "count": 153,
-      "trend_label": "직전 동일기간보다 103건 감소",
+      "count": 151,
+      "trend_label": "직전 동일기간보다 108건 감소",
       "analyzed_count": 15,
       "summary": {
         "points": [
           {
             "label": "사업·공급",
-            "text": "계획 수립·공급 확대·사업 추진 흐름이 9건의 자료에서 확인됐다.",
-            "evidence_count": 9
+            "text": "계획 수립·공급 확대·사업 추진 흐름이 8건의 자료에서 확인됐다.",
+            "evidence_count": 8
           },
           {
             "label": "공간·생활권",
-            "text": "개발밀도 변화·역세권 재편가 4건의 자료에서 공간 변화의 핵심으로 나타났다.",
-            "evidence_count": 4
+            "text": "개발밀도 변화·역세권 재편가 5건의 자료에서 공간 변화의 핵심으로 나타났다.",
+            "evidence_count": 5
+          },
+          {
+            "label": "정책·제도",
+            "text": "규제 완화·법령 개정·새 제도 도입 관련 움직임이 2건의 자료에서 반복됐다.",
+            "evidence_count": 2
           }
         ],
         "note": "",
@@ -181,16 +186,16 @@
           "date": "2026-09-11"
         },
         {
-          "title": "영천도시계획용도지역일부 변경 결정 (중앙도시계획위원회 심의안건)",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9qYmV3M2NIaE40dmJuSzdXby0zdU5XV1lrT3FNLVE0N1ZKbEt2Nk1zUGVxWTVtaTZmcEdiXzB2SERKVGJTVHowSmk0bER3bWVyVzRBeklXZi1OTzVlb05xN2lmNUg?oc=5",
+          "title": "서울도시계획용도지역일부변경결정 (중앙도시 계획위원회 심의안건)",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5iS29Cem9vUFFzeHRjdXVHbGdGM3VPM2FTcXpDZ2ZGcm5Ub3VRYzdrYW5YSGpPekxVVmNCdFZtTlQ4WFo1N0RXQ1dicnpRdmIzVnBxNlM2anMwN0cxOU1qcFZVWmM?oc=5",
           "source": "국토연구원 전자도서관",
-          "date": "2026-09-10"
+          "date": "2026-09-11"
         },
         {
-          "title": "서울도시계획 을지로1가구역(5,6지구)사업계획 (건축계획 일부 변경결정) (중앙도시 계획위원회 심의안건)",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9SY1lRVmp6ckxYOHNZNFVWTERxSWhYRUI5MVFMZFpYRWRJSHhnT0draG4yRkxFRFdyNThLOGV4YWhFU0VwamFjdHhjWUxONjZVYTNlYkJHZlFSYm01Qzg4VUlTQy0?oc=5",
+          "title": "광주도시계획용도지역 일부 변경결정 (중앙도시 계획위원회 심의안건)",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBhZ19wSGVrYlVGQXMtZm9GMGRzOEl0elI1eTBDX1lhRDFxbjRHaTlJajZranloOXM5eUp3bzNEQmRtbzUtczFDSWJHU0ZvdDAxcVdPRFFuTlYtLW10dkFEM2ZoSEU?oc=5",
           "source": "국토연구원 전자도서관",
-          "date": "2026-09-10"
+          "date": "2026-09-11"
         },
         {
           "title": "금촌도시계획용도지역일부변경결정 (중앙도시 계획위원회 심의안건)",
@@ -202,8 +207,8 @@
     },
     {
       "topic": "상권·골목경제·생활권",
-      "count": 141,
-      "trend_label": "직전 동일기간보다 1건 증가",
+      "count": 133,
+      "trend_label": "직전 동일기간보다 8건 감소",
       "analyzed_count": 15,
       "summary": {
         "points": [
@@ -287,52 +292,9 @@
       ]
     },
     {
-      "topic": "컴팩트시티·미래도시",
-      "count": 41,
-      "trend_label": "직전 동일기간보다 17건 증가",
-      "analyzed_count": 15,
-      "summary": {
-        "points": [
-          {
-            "label": "공간·생활권",
-            "text": "철도축 변화·교통체계 변화가 3건의 자료에서 공간 변화의 핵심으로 나타났다.",
-            "evidence_count": 3
-          }
-        ],
-        "note": "",
-        "topic": "컴팩트시티·미래도시"
-      },
-      "examples": [
-        {
-          "title": "서울시, UAM 지역시범사업 공모 선정",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1YSjhEMmdySzczMUZQU19sdi11TVdMOGxNaUs3T2FyaG93d2ZIMWdyZENpa21qc3ZnR0l6QmY5LWZnLWRtcFZUcjBOZHBlMHp4TndsRXR2MThfMzFCcXJ3LV8wQTU4d2ZC0gFsQVVfeXFMUE95UmFfUGVJWk83VDV4UnUzSHc4QmdlVmlZbldkblF1eW03NmU1RnQtSlNoREVpaFZ4YzllZlRId0hjYzZEQ1ZPMzREMEVkaVlDdFF1NGp2d0ZUdVdpQjdpU2xoV3o1Ti1Xbnlx?oc=5",
-          "source": "정보통신신문",
-          "date": "2026-09-11"
-        },
-        {
-          "title": "도심항공교통 시범사업에 서울시 선정 ... 복합형 UAM 서비스 모델 제안",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5KQ01XVGZlcndvcjR1eW5TQmVEcFNQeXcwUnN4ZWxXd3FjaDNZLXpUd1hKSEo4U3BSRVdoNFJ3a09TRmtjN0Z0NVNvWTRXQWc0dGJhTkJ1SkpIWVlMOERNcTJnakZzb3daNjZz?oc=5",
-          "source": "파이낸셜신문",
-          "date": "2026-09-10"
-        },
-        {
-          "title": "UAM 시범사업지 서울로 낙점…관광 응급수송 등 지역 맞춤형 실증",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5GLUtlYzFONnlxb0V2djNJNU5oUVZlSWQ3eWdhemtMNWd2bVZha1Z5dlNyMWZKTURjbklQbHJsck9NTmlHcFQ1WUZ6dlhQZw?oc=5",
-          "source": "전자신문",
-          "date": "2026-09-10"
-        },
-        {
-          "title": "李지사, 오송 하이퍼튜브 선행기술 벤치마킹",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1oS2YxN2Fzc2dubG92d2FsWmtNLWdBZXlFRFVyMXRNeW9ESlBwY3c0UFY0bmpTQ0ZSc0JJM0gwRnlPOXg4bjREUkVtWlp4VktGeXNPS2I2SmJqdjlDZTJHM3RzMXNvMmdhTFFN0gFrQVVfeXFMTWhLZjE3YXNzZ25sb3Z3YWxaa00tZ0FleUVEVXIxdE15b0RKUHBjdzRQVjRualNDRlJzQkkzSDBGeU85eDhuNERSRW1aWnhWS0Z5c09LYjZKYmp2OUNlMkczdHMxc28yZ2FMUU0?oc=5",
-          "source": "전북중앙",
-          "date": "2026-09-10"
-        }
-      ]
-    },
-    {
       "topic": "토지·부동산시장",
-      "count": 39,
-      "trend_label": "직전 동일기간보다 42건 감소",
+      "count": 42,
+      "trend_label": "직전 동일기간보다 38건 감소",
       "analyzed_count": 15,
       "summary": {
         "points": [
@@ -343,7 +305,7 @@
           },
           {
             "label": "사업·공급",
-            "text": "정비 추진·사업 추진·계획 수립 흐름이 8건의 자료에서 확인됐다.",
+            "text": "정비 추진·사업 추진·공급 확대 흐름이 8건의 자료에서 확인됐다.",
             "evidence_count": 8
           },
           {
@@ -369,35 +331,78 @@
           "date": "2026-09-11"
         },
         {
+          "title": "30년 전엔 은행 옆이, 지금은 역세권 주변이 ‘땅값 좌우’ [경기·인천 지가 30년의 기록①]",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBxbDdOTl9qZHYzQkVSX0ViRXNLczhkelN3Rk5FN2h2Tkc4UklqemlkTU02X2lxRG9ObTkzN0xLb2pNOW5OdUZCdzU2UUJpaVVULU5PaUFnRnJ4aUE?oc=5",
+          "source": "경기일보",
+          "date": "2026-09-11"
+        },
+        {
           "title": "한국부동산원, 설계공모 운영경험 담은 ‘공공건축 설계공모 길잡이’ 발간(2026.9.10. 건축사신문)",
           "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOaVhRZVdmdlQ0Nmg4R3QxSDc2bFlxdnhpZXhEYS01WWxiMk5ONWw2TXJka3U2SFZkbHAzVlQxY1ZyZ0ZYay1PeC1HdXdpczI2VGZCSjNIRDdPb25FeV9ONm1OSXFRM0Q5RE5QZWVZTjRfUDhKemR3anZmZU55dGtFNW1maUhpZw?oc=5",
           "source": "auri.re.kr",
           "date": "2026-09-11"
+        }
+      ]
+    },
+    {
+      "topic": "컴팩트시티·미래도시",
+      "count": 42,
+      "trend_label": "직전 동일기간보다 18건 증가",
+      "analyzed_count": 15,
+      "summary": {
+        "points": [
+          {
+            "label": "공간·생활권",
+            "text": "교통체계 변화·철도축 변화가 2건의 자료에서 공간 변화의 핵심으로 나타났다.",
+            "evidence_count": 2
+          }
+        ],
+        "note": "",
+        "topic": "컴팩트시티·미래도시"
+      },
+      "examples": [
+        {
+          "title": "서울시, UAM 지역시범사업 공모 선정",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1YSjhEMmdySzczMUZQU19sdi11TVdMOGxNaUs3T2FyaG93d2ZIMWdyZENpa21qc3ZnR0l6QmY5LWZnLWRtcFZUcjBOZHBlMHp4TndsRXR2MThfMzFCcXJ3LV8wQTU4d2ZC0gFsQVVfeXFMUE95UmFfUGVJWk83VDV4UnUzSHc4QmdlVmlZbldkblF1eW03NmU1RnQtSlNoREVpaFZ4YzllZlRId0hjYzZEQ1ZPMzREMEVkaVlDdFF1NGp2d0ZUdVdpQjdpU2xoV3o1Ti1Xbnlx?oc=5",
+          "source": "정보통신신문",
+          "date": "2026-09-11"
         },
         {
-          "title": "\"재개발·재건축 초기 불확실성 줄인다\"···한국부동산원, 주민 의사결정 지원 본격 추진",
-          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1WWnF3VGYtMFhfUV91V29SNFBxVzRFY2RCWmJBbHdTQVVWaDRwZE9xUXo3dENzTFl6bC1SclBOaVRwTUthWmlkQ0s0Z1o?oc=5",
-          "source": "대구MBC",
+          "title": "도심항공교통 시범사업에 서울시 선정 ... 복합형 UAM 서비스 모델 제안",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5KQ01XVGZlcndvcjR1eW5TQmVEcFNQeXcwUnN4ZWxXd3FjaDNZLXpUd1hKSEo4U3BSRVdoNFJ3a09TRmtjN0Z0NVNvWTRXQWc0dGJhTkJ1SkpIWVlMOERNcTJnakZzb3daNjZz?oc=5",
+          "source": "파이낸셜신문",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "전북자치도, 오송 찾아 새만금 하이퍼튜브 선행기술 현장 점검",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5MSDh2R3FxU1FTYWhtcDhGR1h0ZGhQYl9XQkZILXdaRmlkcS14U29Bb0ZNOWZuVTRwbG5sY2taYVBRRUpfd3p6T1VqWGJvemx2ZkowYUVTXzVINHhneEI1Z28yQ0FkTnRyNFE?oc=5",
+          "source": "투데이안",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "UAM 시범사업지 서울로 낙점…관광 응급수송 등 지역 맞춤형 실증",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5GLUtlYzFONnlxb0V2djNJNU5oUVZlSWQ3eWdhemtMNWd2bVZha1Z5dlNyMWZKTURjbklQbHJsck9NTmlHcFQ1WUZ6dlhQZw?oc=5",
+          "source": "전자신문",
           "date": "2026-09-10"
         }
       ]
     },
     {
       "topic": "주택공급·공공주택",
-      "count": 35,
-      "trend_label": "직전 동일기간보다 4건 증가",
+      "count": 37,
+      "trend_label": "직전 동일기간보다 7건 증가",
       "analyzed_count": 15,
       "summary": {
         "points": [
           {
             "label": "공간·생활권",
-            "text": "역세권 재편·빈집 관리가 8건의 자료에서 공간 변화의 핵심으로 나타났다.",
-            "evidence_count": 8
+            "text": "역세권 재편·빈집 관리가 9건의 자료에서 공간 변화의 핵심으로 나타났다.",
+            "evidence_count": 9
           },
           {
             "label": "사업·공급",
-            "text": "사업 추진·공급 확대·계획 수립 흐름이 3건의 자료에서 확인됐다.",
-            "evidence_count": 3
+            "text": "공급 확대·사업 추진·계획 수립 흐름이 2건의 자료에서 확인됐다.",
+            "evidence_count": 2
           },
           {
             "label": "시장·비용",
@@ -409,6 +414,12 @@
         "topic": "주택공급·공공주택"
       },
       "examples": [
+        {
+          "title": "중앙1구역 재개발조합 협력업체(국공유지 관련업무 및 임대주택 매각대금산정업무) 선정 입찰공고",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9JSTRSR3lsRURKZWZqZm9WRHJQeXpoOTFKNjV2V1RJa21SS0tud05STm1sM183WmhCSi1JX0U1TkVlMGd2OWxHT3pYQktxeEc2d1lWV29TbEM2NTlOZlVXQUQ0MF9KRWp2?oc=5",
+          "source": "한국주택경제신문",
+          "date": "2026-09-11"
+        },
         {
           "title": "‘역세권·대단지’ 선호 지속…‘오남역 서희스타힐스 여의재 3단지’ 분양",
           "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8tS3dQVVRzb21TU1gzdll4Tk5rSmVmV0pJTEhDZWJKTHZIZVFJSzFlWEVXQmpaaVJIMURNdFJGbGpoUDNjZktTWE1nbHhqMlRIeGtwYnNXZlFTMGR2Y3h2M1RjbDQ?oc=5",
@@ -426,19 +437,13 @@
           "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9HdlZhYm53NXhYOGh6SFNJNjI1VjdOb3oxU19UWlI4RHprbjFna25EYURKc0xjWGlicl9MWnoyZm14VDFmX2VKalhFclZzLV8wTDlYY2plQzBJWVBMOHVHa2dibw?oc=5",
           "source": "환경포커스",
           "date": "2026-09-10"
-        },
-        {
-          "title": "[분양 포커스] 연산·교대·거제역 트리플 역세권 갖춰",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1YS1dQZFBqUk14RVhKTWpsaUE5dmp1emtWUkc4c3RZdHFCcWZHLUg4bU1sMV9LNzhVNGVqNjFISGFFYzFSQVFZMGhDM1ZvWnpSZ0Rqd05B?oc=5",
-          "source": "중앙일보",
-          "date": "2026-09-10"
         }
       ]
     },
     {
       "topic": "지역소멸·균형발전",
-      "count": 18,
-      "trend_label": "직전 동일기간보다 16건 감소",
+      "count": 17,
+      "trend_label": "직전 동일기간보다 18건 감소",
       "analyzed_count": 15,
       "summary": {
         "points": [
@@ -449,7 +454,7 @@
           },
           {
             "label": "정책·제도",
-            "text": "제도 시행·법령 개정·지원 확대 관련 움직임이 3건의 자료에서 반복됐다.",
+            "text": "법령 개정·제도 시행·지원 확대 관련 움직임이 3건의 자료에서 반복됐다.",
             "evidence_count": 3
           }
         ],
@@ -487,8 +492,8 @@
   "monthly": [
     {
       "topic": "재건축·재개발·정비사업",
-      "count": 1439,
-      "trend_label": "직전 동일기간보다 24건 감소",
+      "count": 1375,
+      "trend_label": "직전 동일기간보다 92건 감소",
       "analyzed_count": 15,
       "summary": {
         "points": [
@@ -535,8 +540,8 @@
     },
     {
       "topic": "철도·광역교통·역세권",
-      "count": 1234,
-      "trend_label": "직전 동일기간보다 27건 증가",
+      "count": 1192,
+      "trend_label": "직전 동일기간보다 16건 증가",
       "analyzed_count": 15,
       "summary": {
         "points": [
@@ -568,23 +573,23 @@
           "date": "2026-09-11"
         },
         {
-          "title": "부산 기장군, 기획예산처 장관에 도시철도 조기 착공 지원 요청",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5Ib0U0V1BZM3ZldENBY09zZ282SXZqaTRqMXg1Z2pXdzRlYnZtUUEyNW4ySENoVlRGYnc4cklfMFRlWWhIdndQLWlaOEhmbHh6bnl0SHZyaUZVMXQybG9CbtIBYEFVX3lxTE5Ib0U0V1BZM3ZldENBY09zZ282SXZqaTRqMXg1Z2pXdzRlYnZtUUEyNW4ySENoVlRGYnc4cklfMFRlWWhIdndQLWlaOEhmbHh6bnl0SHZyaUZVMXQybG9Cbg?oc=5",
-          "source": "연합뉴스",
+          "title": "대구시 도시철도 4호선 공론화위원회 출범…15명 전문가 참여, 장우영 위원장 선출",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9XRGJmYVFqWUdoSGlINldZcVg2NzlqNTJYd21rdkc2TlhMSDlReG94Z1RVa2NXaEE1RUowNmNWMnJ2YV85b0FCeEFPTUE0dDNPMW9lWE9DSk1TbTlfNWlWT0ZwYTVmM0J1Z3Br?oc=5",
+          "source": "웹플러스뉴스",
           "date": "2026-09-11"
         },
         {
-          "title": "[대구 24시] 대구도시철도 4호선 공론화위 출범…운영세칙·연구용역 논의",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5TeGgwZ3F3M25iaThZYXhHNElUaFZ3NkhCeEJDWDFQUU9XNVhmbWJpV1RKeksxMDdrVWhUaUNYWmdsVE5aQVIwV2VINU9kcjhHd1BOZ0NpQXNLTW1QUnFYTmFXWFdqUEJyQmxSOGhMdHdHOEnSAXNBVV95cUxOU3hoMGdxdzNuYmk4WWF4RzRJVGhWdzZIQnhCQ1gxUFFPVzVYZm1iaVdUSnpLMTA3a1VoVGlDWFpnbFROWkFSMFdlSDVPZHI4R3dQTmdDaUFzS01tUFJxWE5hV1hXalBCckJsUjhoTHR3RzhJ?oc=5",
-          "source": "시사저널",
+          "title": "부산 기장군, 기획예산처 장관에 도시철도 조기 착공 지원 요청",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5Ib0U0V1BZM3ZldENBY09zZ282SXZqaTRqMXg1Z2pXdzRlYnZtUUEyNW4ySENoVlRGYnc4cklfMFRlWWhIdndQLWlaOEhmbHh6bnl0SHZyaUZVMXQybG9CbtIBYEFVX3lxTE5Ib0U0V1BZM3ZldENBY09zZ282SXZqaTRqMXg1Z2pXdzRlYnZtUUEyNW4ySENoVlRGYnc4cklfMFRlWWhIdndQLWlaOEhmbHh6bnl0SHZyaUZVMXQybG9Cbg?oc=5",
+          "source": "연합뉴스",
           "date": "2026-09-11"
         }
       ]
     },
     {
       "topic": "국토계획·용도지역·규제",
-      "count": 1017,
-      "trend_label": "직전 동일기간보다 135건 증가",
+      "count": 955,
+      "trend_label": "직전 동일기간보다 57건 증가",
       "analyzed_count": 15,
       "summary": {
         "points": [
@@ -615,16 +620,16 @@
           "date": "2026-09-11"
         },
         {
-          "title": "영천도시계획용도지역일부 변경 결정 (중앙도시계획위원회 심의안건)",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9qYmV3M2NIaE40dmJuSzdXby0zdU5XV1lrT3FNLVE0N1ZKbEt2Nk1zUGVxWTVtaTZmcEdiXzB2SERKVGJTVHowSmk0bER3bWVyVzRBeklXZi1OTzVlb05xN2lmNUg?oc=5",
+          "title": "서울도시계획용도지역일부변경결정 (중앙도시 계획위원회 심의안건)",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5iS29Cem9vUFFzeHRjdXVHbGdGM3VPM2FTcXpDZ2ZGcm5Ub3VRYzdrYW5YSGpPekxVVmNCdFZtTlQ4WFo1N0RXQ1dicnpRdmIzVnBxNlM2anMwN0cxOU1qcFZVWmM?oc=5",
           "source": "국토연구원 전자도서관",
-          "date": "2026-09-10"
+          "date": "2026-09-11"
         },
         {
-          "title": "서울도시계획 을지로1가구역(5,6지구)사업계획 (건축계획 일부 변경결정) (중앙도시 계획위원회 심의안건)",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9SY1lRVmp6ckxYOHNZNFVWTERxSWhYRUI5MVFMZFpYRWRJSHhnT0draG4yRkxFRFdyNThLOGV4YWhFU0VwamFjdHhjWUxONjZVYTNlYkJHZlFSYm01Qzg4VUlTQy0?oc=5",
+          "title": "광주도시계획용도지역 일부 변경결정 (중앙도시 계획위원회 심의안건)",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBhZ19wSGVrYlVGQXMtZm9GMGRzOEl0elI1eTBDX1lhRDFxbjRHaTlJajZranloOXM5eUp3bzNEQmRtbzUtczFDSWJHU0ZvdDAxcVdPRFFuTlYtLW10dkFEM2ZoSEU?oc=5",
           "source": "국토연구원 전자도서관",
-          "date": "2026-09-10"
+          "date": "2026-09-11"
         },
         {
           "title": "금촌도시계획용도지역일부변경결정 (중앙도시 계획위원회 심의안건)",
@@ -636,8 +641,8 @@
     },
     {
       "topic": "도시재생·빈집·원도심",
-      "count": 923,
-      "trend_label": "직전 동일기간보다 3건 감소",
+      "count": 898,
+      "trend_label": "직전 동일기간보다 25건 감소",
       "analyzed_count": 15,
       "summary": {
         "points": [
@@ -679,8 +684,8 @@
     },
     {
       "topic": "상권·골목경제·생활권",
-      "count": 564,
-      "trend_label": "직전 동일기간보다 11건 감소",
+      "count": 547,
+      "trend_label": "직전 동일기간보다 33건 감소",
       "analyzed_count": 15,
       "summary": {
         "points": [
@@ -727,8 +732,8 @@
     },
     {
       "topic": "토지·부동산시장",
-      "count": 242,
-      "trend_label": "직전 동일기간보다 86건 증가",
+      "count": 231,
+      "trend_label": "직전 동일기간보다 69건 증가",
       "analyzed_count": 15,
       "summary": {
         "points": [
@@ -739,12 +744,12 @@
           },
           {
             "label": "사업·공급",
-            "text": "정비 추진·사업 추진·계획 수립 흐름이 8건의 자료에서 확인됐다.",
-            "evidence_count": 8
+            "text": "사업 추진·정비 추진·공급 확대 흐름이 6건의 자료에서 확인됐다.",
+            "evidence_count": 6
           },
           {
             "label": "시장·비용",
-            "text": "사업성·지가 변화 문제가 4건의 자료에서 주요 관심사로 나타났다.",
+            "text": "지가 변화·사업성 문제가 4건의 자료에서 주요 관심사로 나타났다.",
             "evidence_count": 4
           }
         ],
@@ -780,25 +785,25 @@
     },
     {
       "topic": "주택공급·공공주택",
-      "count": 220,
-      "trend_label": "직전 동일기간보다 18건 증가",
+      "count": 191,
+      "trend_label": "직전 동일기간보다 33건 감소",
       "analyzed_count": 15,
       "summary": {
         "points": [
-          {
-            "label": "공간·생활권",
-            "text": "역세권 재편·산업입지 변화가 10건의 자료에서 공간 변화의 핵심으로 나타났다.",
-            "evidence_count": 10
-          },
           {
             "label": "정책·제도",
             "text": "구역·사업 지정·규제 완화 관련 움직임이 9건의 자료에서 반복됐다.",
             "evidence_count": 9
           },
           {
+            "label": "공간·생활권",
+            "text": "역세권 재편·산업입지 변화가 9건의 자료에서 공간 변화의 핵심으로 나타났다.",
+            "evidence_count": 9
+          },
+          {
             "label": "사업·공급",
-            "text": "공급 확대·공간·시설 조성·사업 추진 흐름이 7건의 자료에서 확인됐다.",
-            "evidence_count": 7
+            "text": "공간·시설 조성·공급 확대·사업 추진 흐름이 6건의 자료에서 확인됐다.",
+            "evidence_count": 6
           }
         ],
         "note": "",
@@ -834,7 +839,7 @@
     {
       "topic": "스마트시티·AI·디지털전환",
       "count": 139,
-      "trend_label": "직전 동일기간보다 100건 증가",
+      "trend_label": "직전 동일기간보다 103건 증가",
       "analyzed_count": 15,
       "summary": {
         "points": [],
@@ -870,8 +875,8 @@
     },
     {
       "topic": "지역소멸·균형발전",
-      "count": 96,
-      "trend_label": "직전 동일기간보다 23건 증가",
+      "count": 93,
+      "trend_label": "직전 동일기간보다 18건 증가",
       "analyzed_count": 15,
       "summary": {
         "points": [
@@ -882,7 +887,7 @@
           },
           {
             "label": "정책·제도",
-            "text": "제도 시행·법령 개정·지원 확대 관련 움직임이 3건의 자료에서 반복됐다.",
+            "text": "법령 개정·제도 시행·지원 확대 관련 움직임이 3건의 자료에서 반복됐다.",
             "evidence_count": 3
           }
         ],
@@ -918,15 +923,15 @@
     },
     {
       "topic": "컴팩트시티·미래도시",
-      "count": 81,
-      "trend_label": "직전 동일기간보다 334건 감소",
+      "count": 80,
+      "trend_label": "직전 동일기간보다 275건 감소",
       "analyzed_count": 15,
       "summary": {
         "points": [
           {
             "label": "공간·생활권",
-            "text": "철도축 변화·교통체계 변화가 3건의 자료에서 공간 변화의 핵심으로 나타났다.",
-            "evidence_count": 3
+            "text": "교통체계 변화·철도축 변화가 2건의 자료에서 공간 변화의 핵심으로 나타났다.",
+            "evidence_count": 2
           }
         ],
         "note": "",
@@ -946,15 +951,15 @@
           "date": "2026-09-10"
         },
         {
-          "title": "UAM 시범사업지 서울로 낙점…관광 응급수송 등 지역 맞춤형 실증",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5GLUtlYzFONnlxb0V2djNJNU5oUVZlSWQ3eWdhemtMNWd2bVZha1Z5dlNyMWZKTURjbklQbHJsck9NTmlHcFQ1WUZ6dlhQZw?oc=5",
-          "source": "전자신문",
+          "title": "전북자치도, 오송 찾아 새만금 하이퍼튜브 선행기술 현장 점검",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5MSDh2R3FxU1FTYWhtcDhGR1h0ZGhQYl9XQkZILXdaRmlkcS14U29Bb0ZNOWZuVTRwbG5sY2taYVBRRUpfd3p6T1VqWGJvemx2ZkowYUVTXzVINHhneEI1Z28yQ0FkTnRyNFE?oc=5",
+          "source": "투데이안",
           "date": "2026-09-10"
         },
         {
-          "title": "李지사, 오송 하이퍼튜브 선행기술 벤치마킹",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1oS2YxN2Fzc2dubG92d2FsWmtNLWdBZXlFRFVyMXRNeW9ESlBwY3c0UFY0bmpTQ0ZSc0JJM0gwRnlPOXg4bjREUkVtWlp4VktGeXNPS2I2SmJqdjlDZTJHM3RzMXNvMmdhTFFN0gFrQVVfeXFMTWhLZjE3YXNzZ25sb3Z3YWxaa00tZ0FleUVEVXIxdE15b0RKUHBjdzRQVjRualNDRlJzQkkzSDBGeU85eDhuNERSRW1aWnhWS0Z5c09LYjZKYmp2OUNlMkczdHMxc28yZ2FMUU0?oc=5",
-          "source": "전북중앙",
+          "title": "UAM 시범사업지 서울로 낙점…관광 응급수송 등 지역 맞춤형 실증",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5GLUtlYzFONnlxb0V2djNJNU5oUVZlSWQ3eWdhemtMNWd2bVZha1Z5dlNyMWZKTURjbklQbHJsck9NTmlHcFQ1WUZ6dlhQZw?oc=5",
+          "source": "전자신문",
           "date": "2026-09-10"
         }
       ]
@@ -963,7 +968,7 @@
   "yearly": [
     {
       "topic": "재건축·재개발·정비사업",
-      "count": 4773,
+      "count": 4783,
       "trend_label": "최근 1년 누적",
       "analyzed_count": 15,
       "summary": {
@@ -1011,7 +1016,7 @@
     },
     {
       "topic": "철도·광역교통·역세권",
-      "count": 3240,
+      "count": 3253,
       "trend_label": "최근 1년 누적",
       "analyzed_count": 15,
       "summary": {
@@ -1022,13 +1027,13 @@
             "evidence_count": 15
           },
           {
-            "label": "사업·공급",
-            "text": "사업 착공·계획 수립 흐름이 3건의 자료에서 확인됐다.",
-            "evidence_count": 3
-          },
-          {
             "label": "정책·제도",
             "text": "지원 확대 관련 움직임이 2건의 자료에서 반복됐다.",
+            "evidence_count": 2
+          },
+          {
+            "label": "사업·공급",
+            "text": "계획 수립·사업 착공 흐름이 2건의 자료에서 확인됐다.",
             "evidence_count": 2
           }
         ],
@@ -1064,7 +1069,7 @@
     },
     {
       "topic": "국토계획·용도지역·규제",
-      "count": 2603,
+      "count": 2608,
       "trend_label": "최근 1년 누적",
       "analyzed_count": 15,
       "summary": {
@@ -1112,7 +1117,7 @@
     },
     {
       "topic": "도시재생·빈집·원도심",
-      "count": 2470,
+      "count": 2476,
       "trend_label": "최근 1년 누적",
       "analyzed_count": 15,
       "summary": {
@@ -1155,7 +1160,7 @@
     },
     {
       "topic": "상권·골목경제·생활권",
-      "count": 1472,
+      "count": 1476,
       "trend_label": "최근 1년 누적",
       "analyzed_count": 15,
       "summary": {
@@ -1203,7 +1208,7 @@
     },
     {
       "topic": "주택공급·공공주택",
-      "count": 710,
+      "count": 712,
       "trend_label": "최근 1년 누적",
       "analyzed_count": 15,
       "summary": {
@@ -1256,25 +1261,25 @@
     },
     {
       "topic": "토지·부동산시장",
-      "count": 614,
+      "count": 617,
       "trend_label": "최근 1년 누적",
       "analyzed_count": 15,
       "summary": {
         "points": [
           {
             "label": "정책·제도",
-            "text": "지원 확대·구역·사업 지정·관리 강화 관련 움직임이 7건의 자료에서 반복됐다.",
-            "evidence_count": 7
-          },
-          {
-            "label": "사업·공급",
-            "text": "사업 추진·정비 추진·계획 수립 흐름이 5건의 자료에서 확인됐다.",
-            "evidence_count": 5
+            "text": "지원 확대·구역·사업 지정·관리 강화 관련 움직임이 6건의 자료에서 반복됐다.",
+            "evidence_count": 6
           },
           {
             "label": "시장·비용",
-            "text": "지가 변화·가격 변동·거래 변화 문제가 5건의 자료에서 주요 관심사로 나타났다.",
-            "evidence_count": 5
+            "text": "지가 변화·가격 변동·거래 변화 문제가 6건의 자료에서 주요 관심사로 나타났다.",
+            "evidence_count": 6
+          },
+          {
+            "label": "공간·생활권",
+            "text": "역세권 재편가 4건의 자료에서 공간 변화의 핵심으로 나타났다.",
+            "evidence_count": 4
           }
         ],
         "note": "",
@@ -1309,15 +1314,15 @@
     },
     {
       "topic": "컴팩트시티·미래도시",
-      "count": 601,
+      "count": 602,
       "trend_label": "최근 1년 누적",
       "analyzed_count": 15,
       "summary": {
         "points": [
           {
             "label": "공간·생활권",
-            "text": "철도축 변화·교통체계 변화가 3건의 자료에서 공간 변화의 핵심으로 나타났다.",
-            "evidence_count": 3
+            "text": "교통체계 변화·철도축 변화가 2건의 자료에서 공간 변화의 핵심으로 나타났다.",
+            "evidence_count": 2
           }
         ],
         "note": "",
@@ -1337,15 +1342,15 @@
           "date": "2026-09-10"
         },
         {
-          "title": "UAM 시범사업지 서울로 낙점…관광 응급수송 등 지역 맞춤형 실증",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5GLUtlYzFONnlxb0V2djNJNU5oUVZlSWQ3eWdhemtMNWd2bVZha1Z5dlNyMWZKTURjbklQbHJsck9NTmlHcFQ1WUZ6dlhQZw?oc=5",
-          "source": "전자신문",
+          "title": "전북자치도, 오송 찾아 새만금 하이퍼튜브 선행기술 현장 점검",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5MSDh2R3FxU1FTYWhtcDhGR1h0ZGhQYl9XQkZILXdaRmlkcS14U29Bb0ZNOWZuVTRwbG5sY2taYVBRRUpfd3p6T1VqWGJvemx2ZkowYUVTXzVINHhneEI1Z28yQ0FkTnRyNFE?oc=5",
+          "source": "투데이안",
           "date": "2026-09-10"
         },
         {
-          "title": "李지사, 오송 하이퍼튜브 선행기술 벤치마킹",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1oS2YxN2Fzc2dubG92d2FsWmtNLWdBZXlFRFVyMXRNeW9ESlBwY3c0UFY0bmpTQ0ZSc0JJM0gwRnlPOXg4bjREUkVtWlp4VktGeXNPS2I2SmJqdjlDZTJHM3RzMXNvMmdhTFFN0gFrQVVfeXFMTWhLZjE3YXNzZ25sb3Z3YWxaa00tZ0FleUVEVXIxdE15b0RKUHBjdzRQVjRualNDRlJzQkkzSDBGeU85eDhuNERSRW1aWnhWS0Z5c09LYjZKYmp2OUNlMkczdHMxc28yZ2FMUU0?oc=5",
-          "source": "전북중앙",
+          "title": "UAM 시범사업지 서울로 낙점…관광 응급수송 등 지역 맞춤형 실증",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5GLUtlYzFONnlxb0V2djNJNU5oUVZlSWQ3eWdhemtMNWd2bVZha1Z5dlNyMWZKTURjbklQbHJsck9NTmlHcFQ1WUZ6dlhQZw?oc=5",
+          "source": "전자신문",
           "date": "2026-09-10"
         }
       ]
@@ -1417,7 +1422,7 @@
           },
           {
             "label": "정책·제도",
-            "text": "제도 시행·법령 개정·지원 확대 관련 움직임이 3건의 자료에서 반복됐다.",
+            "text": "법령 개정·제도 시행·지원 확대 관련 움직임이 3건의 자료에서 반복됐다.",
             "evidence_count": 3
           }
         ],
