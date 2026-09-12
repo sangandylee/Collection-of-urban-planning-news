@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-09-12 12:04 KST",
-  "run_started_at": "2026-09-12T12:04:19.894597+09:00",
+  "updated_at": "2026-09-12 18:40 KST",
+  "run_started_at": "2026-09-12T18:40:56.700580+09:00",
   "coverage": {
-    "items": 17650,
+    "items": 17662,
     "oldest": "2025-09-13",
     "newest": "2026-09-12",
     "days_covered": 365,
@@ -12,48 +12,48 @@
     "정책": 0,
     "법령": 0,
     "연구": 0,
-    "기사": 1
+    "기사": 5
   },
   "period_counts": {
     "weekly": {
       "정책": 43,
       "법령": 4,
       "연구": 97,
-      "기사": 1084
+      "기사": 1096
     },
     "monthly": {
       "정책": 169,
       "법령": 12,
       "연구": 292,
-      "기사": 4935
+      "기사": 4947
     },
     "yearly": {
       "정책": 1029,
       "법령": 758,
       "연구": 1246,
-      "기사": 14617
+      "기사": 14629
     }
   },
   "source_status": {
-    "국토교통부": "18건 수집",
+    "국토교통부": "14건 수집",
     "서울특별시": "21건 수집",
-    "경기도": "13건 수집",
-    "법령·입법": "29건 수집",
-    "연구기관": "80건 수집",
+    "경기도": "12건 수집",
+    "법령·입법": "27건 수집",
+    "연구기관": "81건 수집",
     "지역연구원": "22건 수집",
-    "언론-도시계획": "25건 수집",
-    "언론-지구단위": "96건 수집",
+    "언론-도시계획": "23건 수집",
+    "언론-지구단위": "97건 수집",
     "언론-정비사업": "95건 수집",
-    "언론-주택공급": "19건 수집",
-    "언론-지역정책": "17건 수집",
+    "언론-주택공급": "20건 수집",
+    "언론-지역정책": "16건 수집",
     "언론-교통공간": "99건 수집",
     "언론-도시재생": "100건 수집",
     "언론-공업지역산업단지": "89건 수집",
-    "언론-스마트기후": "66건 수집",
-    "분야:연구": "102건 수집",
-    "분야:정책": "52건 수집",
-    "분야:법령": "29건 수집",
-    "분야:기사": "606건 수집"
+    "언론-스마트기후": "67건 수집",
+    "분야:정책": "47건 수집",
+    "분야:연구": "103건 수집",
+    "분야:기사": "606건 수집",
+    "분야:법령": "27건 수집"
   },
   "backfill_status": {},
   "municipal_notices": [
@@ -147,13 +147,13 @@
     }
   ],
   "municipal_status": {
-    "화성": "화성시 고시공고 3건",
     "수원": "수원 기본·도시관리계획 0건, 검색보완 0건 / 수원 지구단위계획 0건, 검색보완 0건",
     "고양": "고양시 고시·도시계획 선별 0건, 검색보완 0건",
-    "과천": "과천시 고시공고 0건, 검색보완 0건",
+    "화성": "화성시 고시공고 3건",
     "서울": "서울도시공간포털 결정고시 11건",
-    "성남": "성남 지구단위계획 고시·공고 SSLError, 검색보완 0건",
-    "광명": "광명시 고시공고 0건, 검색보완 0건"
+    "과천": "과천시 고시공고 0건, 검색보완 0건",
+    "광명": "광명시 고시공고 0건, 검색보완 0건",
+    "성남": "성남 지구단위계획 고시·공고 SSLError, 검색보완 0건"
   },
   "seoul_housing_news": [],
   "seoul_housing_status": "공식 목록 0건, 검색보완 0건",
@@ -162,7 +162,7 @@
     {
       "id": "d13d81f18d5048a5",
       "title": "금천구 시흥3동 972번지 모아타운 통합심의 통과…모아주택 3곳 총586세대 공급 > 보도자료",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5NeF9rMnZlSEN6cXRfY0lfSFE2ZDQtOUJuQWZhLVdkU3FucEFzd0E2VGFUZzJQTENkdUpIOERDaVlDU0IxVXRXMno4ZWxwYS13N3ZyckF2X1pGT19IN0VTN1V3SWxuODg?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE45dlVDQzJ1SWI1cnJlZ3J3eWRFU2g3cExMMW51YnJCSlFpNjNrUVBkQk1SUnJqMFFILUtHRUprNXZtTGhVUGZBOG9HWTBDNlNrYTRxVFhfUG5JM0I1QkJBSWh1cW52aDRWV044NjRycVVhTDBuU2ZCZGJ3?oc=5",
       "source": "서울",
       "category": "정비",
       "date": "2026-09-11",
@@ -183,19 +183,46 @@
     }
   ],
   "maintenance_status": {
-    "인천": "0건",
-    "수원": "0건",
     "남양주": "0건",
-    "고양": "0건",
+    "수원": "0건",
     "화성": "0건",
-    "광명": "0건",
-    "평택": "0건",
-    "광주": "0건",
+    "인천": "0건",
+    "고양": "0건",
     "성남": "0건",
+    "평택": "0건",
     "과천": "0건",
-    "서울": "2건"
+    "광명": "0건",
+    "서울": "2건",
+    "광주": "0건"
   },
   "items": [
+    {
+      "id": "859a69dd88d71e8f",
+      "title": "[김덕기 박사의 한국·싱가포르 도시계획 법제 비교 제4편.] 계획을 다시 살피는 일 ― 재검토는 있는데 개정은 없다",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1HWl9UcDdGYmVRT3FwX2t3d3RBdFVvX2YwdnVEeTdEbzREZmdLZE1VbXFEOXpPV3pBb0NvY0pVVEFON1gyR2FadUg3OWFBRnFEamx2N19nWm0xSHNmZURsNmx5amNoclNDMkFENWdRSzjSAXBBVV95cUxNR1pfVHA3RmJlUU9xcF9rd3d0QXRVb19mMHZ1RHk3RG80RGZnS2RNVW1xRDl6T1d6QW9Db2NKVVRBTjdYMkdhWnVINzlhQUZxRGpsdjdfZ1ptMUhzZmVEbDZseWpjaHJTQzJBRDVnUUs4?oc=5",
+      "source": "한국도시환경헤럴드",
+      "category": "기사",
+      "date": "2026-09-12",
+      "description": "[김덕기 박사의 한국·싱가포르 도시계획 법제 비교 제4편.] 계획을 다시 살피는 일 ― 재검토는 있는데 개정은 없다 한국도시환경헤럴드"
+    },
+    {
+      "id": "3851343da630408e",
+      "title": "돌곶이·상월곡역세권, 5주 만에 동의율 75% 돌파…2617세대 신탁 재개발 속도전",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9admNHTjNuVjNUMHdhRzlJRjZXM2E5R19odTg1NFg1R0wxYlMyd0dBRU9hSVZua1V1cm4xMzZwNXlIamNJOTNieDhwRzRTUjZNa2pVeG1CVDVkT0ZkZEp0bkl6SlNjZjRq?oc=5",
+      "source": "디벨로퍼뉴스",
+      "category": "기사",
+      "date": "2026-09-12",
+      "description": "돌곶이·상월곡역세권, 5주 만에 동의율 75% 돌파…2617세대 신탁 재개발 속도전 디벨로퍼뉴스"
+    },
+    {
+      "id": "16e2d835948d636c",
+      "title": "“UAM 초기 상용화 정책 토론회: UAM 정책 방향 점검과 상용화 이행계획 실태 진단:동아경제신문 & daenews.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFB5amtvclR6RFMzdlhBN0s2Z2tWdmJIV0tYREpvMlkyUkx4dmhQVS1KV3k1UnBxTTY1VVI4OGpXVE1uVjV6UFHSAWJBVV95cUxPM0prSmFCb3YyV2ZJdkR2dGxnX0hCWW5waERWSFowRHRRY0IxTS1YYmluekFFRy1WTWRVTFJ3VHRsTWdkWEF6MmRKbzZZdFB6S041VGxCaEh6aVRIZTVDYVYyQQ?oc=5",
+      "source": "동아경제",
+      "category": "기사",
+      "date": "2026-09-12",
+      "description": "“UAM 초기 상용화 정책 토론회: UAM 정책 방향 점검과 상용화 이행계획 실태 진단:동아경제신문 & daenews.co.kr 동아경제"
+    },
     {
       "id": "859bebf3ce80e40e",
       "title": "안산 18개 취락 지구단위계획 재정비… 토지 활용 폭 넓어진다",
@@ -204,6 +231,15 @@
       "category": "기사",
       "date": "2026-09-12",
       "description": "안산 18개 취락 지구단위계획 재정비… 토지 활용 폭 넓어진다 경인일보"
+    },
+    {
+      "id": "4ac31d413622b483",
+      "title": "제천시, 481억 쏟아붓고 골목은 쓰레기장, '의림동 도시재생' 논란",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0tNE1GRGt3RXMyaDVBdHdlWmpENmVlN193cFRPY09GQmF5aXZ1Qy1MUUVkN0p5bzFmQ0lZNkktM1JKNzY3d0ZSMzlUcmZUeXZOVUFad3Q2NWRpSjhWTDIxalc0aHRNLTA?oc=5",
+      "source": "dhns.co.kr",
+      "category": "기사",
+      "date": "2026-09-12",
+      "description": "제천시, 481억 쏟아붓고 골목은 쓰레기장, '의림동 도시재생' 논란 dhns.co.kr"
     },
     {
       "id": "ea66ae614088a354",
@@ -287,6 +323,15 @@
       "description": "중앙1구역 재개발조합 협력업체(토목 분야) 선정 입찰공고 한국주택경제신문"
     },
     {
+      "id": "f2b975d877714d03",
+      "title": "연산11구역 재개발조합 시공자 선정 입찰공고(2차)",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1wS0JYSktqNTZlSFRuQXZnYVdvLU9HX3NDbjFsNzJmbDczY3dvUV95N05sbGx3bURoQk55MldBeFNQaUhnYTRwRDdpY2ZMaGl1UHhHYjhpLWVsN1N6akdLaWktNGl0MFpx?oc=5",
+      "source": "한국주택경제신문",
+      "category": "기사",
+      "date": "2026-09-11",
+      "description": "연산11구역 재개발조합 시공자 선정 입찰공고(2차) 한국주택경제신문"
+    },
+    {
       "id": "6ee8ea38d102353b",
       "title": "영동대로에 1.1만㎡ ‘도심 숲’",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE56R040ZlM5TjNYQTBSN214LW9pSzNHbVVVdlFFNC1mbXVicTFRN1BkTFgwMk95enlDS01DOEh4UmY1bDMtNFRwQklXazNrMGJDQUZwRnotdk0wSXd6Rjk0eFNKUnczZ01RS3IyaNIBcEFVX3lxTFBqWXJEZlQwS2J4UDhLRUt1SnhGUU1tVnE1bVFPNlF4TDNwQk8zMFRaSlVSZXRxRml5OUVWb01xaF9QNDJhdUtiR052NlptNTlkNWFiamV4MVJjR1NCdms5TUdiZzFBS2N1NXk0U00tVmQ?oc=5",
@@ -330,6 +375,15 @@
       "category": "기사",
       "date": "2026-09-11",
       "description": "구청장들이 재건축에 목매는 진짜 이유[안재광의 천만의 동네] 한경매거진&북"
+    },
+    {
+      "id": "3f441e0bf06d8114",
+      "title": "종로구의회, ‘종로형 용적률 이양제’ 도입 방안 연구 착수",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE40YktfQ2c1SGZ0UGtRNWhCa2lWTGl4MTBISWtxMW9tMWhkNDY3VV9rZlY5MFRfUDRGOGhHNmZxMUFqTk1TOTY4NmIxd1pQTWQ1QUU3WnFMRENJMW5qQktuUmpCWkFqa3lSVExJ?oc=5",
+      "source": "한강타임즈",
+      "category": "기사",
+      "date": "2026-09-11",
+      "description": "종로구의회, ‘종로형 용적률 이양제’ 도입 방안 연구 착수 한강타임즈"
     },
     {
       "id": "d212a9c577c7ba80",
@@ -573,6 +627,15 @@
       "category": "기사",
       "date": "2026-09-11",
       "description": "부산도시철도 건강기부계단, 10년간 5억원 취약계층 후원 연합뉴스"
+    },
+    {
+      "id": "ae5c733aba4d7286",
+      "title": "원주 국가유산 야행에 2만5천명 방문…원도심 역사문화 체험",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5NTWVZMGVSdHh0NmJUa2JLd3hhNjg2cW9CSTFRTVFjc1pFei1aTG16TmM0SXRSM0NLRWU3UmQ2dXdyYjU5cFZ4M3QzRmo0WXRBbkd0bWNYSjgtQmk1akhTRdIBYEFVX3lxTE5NTWVZMGVSdHh0NmJUa2JLd3hhNjg2cW9CSTFRTVFjc1pFei1aTG16TmM0SXRSM0NLRWU3UmQ2dXdyYjU5cFZ4M3QzRmo0WXRBbkd0bWNYSjgtQmk1akhTRQ?oc=5",
+      "source": "연합뉴스",
+      "category": "기사",
+      "date": "2026-09-11",
+      "description": "원주 국가유산 야행에 2만5천명 방문…원도심 역사문화 체험 연합뉴스"
     },
     {
       "id": "df9ca3cd98fda6ac",
@@ -962,6 +1025,15 @@
       "description": "국토건설종합계획심의회 소위원회속기록(NO.1~NO.3) 국토연구원 전자도서관"
     },
     {
+      "id": "5269162d1af1c14e",
+      "title": "원문 뷰어",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPazVoRzBvT3RkRk1SeWRWc2JFNEFyWWQyR3FBb3Zzcl9ZVEJFQTBFNFhlVGt2bVg4QWo4SjZvTmZKRmpIenMzMzg3NUhyU2Y5WkwwdE9SN1lqRHp1NlJfeGlOOHBDS1h6R2F5SzMyaXZDZ05ocGU0UDBzSlFvX00tS1NFN1FOdjBMblcwRWRCTXVOMlFUa042LUl0c01zS0Y5b3JRaldIVV8tVGZjQ0VwYUxaNkk4WnU1LVlWNXNnRDMxUlBDZmxWbFJWaHJPTE1Eb19TVFpVdkw?oc=5",
+      "source": "국토연구원 전자도서관",
+      "category": "연구",
+      "date": "2026-09-11",
+      "description": "원문 뷰어 국토연구원 전자도서관"
+    },
+    {
       "id": "7eaaddff6b2bebd0",
       "title": "- 국토교통부",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1JNjBHcWRZSk5XejZrVGdHdVlFeWtpbmQ0T05KYWM3aTB2S3RfSUVDS25fVjRMN2Itazg0VXV0XzdHNzRaTFA4OU1nNE1WMEN4QnpWYkFiMzRsUlEwRmhjY08zdmp4V0ZM?oc=5",
@@ -1077,6 +1149,15 @@
       "category": "법령",
       "date": "2026-09-11",
       "description": "지방자치분권 및 지역균형발전에 관한 특별법 시행령 일부개정령안 입법예고 opinion.lawmaking.go.kr"
+    },
+    {
+      "id": "83013e02c2556fa1",
+      "title": "광명시, 지속 가능한 도시재생 방향 모색",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBiWG9FVzJQTGVSRFhMMDVVbXpqY0dfYjhzaVpMdlUxQW5vMUYwRndQTVlEOXlvbmcwS3cyT0JBcEliY0ViTnZiZE1WblRDVGkwbHRFN1ZKQXBDck9MOW9GTWRranlhaFN4TWc?oc=5",
+      "source": "newspeak.kr",
+      "category": "기사",
+      "date": "2026-09-11",
+      "description": "광명시, 지속 가능한 도시재생 방향 모색 newspeak.kr"
     },
     {
       "id": "cfdc1104d08e7507",
@@ -1520,6 +1601,15 @@
       "description": "전준범 아산시의원, 동암지구 지구단위계획 장기 방치 안 돼! 충남문화신문"
     },
     {
+      "id": "c801b4fbe3d35403",
+      "title": "서울 GBC 설계변경 통과… 영동대로 2.4만㎡ ‘도심 녹지’ 조성",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA0MG5RNnFmNFBiLW1ZajlpOEI3bDNYbG5kbzFfU283S1lNalVsdWhvYjdOV1BOUF9SZlZFd3BnQTZQcy1lVUJmUl84eU9tcVRBa2pvN05NZElrRHppbWFiMmp0YmVBUEN0dEE?oc=5",
+      "source": "천지일보",
+      "category": "기사",
+      "date": "2026-09-10",
+      "description": "서울 GBC 설계변경 통과… 영동대로 2.4만㎡ ‘도심 녹지’ 조성 천지일보"
+    },
+    {
       "id": "e65dd62645ad78da",
       "title": "[논설위원 칼럼] 천안 원도심, ‘외국인 거리’보다 ‘천안의 거리’가 먼저다 > 뉴스",
       "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE93V1NCcFFBa2xzQXluT3dZTEo2T2EzdGtoNUEtSTZhSnNianNWTDJFRTktdW15aW9ZaFJjVE42RHBRQjg?oc=5",
@@ -1905,96 +1995,6 @@
       "category": "정책",
       "date": "2026-09-10",
       "description": "(석간) 서울시-기업, 기후위기 대응 위한‘제로서울기업실천단’2기 출범 > 보도자료 | 서울특별시 seoul.go.kr"
-    },
-    {
-      "id": "8585c8b0ff87b83b",
-      "title": "amp;#40;엠바고10시&#41;&#40;석간&#41; 제15차 도시건축공동위원회 개최결과 > 보도자료",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE4ySFkyOHl1aTkwcTJzbXZCdDBUSUU5TUNZcGdUVVpTRWtQd3ZXdG85MEg5anVqSm92OXladXZaN3NJNUVrOEJ3N0hKRlMtdU9jWjhldEVYMWJhb0ZVdHpWUlp3bHdMQUtSXzZ1cXV1WjB4enVFVzlBdUxR?oc=5",
-      "source": "서울특별시",
-      "category": "정책",
-      "date": "2026-09-10",
-      "description": "amp;#40;엠바고10시)(석간) 제15차 도시건축공동위원회 개최결과 > 보도자료 서울특별시"
-    },
-    {
-      "id": "8353bce3075c9410",
-      "title": "(석간) 도심 속 K-BBQ 미식 축제! ‘서울 바비큐 페스티벌’ 10월 난지캠핑장서 개최 > 보도자료",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB3T1cwY0pZQnVDUWNSbFU1S2FVWU5MWnpSY1NOLUNRQXN3Z2NSQVRYYWVUc09VWTdERnI5ZXZpVmI5Zl95d1lCZERlREtVSmhtWVFab21tWkljQzAwVXktRUpfQnBPOTg?oc=5",
-      "source": "서울특별시",
-      "category": "정책",
-      "date": "2026-09-10",
-      "description": "(석간) 도심 속 K-BBQ 미식 축제! ‘서울 바비큐 페스티벌’ 10월 난지캠핑장서 개최 > 보도자료 | 서울특별시 서울특별시"
-    },
-    {
-      "id": "75a353ba5a7bbb11",
-      "title": "국토부, 도시재생 신규사업 선정 공모…4년간 150억 지원",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1qbEZIRkJ3QUV5RHRZajBydDAtYjYzdUlYeGNxUC1OX0NITE9pdkpRMXMxMHloLVRuSGdlNXVWUEtFVVdjeUhialJmYUZiRldYYkHSAVNBVV95cUxNaElvTllWVW81OTl0Q2RNVjdhZFVyc0NydWtOM0ZzaWNwSkNZTURoYWpRTlc3RHo5ekJNajRha0luRTdEYVlHMDlOV1hXQjB3ZEhacw?oc=5",
-      "source": "서울경제",
-      "category": "기사",
-      "date": "2026-09-10",
-      "description": "국토부, 도시재생 신규사업 선정 공모…4년간 150억 지원 서울경제"
-    },
-    {
-      "id": "214dd5d2434c1a75",
-      "title": "네오배터리머티리얼즈, 국산 소재 활용해 드론용 배터리 밀도 높인다",
-      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBFLUJ4QTVKaDZMWENvMl9VeF9wb2Njb3NCQTIxeER3c2tNYjVKZ25tZTB0a3BNTjlCOFpjc1drUWprZk5K?oc=5",
-      "source": "산업일보",
-      "category": "기사",
-      "date": "2026-09-10",
-      "description": "네오배터리머티리얼즈, 국산 소재 활용해 드론용 배터리 밀도 높인다 산업일보"
-    },
-    {
-      "id": "871dd24a4d78bc9c",
-      "title": "파주시, 지티엑스-에이(GTX-A) 승하차시설 신설 사전타당성조사 중간보고회 개최",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1VRkQ0UDJ2U2xuOGtEZTM1Wlo5MW5OTXlkN0l2dVpsOTBMc3UwNmRCTFRDaWluR2ZKRGVMaHNlY1d6OTEwUy1laXBQbUpiWVlDU3UxUVhwLVB2aFduajB3MEtOWGN4MVlNYTBqN0trdXc?oc=5",
-      "source": "산경일보",
-      "category": "기사",
-      "date": "2026-09-10",
-      "description": "파주시, 지티엑스-에이(GTX-A) 승하차시설 신설 사전타당성조사 중간보고회 개최 산경일보"
-    },
-    {
-      "id": "c269089e35b3e4c7",
-      "title": "내년 도시재생 신규사업 공모 착수…지역특화·노후주거지에 최대 150억원",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE15WXJpWjlLN3VjNkZnWUJfX3J3andVangxeG1RRjN4WERDamYtZlVEaGUyejJwcE5sbUVXSGdfdjRQVC1RNnVLcGNzYzc5aUMxWVExOW9nS0gyZw?oc=5",
-      "source": "브릿지경제",
-      "category": "기사",
-      "date": "2026-09-10",
-      "description": "내년 도시재생 신규사업 공모 착수…지역특화·노후주거지에 최대 150억원 브릿지경제"
-    },
-    {
-      "id": "bbf7e3255d0c3093",
-      "title": "공공주택특별법 일부개정령안 입법예고",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1PdDdMbEdsT2JrVkRyNlVOVkxTXzF0RW96RGczaVEybnlhNi00SUZRVENnYnB6T2FTd1JOZVpzcjNicmY4WkE5N3l1Vm1ndFFkd2V5OWJ2MzZBQUprOXc?oc=5",
-      "source": "법제처 국민참여입법센터",
-      "category": "법령",
-      "date": "2026-09-10",
-      "description": "공공주택특별법 일부개정령안 입법예고 법제처 국민참여입법센터"
-    },
-    {
-      "id": "1855bc7a706758ca",
-      "title": "공익사업을 위한 토지 등의 취득 및 보상에 관한 법률 시행령 일부개정령안 입법예고",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9BbXVpbFhGR09CNlJrY2szUGJReUNwWEduRmhaQk5XUk53SUQtSnYwbHh4R190S1dCVEsyM0FWcDdVY1lpb2NKOEo5ZmV5NVpfZDd4bFFka2hyR1oyd1E?oc=5",
-      "source": "법제처 국민참여입법센터",
-      "category": "법령",
-      "date": "2026-09-10",
-      "description": "공익사업을 위한 토지 등의 취득 및 보상에 관한 법률 시행령 일부개정령안 입법예고 법제처 국민참여입법센터"
-    },
-    {
-      "id": "c97be2b16cbdc13c",
-      "title": "전준범 의원, “동암지구 지구단위계획 장기 방치 안 돼\"",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1TbWpfOFVaY01hODEwZ1lqaHFjcjFIb192Q1VPNVlNaGxSdU03TXVCR3VtSElreWF0dEN3SkZoeDU2ZDFOS05WOUM5Mmx3aWhhRGlfd1M1TkMxeGMwZ3ZtTUlXZXg5OHZUTjYtbA?oc=5",
-      "source": "백제뉴스",
-      "category": "기사",
-      "date": "2026-09-10",
-      "description": "전준범 의원, “동암지구 지구단위계획 장기 방치 안 돼\" 백제뉴스"
-    },
-    {
-      "id": "e0cc33745bccf772",
-      "title": "제주시 관리 빈집 139동 실태조사…9~11월 정비 대상 발굴",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBhdHEzdEJhSzFOdjR2U2M4V3BsTkFtM3ZWUkNsQjJFVzY0SHp1LXAxaTA1Wm44WGhYWEJlYjllZERKSWQ0aWVEZUw2OGw2WlhXY3VicF9PTXROVnhWUVo1cVVMTW40NGRZNmpCNdIBcEFVX3lxTE1RYUs1eDVqN2tHeGVtUU9UanllazJQMjk4bXJEVW1IcTEyWXdpV3lPRm9LeWlUQ01xdmJMaGk2RXV5ZjZOVmVVZkJnUUVWT0JtajhEc2otVG5ITjNsTW9XbzZYQjA1Uk5RcnBsdEQwS3M?oc=5",
-      "source": "미디어제주",
-      "category": "기사",
-      "date": "2026-09-10",
-      "description": "제주시 관리 빈집 139동 실태조사…9~11월 정비 대상 발굴 미디어제주"
     }
   ]
 }
