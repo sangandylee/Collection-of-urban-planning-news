@@ -1,61 +1,61 @@
 {
-  "updated_at": "2026-09-12 18:40 KST",
+  "updated_at": "2026-09-13 08:05 KST",
   "monthly": [
     {
       "word": "정비사업(재건축·재개발)",
-      "count": 1307
+      "count": 1279
     },
     {
       "word": "원도심",
-      "count": 460
-    },
-    {
-      "word": "필지",
-      "count": 386
+      "count": 447
     },
     {
       "word": "역세권",
-      "count": 384
+      "count": 379
+    },
+    {
+      "word": "필지",
+      "count": 361
     },
     {
       "word": "도시철도",
-      "count": 338
+      "count": 330
     },
     {
       "word": "도시재생",
-      "count": 294
+      "count": 289
     },
     {
       "word": "골목상권",
-      "count": 267
+      "count": 262
     },
     {
       "word": "GTX",
-      "count": 257
+      "count": 249
     },
     {
       "word": "조합",
-      "count": 232
+      "count": 229
     },
     {
       "word": "용적률",
-      "count": 224
+      "count": 220
     },
     {
       "word": "빈집",
-      "count": 168
+      "count": 164
     },
     {
       "word": "스마트시티",
-      "count": 124
+      "count": 125
     },
     {
       "word": "광역교통",
-      "count": 97
+      "count": 94
     },
     {
       "word": "노후계획도시",
-      "count": 84
+      "count": 83
     },
     {
       "word": "개발밀도",
@@ -71,11 +71,11 @@
     },
     {
       "word": "균형발전",
-      "count": 64
+      "count": 60
     },
     {
       "word": "주택공급",
-      "count": 58
+      "count": 55
     },
     {
       "word": "복합개발",
@@ -85,19 +85,19 @@
   "quarterly": [
     {
       "word": "정비사업(재건축·재개발)",
-      "count": 3731
+      "count": 3720
     },
     {
       "word": "원도심",
-      "count": 1046
+      "count": 1050
     },
     {
       "word": "도시재생",
-      "count": 1001
+      "count": 1000
     },
     {
       "word": "역세권",
-      "count": 929
+      "count": 932
     },
     {
       "word": "도시철도",
@@ -105,7 +105,7 @@
     },
     {
       "word": "골목상권",
-      "count": 782
+      "count": 783
     },
     {
       "word": "필지",
@@ -117,19 +117,19 @@
     },
     {
       "word": "용적률",
-      "count": 608
+      "count": 607
     },
     {
       "word": "UAM·PAV",
-      "count": 583
+      "count": 584
     },
     {
       "word": "GTX",
-      "count": 569
+      "count": 570
     },
     {
       "word": "빈집",
-      "count": 466
+      "count": 467
     },
     {
       "word": "광역교통",
@@ -145,19 +145,19 @@
     },
     {
       "word": "주택공급",
-      "count": 199
+      "count": 200
     },
     {
       "word": "개발밀도",
-      "count": 198
+      "count": 199
     },
     {
       "word": "스마트시티",
-      "count": 195
+      "count": 196
     },
     {
       "word": "지구단위계획",
-      "count": 170
+      "count": 171
     },
     {
       "word": "노후계획도시",
@@ -167,11 +167,11 @@
   "yearly": [
     {
       "word": "정비사업(재건축·재개발)",
-      "count": 4563
+      "count": 4568
     },
     {
       "word": "원도심",
-      "count": 1054
+      "count": 1058
     },
     {
       "word": "도시재생",
@@ -179,7 +179,7 @@
     },
     {
       "word": "역세권",
-      "count": 959
+      "count": 963
     },
     {
       "word": "도시철도",
@@ -187,7 +187,7 @@
     },
     {
       "word": "골목상권",
-      "count": 782
+      "count": 783
     },
     {
       "word": "필지",
@@ -203,15 +203,15 @@
     },
     {
       "word": "UAM·PAV",
-      "count": 585
+      "count": 586
     },
     {
       "word": "GTX",
-      "count": 572
+      "count": 573
     },
     {
       "word": "빈집",
-      "count": 477
+      "count": 478
     },
     {
       "word": "산업단지",
@@ -227,7 +227,7 @@
     },
     {
       "word": "주택공급",
-      "count": 228
+      "count": 229
     },
     {
       "word": "폭염",
@@ -239,7 +239,7 @@
     },
     {
       "word": "개발밀도",
-      "count": 199
+      "count": 200
     },
     {
       "word": "노후계획도시",
