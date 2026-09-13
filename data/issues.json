@@ -1,17 +1,17 @@
 {
-  "updated_at": "2026-09-13 08:05 KST",
+  "updated_at": "2026-09-13 12:04 KST",
   "coverage": {
-    "items": 17683,
+    "items": 17700,
     "oldest": "2025-09-15",
-    "newest": "2026-09-12",
-    "days_covered": 363,
+    "newest": "2026-09-13",
+    "days_covered": 364,
     "complete": true
   },
   "weekly": [
     {
       "topic": "철도·광역교통·역세권",
-      "count": 268,
-      "trend_label": "직전 동일기간보다 17건 증가",
+      "count": 270,
+      "trend_label": "직전 동일기간보다 19건 증가",
       "analyzed_count": 15,
       "summary": {
         "points": [
@@ -58,15 +58,15 @@
     },
     {
       "topic": "재건축·재개발·정비사업",
-      "count": 251,
-      "trend_label": "직전 동일기간보다 137건 감소",
+      "count": 257,
+      "trend_label": "직전 동일기간보다 131건 감소",
       "analyzed_count": 15,
       "summary": {
         "points": [
           {
             "label": "사업·공급",
-            "text": "정비 추진·사업 추진·계획 수립 흐름이 11건의 자료에서 확인됐다.",
-            "evidence_count": 11
+            "text": "정비 추진·사업 추진·계획 수립 흐름이 10건의 자료에서 확인됐다.",
+            "evidence_count": 10
           },
           {
             "label": "정책·제도",
@@ -106,15 +106,15 @@
     },
     {
       "topic": "도시재생·빈집·원도심",
-      "count": 209,
-      "trend_label": "직전 동일기간보다 21건 감소",
+      "count": 212,
+      "trend_label": "직전 동일기간보다 18건 감소",
       "analyzed_count": 15,
       "summary": {
         "points": [
           {
             "label": "사업·공급",
-            "text": "사업 추진·정비 추진 흐름이 4건의 자료에서 확인됐다.",
-            "evidence_count": 4
+            "text": "사업 추진·정비 추진·계획 수립 흐름이 5건의 자료에서 확인됐다.",
+            "evidence_count": 5
           },
           {
             "label": "공간·생활권",
@@ -154,25 +154,25 @@
     },
     {
       "topic": "국토계획·용도지역·규제",
-      "count": 145,
-      "trend_label": "직전 동일기간보다 105건 감소",
+      "count": 150,
+      "trend_label": "직전 동일기간보다 101건 감소",
       "analyzed_count": 15,
       "summary": {
         "points": [
           {
             "label": "사업·공급",
-            "text": "계획 수립·정비 추진·공급 확대 흐름이 11건의 자료에서 확인됐다.",
+            "text": "계획 수립·공급 확대·정비 추진 흐름이 11건의 자료에서 확인됐다.",
             "evidence_count": 11
           },
           {
             "label": "정책·제도",
-            "text": "법령 개정·구역·사업 지정·새 제도 도입 관련 움직임이 4건의 자료에서 반복됐다.",
-            "evidence_count": 4
+            "text": "구역·사업 지정·법령 개정·새 제도 도입 관련 움직임이 3건의 자료에서 반복됐다.",
+            "evidence_count": 3
           },
           {
             "label": "공간·생활권",
-            "text": "개발밀도 변화·역세권 재편가 4건의 자료에서 공간 변화의 핵심으로 나타났다.",
-            "evidence_count": 4
+            "text": "개발밀도 변화·역세권 재편가 3건의 자료에서 공간 변화의 핵심으로 나타났다.",
+            "evidence_count": 3
           }
         ],
         "note": "",
@@ -207,8 +207,8 @@
     },
     {
       "topic": "상권·골목경제·생활권",
-      "count": 117,
-      "trend_label": "직전 동일기간보다 29건 감소",
+      "count": 118,
+      "trend_label": "직전 동일기간보다 28건 감소",
       "analyzed_count": 15,
       "summary": {
         "points": [
@@ -298,8 +298,8 @@
     },
     {
       "topic": "컴팩트시티·미래도시",
-      "count": 44,
-      "trend_label": "직전 동일기간보다 19건 증가",
+      "count": 45,
+      "trend_label": "직전 동일기간보다 20건 증가",
       "analyzed_count": 15,
       "summary": {
         "points": [
@@ -394,8 +394,8 @@
     },
     {
       "topic": "주택공급·공공주택",
-      "count": 36,
-      "trend_label": "직전 동일기간보다 5건 증가",
+      "count": 37,
+      "trend_label": "직전 동일기간보다 6건 증가",
       "analyzed_count": 15,
       "summary": {
         "points": [
@@ -446,50 +446,55 @@
       ]
     },
     {
-      "topic": "지역소멸·균형발전",
-      "count": 17,
-      "trend_label": "직전 동일기간보다 18건 감소",
+      "topic": "공업지역·산업단지 제도",
+      "count": 18,
+      "trend_label": "직전 동일기간보다 1건 감소",
       "analyzed_count": 15,
       "summary": {
         "points": [
           {
+            "label": "사업·공급",
+            "text": "사업 준공·공급 확대·사업 추진 흐름이 13건의 자료에서 확인됐다.",
+            "evidence_count": 13
+          },
+          {
             "label": "공간·생활권",
-            "text": "지역소멸·빈집 관리·인구 변화가 5건의 자료에서 공간 변화의 핵심으로 나타났다.",
-            "evidence_count": 5
+            "text": "산업입지 변화·역세권 재편·개발밀도 변화가 10건의 자료에서 공간 변화의 핵심으로 나타났다.",
+            "evidence_count": 10
           },
           {
             "label": "정책·제도",
-            "text": "법령 개정·제도 시행·지원 확대 관련 움직임이 3건의 자료에서 반복됐다.",
+            "text": "사업 공모·규제 완화·지원 확대 관련 움직임이 3건의 자료에서 반복됐다.",
             "evidence_count": 3
           }
         ],
         "note": "",
-        "topic": "지역소멸·균형발전"
+        "topic": "공업지역·산업단지 제도"
       },
       "examples": [
         {
-          "title": "지방자치분권 및 지역균형발전에 관한 특별법 시행령 일부개정령안 입법예고",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9ObG5WMXoxT0hlc3RqVmpKQzdER2FnSnVmc3JKLWp0WGZtSENuNEh1Xzk1N0FsaWxud2s0TldlUTk3OVN1Z2p3QWdOeGNIM0lucEFOUS1tLVlGY1RDaEE?oc=5",
-          "source": "opinion.lawmaking.go.kr",
-          "date": "2026-09-11"
+          "title": "창동 608번지, 도봉구 첫 준공업지역 재개발",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBCbkJDRnhJQVJzeUFYNjJhWUhhcDhXa2p2VGNHY3JFM2tCWnZiNWc2cVcxdHhjVjFMU25wX0dTaW9ra2cwcFUybXI0X3J3UVZFdHBDTE1SUEhpVUc4NHpjLS00UTRuWXBr?oc=5",
+          "source": "한국주택경제신문",
+          "date": "2026-09-08"
         },
         {
-          "title": "빈집을 일터로, 농업을 문화로… 지방소멸 맞서는 로컬혁신가들",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBSOUliZVNRTUg3R0tldUFscnFEbW9tVzhHejJ3VlhiUzB6SVVVYTZNdkxBYXFEc2pTVFZBYWdoTmNTYVFYV2JsbXhsZGJtMGpxYm9PZV9YOXlCQWxjWWRUaUlQektNSDctY1pmZ1I0NFVCUnQxSlHSAWZBVV95cUxPbTRJVXVkVHlCX0lRd0xkX1lKYml0Z24tMVBIRnM4MkE0aGhMWEJIYUxHcDZ4c09GTzVQVDVuNlFyNEctQ2pxMFozMUVxYi1BcnZUazN6elJrSTlrZVNuR1lVWVdTNHc?oc=5",
-          "source": "동아일보",
-          "date": "2026-09-09"
+          "title": "도봉구, 창동 608번지 일대 첫 준공업지역 주택재개발",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5oS1dSdE1JbHp5eEZLRFh5XzNGcHpxc0piODlfTTVLUTMtZDIzNEc1dWdUZFNGalFfQmFIcVd0R0hZNXR3WXlla1lFZzJDTXdS?oc=5",
+          "source": "문화일보",
+          "date": "2026-09-08"
         },
         {
-          "title": "지역균형발전과 금융참여 활성화 세미나",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBZY0oxNWwyRkVaQXVpT0hqZUVHbGhzVmFQckpxOC1IMjJ4N1VGR3ByamNsalZzQW1GeHNlYzQ2bUpHNmdKQVNUVlJ4N3MxTkQ1SVZNMVJ6MmpJSVBDdWlVa09n?oc=5",
-          "source": "국토연구원 전자도서관",
-          "date": "2026-09-09"
+          "title": "도봉구, 창동 608번지 일대 '준공업지역 주택 재개발' 첫 추진",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9SbUd0MnRZLVRqMHVXLWxfRU1Hb0QzRTdaS2JIUTJfTXBFOUFmeWJmV1dKRWdjM0J6NVlyTG80VVB3M2pDNEtWakpGQTJ1Vlc1MFl0VU9pT3VxNGFHSHM2REJIUEJpbzVIXzZ6SXNvd9IBb0FVX3lxTE9SbUd0MnRZLVRqMHVXLWxfRU1Hb0QzRTdaS2JIUTJfTXBFOUFmeWJmV1dKRWdjM0J6NVlyTG80VVB3M2pDNEtWakpGQTJ1Vlc1MFl0VU9pT3VxNGFHSHM2REJIUEJpbzVIXzZ6SXNvdw?oc=5",
+          "source": "머니투데이",
+          "date": "2026-09-08"
         },
         {
-          "title": "대통령상 경기 평택시·국무총리상 경북 경주시… 13개 지방정부 수상, 기후위기·인구감소 대응부터 도시재생까지 지역의 혁신사례 한자리에",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBmTjh5eWp0VXZDNmFva01Ea1BuckRQazlyVHhoMmJnZUZJOEVtcUZUUmNUbV9yRkwxMXRwUkdxSzFtdTdtbENRbmpaSFhVemh0bGhtdUkxNVpCWFFfUkVmQWVVRE01UnIzdGQ5eVNCamhzaGNxSHNF?oc=5",
-          "source": "국토교통부",
-          "date": "2026-09-09"
+          "title": "도봉구, 창동 608번지 첫 '준공업지역 주택재개발' 본격화",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1wbUlVdFhfUEw5Y05HNUtxUS0ySlFyRWV5WVU2Qzl0N2x5c2RwakJIMF9pRnJNWHFHSXlLbXRSaldBUWtKNUxfMVFCNmh5SWx1LVBBcEZGclJjTE3SAWBBVV95cUxNVjVwSHM5c0VjclJYcnBfTlRJUm1CSi1Gb1NSaTdQMHZPX1YwTGNiV0dRX3FyMERyVThHVnlsVGRpSmt5VGpQSGd1aFB5c1B3ZUJDMW9sQUdVLWpqVjlFYU0?oc=5",
+          "source": "yna.co.kr",
+          "date": "2026-09-08"
         }
       ]
     }
@@ -497,8 +502,8 @@
   "monthly": [
     {
       "topic": "재건축·재개발·정비사업",
-      "count": 1349,
-      "trend_label": "직전 동일기간보다 82건 감소",
+      "count": 1355,
+      "trend_label": "직전 동일기간보다 76건 감소",
       "analyzed_count": 15,
       "summary": {
         "points": [
@@ -545,8 +550,8 @@
     },
     {
       "topic": "철도·광역교통·역세권",
-      "count": 1173,
-      "trend_label": "직전 동일기간보다 84건 증가",
+      "count": 1175,
+      "trend_label": "직전 동일기간보다 86건 증가",
       "analyzed_count": 15,
       "summary": {
         "points": [
@@ -593,8 +598,8 @@
     },
     {
       "topic": "국토계획·용도지역·규제",
-      "count": 926,
-      "trend_label": "직전 동일기간보다 64건 증가",
+      "count": 932,
+      "trend_label": "직전 동일기간보다 70건 증가",
       "analyzed_count": 15,
       "summary": {
         "points": [
@@ -646,8 +651,8 @@
     },
     {
       "topic": "도시재생·빈집·원도심",
-      "count": 884,
-      "trend_label": "직전 동일기간보다 44건 감소",
+      "count": 887,
+      "trend_label": "직전 동일기간보다 41건 감소",
       "analyzed_count": 15,
       "summary": {
         "points": [
@@ -689,8 +694,8 @@
     },
     {
       "topic": "상권·골목경제·생활권",
-      "count": 538,
-      "trend_label": "직전 동일기간보다 42건 감소",
+      "count": 539,
+      "trend_label": "직전 동일기간보다 41건 감소",
       "analyzed_count": 15,
       "summary": {
         "points": [
@@ -790,8 +795,8 @@
     },
     {
       "topic": "주택공급·공공주택",
-      "count": 187,
-      "trend_label": "직전 동일기간보다 39건 감소",
+      "count": 188,
+      "trend_label": "직전 동일기간보다 38건 감소",
       "analyzed_count": 15,
       "summary": {
         "points": [
@@ -892,7 +897,7 @@
           },
           {
             "label": "정책·제도",
-            "text": "법령 개정·제도 시행·지원 확대 관련 움직임이 3건의 자료에서 반복됐다.",
+            "text": "제도 시행·법령 개정·지원 확대 관련 움직임이 3건의 자료에서 반복됐다.",
             "evidence_count": 3
           }
         ],
@@ -928,8 +933,8 @@
     },
     {
       "topic": "컴팩트시티·미래도시",
-      "count": 82,
-      "trend_label": "직전 동일기간보다 174건 감소",
+      "count": 83,
+      "trend_label": "직전 동일기간보다 173건 감소",
       "analyzed_count": 15,
       "summary": {
         "points": [
@@ -973,7 +978,7 @@
   "yearly": [
     {
       "topic": "재건축·재개발·정비사업",
-      "count": 4791,
+      "count": 4797,
       "trend_label": "최근 1년 누적",
       "analyzed_count": 15,
       "summary": {
@@ -1021,7 +1026,7 @@
     },
     {
       "topic": "철도·광역교통·역세권",
-      "count": 3264,
+      "count": 3266,
       "trend_label": "최근 1년 누적",
       "analyzed_count": 15,
       "summary": {
@@ -1074,7 +1079,7 @@
     },
     {
       "topic": "국토계획·용도지역·규제",
-      "count": 2617,
+      "count": 2623,
       "trend_label": "최근 1년 누적",
       "analyzed_count": 15,
       "summary": {
@@ -1127,7 +1132,7 @@
     },
     {
       "topic": "도시재생·빈집·원도심",
-      "count": 2489,
+      "count": 2492,
       "trend_label": "최근 1년 누적",
       "analyzed_count": 15,
       "summary": {
@@ -1170,7 +1175,7 @@
     },
     {
       "topic": "상권·골목경제·생활권",
-      "count": 1481,
+      "count": 1482,
       "trend_label": "최근 1년 누적",
       "analyzed_count": 15,
       "summary": {
@@ -1218,7 +1223,7 @@
     },
     {
       "topic": "주택공급·공공주택",
-      "count": 714,
+      "count": 715,
       "trend_label": "최근 1년 누적",
       "analyzed_count": 15,
       "summary": {
@@ -1283,7 +1288,7 @@
           },
           {
             "label": "정책·제도",
-            "text": "지원 확대·관리 강화·구역·사업 지정 관련 움직임이 5건의 자료에서 반복됐다.",
+            "text": "지원 확대·구역·사업 지정·관리 강화 관련 움직임이 5건의 자료에서 반복됐다.",
             "evidence_count": 5
           },
           {
@@ -1324,7 +1329,7 @@
     },
     {
       "topic": "컴팩트시티·미래도시",
-      "count": 605,
+      "count": 606,
       "trend_label": "최근 1년 누적",
       "analyzed_count": 15,
       "summary": {
@@ -1367,7 +1372,7 @@
     },
     {
       "topic": "공업지역·산업단지 제도",
-      "count": 337,
+      "count": 338,
       "trend_label": "최근 1년 누적",
       "analyzed_count": 15,
       "summary": {
@@ -1432,7 +1437,7 @@
           },
           {
             "label": "정책·제도",
-            "text": "법령 개정·제도 시행·지원 확대 관련 움직임이 3건의 자료에서 반복됐다.",
+            "text": "제도 시행·법령 개정·지원 확대 관련 움직임이 3건의 자료에서 반복됐다.",
             "evidence_count": 3
           }
         ],
