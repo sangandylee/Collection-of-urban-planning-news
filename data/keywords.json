@@ -1,41 +1,41 @@
 {
-  "updated_at": "2026-09-13 19:04 KST",
+  "updated_at": "2026-09-14 08:05 KST",
   "monthly": [
     {
       "word": "정비사업(재건축·재개발)",
-      "count": 1293
+      "count": 1302
     },
     {
       "word": "원도심",
-      "count": 452
+      "count": 445
     },
     {
       "word": "역세권",
-      "count": 382
+      "count": 381
     },
     {
       "word": "필지",
-      "count": 361
+      "count": 360
     },
     {
       "word": "도시철도",
-      "count": 332
+      "count": 335
     },
     {
       "word": "도시재생",
-      "count": 293
+      "count": 296
     },
     {
       "word": "골목상권",
-      "count": 264
+      "count": 266
     },
     {
       "word": "GTX",
-      "count": 252
+      "count": 251
     },
     {
       "word": "조합",
-      "count": 234
+      "count": 236
     },
     {
       "word": "용적률",
@@ -43,7 +43,7 @@
     },
     {
       "word": "빈집",
-      "count": 168
+      "count": 166
     },
     {
       "word": "스마트시티",
@@ -55,11 +55,11 @@
     },
     {
       "word": "노후계획도시",
-      "count": 84
+      "count": 86
     },
     {
       "word": "개발밀도",
-      "count": 83
+      "count": 84
     },
     {
       "word": "UAM·PAV",
@@ -67,15 +67,15 @@
     },
     {
       "word": "공공주택",
-      "count": 66
+      "count": 65
     },
     {
       "word": "균형발전",
-      "count": 60
+      "count": 58
     },
     {
       "word": "주택공급",
-      "count": 56
+      "count": 55
     },
     {
       "word": "복합개발",
@@ -85,39 +85,39 @@
   "quarterly": [
     {
       "word": "정비사업(재건축·재개발)",
-      "count": 3734
+      "count": 3724
     },
     {
       "word": "원도심",
-      "count": 1055
+      "count": 1054
     },
     {
       "word": "도시재생",
-      "count": 1004
+      "count": 1007
     },
     {
       "word": "역세권",
-      "count": 935
+      "count": 936
     },
     {
       "word": "도시철도",
-      "count": 794
+      "count": 798
     },
     {
       "word": "골목상권",
-      "count": 785
+      "count": 788
     },
     {
       "word": "필지",
-      "count": 731
+      "count": 733
     },
     {
       "word": "조합",
-      "count": 633
+      "count": 631
     },
     {
       "word": "용적률",
-      "count": 610
+      "count": 608
     },
     {
       "word": "UAM·PAV",
@@ -125,11 +125,11 @@
     },
     {
       "word": "GTX",
-      "count": 573
+      "count": 574
     },
     {
       "word": "빈집",
-      "count": 471
+      "count": 469
     },
     {
       "word": "광역교통",
@@ -137,23 +137,23 @@
     },
     {
       "word": "균형발전",
-      "count": 236
+      "count": 235
     },
     {
       "word": "폭염",
       "count": 217
     },
     {
+      "word": "개발밀도",
+      "count": 201
+    },
+    {
       "word": "주택공급",
       "count": 201
     },
     {
-      "word": "개발밀도",
-      "count": 200
-    },
-    {
       "word": "스마트시티",
-      "count": 196
+      "count": 195
     },
     {
       "word": "지구단위계획",
@@ -161,13 +161,13 @@
     },
     {
       "word": "노후계획도시",
-      "count": 168
+      "count": 170
     }
   ],
   "yearly": [
     {
       "word": "정비사업(재건축·재개발)",
-      "count": 4582
+      "count": 4595
     },
     {
       "word": "원도심",
@@ -175,31 +175,31 @@
     },
     {
       "word": "도시재생",
-      "count": 1033
+      "count": 1038
     },
     {
       "word": "역세권",
-      "count": 966
+      "count": 967
     },
     {
       "word": "도시철도",
-      "count": 801
+      "count": 806
     },
     {
       "word": "골목상권",
-      "count": 785
+      "count": 790
     },
     {
       "word": "필지",
-      "count": 741
+      "count": 743
     },
     {
       "word": "조합",
-      "count": 712
+      "count": 714
     },
     {
       "word": "용적률",
-      "count": 638
+      "count": 639
     },
     {
       "word": "UAM·PAV",
@@ -207,7 +207,7 @@
     },
     {
       "word": "GTX",
-      "count": 576
+      "count": 577
     },
     {
       "word": "빈집",
@@ -239,11 +239,11 @@
     },
     {
       "word": "개발밀도",
-      "count": 201
+      "count": 202
     },
     {
       "word": "노후계획도시",
-      "count": 193
+      "count": 195
     }
   ]
 }
