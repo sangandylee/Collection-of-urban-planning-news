@@ -1,77 +1,105 @@
 {
-  "updated_at": "2026-09-15 18:46 KST",
-  "run_started_at": "2026-09-15T18:46:55.220165+09:00",
+  "updated_at": "2026-09-16 08:05 KST",
+  "run_started_at": "2026-09-16T08:05:57.477511+09:00",
   "coverage": {
-    "items": 18141,
-    "oldest": "2025-09-16",
+    "items": 18124,
+    "oldest": "2025-09-17",
     "newest": "2026-09-15",
-    "days_covered": 365,
+    "days_covered": 364,
     "complete": true
   },
   "today_counts": {
-    "정책": 3,
+    "정책": 0,
     "법령": 0,
-    "연구": 1,
-    "기사": 125
+    "연구": 0,
+    "기사": 0
   },
   "period_counts": {
     "weekly": {
-      "정책": 36,
+      "정책": 28,
       "법령": 4,
-      "연구": 61,
-      "기사": 955
+      "연구": 37,
+      "기사": 771
     },
     "monthly": {
-      "정책": 178,
+      "정책": 175,
       "법령": 11,
-      "연구": 285,
-      "기사": 5181
+      "연구": 277,
+      "기사": 5074
     },
     "yearly": {
-      "정책": 1043,
-      "법령": 757,
-      "연구": 1252,
-      "기사": 15089
+      "정책": 1042,
+      "법령": 756,
+      "연구": 1244,
+      "기사": 15082
     }
   },
   "source_status": {
-    "국토교통부": "12건 수집",
-    "서울특별시": "15건 수집",
-    "경기도": "13건 수집",
-    "법령·입법": "23건 수집",
-    "연구기관": "76건 수집",
-    "지역연구원": "21건 수집",
-    "언론-도시계획": "18건 수집",
-    "언론-지구단위": "100건 수집",
-    "언론-정비사업": "99건 수집",
-    "언론-주택공급": "15건 수집",
-    "언론-지역정책": "15건 수집",
-    "언론-교통공간": "100건 수집",
-    "언론-도시재생": "100건 수집",
-    "언론-공업지역산업단지": "89건 수집",
-    "언론-스마트기후": "48건 수집",
-    "분야:정책": "40건 수집",
-    "분야:연구": "97건 수집",
-    "분야:기사": "584건 수집",
-    "분야:법령": "23건 수집"
+    "국토교통부": "수집 실패 1회",
+    "서울특별시": "수집 실패 1회",
+    "경기도": "수집 실패 1회",
+    "법령·입법": "수집 실패 1회",
+    "연구기관": "수집 실패 1회",
+    "지역연구원": "수집 실패 1회",
+    "언론-도시계획": "수집 실패 1회",
+    "언론-지구단위": "수집 실패 1회",
+    "언론-정비사업": "수집 실패 1회",
+    "언론-주택공급": "수집 실패 1회",
+    "언론-지역정책": "수집 실패 1회",
+    "언론-교통공간": "수집 실패 1회",
+    "언론-도시재생": "수집 실패 1회",
+    "언론-공업지역산업단지": "수집 실패 1회",
+    "언론-스마트기후": "수집 실패 1회"
   },
   "backfill_status": {},
   "municipal_notices": [
     {
       "city": "광명",
-      "title": "재결서 정본 공시송달 공고[목감천 하천정비사업]",
+      "title": "광명 도시관리계획(소로3-257호선) 결정(경미한 변경) 및 실시계획(변경)인가 고시",
       "url": "https://www.gm.go.kr/pt/user/nftcBbs/BD_selectNftcBbsList.do?q_nftcBbsCode=1001",
-      "eum_url": "https://www.eum.go.kr/web/gs/gv/gvGosiList.jsp?startdt=2026-09-13&enddt=2026-09-17&zonenm=%EC%9E%AC%EA%B2%B0%EC%84%9C+%EC%A0%95%EB%B3%B8+%EA%B3%B5%EC%8B%9C%EC%86%A1%EB%8B%AC+%EA%B3%B5%EA%B3%A0%5B%EB%AA%A9%EA%B0%90%EC%B2%9C+%ED%95%98%EC%B2%9C%EC%A0%95%EB%B9%84%EC%82%AC%EC%97%85%5D&pageNo=1",
-      "date": "2026-09-15",
+      "eum_url": "https://www.eum.go.kr/web/gs/gv/gvGosiList.jsp?startdt=2026-09-14&enddt=2026-09-18&zonenm=%EA%B4%91%EB%AA%85+%EB%8F%84%EC%8B%9C%EA%B4%80%EB%A6%AC%EA%B3%84%ED%9A%8D%28%EC%86%8C%EB%A1%9C3-257%ED%98%B8%EC%84%A0%29+%EA%B2%B0%EC%A0%95%28%EA%B2%BD%EB%AF%B8%ED%95%9C+%EB%B3%80%EA%B2%BD%29+%EB%B0%8F+%EC%8B%A4%EC%8B%9C%EA%B3%84%ED%9A%8D%28%EB%B3%80%EA%B2%BD%29%EC%9D%B8%EA%B0%80+%EA%B3%A0%EC%8B%9C&pageNo=1",
+      "date": "2026-09-16",
       "source_type": "광명시 고시공고"
     },
     {
-      "city": "광명",
-      "title": "광명 도시관리계획(금당마을 지구단위계획) 결정(경미한 변경) 및 지형도면 고시",
-      "url": "https://www.gm.go.kr/pt/user/nftcBbs/BD_selectNftcBbsList.do?q_nftcBbsCode=1001",
-      "eum_url": "https://www.eum.go.kr/web/gs/gv/gvGosiList.jsp?startdt=2026-09-12&enddt=2026-09-16&zonenm=%EA%B4%91%EB%AA%85+%EB%8F%84%EC%8B%9C%EA%B4%80%EB%A6%AC%EA%B3%84%ED%9A%8D%28%EA%B8%88%EB%8B%B9%EB%A7%88%EC%9D%84+%EC%A7%80%EA%B5%AC%EB%8B%A8%EC%9C%84%EA%B3%84%ED%9A%8D%29+%EA%B2%B0%EC%A0%95%28%EA%B2%BD%EB%AF%B8%ED%95%9C+%EB%B3%80%EA%B2%BD%29+%EB%B0%8F+%EC%A7%80%ED%98%95%EB%8F%84%EB%A9%B4+%EA%B3%A0%EC%8B%9C&pageNo=1",
-      "date": "2026-09-14",
-      "source_type": "광명시 고시공고"
+      "city": "수원",
+      "title": "수원 도시관리계획(매탄4 지구단위계획) 결정(변경) 및 지형도면 고시",
+      "url": "https://www.suwon.go.kr/web/board/BD_board.list.do?bbsCd=1303",
+      "eum_url": "https://www.eum.go.kr/web/gs/gv/gvGosiList.jsp?startdt=2026-09-13&enddt=2026-09-17&zonenm=%EC%88%98%EC%9B%90+%EB%8F%84%EC%8B%9C%EA%B4%80%EB%A6%AC%EA%B3%84%ED%9A%8D%28%EB%A7%A4%ED%83%844+%EC%A7%80%EA%B5%AC%EB%8B%A8%EC%9C%84%EA%B3%84%ED%9A%8D%29+%EA%B2%B0%EC%A0%95%28%EB%B3%80%EA%B2%BD%29+%EB%B0%8F+%EC%A7%80%ED%98%95%EB%8F%84%EB%A9%B4+%EA%B3%A0%EC%8B%9C&pageNo=1",
+      "date": "2026-09-15",
+      "source_type": "수원 지구단위계획"
+    },
+    {
+      "city": "수원",
+      "title": "수원 도시관리계획(역세권2 지구단위계획) 결정(변경) 및 지형도면 고시",
+      "url": "https://www.suwon.go.kr/web/board/BD_board.list.do?bbsCd=1303",
+      "eum_url": "https://www.eum.go.kr/web/gs/gv/gvGosiList.jsp?startdt=2026-09-13&enddt=2026-09-17&zonenm=%EC%88%98%EC%9B%90+%EB%8F%84%EC%8B%9C%EA%B4%80%EB%A6%AC%EA%B3%84%ED%9A%8D%28%EC%97%AD%EC%84%B8%EA%B6%8C2+%EC%A7%80%EA%B5%AC%EB%8B%A8%EC%9C%84%EA%B3%84%ED%9A%8D%29+%EA%B2%B0%EC%A0%95%28%EB%B3%80%EA%B2%BD%29+%EB%B0%8F+%EC%A7%80%ED%98%95%EB%8F%84%EB%A9%B4+%EA%B3%A0%EC%8B%9C&pageNo=1",
+      "date": "2026-09-15",
+      "source_type": "수원 지구단위계획"
+    },
+    {
+      "city": "수원",
+      "title": "수원 도시관리계획(고색2 지구단위계획) 결정(변경) 및 지형도면 고시",
+      "url": "https://www.suwon.go.kr/web/board/BD_board.list.do?bbsCd=1303",
+      "eum_url": "https://www.eum.go.kr/web/gs/gv/gvGosiList.jsp?startdt=2026-09-13&enddt=2026-09-17&zonenm=%EC%88%98%EC%9B%90+%EB%8F%84%EC%8B%9C%EA%B4%80%EB%A6%AC%EA%B3%84%ED%9A%8D%28%EA%B3%A0%EC%83%892+%EC%A7%80%EA%B5%AC%EB%8B%A8%EC%9C%84%EA%B3%84%ED%9A%8D%29+%EA%B2%B0%EC%A0%95%28%EB%B3%80%EA%B2%BD%29+%EB%B0%8F+%EC%A7%80%ED%98%95%EB%8F%84%EB%A9%B4+%EA%B3%A0%EC%8B%9C&pageNo=1",
+      "date": "2026-09-15",
+      "source_type": "수원 지구단위계획"
+    },
+    {
+      "city": "수원",
+      "title": "수원 도시관리계획(영통 지구단위계획) 결정(변경) 및 지형도면 고시",
+      "url": "https://www.suwon.go.kr/web/board/BD_board.list.do?bbsCd=1303",
+      "eum_url": "https://www.eum.go.kr/web/gs/gv/gvGosiList.jsp?startdt=2026-09-13&enddt=2026-09-17&zonenm=%EC%88%98%EC%9B%90+%EB%8F%84%EC%8B%9C%EA%B4%80%EB%A6%AC%EA%B3%84%ED%9A%8D%28%EC%98%81%ED%86%B5+%EC%A7%80%EA%B5%AC%EB%8B%A8%EC%9C%84%EA%B3%84%ED%9A%8D%29+%EA%B2%B0%EC%A0%95%28%EB%B3%80%EA%B2%BD%29+%EB%B0%8F+%EC%A7%80%ED%98%95%EB%8F%84%EB%A9%B4+%EA%B3%A0%EC%8B%9C&pageNo=1",
+      "date": "2026-09-15",
+      "source_type": "수원 지구단위계획"
+    },
+    {
+      "city": "수원",
+      "title": "수원 도시관리계획(광교 지구단위계획) 결정(변경) 및 지형도면 고시",
+      "url": "https://www.suwon.go.kr/web/board/BD_board.list.do?bbsCd=1303",
+      "eum_url": "https://www.eum.go.kr/web/gs/gv/gvGosiList.jsp?startdt=2026-09-13&enddt=2026-09-17&zonenm=%EC%88%98%EC%9B%90+%EB%8F%84%EC%8B%9C%EA%B4%80%EB%A6%AC%EA%B3%84%ED%9A%8D%28%EA%B4%91%EA%B5%90+%EC%A7%80%EA%B5%AC%EB%8B%A8%EC%9C%84%EA%B3%84%ED%9A%8D%29+%EA%B2%B0%EC%A0%95%28%EB%B3%80%EA%B2%BD%29+%EB%B0%8F+%EC%A7%80%ED%98%95%EB%8F%84%EB%A9%B4+%EA%B3%A0%EC%8B%9C&pageNo=1",
+      "date": "2026-09-15",
+      "source_type": "수원 지구단위계획"
     },
     {
       "city": "서울",
@@ -139,42 +167,30 @@
     }
   ],
   "municipal_status": {
-    "화성": "화성시 고시공고 0건, 검색보완 0건",
+    "수원": "수원 지구단위계획 5건 / 수원 기본·도시관리계획 0건, 검색보완 RetryError",
     "서울": "서울도시공간포털 결정고시 14건",
-    "과천": "과천시 고시공고 0건, 검색보완 0건",
-    "광명": "광명시 고시공고 2건",
-    "성남": "성남 지구단위계획 고시·공고 ConnectTimeout, 검색보완 0건",
-    "수원": "수원 지구단위계획 ConnectTimeout, 검색보완 0건 / 수원 기본·도시관리계획 ConnectTimeout, 검색보완 0건",
-    "고양": "고양시 고시·도시계획 선별 ConnectTimeout, 검색보완 0건"
+    "광명": "광명시 고시공고 1건",
+    "고양": "고양시 고시·도시계획 선별 0건, 검색보완 RetryError",
+    "화성": "화성시 고시공고 0건, 검색보완 RetryError",
+    "과천": "과천시 고시공고 0건, 검색보완 RetryError",
+    "성남": "성남 지구단위계획 고시·공고 SSLError, 검색보완 RetryError"
   },
   "seoul_housing_news": [],
-  "seoul_housing_status": "공식 목록 0건, 검색보완 0건",
+  "seoul_housing_status": "공식 목록 0건, 검색보완 RetryError",
   "seoul_housing_link": "https://housing.seoul.go.kr/site/main/tvReportedInfo/list?cp=2&pageSize=5",
-  "maintenance_updates": [
-    {
-      "id": "d13d81f18d5048a5",
-      "title": "금천구 시흥3동 972번지 모아타운 통합심의 통과…모아주택 3곳 총586세대 공급 > 보도자료",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9vUzZmcXY4RHFrWjU5ZldGaTVudHJKbjdTX1U3NXBiUmtMaTEtWDZOekZ3VVA1cVZORXBLMzVlWEx2aTJHallEUTNfRWs2RGc3Z2JxalJ2ZUpYdV8wbTF3ZjhFM0FxVXk3M1pmMk1mWUhqYmdO?oc=5",
-      "source": "서울",
-      "category": "정비",
-      "date": "2026-09-11",
-      "description": "금천구 시흥3동 972번지 모아타운 통합심의 통과…모아주택 3곳 총586세대 공급 > 보도자료 서울특별시",
-      "city": "서울",
-      "source_type": "공식 정비사업 소식"
-    }
-  ],
+  "maintenance_updates": [],
   "maintenance_status": {
-    "남양주": "0건",
-    "화성": "0건",
-    "인천": "0건",
-    "고양": "0건",
-    "수원": "0건",
-    "서울": "1건",
-    "성남": "0건",
-    "과천": "0건",
-    "광명": "0건",
-    "광주": "0건",
-    "평택": "0건"
+    "고양": "수집 실패: RetryError",
+    "화성": "수집 실패: RetryError",
+    "남양주": "수집 실패: RetryError",
+    "인천": "수집 실패: RetryError",
+    "서울": "수집 실패: RetryError",
+    "수원": "수집 실패: RetryError",
+    "성남": "수집 실패: RetryError",
+    "광주": "수집 실패: RetryError",
+    "과천": "수집 실패: RetryError",
+    "평택": "수집 실패: RetryError",
+    "광명": "수집 실패: RetryError"
   },
   "items": [
     {
