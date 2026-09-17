@@ -1,45 +1,45 @@
 {
-  "updated_at": "2026-09-17 12:04 KST",
+  "updated_at": "2026-09-17 18:43 KST",
   "monthly": [
     {
       "word": "정비사업(재건축·재개발)",
-      "count": 1409
+      "count": 1419
     },
     {
       "word": "원도심",
-      "count": 473
+      "count": 487
     },
     {
       "word": "역세권",
-      "count": 370
+      "count": 372
     },
     {
       "word": "도시철도",
-      "count": 330
+      "count": 332
     },
     {
       "word": "필지",
-      "count": 323
+      "count": 327
     },
     {
       "word": "GTX",
-      "count": 312
+      "count": 319
     },
     {
       "word": "도시재생",
-      "count": 291
+      "count": 300
     },
     {
       "word": "골목상권",
-      "count": 281
+      "count": 285
     },
     {
       "word": "조합",
-      "count": 258
+      "count": 263
     },
     {
       "word": "용적률",
-      "count": 252
+      "count": 253
     },
     {
       "word": "빈집",
@@ -51,19 +51,19 @@
     },
     {
       "word": "광역교통",
-      "count": 106
-    },
-    {
-      "word": "노후계획도시",
-      "count": 93
+      "count": 109
     },
     {
       "word": "UAM·PAV",
-      "count": 93
+      "count": 96
+    },
+    {
+      "word": "노후계획도시",
+      "count": 94
     },
     {
       "word": "개발밀도",
-      "count": 89
+      "count": 90
     },
     {
       "word": "공공주택",
@@ -85,47 +85,47 @@
   "quarterly": [
     {
       "word": "정비사업(재건축·재개발)",
-      "count": 3839
+      "count": 3849
     },
     {
       "word": "원도심",
-      "count": 1108
+      "count": 1122
     },
     {
       "word": "도시재생",
-      "count": 1039
+      "count": 1048
     },
     {
       "word": "역세권",
-      "count": 947
+      "count": 949
     },
     {
       "word": "도시철도",
-      "count": 813
+      "count": 815
     },
     {
       "word": "골목상권",
-      "count": 808
+      "count": 812
     },
     {
       "word": "필지",
-      "count": 748
+      "count": 752
     },
     {
       "word": "조합",
-      "count": 665
-    },
-    {
-      "word": "용적률",
-      "count": 639
+      "count": 670
     },
     {
       "word": "GTX",
-      "count": 638
+      "count": 645
+    },
+    {
+      "word": "용적률",
+      "count": 640
     },
     {
       "word": "UAM·PAV",
-      "count": 608
+      "count": 611
     },
     {
       "word": "빈집",
@@ -133,7 +133,7 @@
     },
     {
       "word": "광역교통",
-      "count": 257
+      "count": 260
     },
     {
       "word": "균형발전",
@@ -141,7 +141,7 @@
     },
     {
       "word": "개발밀도",
-      "count": 213
+      "count": 214
     },
     {
       "word": "폭염",
@@ -157,57 +157,57 @@
     },
     {
       "word": "지구단위계획",
-      "count": 186
+      "count": 187
     },
     {
       "word": "노후계획도시",
-      "count": 182
+      "count": 183
     }
   ],
   "yearly": [
     {
       "word": "정비사업(재건축·재개발)",
-      "count": 4755
+      "count": 4765
     },
     {
       "word": "원도심",
-      "count": 1128
+      "count": 1142
     },
     {
       "word": "도시재생",
-      "count": 1081
+      "count": 1090
     },
     {
       "word": "역세권",
-      "count": 997
+      "count": 999
     },
     {
       "word": "도시철도",
-      "count": 825
+      "count": 827
     },
     {
       "word": "골목상권",
-      "count": 821
+      "count": 825
     },
     {
       "word": "필지",
-      "count": 759
+      "count": 763
     },
     {
       "word": "조합",
-      "count": 753
+      "count": 758
     },
     {
       "word": "용적률",
-      "count": 675
+      "count": 676
     },
     {
       "word": "GTX",
-      "count": 652
+      "count": 659
     },
     {
       "word": "UAM·PAV",
-      "count": 614
+      "count": 617
     },
     {
       "word": "빈집",
@@ -215,11 +215,11 @@
     },
     {
       "word": "산업단지",
-      "count": 270
+      "count": 271
     },
     {
       "word": "광역교통",
-      "count": 264
+      "count": 267
     },
     {
       "word": "균형발전",
@@ -239,11 +239,11 @@
     },
     {
       "word": "개발밀도",
-      "count": 213
+      "count": 214
     },
     {
       "word": "노후계획도시",
-      "count": 206
+      "count": 207
     }
   ]
 }
