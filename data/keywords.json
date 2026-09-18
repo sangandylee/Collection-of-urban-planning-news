@@ -1,61 +1,61 @@
 {
-  "updated_at": "2026-09-18 18:42 KST",
+  "updated_at": "2026-09-19 08:05 KST",
   "monthly": [
     {
       "word": "정비사업(재건축·재개발)",
-      "count": 1380
+      "count": 1342
     },
     {
       "word": "원도심",
-      "count": 480
+      "count": 455
     },
     {
       "word": "역세권",
-      "count": 372
+      "count": 328
     },
     {
       "word": "GTX",
-      "count": 323
-    },
-    {
-      "word": "도시철도",
-      "count": 318
+      "count": 317
     },
     {
       "word": "필지",
-      "count": 306
+      "count": 294
+    },
+    {
+      "word": "도시철도",
+      "count": 292
     },
     {
       "word": "도시재생",
-      "count": 291
+      "count": 287
     },
     {
       "word": "골목상권",
-      "count": 284
-    },
-    {
-      "word": "용적률",
-      "count": 254
+      "count": 264
     },
     {
       "word": "조합",
-      "count": 251
+      "count": 243
+    },
+    {
+      "word": "용적률",
+      "count": 243
     },
     {
       "word": "빈집",
-      "count": 171
+      "count": 165
+    },
+    {
+      "word": "스마트시티",
+      "count": 111
     },
     {
       "word": "광역교통",
       "count": 111
     },
     {
-      "word": "스마트시티",
-      "count": 109
-    },
-    {
       "word": "UAM·PAV",
-      "count": 95
+      "count": 99
     },
     {
       "word": "노후계획도시",
@@ -63,29 +63,29 @@
     },
     {
       "word": "개발밀도",
-      "count": 89
-    },
-    {
-      "word": "공공주택",
-      "count": 70
+      "count": 86
     },
     {
       "word": "균형발전",
       "count": 56
     },
     {
+      "word": "공공주택",
+      "count": 56
+    },
+    {
       "word": "복합개발",
-      "count": 53
+      "count": 46
     },
     {
       "word": "주택공급",
-      "count": 49
+      "count": 44
     }
   ],
   "quarterly": [
     {
       "word": "정비사업(재건축·재개발)",
-      "count": 3893
+      "count": 3891
     },
     {
       "word": "원도심",
@@ -101,23 +101,23 @@
     },
     {
       "word": "도시철도",
-      "count": 818
+      "count": 819
     },
     {
       "word": "골목상권",
-      "count": 816
+      "count": 815
     },
     {
       "word": "필지",
-      "count": 755
+      "count": 757
     },
     {
       "word": "조합",
-      "count": 681
+      "count": 683
     },
     {
       "word": "용적률",
-      "count": 656
+      "count": 655
     },
     {
       "word": "GTX",
@@ -125,7 +125,7 @@
     },
     {
       "word": "UAM·PAV",
-      "count": 611
+      "count": 615
     },
     {
       "word": "빈집",
@@ -141,11 +141,11 @@
     },
     {
       "word": "개발밀도",
-      "count": 216
+      "count": 217
     },
     {
       "word": "폭염",
-      "count": 211
+      "count": 210
     },
     {
       "word": "주택공급",
@@ -153,7 +153,7 @@
     },
     {
       "word": "스마트시티",
-      "count": 201
+      "count": 203
     },
     {
       "word": "지구단위계획",
@@ -167,11 +167,11 @@
   "yearly": [
     {
       "word": "정비사업(재건축·재개발)",
-      "count": 4808
+      "count": 4816
     },
     {
       "word": "원도심",
-      "count": 1156
+      "count": 1158
     },
     {
       "word": "도시재생",
@@ -179,39 +179,39 @@
     },
     {
       "word": "역세권",
-      "count": 1007
+      "count": 1008
     },
     {
       "word": "도시철도",
-      "count": 830
+      "count": 831
     },
     {
       "word": "골목상권",
-      "count": 829
+      "count": 831
     },
     {
       "word": "조합",
-      "count": 769
+      "count": 771
     },
     {
       "word": "필지",
-      "count": 766
+      "count": 768
     },
     {
       "word": "용적률",
-      "count": 692
+      "count": 693
     },
     {
       "word": "GTX",
-      "count": 669
+      "count": 670
     },
     {
       "word": "UAM·PAV",
-      "count": 617
+      "count": 621
     },
     {
       "word": "빈집",
-      "count": 513
+      "count": 514
     },
     {
       "word": "산업단지",
@@ -231,7 +231,7 @@
     },
     {
       "word": "스마트시티",
-      "count": 223
+      "count": 225
     },
     {
       "word": "폭염",
@@ -239,7 +239,7 @@
     },
     {
       "word": "개발밀도",
-      "count": 216
+      "count": 217
     },
     {
       "word": "노후계획도시",
