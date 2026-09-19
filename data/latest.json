@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-09-19 12:04 KST",
-  "run_started_at": "2026-09-19T12:04:18.397086+09:00",
+  "updated_at": "2026-09-19 18:40 KST",
+  "run_started_at": "2026-09-19T18:40:53.583804+09:00",
   "coverage": {
-    "items": 18706,
+    "items": 18723,
     "oldest": "2025-09-20",
     "newest": "2026-09-19",
     "days_covered": 365,
@@ -10,50 +10,50 @@
   },
   "today_counts": {
     "정책": 0,
-    "법령": 0,
+    "법령": 1,
     "연구": 0,
-    "기사": 1
+    "기사": 4
   },
   "period_counts": {
     "weekly": {
-      "정책": 35,
-      "법령": 0,
+      "정책": 37,
+      "법령": 1,
       "연구": 19,
-      "기사": 898
+      "기사": 905
     },
     "monthly": {
-      "정책": 188,
-      "법령": 9,
-      "연구": 279,
-      "기사": 4873
+      "정책": 190,
+      "법령": 10,
+      "연구": 286,
+      "기사": 4880
     },
     "yearly": {
-      "정책": 1067,
-      "법령": 751,
-      "연구": 1272,
-      "기사": 15616
+      "정책": 1069,
+      "법령": 752,
+      "연구": 1279,
+      "기사": 15623
     }
   },
   "source_status": {
-    "국토교통부": "13건 수집",
-    "서울특별시": "15건 수집",
-    "경기도": "11건 수집",
+    "국토교통부": "16건 수집",
+    "서울특별시": "20건 수집",
+    "경기도": "9건 수집",
     "법령·입법": "26건 수집",
-    "연구기관": "73건 수집",
-    "지역연구원": "16건 수집",
-    "언론-도시계획": "16건 수집",
+    "연구기관": "93건 수집",
+    "지역연구원": "23건 수집",
+    "언론-도시계획": "18건 수집",
     "언론-지구단위": "99건 수집",
-    "언론-정비사업": "99건 수집",
-    "언론-주택공급": "18건 수집",
-    "언론-지역정책": "8건 수집",
+    "언론-정비사업": "98건 수집",
+    "언론-주택공급": "19건 수집",
+    "언론-지역정책": "11건 수집",
     "언론-교통공간": "100건 수집",
     "언론-도시재생": "100건 수집",
-    "언론-공업지역산업단지": "87건 수집",
-    "언론-스마트기후": "49건 수집",
-    "분야:정책": "39건 수집",
-    "분야:연구": "89건 수집",
+    "언론-공업지역산업단지": "91건 수집",
+    "언론-스마트기후": "46건 수집",
+    "분야:정책": "45건 수집",
+    "분야:연구": "116건 수집",
     "분야:법령": "26건 수집",
-    "분야:기사": "576건 수집"
+    "분야:기사": "582건 수집"
   },
   "backfill_status": {},
   "municipal_notices": [
@@ -98,62 +98,6 @@
       "source_type": "과천시 고시공고"
     },
     {
-      "city": "수원",
-      "title": "수원도시관리계획(제4호하천, 제15호하천) 결정(경미한 변경) 및 지형도면 고시",
-      "url": "https://www.suwon.go.kr/web/board/BD_board.list.do?bbsCd=1164",
-      "eum_url": "https://www.eum.go.kr/web/gs/gv/gvGosiList.jsp?startdt=2026-09-14&enddt=2026-09-18&zonenm=%EC%88%98%EC%9B%90%EB%8F%84%EC%8B%9C%EA%B4%80%EB%A6%AC%EA%B3%84%ED%9A%8D%28%EC%A0%9C4%ED%98%B8%ED%95%98%EC%B2%9C%2C+%EC%A0%9C15%ED%98%B8%ED%95%98%EC%B2%9C%29+%EA%B2%B0%EC%A0%95%28%EA%B2%BD%EB%AF%B8%ED%95%9C+%EB%B3%80%EA%B2%BD%29+%EB%B0%8F+%EC%A7%80%ED%98%95%EB%8F%84%EB%A9%B4+%EA%B3%A0%EC%8B%9C&pageNo=1",
-      "date": "2026-09-16",
-      "source_type": "수원 기본·도시관리계획"
-    },
-    {
-      "city": "수원",
-      "title": "수원도시관리계획(소로1-141호선 등 7개시설) 결정(경미한 변경) 및 지형도면 고시",
-      "url": "https://www.suwon.go.kr/web/board/BD_board.list.do?bbsCd=1164",
-      "eum_url": "https://www.eum.go.kr/web/gs/gv/gvGosiList.jsp?startdt=2026-09-14&enddt=2026-09-18&zonenm=%EC%88%98%EC%9B%90%EB%8F%84%EC%8B%9C%EA%B4%80%EB%A6%AC%EA%B3%84%ED%9A%8D%28%EC%86%8C%EB%A1%9C1-141%ED%98%B8%EC%84%A0+%EB%93%B1+7%EA%B0%9C%EC%8B%9C%EC%84%A4%29+%EA%B2%B0%EC%A0%95%28%EA%B2%BD%EB%AF%B8%ED%95%9C+%EB%B3%80%EA%B2%BD%29+%EB%B0%8F+%EC%A7%80%ED%98%95%EB%8F%84%EB%A9%B4+%EA%B3%A0%EC%8B%9C&pageNo=1",
-      "date": "2026-09-16",
-      "source_type": "수원 기본·도시관리계획"
-    },
-    {
-      "city": "수원",
-      "title": "수원 도시관리계획(매탄4 지구단위계획) 결정(변경) 및 지형도면 고시",
-      "url": "https://www.suwon.go.kr/web/board/BD_board.list.do?bbsCd=1303",
-      "eum_url": "https://www.eum.go.kr/web/gs/gv/gvGosiList.jsp?startdt=2026-09-13&enddt=2026-09-17&zonenm=%EC%88%98%EC%9B%90+%EB%8F%84%EC%8B%9C%EA%B4%80%EB%A6%AC%EA%B3%84%ED%9A%8D%28%EB%A7%A4%ED%83%844+%EC%A7%80%EA%B5%AC%EB%8B%A8%EC%9C%84%EA%B3%84%ED%9A%8D%29+%EA%B2%B0%EC%A0%95%28%EB%B3%80%EA%B2%BD%29+%EB%B0%8F+%EC%A7%80%ED%98%95%EB%8F%84%EB%A9%B4+%EA%B3%A0%EC%8B%9C&pageNo=1",
-      "date": "2026-09-15",
-      "source_type": "수원 지구단위계획"
-    },
-    {
-      "city": "수원",
-      "title": "수원 도시관리계획(역세권2 지구단위계획) 결정(변경) 및 지형도면 고시",
-      "url": "https://www.suwon.go.kr/web/board/BD_board.list.do?bbsCd=1303",
-      "eum_url": "https://www.eum.go.kr/web/gs/gv/gvGosiList.jsp?startdt=2026-09-13&enddt=2026-09-17&zonenm=%EC%88%98%EC%9B%90+%EB%8F%84%EC%8B%9C%EA%B4%80%EB%A6%AC%EA%B3%84%ED%9A%8D%28%EC%97%AD%EC%84%B8%EA%B6%8C2+%EC%A7%80%EA%B5%AC%EB%8B%A8%EC%9C%84%EA%B3%84%ED%9A%8D%29+%EA%B2%B0%EC%A0%95%28%EB%B3%80%EA%B2%BD%29+%EB%B0%8F+%EC%A7%80%ED%98%95%EB%8F%84%EB%A9%B4+%EA%B3%A0%EC%8B%9C&pageNo=1",
-      "date": "2026-09-15",
-      "source_type": "수원 지구단위계획"
-    },
-    {
-      "city": "수원",
-      "title": "수원 도시관리계획(고색2 지구단위계획) 결정(변경) 및 지형도면 고시",
-      "url": "https://www.suwon.go.kr/web/board/BD_board.list.do?bbsCd=1303",
-      "eum_url": "https://www.eum.go.kr/web/gs/gv/gvGosiList.jsp?startdt=2026-09-13&enddt=2026-09-17&zonenm=%EC%88%98%EC%9B%90+%EB%8F%84%EC%8B%9C%EA%B4%80%EB%A6%AC%EA%B3%84%ED%9A%8D%28%EA%B3%A0%EC%83%892+%EC%A7%80%EA%B5%AC%EB%8B%A8%EC%9C%84%EA%B3%84%ED%9A%8D%29+%EA%B2%B0%EC%A0%95%28%EB%B3%80%EA%B2%BD%29+%EB%B0%8F+%EC%A7%80%ED%98%95%EB%8F%84%EB%A9%B4+%EA%B3%A0%EC%8B%9C&pageNo=1",
-      "date": "2026-09-15",
-      "source_type": "수원 지구단위계획"
-    },
-    {
-      "city": "수원",
-      "title": "수원 도시관리계획(영통 지구단위계획) 결정(변경) 및 지형도면 고시",
-      "url": "https://www.suwon.go.kr/web/board/BD_board.list.do?bbsCd=1303",
-      "eum_url": "https://www.eum.go.kr/web/gs/gv/gvGosiList.jsp?startdt=2026-09-13&enddt=2026-09-17&zonenm=%EC%88%98%EC%9B%90+%EB%8F%84%EC%8B%9C%EA%B4%80%EB%A6%AC%EA%B3%84%ED%9A%8D%28%EC%98%81%ED%86%B5+%EC%A7%80%EA%B5%AC%EB%8B%A8%EC%9C%84%EA%B3%84%ED%9A%8D%29+%EA%B2%B0%EC%A0%95%28%EB%B3%80%EA%B2%BD%29+%EB%B0%8F+%EC%A7%80%ED%98%95%EB%8F%84%EB%A9%B4+%EA%B3%A0%EC%8B%9C&pageNo=1",
-      "date": "2026-09-15",
-      "source_type": "수원 지구단위계획"
-    },
-    {
-      "city": "수원",
-      "title": "수원 도시관리계획(광교 지구단위계획) 결정(변경) 및 지형도면 고시",
-      "url": "https://www.suwon.go.kr/web/board/BD_board.list.do?bbsCd=1303",
-      "eum_url": "https://www.eum.go.kr/web/gs/gv/gvGosiList.jsp?startdt=2026-09-13&enddt=2026-09-17&zonenm=%EC%88%98%EC%9B%90+%EB%8F%84%EC%8B%9C%EA%B4%80%EB%A6%AC%EA%B3%84%ED%9A%8D%28%EA%B4%91%EA%B5%90+%EC%A7%80%EA%B5%AC%EB%8B%A8%EC%9C%84%EA%B3%84%ED%9A%8D%29+%EA%B2%B0%EC%A0%95%28%EB%B3%80%EA%B2%BD%29+%EB%B0%8F+%EC%A7%80%ED%98%95%EB%8F%84%EB%A9%B4+%EA%B3%A0%EC%8B%9C&pageNo=1",
-      "date": "2026-09-15",
-      "source_type": "수원 지구단위계획"
-    },
-    {
       "city": "서울",
       "title": "서울특별시 2026-510 도시관리계획(서울레미콘 부지 지구단위계획구역 및 계획, 특별계획구역 세부개발계획) 결정 및 지형도면 고시",
       "url": "https://urban.seoul.go.kr/view/html/PMNU4030100001",
@@ -195,13 +139,13 @@
     }
   ],
   "municipal_status": {
-    "수원": "수원 지구단위계획 5건 / 수원 기본·도시관리계획 2건",
-    "고양": "고양시 고시·도시계획 선별 0건, 검색보완 0건",
     "화성": "화성시 고시공고 1건",
-    "과천": "과천시 고시공고 1건",
     "서울": "서울도시공간포털 결정고시 15건",
+    "과천": "과천시 고시공고 1건",
     "광명": "광명시 고시공고 0건, 검색보완 0건",
-    "성남": "성남 지구단위계획 고시·공고 SSLError, 검색보완 0건"
+    "고양": "고양시 고시·도시계획 선별 ConnectTimeout, 검색보완 0건",
+    "성남": "성남 지구단위계획 고시·공고 ConnectTimeout, 검색보완 0건",
+    "수원": "수원 지구단위계획 ConnectTimeout, 검색보완 0건 / 수원 기본·도시관리계획 ConnectTimeout, 검색보완 0건"
   },
   "seoul_housing_news": [],
   "seoul_housing_status": "공식 목록 0건, 검색보완 0건",
@@ -231,16 +175,16 @@
     }
   ],
   "maintenance_status": {
-    "남양주": "0건",
     "화성": "0건",
+    "남양주": "0건",
     "수원": "0건",
     "인천": "0건",
     "고양": "0건",
     "서울": "2건",
-    "평택": "0건",
-    "과천": "0건",
-    "광명": "0건",
     "성남": "0건",
+    "평택": "0건",
+    "광명": "0건",
+    "과천": "0건",
     "광주": "0건"
   },
   "items": [
@@ -252,6 +196,42 @@
       "category": "기사",
       "date": "2026-09-19",
       "description": "\"은마아파트 상가 옥상에…\" 재건축 앞두고 퍼진 '괴소문' 정체 [이슬기의 새집다오] 한국경제"
+    },
+    {
+      "id": "9bd62ffd9d654eff",
+      "title": "\"해사법원 내항으로\"…원도심 부활 꿈꾸는 제물포구",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1QX0ZCN3RoZWFHdVZjanlRM0RuMnBYcFZ4aWVhc05HR1lkcS0zM2lvbmFUX01HMy16ZEE5TFZpRlJneGxpVnpUVFZIZ0U2ZnZHQXFWekNDNXRTODk0TmxoTktqeXh4U3c?oc=5",
+      "source": "연합뉴스TV",
+      "category": "기사",
+      "date": "2026-09-19",
+      "description": "\"해사법원 내항으로\"…원도심 부활 꿈꾸는 제물포구 연합뉴스TV"
+    },
+    {
+      "id": "2a235b7069cf3373",
+      "title": "도시 및 주거환경정비법 일부개정법률안",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBxSUpqMkRZdXhjNmF4cVhVTjBZbEFOd0QtVURGYjZ3b0s3NEYzSHJZRnBxbEQ0bV9JbV9ZRkFuUFh4Rjl4bko4aE9oMUdDQmVHSHp1c3g5TlBOQlA3RzY5RzRaRWtlVEZ6WXYzd3A0bEpXbnMz?oc=5",
+      "source": "국민참여입법센터",
+      "category": "법령",
+      "date": "2026-09-19",
+      "description": "도시 및 주거환경정비법 일부개정법률안 국민참여입법센터"
+    },
+    {
+      "id": "1f163c6412394649",
+      "title": "2026.9.15. 아시아경제 \"대기업·디벨로퍼에 용적률 1300% 시범 사업지 몰아준 서울시\" 보도 관련 설명",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1kbVA0b0hDR1RKTlVPQ0dHUjBuQzBORlN4R0t2YUV0Q3JNZjdHRnlvVFMwTm5SbFFzaFo4ZVlQR3p6Q0NuSUNGLXg5cERBZDgxekY3UzBfTlJhSjlJU3FicW1xdw?oc=5",
+      "source": "국민기자뉴스",
+      "category": "기사",
+      "date": "2026-09-19",
+      "description": "2026.9.15. 아시아경제 \"대기업·디벨로퍼에 용적률 1300% 시범 사업지 몰아준 서울시\" 보도 관련 설명 국민기자뉴스"
+    },
+    {
+      "id": "9b8311855fe3b435",
+      "title": "도시철도 개발인력 수요 급증...인력 양성 '안간힘'",
+      "url": "https://news.google.com/rss/articles/CBMi0wVBVV95cUxOQVZyUGZUeWF5NGRxb1JhNm9KRjNiRndfaTd4MkFuTFQ3ekpFaUpXTHRQc3BNdXpYR3hwZzlhVTFrRXRoWjd3cVl3LVFGTDBqcGxlSVZ0WnAwa2ltMUFfZWVraFBsODM2U1B5RjBLOFBLRERxOWlOejY4MmRLR2xWM0plZEM0TWcxeGVSc0ZCaXlQUkpqWGItaXZ2cnRJMmw1YzRvakxVSzUxMTNWazR3aVRyOVVEUmRQZ0d3bGFERW5XaVNoNzVCeGptTjducG5PXzNEVks3MHFMYUVpaVozME1UcndQWUdkUVVvdkVQV2tLMzJfSnpoX05QUkVuVlV2alFXVlh0cXpPYkpxSmZWY2RXamMtcnM3Tkg0ZkYteXc0aVNSNk5rSzl3aHl1QWdwM1kzekZlcFg1WlltLVVkZkF2LVZPRXZjZFRJNm84MmVodXFIWUZrMVI2S0NXTUhqTmltLVdKVXlfQlRUdXV3MlR1TEk3NmNWbkFRVDdkQnRnU2dVdkE4VU9ER1dLdEtza1pZZEJ3Z0haeEVDR2V5NmlhdjlwNUxYV3RqRnUtbDJHTlJKSmNGeklBWDVpdlFMX0tyTngzbmxjV3NCSmQxQUFfZ3k3cXAxQWRqelZLclpHR3N1SlVpMUJlbHpPRTJQVGc4ZWI0NGdqQWdLVlRKTEZUdUNIZUJHdUxRVkZaQlJVekt5SmdoZkVjVUZyQkhsSE9ONjJqVzh3NnV4MXBCRUswR29sTUR4aDNRSWRaZ3Z0SU1iYUZoeFNvRlJneDluOTVkN2F4Nk9YRl92TXVuRUVicWUzV1JjRjNpc3lZSHpFSEpPSWdtQkIwQ2dCUGtwbUpNRThLQXdGOUlOZEZhQUpWZFFYR0FSeTV5S19UWUdfT3FhY0FKR1lwTE84YW5Lck5RcnVyQTEyTHlHbEJZUXVYUzN6THUyVkhKel93UWRBZjA?oc=5",
+      "source": "Thông tấn xã Việt Nam (TTXVN)",
+      "category": "기사",
+      "date": "2026-09-19",
+      "description": "도시철도 개발인력 수요 급증...인력 양성 '안간힘' Thông tấn xã Việt Nam (TTXVN)"
     },
     {
       "id": "ab7ad015a238922b",
@@ -632,6 +612,15 @@
       "description": "제물포구의회 김윤선 의원, 상권활성화 연구회 출범 매일일보"
     },
     {
+      "id": "252c34823f6eb138",
+      "title": "용인특례시의회 이제성 의원, GTX-A 구성역 환승 개선 촉구",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB4bGw2TzRkNF8wcEtPZUsxM2p5cDFnaUNObnZjTTBaLVlLYXY2Zi15YmNtMnhjalY4dWNFRnl0ZWFGbzIyT0tRa2YzNUZIM09sek9wbDNLcXdWNXhyR1AtcjUzOEMzTHp60gFoQVVfeXFMUHhsbDZPNGQ0XzBwS09lSzEzanlwMWdpQ05udmNNMFotWUthdjZmLXliY20yeGNqVjh1Y0VGeXRlYUZvMjJPS1FrZjM1RkgzT2x6T3BsM0txd1Y1eHJHUC1yNTM4QzNMeno?oc=5",
+      "source": "매일일보",
+      "category": "기사",
+      "date": "2026-09-18",
+      "description": "용인특례시의회 이제성 의원, GTX-A 구성역 환승 개선 촉구 매일일보"
+    },
+    {
       "id": "e6ec884d3e31a4c4",
       "title": "\"자동차로 1시간 거리 15분만에\"… 서대구역 UAM 사업 청사진 나왔다",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE10M2t0Yjd5ZUNrZVZOLTBYeHdTSVVlQ0lhdTdkVGFPbFhfX3NSS0pRVm1EMDFtcUpqQUlpR09fSjBhbjRXclowY1FaYXI1N25rY0FDRnRoYndlcEJfYzJQNUVB?oc=5",
@@ -936,6 +925,15 @@
       "category": "기사",
       "date": "2026-09-18",
       "description": "[아유경제_부동산] 양천구, 신정재정비촉진지구 재정비촉진계획 변경… 용적률 최대 440%까지 완화 areyou.co.kr"
+    },
+    {
+      "id": "5baaa11982cc406c",
+      "title": "새만금 수변도시 단독주택용지 45필지 추가 분양",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5keU83NGNkelVENGxHekgwM2h0MkVmU1BaNlF2UE4zdklud1V4QVhKQmVnM1VBREFvY2Y5VkRKZ3IxRXo5Y0dXUmJ4ZWxFU3c2T2FyaEstUEZGRFE?oc=5",
+      "source": "KBS 뉴스",
+      "category": "기사",
+      "date": "2026-09-18",
+      "description": "새만금 수변도시 단독주택용지 45필지 추가 분양 KBS 뉴스"
     },
     {
       "id": "cd772a83c0218f73",
@@ -1496,6 +1494,15 @@
       "description": "의왕시의회 김태흥 의원, 소상공인 지원 골목상권까지 확대 신아일보"
     },
     {
+      "id": "f3d4581a4f525a9f",
+      "title": "[진주 24시] 진주시, 원도심 활성화 위해 시청 일부 부서 이전",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5xRjUydDJlRmx0dGZDVWRlUGdRcENULVMxcGp2Sk11SXl3UTg1dkRaVVlGbzd3eTFaOGJ1OUVYdk5IWVhERWRZeXltMnkwSU5HWm8wMXNCeHU0R2dOVlIxbXpPSVYxVmdFcTdjN2cwZ1BCOVXSAXNBVV95cUxOcUY1MnQyZUZsdHRmQ1VkZVBnUXBDVC1TMXBqdkpNdUl5d1E4NXZEWlVZRm83d3kxWjhidTlFWHZOSFlYREVkWXl5bTJ5MElOR1pvMDFzQnh1NEdnTlZSMW16T0lWMVZnRXE3YzdnMGdQQjlV?oc=5",
+      "source": "시사저널",
+      "category": "기사",
+      "date": "2026-09-17",
+      "description": "[진주 24시] 진주시, 원도심 활성화 위해 시청 일부 부서 이전 시사저널"
+    },
+    {
       "id": "0f9357acddc2c539",
       "title": "GTX-A 삼성역 관련 구상권 청구에 대한 서울시 입장",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5rc0h4N0lmRDdGM3d1M0ZqZnd4bE9iT19sUVNTZExCSG1RRWNGbEN2OG5LSk84MW9SMFZlVTJsWDRVcl9ESkw3XzZ2dVRtOHlhNDh5QXlMcng?oc=5",
@@ -1928,6 +1935,15 @@
       "description": "임대차계약 갱신도 추가 인정…매수자 무주택 요건ㆍ2년 간 거주의무는 유지 국토교통부"
     },
     {
+      "id": "8db7414e773bde4e",
+      "title": "임대 중인 주택에 대한 실거주 유예 신청 기한을 ’27.12.31일까지 연장, 임대차계약 갱신도 추가 인정…매수자 무주택 요건ㆍ2년 간 거주의무는 유지",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5EeXhzcGRlQ0dMVFBobjhvRUlnLWp5RWJwV3N1Uml6NDF0T2FrNjk2SXM3ZXNGTFNtT2RXMGVMZlJSUWJXVmZhNDJQTXdiUmJwYVI5ZTRDcUpsRjBwTmZUVmJlT2RDTVR6T3ZEcjdMRFlIalFOT19z?oc=5",
+      "source": "국토교통부",
+      "category": "정책",
+      "date": "2026-09-17",
+      "description": "임대 중인 주택에 대한 실거주 유예 신청 기한을 ’27.12.31일까지 연장, 임대차계약 갱신도 추가 인정…매수자 무주택 요건ㆍ2년 간 거주의무는 유지 molit.go.kr"
+    },
+    {
       "id": "9e651d87814022ab",
       "title": "국토부, ‘5극 3특’ 뒷받침할 초광역교통 전략 연내 내놓는다",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPalhVa1VFNXFkZF90ZDR5QWRYRFdtSDRxeEVsNUdPX1pPdVpXV0FzeW5VVkVsYnBQY1J5TGRBWDdQSnhOckpJX3dpY29MYVRlRlduUDBzVmZrNDdlY2QyWGk4Q2FnQWlFVXplUGs0YVdsaU44aUFRYUZ4ejZpLXh0ZDBKMmVIRHJZRXM1Q2Fn?oc=5",
@@ -1971,78 +1987,6 @@
       "category": "기사",
       "date": "2026-09-17",
       "description": "양산도시철도 운임, 일반 1600원·청소년 1050원·어린이 무료 경남도민일보"
-    },
-    {
-      "id": "4ade21f5bfceed90",
-      "title": "인천시, 노후계획도시 선도지구 6곳에 ‘총괄계획가’ 배치",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB5S0JZSFVIdElKTjlSd3FpakpwNkFiWTA5V3ZEOC02SU9fbGtVd3M0dVByWVVSSU53NVZzVDNiWjQ3YWdsbUticUV2YTVSa19MNmxvblRNcDdta28?oc=5",
-      "source": "경기일보",
-      "category": "기사",
-      "date": "2026-09-17",
-      "description": "인천시, 노후계획도시 선도지구 6곳에 ‘총괄계획가’ 배치 경기일보"
-    },
-    {
-      "id": "20eb0d3c6ba45628",
-      "title": "주형철 부지사, 용인 반도체클러스터 일반산업단지 현장 찾아 조성 상황 점검. 용수 공급과 방류수 저감 방안 등 논의",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPYTllNzgxVjlOSVUtemNtSm5sN3A3NlB1YWNTZUE5LW5zWWttaWJlbzgyOGJKb2huOXR1SWxoNVV5VlJ6SnJuU2RzZ3lqZ3JrRVRjbExrUnBKNkFNX2U3X29nbHlTUE5GbDRiczlUbnFUekdIN0FXU3A5STg1blRjTU9nZU4?oc=5",
-      "source": "경기도",
-      "category": "정책",
-      "date": "2026-09-17",
-      "description": "주형철 부지사, 용인 반도체클러스터 일반산업단지 현장 찾아 조성 상황 점검. 용수 공급과 방류수 저감 방안 등 논의 경기도뉴스포털"
-    },
-    {
-      "id": "820f47c27d92a9ed",
-      "title": "비어 있는 공간을 도시의 가능성으로… 광명시, 빈집플래너 17명 양성",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA2bFlmSzJYN210YkJPMWR4TjB1a0JFQzFOS1BqNVZlS00zeWxFRTY0dEdYa0Joc0V3ZmxJOVpDMXdJdG1uVzRSN3dMVFh4MUVfMHAxRF9YQlNscWRmZEtzUw?oc=5",
-      "source": "경기경제신문",
-      "category": "기사",
-      "date": "2026-09-17",
-      "description": "비어 있는 공간을 도시의 가능성으로… 광명시, 빈집플래너 17명 양성 경기경제신문"
-    },
-    {
-      "id": "3d84c9cc8b86e651",
-      "title": "[영상] 홍천역 역세권 개발, 원도심 가까워야…광역철도가 바꿀 홍천의 미래",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9UM09xVzUzZ3FNN0JJc2c1V3J5YlRjSlVGWldMM0lNOGM2cS16OVZhUTFrd1ZQTkZILTYxSUpQREFoMjl0Qjk2cXd1Z2dxSHZtYnVnNjZsaEZ1d3M?oc=5",
-      "source": "강원일보",
-      "category": "기사",
-      "date": "2026-09-17",
-      "description": "[영상] 홍천역 역세권 개발, 원도심 가까워야…광역철도가 바꿀 홍천의 미래 강원일보"
-    },
-    {
-      "id": "1827a6ac8043ebc4",
-      "title": "제주동부지구 단독주택용지 10필지 첫 공급",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE00cFZWNkRZYVVUdHBJdTdmRzc0a243eUJFMlA1bXE3Zm1qcUVrVE5ScVM3bGoxY3h1cGZmcDVnSHBOY2gtNGMwVjI1b3RmWGM?oc=5",
-      "source": "v.daum.net",
-      "category": "기사",
-      "date": "2026-09-17",
-      "description": "제주동부지구 단독주택용지 10필지 첫 공급 v.daum.net"
-    },
-    {
-      "id": "8562180eaa442d56",
-      "title": "신정네거리역 일대 고밀개발 길 열렸다…준주거 용적률 최대 440%",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9mMVItUnN6WkNiSF9uVkR6R1ppME5ONlQ0RU1VWDMwaVo5M3hjYkM2alA3UWkyS09YV194cWVNYmxZR0tmbVl0cklGRGFwYUU?oc=5",
-      "source": "v.daum.net",
-      "category": "기사",
-      "date": "2026-09-17",
-      "description": "신정네거리역 일대 고밀개발 길 열렸다…준주거 용적률 최대 440% v.daum.net"
-    },
-    {
-      "id": "a2bac2e5ba39b90b",
-      "title": "밀도·연마·정진의 시간…장인의 '궤적' 조명",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5jajJyeXdUV0ZXWEdjQnNlT3RlV1ZfUHZDUTNud1NEMDJxX0RQaldYOVJfS1Z5THdWVlltR05iT25SOEhJY0tZZTJaeWFwTEk?oc=5",
-      "source": "v.daum.net",
-      "category": "기사",
-      "date": "2026-09-17",
-      "description": "밀도·연마·정진의 시간…장인의 '궤적' 조명 v.daum.net"
-    },
-    {
-      "id": "36e75c985d8912a8",
-      "title": "인천 제물포역 일대 도시재생 본격화…거점시설 준공 앞둬",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE45dEx0UVU3SmdGakhIaDQzOTdKNGtwMklTbGJnUW1hdmJUUW0xTVR5bFgydGp2RFZQR1lmYnB3NEoya3BhTlpxV05IQ3pic0E?oc=5",
-      "source": "v.daum.net",
-      "category": "기사",
-      "date": "2026-09-17",
-      "description": "인천 제물포역 일대 도시재생 본격화…거점시설 준공 앞둬 v.daum.net"
     }
   ]
 }
