@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-09-20 12:04 KST",
+  "updated_at": "2026-09-20 18:40 KST",
   "coverage": {
-    "items": 18769,
+    "items": 18795,
     "oldest": "2025-09-21",
     "newest": "2026-09-20",
     "days_covered": 365,
@@ -10,15 +10,15 @@
   "weekly": [
     {
       "topic": "재건축·재개발·정비사업",
-      "count": 263,
-      "trend_label": "직전 동일기간보다 39건 감소",
+      "count": 269,
+      "trend_label": "직전 동일기간보다 33건 감소",
       "analyzed_count": 15,
       "summary": {
         "points": [
           {
             "label": "사업·공급",
-            "text": "정비 추진·사업 추진·계획 수립 흐름이 9건의 자료에서 확인됐다.",
-            "evidence_count": 9
+            "text": "정비 추진·사업 추진·계획 수립 흐름이 10건의 자료에서 확인됐다.",
+            "evidence_count": 10
           }
         ],
         "note": "",
@@ -53,8 +53,8 @@
     },
     {
       "topic": "철도·광역교통·역세권",
-      "count": 210,
-      "trend_label": "직전 동일기간보다 86건 감소",
+      "count": 213,
+      "trend_label": "직전 동일기간보다 83건 감소",
       "analyzed_count": 15,
       "summary": {
         "points": [
@@ -64,14 +64,14 @@
             "evidence_count": 15
           },
           {
-            "label": "사업·공급",
-            "text": "사업 착공 흐름이 5건의 자료에서 확인됐다.",
-            "evidence_count": 5
+            "label": "정책·제도",
+            "text": "사업 공모 관련 움직임이 4건의 자료에서 반복됐다.",
+            "evidence_count": 4
           },
           {
-            "label": "정책·제도",
-            "text": "사업 공모 관련 움직임이 2건의 자료에서 반복됐다.",
-            "evidence_count": 2
+            "label": "사업·공급",
+            "text": "사업 착공 흐름이 3건의 자료에서 확인됐다.",
+            "evidence_count": 3
           }
         ],
         "note": "",
@@ -79,35 +79,35 @@
       },
       "examples": [
         {
+          "title": "철도연, ‘제4회 대도시권 광역교통혁신 공모전’ 시상식 개최",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9NRmlMNzVWaU9YMUphZko1Mm8zMXp6Rk9RaXY1QzFmZi1VanZXX01HZ0lLZUpHWXNhMU5ZUFUxN2JXV0o1NnduRmVfZ2dNdEhvdGk4a0hOUDZSMDNkN2NHYXpRYkpQY1NlZkQ0V19rWlptUTg?oc=5",
+          "source": "대한경제",
+          "date": "2026-09-20"
+        },
+        {
+          "title": "요금 확정한 양산도시철도, 이번에도 다자녀 감면 빠졌다",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNaFp2TzBlaE9SaTJkUkNqcmZvNXlmMlA3VWh2ME04eWFkdzNYLXdpQzNsMUViQzRMWnhBRjBmNEVZejBZYWx0ZXQyNHcxdk41dkd0eXpOQjNJQm8zcXZQbzljcUJtcjJGYkpvRmdpb1NxbnZGS0lqNW9OSGVkSDd6YmlBSlFHOHMtcEhhdmVn?oc=5",
+          "source": "kookje.co.kr",
+          "date": "2026-09-20"
+        },
+        {
           "title": "철도연, '대도시권 광역교통혁신 공모전' 우수팀 4팀 선정",
           "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE44MjZUV1NjekVMTkI0dnhVRGdtRDk2amV3emVBLW1pTWoxa3FGVGp1UktUdDFxeUoxVmVJeUg1M1ZoZUljTWJTeHhmcjQwQQ?oc=5",
           "source": "etnews.com",
           "date": "2026-09-20"
         },
         {
-          "title": "도시철도 개발인력 수요 급증...인력 양성 '안간힘'",
-          "url": "https://news.google.com/rss/articles/CBMi0wVBVV95cUxOQVZyUGZUeWF5NGRxb1JhNm9KRjNiRndfaTd4MkFuTFQ3ekpFaUpXTHRQc3BNdXpYR3hwZzlhVTFrRXRoWjd3cVl3LVFGTDBqcGxlSVZ0WnAwa2ltMUFfZWVraFBsODM2U1B5RjBLOFBLRERxOWlOejY4MmRLR2xWM0plZEM0TWcxeGVSc0ZCaXlQUkpqWGItaXZ2cnRJMmw1YzRvakxVSzUxMTNWazR3aVRyOVVEUmRQZ0d3bGFERW5XaVNoNzVCeGptTjducG5PXzNEVks3MHFMYUVpaVozME1UcndQWUdkUVVvdkVQV2tLMzJfSnpoX05QUkVuVlV2alFXVlh0cXpPYkpxSmZWY2RXamMtcnM3Tkg0ZkYteXc0aVNSNk5rSzl3aHl1QWdwM1kzekZlcFg1WlltLVVkZkF2LVZPRXZjZFRJNm84MmVodXFIWUZrMVI2S0NXTUhqTmltLVdKVXlfQlRUdXV3MlR1TEk3NmNWbkFRVDdkQnRnU2dVdkE4VU9ER1dLdEtza1pZZEJ3Z0haeEVDR2V5NmlhdjlwNUxYV3RqRnUtbDJHTlJKSmNGeklBWDVpdlFMX0tyTngzbmxjV3NCSmQxQUFfZ3k3cXAxQWRqelZLclpHR3N1SlVpMUJlbHpPRTJQVGc4ZWI0NGdqQWdLVlRKTEZUdUNIZUJHdUxRVkZaQlJVekt5SmdoZkVjVUZyQkhsSE9ONjJqVzh3NnV4MXBCRUswR29sTUR4aDNRSWRaZ3Z0SU1iYUZoeFNvRlJneDluOTVkN2F4Nk9YRl92TXVuRUVicWUzV1JjRjNpc3lZSHpFSEpPSWdtQkIwQ2dCUGtwbUpNRThLQXdGOUlOZEZhQUpWZFFYR0FSeTV5S19UWUdfT3FhY0FKR1lwTE84YW5Lck5RcnVyQTEyTHlHbEJZUXVYUzN6THUyVkhKel93UWRBZjA?oc=5",
-          "source": "Thông tấn xã Việt Nam (TTXVN)",
+          "title": "철도연, ‘2026 대도시권 광역교통혁신 공모전’ 우수 4개팀 선정",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA5ZUF0YkdnR1ZrdW05OTRTc1dnRWZNei00NU9TYzA2NC1NU3ljdW42M1Y2RU4xYlZiWHZCT1A0d2RkazVadkRPTjQwT3FxbUZpMmNVdUszWWFpdXo3bWFOQ0trUm8?oc=5",
+          "source": "국토일보",
           "date": "2026-09-19"
-        },
-        {
-          "title": "인천교통공사, 26~27일 추석 연휴 도시철도 심야 연장 운행",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9NaXVySTF1QmNaWXlXZHhkTjhNSTZXTW9MRUl3Z1FsTTExbUVPTU4xUWN2Zm81UHA1a1lLNVdKaDUzaWVZZ1ZSS3o4b0RDNDNhLUxTNVJ0Tk1SNE0yQ2ZhejZ5NzNCRFg0anFJdk1VZHM?oc=5",
-          "source": "인천투데이",
-          "date": "2026-09-18"
-        },
-        {
-          "title": "이제성 용인시의원 “GTX-A 구성역, 버스·철도 시간까지 연결해야”",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5Cbmhab3FEU2FIa2VPLUtyQVdOZngwdXRCTTNJUmd1MEZRblRsTi13STltVGJhby1VMW9xUTRwai04Q1UyVzJHZWk3SXNLRjF5SXpnMDc0bjFwUjV6U19EdA?oc=5",
-          "source": "아시아경제",
-          "date": "2026-09-18"
         }
       ]
     },
     {
       "topic": "도시재생·빈집·원도심",
-      "count": 185,
-      "trend_label": "직전 동일기간보다 47건 감소",
+      "count": 187,
+      "trend_label": "직전 동일기간보다 45건 감소",
       "analyzed_count": 15,
       "summary": {
         "points": [
@@ -154,20 +154,20 @@
     },
     {
       "topic": "국토계획·용도지역·규제",
-      "count": 177,
-      "trend_label": "직전 동일기간보다 1건 증가",
+      "count": 180,
+      "trend_label": "직전 동일기간보다 4건 증가",
       "analyzed_count": 15,
       "summary": {
         "points": [
           {
             "label": "사업·공급",
-            "text": "정비 추진·계획 수립·사업 준공 흐름이 10건의 자료에서 확인됐다.",
-            "evidence_count": 10
+            "text": "정비 추진·계획 수립·사업 준공 흐름이 8건의 자료에서 확인됐다.",
+            "evidence_count": 8
           },
           {
             "label": "공간·생활권",
-            "text": "개발밀도 변화가 6건의 자료에서 공간 변화의 핵심으로 나타났다.",
-            "evidence_count": 6
+            "text": "개발밀도 변화가 5건의 자료에서 공간 변화의 핵심으로 나타났다.",
+            "evidence_count": 5
           },
           {
             "label": "정책·제도",
@@ -207,8 +207,8 @@
     },
     {
       "topic": "상권·골목경제·생활권",
-      "count": 92,
-      "trend_label": "직전 동일기간보다 37건 감소",
+      "count": 96,
+      "trend_label": "직전 동일기간보다 33건 감소",
       "analyzed_count": 15,
       "summary": {
         "points": [
@@ -240,16 +240,16 @@
           "date": "2026-09-14"
         },
         {
-          "title": "용인시 “골목상권에 온기를”…동백역서 시민 참여형 축제 열렸다",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1IaXlseC1DTVByMmtCQXR2OGFMdkVhQktiZl9MSU8wdGRjalM2UUN6UXZ2YTFDeTVjd0E3Y1NFYWNjaGt4U0V5UzFqZnNxZ2RSYzByaVowT3FITG9GRlUxdA?oc=5",
-          "source": "아시아경제",
-          "date": "2026-09-19"
+          "title": "\"추석엔 골목상권·동네 가게 이용해주세요\"",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9lbGg2bnZjcGR5ZkFIamluLUk1VzdEYjZZZlQ0ZjVoTlBvTGpDZ1VtOV8tM2xEeGtya24zaFFaVndMdUNFM3RnclBiaDJxYkQydzZ6ZjJnbTFrekR6OGc5Vk9tNDZMSGFFLXfSAW9BVV95cUxNTGVwQzdRTGNiWE1ZQUR5UndFeHdOY1d6ejR3WnNUZ18tUzU0M1NOQnROVGZPbnhoTF9EV29YeWNRbExLRlA4YXlnRWx5UmRVVVVpbWh6NlA1X1NQcDl0V1VjT3JQSUtmR3A3YzhpS0E?oc=5",
+          "source": "머니투데이",
+          "date": "2026-09-20"
         },
         {
-          "title": "BC카드-중구청, 골목상권 살리는 '친환경 소비' 맞손",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE42TzhXMW4yVGsyQmw4VE52MnNZdkd0b0kwZl91NW1XT09abzd2eFhlUWN1c3Bic0VjVVllRVJpWjZOX1YyOXVvVmQwb2MyemR3dEdPVlpjRmhuTm_SAWBBVV95cUxQVjc4T1lPSmsyblFqaFRrQ3lXVHRzdnZ0WFJDRTFZY0NWMG9pQzBNZks3N3NNbGFXX0FCVXNTenphdHBIUFlNTklvWWNseUhVV0ljQTM1MzZDbjJPcjBpNFA?oc=5",
-          "source": "연합뉴스",
-          "date": "2026-09-18"
+          "title": "추석 대목 앞둔 골목상권 온기 찾기…포항시의회 경산위, 연일시장 장보기 동참",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE04TVo5ek9tRFVEVUhsRHlQbDY0eXkxMXJKMTRCbGQyeVJTUTFPN0RmNWtES1JQUmJzX1dlVEpEMGRqX2lGMjQwMkRwUGx5YUk?oc=5",
+          "source": "v.daum.net",
+          "date": "2026-09-20"
         }
       ]
     },
@@ -303,8 +303,8 @@
     },
     {
       "topic": "주택공급·공공주택",
-      "count": 32,
-      "trend_label": "직전 동일기간보다 7건 감소",
+      "count": 33,
+      "trend_label": "직전 동일기간보다 6건 감소",
       "analyzed_count": 15,
       "summary": {
         "points": [
@@ -351,8 +351,8 @@
     },
     {
       "topic": "지역소멸·균형발전",
-      "count": 26,
-      "trend_label": "직전 동일기간보다 8건 증가",
+      "count": 27,
+      "trend_label": "직전 동일기간보다 9건 증가",
       "analyzed_count": 15,
       "summary": {
         "points": [
@@ -373,6 +373,12 @@
           "date": "2026-09-16"
         },
         {
+          "title": "‘5극3특’ 성패, 결국 교통에 달렸다",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9IZHZ2b0ZjZV9KNFVDTlhiSnBkZUY3cXFHVzlHdGpIZVM4MUZIOUpJWFQtWG5fMzlfaEszaWhPWkZSYnJKSVozU2tzcEpzakJESU1XZUZTVzlMaTlMSVJqMnAwX3VlbkU?oc=5",
+          "source": "국토교통신문",
+          "date": "2026-09-18"
+        },
+        {
           "title": "5극3특 초광역교통망, 연내 밑그림 나온다",
           "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFAxa3h3VnJuc2twY3ExYTlRMFd0VjdxWDlXU2J6YmNLTWVyOG9qaktkSFFWSzBheEVrdHYyLTdVNTZDVnVhUF8xWHVwcmo4WWVJZnlDQzQ0MEhnM3NEWndGNmdB?oc=5",
           "source": "티제이비",
@@ -382,12 +388,6 @@
           "title": "대광위, 초광역교통 정책포럼 구성…5극3특 연계 정책 마련",
           "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5hMHVTNnd0aHQ5YVFCQ1NQUmZ5QjhtWldmWG1qZ0NweFV3cENMRE5zZlJIR1N5cVJiLXJISGM5cXJQOElrbjFaaGt6MVRiQWFLWmhpRElMS3lqa3lleWpxTkZOQlppanlrVXfSAW9BVV95cUxQNXFMNG1FZHdfRG9lbXdLdmJSd0x2akxHQ0F2aFYwQ2txZHJiVy00X3Z2NXBnT1NhdkdMaU1KdGNSczEtMzdnZ3pna2ZMVldLSDVELVZDd202MGtSWnZIdXh2dllIZjBJMFFwU0o3azg?oc=5",
           "source": "머니투데이",
-          "date": "2026-09-17"
-        },
-        {
-          "title": "“시·도 경계 허물어 하나의 생활권 만든다”…정부, ‘5극3특’ 교통망 새로 짠다",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1PWVVYYnJQV19vNC10Mm1FTFRIZXdEckhmRU1mWi1KWGNMVWNuSVY5XzZRY2hzdjBQQ0tsQWRsLUxNdk1DV2I1LTZSOG4yLW5OQm9jOFlHc1h2WlVTTFF2RGU1VE8?oc=5",
-          "source": "디지털데일리",
           "date": "2026-09-17"
         }
       ]
@@ -406,7 +406,7 @@
           },
           {
             "label": "사업·공급",
-            "text": "기능·기업 유치·공급 확대·공간·시설 조성 흐름이 4건의 자료에서 확인됐다.",
+            "text": "기능·기업 유치·공간·시설 조성·공급 확대 흐름이 4건의 자료에서 확인됐다.",
             "evidence_count": 4
           },
           {
@@ -447,9 +447,9 @@
     },
     {
       "topic": "토지·부동산시장",
-      "count": 10,
-      "trend_label": "직전 동일기간보다 34건 감소",
-      "analyzed_count": 9,
+      "count": 11,
+      "trend_label": "직전 동일기간보다 33건 감소",
+      "analyzed_count": 10,
       "summary": {
         "points": [
           {
@@ -479,6 +479,12 @@
           "date": "2026-09-14"
         },
         {
+          "title": "[직격! 부동산] “투기 잡겠다더니 농사꾼 잡나”…284만 필지 뒤흔든 농지 전수조사",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5UdzA2WlBEemlGaENkc1JlWkdyZWx5blZ4ckxvc0tPQmltMmVsckxsM3dZajZVUU44akFIY1N2b204ZFNIQ1JSMXAwYU02MWFqNERwTVVtbTR3dkVFNW51Y2JLeHExVzBoQUY0dXV5NTk1VGPSAXdBVV95cUxPcTI2ajNnSGtBUktRN1FuS0VQYkhhVHdrd3I2SXl1clV5WHJ6VnBZeGE1WnMwSV8xS09YLVZ5S3lScTVXUGxjN2ZIa0hUcm03aGNCc3MwZ1JiQU5CdUlFdy00cFdoNl81S3ZLZFRkVFZqbzUxc2s0RQ?oc=5",
+          "source": "핀포인트뉴스",
+          "date": "2026-09-20"
+        },
+        {
           "title": "[AI로 본 부동산] 서울 재건축 아파트, 지금 사면 입주는 언제쯤",
           "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE55S084ZEJqWmRZQVI2NnZ5T1Z3bVdla1FIQTd2aktObncxbDZoS3BSOHJDQm45eUlwQmUwNzVxWU5ycGc4bHctRlRQNHBLOEMta2lnM2Izcmdpd1Zj?oc=5",
           "source": "뉴스핌",
@@ -489,12 +495,6 @@
           "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5JWndKdk9QZ2Y1eGhXbjh0V25FRDI3T3ZfQklfcEFQTk5nbnVjb1QxazVQVUhxZzlSNXU2X3Jndk83Q2M4Rm1FbTJ2ODFVOFlxOV93RzVuR2lzZHZ1UjNEQjRuYkg2c3pw?oc=5",
           "source": "areyou.co.kr",
           "date": "2026-09-18"
-        },
-        {
-          "title": "광운대역세권 장기전세주택 건립 본격화… 건축심의 통과",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE41TGNkQWVfSGhnSzV5WXJTcE44SUtvNEI4eWtVTUtfeVBRQkZjZzJrTkliS1dnZXFia0hKU1M3amFrWUZ1bU9EQjEzU1A3NklUaG1VMy1jc2NCeXdXT3QzYjBXcFp2SzRR?oc=5",
-          "source": "한국주택경제신문",
-          "date": "2026-09-17"
         }
       ]
     }
@@ -502,8 +502,8 @@
   "monthly": [
     {
       "topic": "재건축·재개발·정비사업",
-      "count": 1389,
-      "trend_label": "직전 동일기간보다 12건 증가",
+      "count": 1395,
+      "trend_label": "직전 동일기간보다 18건 증가",
       "analyzed_count": 15,
       "summary": {
         "points": [
@@ -545,8 +545,8 @@
     },
     {
       "topic": "철도·광역교통·역세권",
-      "count": 1131,
-      "trend_label": "직전 동일기간보다 22건 증가",
+      "count": 1134,
+      "trend_label": "직전 동일기간보다 25건 증가",
       "analyzed_count": 15,
       "summary": {
         "points": [
@@ -556,14 +556,14 @@
             "evidence_count": 15
           },
           {
-            "label": "사업·공급",
-            "text": "사업 착공 흐름이 5건의 자료에서 확인됐다.",
-            "evidence_count": 5
+            "label": "정책·제도",
+            "text": "사업 공모 관련 움직임이 4건의 자료에서 반복됐다.",
+            "evidence_count": 4
           },
           {
-            "label": "정책·제도",
-            "text": "사업 공모 관련 움직임이 2건의 자료에서 반복됐다.",
-            "evidence_count": 2
+            "label": "사업·공급",
+            "text": "사업 착공 흐름이 3건의 자료에서 확인됐다.",
+            "evidence_count": 3
           }
         ],
         "note": "",
@@ -571,35 +571,35 @@
       },
       "examples": [
         {
+          "title": "철도연, ‘제4회 대도시권 광역교통혁신 공모전’ 시상식 개최",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9NRmlMNzVWaU9YMUphZko1Mm8zMXp6Rk9RaXY1QzFmZi1VanZXX01HZ0lLZUpHWXNhMU5ZUFUxN2JXV0o1NnduRmVfZ2dNdEhvdGk4a0hOUDZSMDNkN2NHYXpRYkpQY1NlZkQ0V19rWlptUTg?oc=5",
+          "source": "대한경제",
+          "date": "2026-09-20"
+        },
+        {
+          "title": "요금 확정한 양산도시철도, 이번에도 다자녀 감면 빠졌다",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNaFp2TzBlaE9SaTJkUkNqcmZvNXlmMlA3VWh2ME04eWFkdzNYLXdpQzNsMUViQzRMWnhBRjBmNEVZejBZYWx0ZXQyNHcxdk41dkd0eXpOQjNJQm8zcXZQbzljcUJtcjJGYkpvRmdpb1NxbnZGS0lqNW9OSGVkSDd6YmlBSlFHOHMtcEhhdmVn?oc=5",
+          "source": "kookje.co.kr",
+          "date": "2026-09-20"
+        },
+        {
           "title": "철도연, '대도시권 광역교통혁신 공모전' 우수팀 4팀 선정",
           "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE44MjZUV1NjekVMTkI0dnhVRGdtRDk2amV3emVBLW1pTWoxa3FGVGp1UktUdDFxeUoxVmVJeUg1M1ZoZUljTWJTeHhmcjQwQQ?oc=5",
           "source": "etnews.com",
           "date": "2026-09-20"
         },
         {
-          "title": "도시철도 개발인력 수요 급증...인력 양성 '안간힘'",
-          "url": "https://news.google.com/rss/articles/CBMi0wVBVV95cUxOQVZyUGZUeWF5NGRxb1JhNm9KRjNiRndfaTd4MkFuTFQ3ekpFaUpXTHRQc3BNdXpYR3hwZzlhVTFrRXRoWjd3cVl3LVFGTDBqcGxlSVZ0WnAwa2ltMUFfZWVraFBsODM2U1B5RjBLOFBLRERxOWlOejY4MmRLR2xWM0plZEM0TWcxeGVSc0ZCaXlQUkpqWGItaXZ2cnRJMmw1YzRvakxVSzUxMTNWazR3aVRyOVVEUmRQZ0d3bGFERW5XaVNoNzVCeGptTjducG5PXzNEVks3MHFMYUVpaVozME1UcndQWUdkUVVvdkVQV2tLMzJfSnpoX05QUkVuVlV2alFXVlh0cXpPYkpxSmZWY2RXamMtcnM3Tkg0ZkYteXc0aVNSNk5rSzl3aHl1QWdwM1kzekZlcFg1WlltLVVkZkF2LVZPRXZjZFRJNm84MmVodXFIWUZrMVI2S0NXTUhqTmltLVdKVXlfQlRUdXV3MlR1TEk3NmNWbkFRVDdkQnRnU2dVdkE4VU9ER1dLdEtza1pZZEJ3Z0haeEVDR2V5NmlhdjlwNUxYV3RqRnUtbDJHTlJKSmNGeklBWDVpdlFMX0tyTngzbmxjV3NCSmQxQUFfZ3k3cXAxQWRqelZLclpHR3N1SlVpMUJlbHpPRTJQVGc4ZWI0NGdqQWdLVlRKTEZUdUNIZUJHdUxRVkZaQlJVekt5SmdoZkVjVUZyQkhsSE9ONjJqVzh3NnV4MXBCRUswR29sTUR4aDNRSWRaZ3Z0SU1iYUZoeFNvRlJneDluOTVkN2F4Nk9YRl92TXVuRUVicWUzV1JjRjNpc3lZSHpFSEpPSWdtQkIwQ2dCUGtwbUpNRThLQXdGOUlOZEZhQUpWZFFYR0FSeTV5S19UWUdfT3FhY0FKR1lwTE84YW5Lck5RcnVyQTEyTHlHbEJZUXVYUzN6THUyVkhKel93UWRBZjA?oc=5",
-          "source": "Thông tấn xã Việt Nam (TTXVN)",
+          "title": "철도연, ‘2026 대도시권 광역교통혁신 공모전’ 우수 4개팀 선정",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA5ZUF0YkdnR1ZrdW05OTRTc1dnRWZNei00NU9TYzA2NC1NU3ljdW42M1Y2RU4xYlZiWHZCT1A0d2RkazVadkRPTjQwT3FxbUZpMmNVdUszWWFpdXo3bWFOQ0trUm8?oc=5",
+          "source": "국토일보",
           "date": "2026-09-19"
-        },
-        {
-          "title": "인천교통공사, 26~27일 추석 연휴 도시철도 심야 연장 운행",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9NaXVySTF1QmNaWXlXZHhkTjhNSTZXTW9MRUl3Z1FsTTExbUVPTU4xUWN2Zm81UHA1a1lLNVdKaDUzaWVZZ1ZSS3o4b0RDNDNhLUxTNVJ0Tk1SNE0yQ2ZhejZ5NzNCRFg0anFJdk1VZHM?oc=5",
-          "source": "인천투데이",
-          "date": "2026-09-18"
-        },
-        {
-          "title": "이제성 용인시의원 “GTX-A 구성역, 버스·철도 시간까지 연결해야”",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5Cbmhab3FEU2FIa2VPLUtyQVdOZngwdXRCTTNJUmd1MEZRblRsTi13STltVGJhby1VMW9xUTRwai04Q1UyVzJHZWk3SXNLRjF5SXpnMDc0bjFwUjV6U19EdA?oc=5",
-          "source": "아시아경제",
-          "date": "2026-09-18"
         }
       ]
     },
     {
       "topic": "국토계획·용도지역·규제",
-      "count": 913,
-      "trend_label": "직전 동일기간보다 1건 감소",
+      "count": 916,
+      "trend_label": "직전 동일기간보다 2건 증가",
       "analyzed_count": 15,
       "summary": {
         "points": [
@@ -646,8 +646,8 @@
     },
     {
       "topic": "도시재생·빈집·원도심",
-      "count": 867,
-      "trend_label": "직전 동일기간보다 47건 감소",
+      "count": 869,
+      "trend_label": "직전 동일기간보다 45건 감소",
       "analyzed_count": 15,
       "summary": {
         "points": [
@@ -694,8 +694,8 @@
     },
     {
       "topic": "상권·골목경제·생활권",
-      "count": 511,
-      "trend_label": "직전 동일기간보다 102건 감소",
+      "count": 515,
+      "trend_label": "직전 동일기간보다 98건 감소",
       "analyzed_count": 15,
       "summary": {
         "points": [
@@ -742,20 +742,20 @@
     },
     {
       "topic": "토지·부동산시장",
-      "count": 191,
-      "trend_label": "직전 동일기간보다 10건 증가",
+      "count": 192,
+      "trend_label": "직전 동일기간보다 11건 증가",
       "analyzed_count": 15,
       "summary": {
         "points": [
           {
             "label": "공간·생활권",
-            "text": "역세권 재편·빈집 관리·개발밀도 변화가 6건의 자료에서 공간 변화의 핵심으로 나타났다.",
-            "evidence_count": 6
+            "text": "역세권 재편·빈집 관리·개발밀도 변화가 5건의 자료에서 공간 변화의 핵심으로 나타났다.",
+            "evidence_count": 5
           },
           {
             "label": "시장·비용",
-            "text": "지가 변화·거래 변화·사업성 문제가 5건의 자료에서 주요 관심사로 나타났다.",
-            "evidence_count": 5
+            "text": "거래 변화·지가 변화·사업성 문제가 4건의 자료에서 주요 관심사로 나타났다.",
+            "evidence_count": 4
           },
           {
             "label": "정책·제도",
@@ -780,23 +780,23 @@
           "date": "2026-09-10"
         },
         {
+          "title": "[직격! 부동산] “투기 잡겠다더니 농사꾼 잡나”…284만 필지 뒤흔든 농지 전수조사",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5UdzA2WlBEemlGaENkc1JlWkdyZWx5blZ4ckxvc0tPQmltMmVsckxsM3dZajZVUU44akFIY1N2b204ZFNIQ1JSMXAwYU02MWFqNERwTVVtbTR3dkVFNW51Y2JLeHExVzBoQUY0dXV5NTk1VGPSAXdBVV95cUxPcTI2ajNnSGtBUktRN1FuS0VQYkhhVHdrd3I2SXl1clV5WHJ6VnBZeGE1WnMwSV8xS09YLVZ5S3lScTVXUGxjN2ZIa0hUcm03aGNCc3MwZ1JiQU5CdUlFdy00cFdoNl81S3ZLZFRkVFZqbzUxc2s0RQ?oc=5",
+          "source": "핀포인트뉴스",
+          "date": "2026-09-20"
+        },
+        {
           "title": "[AI로 본 부동산] 서울 재건축 아파트, 지금 사면 입주는 언제쯤",
           "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE55S084ZEJqWmRZQVI2NnZ5T1Z3bVdla1FIQTd2aktObncxbDZoS3BSOHJDQm45eUlwQmUwNzVxWU5ycGc4bHctRlRQNHBLOEMta2lnM2Izcmdpd1Zj?oc=5",
           "source": "뉴스핌",
           "date": "2026-09-19"
-        },
-        {
-          "title": "[아유경제_부동산] 양천구, 신정재정비촉진지구 재정비촉진계획 변경… 용적률 최대 440%까지 완화",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5JWndKdk9QZ2Y1eGhXbjh0V25FRDI3T3ZfQklfcEFQTk5nbnVjb1QxazVQVUhxZzlSNXU2X3Jndk83Q2M4Rm1FbTJ2ODFVOFlxOV93RzVuR2lzZHZ1UjNEQjRuYkg2c3pw?oc=5",
-          "source": "areyou.co.kr",
-          "date": "2026-09-18"
         }
       ]
     },
     {
       "topic": "주택공급·공공주택",
-      "count": 158,
-      "trend_label": "직전 동일기간보다 91건 감소",
+      "count": 159,
+      "trend_label": "직전 동일기간보다 90건 감소",
       "analyzed_count": 15,
       "summary": {
         "points": [
@@ -933,8 +933,8 @@
     },
     {
       "topic": "지역소멸·균형발전",
-      "count": 102,
-      "trend_label": "직전 동일기간보다 36건 증가",
+      "count": 103,
+      "trend_label": "직전 동일기간보다 37건 증가",
       "analyzed_count": 15,
       "summary": {
         "points": [
@@ -955,6 +955,12 @@
           "date": "2026-09-16"
         },
         {
+          "title": "‘5극3특’ 성패, 결국 교통에 달렸다",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9IZHZ2b0ZjZV9KNFVDTlhiSnBkZUY3cXFHVzlHdGpIZVM4MUZIOUpJWFQtWG5fMzlfaEszaWhPWkZSYnJKSVozU2tzcEpzakJESU1XZUZTVzlMaTlMSVJqMnAwX3VlbkU?oc=5",
+          "source": "국토교통신문",
+          "date": "2026-09-18"
+        },
+        {
           "title": "5극3특 초광역교통망, 연내 밑그림 나온다",
           "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFAxa3h3VnJuc2twY3ExYTlRMFd0VjdxWDlXU2J6YmNLTWVyOG9qaktkSFFWSzBheEVrdHYyLTdVNTZDVnVhUF8xWHVwcmo4WWVJZnlDQzQ0MEhnM3NEWndGNmdB?oc=5",
           "source": "티제이비",
@@ -965,12 +971,6 @@
           "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5hMHVTNnd0aHQ5YVFCQ1NQUmZ5QjhtWldmWG1qZ0NweFV3cENMRE5zZlJIR1N5cVJiLXJISGM5cXJQOElrbjFaaGt6MVRiQWFLWmhpRElMS3lqa3lleWpxTkZOQlppanlrVXfSAW9BVV95cUxQNXFMNG1FZHdfRG9lbXdLdmJSd0x2akxHQ0F2aFYwQ2txZHJiVy00X3Z2NXBnT1NhdkdMaU1KdGNSczEtMzdnZ3pna2ZMVldLSDVELVZDd202MGtSWnZIdXh2dllIZjBJMFFwU0o3azg?oc=5",
           "source": "머니투데이",
           "date": "2026-09-17"
-        },
-        {
-          "title": "“시·도 경계 허물어 하나의 생활권 만든다”…정부, ‘5극3특’ 교통망 새로 짠다",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1PWVVYYnJQV19vNC10Mm1FTFRIZXdEckhmRU1mWi1KWGNMVWNuSVY5XzZRY2hzdjBQQ0tsQWRsLUxNdk1DV2I1LTZSOG4yLW5OQm9jOFlHc1h2WlVTTFF2RGU1VE8?oc=5",
-          "source": "디지털데일리",
-          "date": "2026-09-17"
         }
       ]
     }
@@ -978,7 +978,7 @@
   "yearly": [
     {
       "topic": "재건축·재개발·정비사업",
-      "count": 5074,
+      "count": 5080,
       "trend_label": "최근 1년 누적",
       "analyzed_count": 15,
       "summary": {
@@ -1026,7 +1026,7 @@
     },
     {
       "topic": "철도·광역교통·역세권",
-      "count": 3502,
+      "count": 3505,
       "trend_label": "최근 1년 누적",
       "analyzed_count": 15,
       "summary": {
@@ -1038,13 +1038,13 @@
           },
           {
             "label": "정책·제도",
-            "text": "사업 공모·지원 확대 관련 움직임이 3건의 자료에서 반복됐다.",
-            "evidence_count": 3
+            "text": "사업 공모·지원 확대 관련 움직임이 5건의 자료에서 반복됐다.",
+            "evidence_count": 5
           },
           {
             "label": "사업·공급",
-            "text": "사업 착공·계획 수립 흐름이 3건의 자료에서 확인됐다.",
-            "evidence_count": 3
+            "text": "계획 수립·사업 착공 흐름이 2건의 자료에서 확인됐다.",
+            "evidence_count": 2
           }
         ],
         "note": "",
@@ -1079,7 +1079,7 @@
     },
     {
       "topic": "국토계획·용도지역·규제",
-      "count": 2822,
+      "count": 2825,
       "trend_label": "최근 1년 누적",
       "analyzed_count": 15,
       "summary": {
@@ -1127,7 +1127,7 @@
     },
     {
       "topic": "도시재생·빈집·원도심",
-      "count": 2696,
+      "count": 2698,
       "trend_label": "최근 1년 누적",
       "analyzed_count": 15,
       "summary": {
@@ -1175,7 +1175,7 @@
     },
     {
       "topic": "상권·골목경제·생활권",
-      "count": 1587,
+      "count": 1591,
       "trend_label": "최근 1년 누적",
       "analyzed_count": 15,
       "summary": {
@@ -1223,7 +1223,7 @@
     },
     {
       "topic": "주택공급·공공주택",
-      "count": 748,
+      "count": 749,
       "trend_label": "최근 1년 누적",
       "analyzed_count": 15,
       "summary": {
@@ -1324,7 +1324,7 @@
     },
     {
       "topic": "토지·부동산시장",
-      "count": 631,
+      "count": 632,
       "trend_label": "최근 1년 누적",
       "analyzed_count": 15,
       "summary": {
@@ -1341,7 +1341,7 @@
           },
           {
             "label": "정책·제도",
-            "text": "관리 강화·구역·사업 지정·규제 완화 관련 움직임이 2건의 자료에서 반복됐다.",
+            "text": "구역·사업 지정·관리 강화·규제 완화 관련 움직임이 2건의 자료에서 반복됐다.",
             "evidence_count": 2
           }
         ],
@@ -1430,7 +1430,7 @@
     },
     {
       "topic": "지역소멸·균형발전",
-      "count": 342,
+      "count": 343,
       "trend_label": "최근 1년 누적",
       "analyzed_count": 15,
       "summary": {
@@ -1464,10 +1464,10 @@
           "date": "2026-06-29"
         },
         {
-          "title": "5극3특 초광역교통망, 연내 밑그림 나온다",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFAxa3h3VnJuc2twY3ExYTlRMFd0VjdxWDlXU2J6YmNLTWVyOG9qaktkSFFWSzBheEVrdHYyLTdVNTZDVnVhUF8xWHVwcmo4WWVJZnlDQzQ0MEhnM3NEWndGNmdB?oc=5",
-          "source": "티제이비",
-          "date": "2026-09-17"
+          "title": "‘5극3특’ 성패, 결국 교통에 달렸다",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9IZHZ2b0ZjZV9KNFVDTlhiSnBkZUY3cXFHVzlHdGpIZVM4MUZIOUpJWFQtWG5fMzlfaEszaWhPWkZSYnJKSVozU2tzcEpzakJESU1XZUZTVzlMaTlMSVJqMnAwX3VlbkU?oc=5",
+          "source": "국토교통신문",
+          "date": "2026-09-18"
         }
       ]
     }
