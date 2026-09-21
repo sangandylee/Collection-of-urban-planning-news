@@ -1,17 +1,17 @@
 {
-  "updated_at": "2026-09-21 08:05 KST",
+  "updated_at": "2026-09-21 12:04 KST",
   "coverage": {
-    "items": 18833,
+    "items": 18883,
     "oldest": "2025-09-22",
-    "newest": "2026-09-20",
-    "days_covered": 364,
+    "newest": "2026-09-21",
+    "days_covered": 365,
     "complete": true
   },
   "weekly": [
     {
       "topic": "재건축·재개발·정비사업",
-      "count": 222,
-      "trend_label": "직전 동일기간보다 90건 감소",
+      "count": 237,
+      "trend_label": "직전 동일기간보다 75건 감소",
       "analyzed_count": 15,
       "summary": {
         "points": [
@@ -53,25 +53,25 @@
     },
     {
       "topic": "국토계획·용도지역·규제",
-      "count": 163,
-      "trend_label": "직전 동일기간보다 20건 감소",
+      "count": 177,
+      "trend_label": "직전 동일기간보다 6건 감소",
       "analyzed_count": 15,
       "summary": {
         "points": [
           {
             "label": "사업·공급",
-            "text": "계획 수립·정비 추진·사업 준공 흐름이 9건의 자료에서 확인됐다.",
-            "evidence_count": 9
+            "text": "정비 추진·계획 수립·사업 준공 흐름이 8건의 자료에서 확인됐다.",
+            "evidence_count": 8
           },
           {
             "label": "공간·생활권",
-            "text": "개발밀도 변화가 4건의 자료에서 공간 변화의 핵심으로 나타났다.",
-            "evidence_count": 4
+            "text": "개발밀도 변화·역세권 재편·빈집 관리가 5건의 자료에서 공간 변화의 핵심으로 나타났다.",
+            "evidence_count": 5
           },
           {
             "label": "정책·제도",
-            "text": "구역·사업 지정·규제 완화·관리 강화 관련 움직임이 3건의 자료에서 반복됐다.",
-            "evidence_count": 3
+            "text": "구역·사업 지정·지원 확대 관련 움직임이 2건의 자료에서 반복됐다.",
+            "evidence_count": 2
           }
         ],
         "note": "",
@@ -106,8 +106,8 @@
     },
     {
       "topic": "철도·광역교통·역세권",
-      "count": 162,
-      "trend_label": "직전 동일기간보다 119건 감소",
+      "count": 164,
+      "trend_label": "직전 동일기간보다 117건 감소",
       "analyzed_count": 15,
       "summary": {
         "points": [
@@ -159,15 +159,15 @@
     },
     {
       "topic": "도시재생·빈집·원도심",
-      "count": 151,
-      "trend_label": "직전 동일기간보다 92건 감소",
+      "count": 156,
+      "trend_label": "직전 동일기간보다 87건 감소",
       "analyzed_count": 15,
       "summary": {
         "points": [
           {
             "label": "공간·생활권",
-            "text": "빈집 관리·지역소멸가 5건의 자료에서 공간 변화의 핵심으로 나타났다.",
-            "evidence_count": 5
+            "text": "빈집 관리·지역소멸·상권 변화가 7건의 자료에서 공간 변화의 핵심으로 나타났다.",
+            "evidence_count": 7
           },
           {
             "label": "사업·공급",
@@ -207,8 +207,8 @@
     },
     {
       "topic": "상권·골목경제·생활권",
-      "count": 88,
-      "trend_label": "직전 동일기간보다 34건 감소",
+      "count": 94,
+      "trend_label": "직전 동일기간보다 28건 감소",
       "analyzed_count": 15,
       "summary": {
         "points": [
@@ -216,17 +216,18 @@
             "label": "공간·생활권",
             "text": "상권 변화가 15건의 자료에서 공간 변화의 핵심으로 나타났다.",
             "evidence_count": 15
-          },
-          {
-            "label": "정책·제도",
-            "text": "지원 확대 관련 움직임이 2건의 자료에서 반복됐다.",
-            "evidence_count": 2
           }
         ],
         "note": "",
         "topic": "상권·골목경제·생활권"
       },
       "examples": [
+        {
+          "title": "하남시의회, 추석 앞두고 전통시장으로…'골목상권 살리기' 힘 보탠다",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE00YVFJSTRjcklnYUo5YzZ4aW5GNS1nOEN0emU0QW5xTHVYNHpwSTZDbW1jd0pyTXVuWnBrS0p0MU9RWTZRODVvZG5Fa1JYVzIzVjNaWEZjMDlwbEExZjQyd1cxUkTSAWhBVV95cUxOUkpfdGI5Qk5heDRYcFVpMVNmTjQ0MXQxbW9vSGFld3FXdmFyUnh2YnZkUWExeUZjQnpOZ1pNcUVJdGVKdVJLNnEwR0Y5RWozRWVnbk1zU3Q3YkkzQmlaUUpxYXJEeVRTNQ?oc=5",
+          "source": "매일일보",
+          "date": "2026-09-21"
+        },
         {
           "title": "전통시장 넘어 골목상권으로... 구로구 ‘장보기 상권’ 넓힌다",
           "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMGMxX28wcS10NFVnTEhPeWVXSjlOZ1VNLTBhaUltVXYzRHAwLTdkZTc4RzhXLXpiZEtUb0Jqd3FqdDc5cEl3SkREd1R1bjhQa3FBMkNCbGVQMmFhYlBpQ3hqaERxUDFxSzhwRWphMDhabFYzUk0tQ2g2T1dsUGVqSDYzLWxOcDRHRWNKNlhB?oc=5",
@@ -244,36 +245,30 @@
           "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5xV2R6Y09BSmhOMXlRQnRUUzBQVFgzWkxWVGZtQzNFcG1sajFZYjN1LXRwTXF0V2ZUSUJaZ2FHZVh6RzE1Y3c?oc=5",
           "source": "v.daum.net",
           "date": "2026-09-17"
-        },
-        {
-          "title": "태안군, 태안 백화 골목상권 전통시장 수준 지원…상권 활력 기대",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB3Tm9NbGNaOXBvZGc1VUVOUGQ1NE9Kd1NQMmZxaFdtV1dfTnJCQVZBTFBDS3BVS241MWk2b0pQWGE4WmpLMDhueWFvcGpIZmVGb3BYLWdXcDZlNDRvcmlZR1kteG0td3hGbFJkQmVJaWQ?oc=5",
-          "source": "신아일보",
-          "date": "2026-09-16"
         }
       ]
     },
     {
       "topic": "주택공급·공공주택",
-      "count": 29,
-      "trend_label": "직전 동일기간보다 10건 감소",
+      "count": 32,
+      "trend_label": "직전 동일기간보다 7건 감소",
       "analyzed_count": 15,
       "summary": {
         "points": [
           {
             "label": "사업·공급",
-            "text": "공급 확대·사업 추진 흐름이 3건의 자료에서 확인됐다.",
-            "evidence_count": 3
-          },
-          {
-            "label": "공간·생활권",
-            "text": "역세권 재편·개발밀도 변화가 3건의 자료에서 공간 변화의 핵심으로 나타났다.",
-            "evidence_count": 3
+            "text": "공급 확대·정비 추진·사업 추진 흐름이 5건의 자료에서 확인됐다.",
+            "evidence_count": 5
           },
           {
             "label": "정책·제도",
-            "text": "구역·사업 지정·지원 확대·사업 공모 관련 움직임이 2건의 자료에서 반복됐다.",
-            "evidence_count": 2
+            "text": "구역·사업 지정·관리 강화·사업 공모 관련 움직임이 4건의 자료에서 반복됐다.",
+            "evidence_count": 4
+          },
+          {
+            "label": "공간·생활권",
+            "text": "역세권 재편·개발밀도 변화가 4건의 자료에서 공간 변화의 핵심으로 나타났다.",
+            "evidence_count": 4
           }
         ],
         "note": "",
@@ -287,22 +282,22 @@
           "date": "2026-09-20"
         },
         {
+          "title": "경기 고양·의왕 신규택지 지정…역세권에 2.3만 가구 공급",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1CTE5acFhoNDBnSDFUeW5reVBQd25VRXNMeHRMV3g4UkFBR2NvcjJOTVhQMkk3a3RCRHhabmwzRUpZUUxQSFh0Y21GMmVHS2MxUWJmOFJRN3ZXRFlJZXZzNUh6Q0pLLWs?oc=5",
+          "source": "연합뉴스TV",
+          "date": "2026-09-21"
+        },
+        {
+          "title": "오세훈 서울주택공급 성과공유회…\"최근 정비구역지정 이전의 두배\"",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1YU0V2MU8wRl81V0RRQWNIYXljdG5IeHJ6M2kydjVnbmh4UHd0RTJ2aDVRWlR5amJVQWZCbmFGemZyQlE1SFh0bktCX212TTg?oc=5",
+          "source": "v.daum.net",
+          "date": "2026-09-21"
+        },
+        {
           "title": "【관련 국정과제】 63. 두텁고 촘촘한 주거복지 실현, 9월 21일부터 특화주택 공모… 주거에 돌봄·복지·일자리 서비스를 연계해 주거지원 강화",
           "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9qcFZIVUNqYU54QWdGNHIzX3hFMmEzeVdENDluYm0wd2dmV013V29GOGppSTAzdWZLNk1WemthenRORmVINDVJRVFPaTZGWmRKTUhXUDUza05wNUNTX3p6ZlhZRWVubFJEV3hnVlJZaGdrYXZPVjhZ?oc=5",
           "source": "국토교통부",
           "date": "2026-09-20"
-        },
-        {
-          "title": "광명 철산·하안 재건축, 임대주택 1%로 접점…주민 반발은 여전",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE00a093YnJFS1hadDFfd1dXS3E0RmV6bFl3ZExnZ3pxbm5PZTg1NHZuWFJsUzQ4Ykhra25yYnYwdFRwRmw3cXdBZ1RzUnc3NFlpYTItTnRYcW84eF9aU1d0U9IBYEFVX3lxTE00a093YnJFS1hadDFfd1dXS3E0RmV6bFl3ZExnZ3pxbm5PZTg1NHZuWFJsUzQ4Ykhra25yYnYwdFRwRmw3cXdBZ1RzUnc3NFlpYTItTnRYcW84eF9aU1d0Uw?oc=5",
-          "source": "뉴스1",
-          "date": "2026-09-19"
-        },
-        {
-          "title": "이 대통령 “재건축·재개발, 택지개발 등 총동원해 주택 최대한 공급할 것”",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFByNHE1OVZKdlA1RHRNT0hnOVM5M1NnN1Bsa0g1dUY1bGNfdUhKODBGOEpvZkg1bHF0MzltdzRZZDFwejhueFR6Sy0yX2RGeG8yazI3RVNnVl9Ra0M3NW9DakpPSGlnT0lU?oc=5",
-          "source": "한국주택경제신문",
-          "date": "2026-09-18"
         }
       ]
     },
@@ -356,15 +351,15 @@
     },
     {
       "topic": "지역소멸·균형발전",
-      "count": 23,
-      "trend_label": "직전 동일기간보다 7건 증가",
+      "count": 24,
+      "trend_label": "직전 동일기간보다 8건 증가",
       "analyzed_count": 15,
       "summary": {
         "points": [
           {
             "label": "공간·생활권",
-            "text": "교통체계 변화·생활권 변화가 11건의 자료에서 공간 변화의 핵심으로 나타났다.",
-            "evidence_count": 11
+            "text": "교통체계 변화·생활권 변화가 10건의 자료에서 공간 변화의 핵심으로 나타났다.",
+            "evidence_count": 10
           }
         ],
         "note": "",
@@ -452,19 +447,19 @@
     },
     {
       "topic": "토지·부동산시장",
-      "count": 12,
-      "trend_label": "직전 동일기간보다 33건 감소",
-      "analyzed_count": 12,
+      "count": 14,
+      "trend_label": "직전 동일기간보다 31건 감소",
+      "analyzed_count": 13,
       "summary": {
         "points": [
           {
             "label": "사업·공급",
-            "text": "정비 추진·공급 확대·계획 수립 흐름이 4건의 자료에서 확인됐다.",
-            "evidence_count": 4
+            "text": "정비 추진·공급 확대·사업 추진 흐름이 6건의 자료에서 확인됐다.",
+            "evidence_count": 6
           },
           {
             "label": "정책·제도",
-            "text": "구역·사업 지정·규제 완화·지원 확대 관련 움직임이 3건의 자료에서 반복됐다.",
+            "text": "구역·사업 지정·규제 완화 관련 움직임이 3건의 자료에서 반복됐다.",
             "evidence_count": 3
           },
           {
@@ -478,6 +473,18 @@
       },
       "examples": [
         {
+          "title": "오세훈, 李대통령 부동산 비판에 맞대응…\"정비사업 성과, 박원순의 두배\"",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBHRFlYT3h2TEZPMGx2QUxBamJfcVpRanpTa3FNcU02V1piWnNXQlN5Zmc5QmxkRC1iUWJPT3JhT0VWNWxUMU05OHJDV1RtMHc?oc=5",
+          "source": "v.daum.net",
+          "date": "2026-09-21"
+        },
+        {
+          "title": "오세훈 “5년간 정비구역 추진 늘고 지정기간 줄어···공급 늘려 집값 잡겠다”",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1QZnkzTFBJZnZXRm5NUlNlOEdzM0JqU3l4Ui1PRkhpVl93SDdHLVhIWW1zV05ia1pSa2tZQ2lUOTZ3TDhPSGVTVlE1RkVvVDA?oc=5",
+          "source": "v.daum.net",
+          "date": "2026-09-21"
+        },
+        {
           "title": "[직격! 부동산] “투기 잡겠다더니 농사꾼 잡나”…284만 필지 뒤흔든 농지 전수조사",
           "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5UdzA2WlBEemlGaENkc1JlWkdyZWx5blZ4ckxvc0tPQmltMmVsckxsM3dZajZVUU44akFIY1N2b204ZFNIQ1JSMXAwYU02MWFqNERwTVVtbTR3dkVFNW51Y2JLeHExVzBoQUY0dXV5NTk1VGPSAXdBVV95cUxPcTI2ajNnSGtBUktRN1FuS0VQYkhhVHdrd3I2SXl1clV5WHJ6VnBZeGE1WnMwSV8xS09YLVZ5S3lScTVXUGxjN2ZIa0hUcm03aGNCc3MwZ1JiQU5CdUlFdy00cFdoNl81S3ZLZFRkVFZqbzUxc2s0RQ?oc=5",
           "source": "핀포인트뉴스",
@@ -488,18 +495,6 @@
           "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQMkhwQzF0UHhZSnBfSk12bUtfY0FQS1FPalpZdVpKSjVoZ0JaVEVZb1BiLWRyTjJxQ09WaU5ZUjg2Tk5YUVlmR3FqaTctb1IxT0U4VGZiLW1xd3EyM0drSVppZ3AyVWlKOGhMOUt3b2lRRWJ5VHlNRmVNT3VRQXdudWN5S0U?oc=5",
           "source": "경기도",
           "date": "2026-09-20"
-        },
-        {
-          "title": "[단독] 지방 정비사업 공사비, 부동산원 검증 후에도 46.6% 뛰었다",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOMFRHR3E1LW4zbFRacjd6NFJNNDJmUHdxTU1KTGNDVXZGOXYxSWViM3J6TGpZQ3lpTkswU2VzaXdub1RMZ1hrODczQW1WS2E3TVhkVEpPLVFHN3EzcUlENEtnOVJIbERiejBlODI2bmh3dGxmNU9MZDlLWEFMNWRvWG0yTkE1bzdhR0RZdHJBRnlfM3FEbEg0YdIBrAFBVV95cUxNZmVSNnB5bm92cXlmS2RDMWw0X0FORjNGbFkyNGswV2UtdXZjckk1U09YelVBNDY3Qm8xN1FMVVdiZjhzYXVHMnFDTTNmNldTVEZDS0Z5dU9leFRaV0FmZWJ0cmhHV3lnOEdoNHVsR2FsUXdySi1JSnlDb3RrMU1la0RGaVc4RFAzd1VjYVVWQW5vSjdnRUtEMDVscnVObDY2d3RWWFQzdGZYTklK?oc=5",
-          "source": "Chosunbiz",
-          "date": "2026-09-20"
-        },
-        {
-          "title": "[AI로 본 부동산] 서울 재건축 아파트, 지금 사면 입주는 언제쯤",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE55S084ZEJqWmRZQVI2NnZ5T1Z3bVdla1FIQTd2aktObncxbDZoS3BSOHJDQm45eUlwQmUwNzVxWU5ycGc4bHctRlRQNHBLOEMta2lnM2Izcmdpd1Zj?oc=5",
-          "source": "뉴스핌",
-          "date": "2026-09-19"
         }
       ]
     }
@@ -507,8 +502,8 @@
   "monthly": [
     {
       "topic": "재건축·재개발·정비사업",
-      "count": 1393,
-      "trend_label": "직전 동일기간보다 80건 증가",
+      "count": 1408,
+      "trend_label": "직전 동일기간보다 95건 증가",
       "analyzed_count": 15,
       "summary": {
         "points": [
@@ -550,8 +545,8 @@
     },
     {
       "topic": "철도·광역교통·역세권",
-      "count": 1131,
-      "trend_label": "직전 동일기간보다 65건 증가",
+      "count": 1133,
+      "trend_label": "직전 동일기간보다 66건 증가",
       "analyzed_count": 15,
       "summary": {
         "points": [
@@ -603,8 +598,8 @@
     },
     {
       "topic": "국토계획·용도지역·규제",
-      "count": 913,
-      "trend_label": "직전 동일기간보다 47건 증가",
+      "count": 927,
+      "trend_label": "직전 동일기간보다 61건 증가",
       "analyzed_count": 15,
       "summary": {
         "points": [
@@ -651,8 +646,8 @@
     },
     {
       "topic": "도시재생·빈집·원도심",
-      "count": 867,
-      "trend_label": "직전 동일기간보다 22건 감소",
+      "count": 872,
+      "trend_label": "직전 동일기간보다 17건 감소",
       "analyzed_count": 15,
       "summary": {
         "points": [
@@ -699,8 +694,8 @@
     },
     {
       "topic": "상권·골목경제·생활권",
-      "count": 520,
-      "trend_label": "직전 동일기간보다 70건 감소",
+      "count": 526,
+      "trend_label": "직전 동일기간보다 64건 감소",
       "analyzed_count": 15,
       "summary": {
         "points": [
@@ -720,6 +715,12 @@
       },
       "examples": [
         {
+          "title": "하남시의회, 추석 앞두고 전통시장으로…'골목상권 살리기' 힘 보탠다",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE00YVFJSTRjcklnYUo5YzZ4aW5GNS1nOEN0emU0QW5xTHVYNHpwSTZDbW1jd0pyTXVuWnBrS0p0MU9RWTZRODVvZG5Fa1JYVzIzVjNaWEZjMDlwbEExZjQyd1cxUkTSAWhBVV95cUxOUkpfdGI5Qk5heDRYcFVpMVNmTjQ0MXQxbW9vSGFld3FXdmFyUnh2YnZkUWExeUZjQnpOZ1pNcUVJdGVKdVJLNnEwR0Y5RWozRWVnbk1zU3Q3YkkzQmlaUUpxYXJEeVRTNQ?oc=5",
+          "source": "매일일보",
+          "date": "2026-09-21"
+        },
+        {
           "title": "전통시장 넘어 골목상권으로... 구로구 ‘장보기 상권’ 넓힌다",
           "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMGMxX28wcS10NFVnTEhPeWVXSjlOZ1VNLTBhaUltVXYzRHAwLTdkZTc4RzhXLXpiZEtUb0Jqd3FqdDc5cEl3SkREd1R1bjhQa3FBMkNCbGVQMmFhYlBpQ3hqaERxUDFxSzhwRWphMDhabFYzUk0tQ2g2T1dsUGVqSDYzLWxOcDRHRWNKNlhB?oc=5",
           "source": "조선일보",
@@ -736,35 +737,29 @@
           "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5xV2R6Y09BSmhOMXlRQnRUUzBQVFgzWkxWVGZtQzNFcG1sajFZYjN1LXRwTXF0V2ZUSUJaZ2FHZVh6RzE1Y3c?oc=5",
           "source": "v.daum.net",
           "date": "2026-09-17"
-        },
-        {
-          "title": "태안군, 태안 백화 골목상권 전통시장 수준 지원…상권 활력 기대",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB3Tm9NbGNaOXBvZGc1VUVOUGQ1NE9Kd1NQMmZxaFdtV1dfTnJCQVZBTFBDS3BVS241MWk2b0pQWGE4WmpLMDhueWFvcGpIZmVGb3BYLWdXcDZlNDRvcmlZR1kteG0td3hGbFJkQmVJaWQ?oc=5",
-          "source": "신아일보",
-          "date": "2026-09-16"
         }
       ]
     },
     {
       "topic": "토지·부동산시장",
-      "count": 192,
-      "trend_label": "직전 동일기간보다 22건 증가",
+      "count": 194,
+      "trend_label": "직전 동일기간보다 24건 증가",
       "analyzed_count": 15,
       "summary": {
         "points": [
           {
-            "label": "정책·제도",
-            "text": "규제 완화·구역·사업 지정·지원 확대 관련 움직임이 4건의 자료에서 반복됐다.",
-            "evidence_count": 4
-          },
-          {
             "label": "사업·공급",
-            "text": "정비 추진·공급 확대·계획 수립 흐름이 4건의 자료에서 확인됐다.",
-            "evidence_count": 4
+            "text": "정비 추진·공급 확대·사업 추진 흐름이 6건의 자료에서 확인됐다.",
+            "evidence_count": 6
           },
           {
             "label": "시장·비용",
             "text": "거래 변화·지가 변화·공사비 문제가 4건의 자료에서 주요 관심사로 나타났다.",
+            "evidence_count": 4
+          },
+          {
+            "label": "공간·생활권",
+            "text": "역세권 재편·빈집 관리·개발밀도 변화가 4건의 자료에서 공간 변화의 핵심으로 나타났다.",
             "evidence_count": 4
           }
         ],
@@ -785,35 +780,35 @@
           "date": "2026-09-10"
         },
         {
-          "title": "[직격! 부동산] “투기 잡겠다더니 농사꾼 잡나”…284만 필지 뒤흔든 농지 전수조사",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5UdzA2WlBEemlGaENkc1JlWkdyZWx5blZ4ckxvc0tPQmltMmVsckxsM3dZajZVUU44akFIY1N2b204ZFNIQ1JSMXAwYU02MWFqNERwTVVtbTR3dkVFNW51Y2JLeHExVzBoQUY0dXV5NTk1VGPSAXdBVV95cUxPcTI2ajNnSGtBUktRN1FuS0VQYkhhVHdrd3I2SXl1clV5WHJ6VnBZeGE1WnMwSV8xS09YLVZ5S3lScTVXUGxjN2ZIa0hUcm03aGNCc3MwZ1JiQU5CdUlFdy00cFdoNl81S3ZLZFRkVFZqbzUxc2s0RQ?oc=5",
-          "source": "핀포인트뉴스",
-          "date": "2026-09-20"
+          "title": "오세훈, 李대통령 부동산 비판에 맞대응…\"정비사업 성과, 박원순의 두배\"",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBHRFlYT3h2TEZPMGx2QUxBamJfcVpRanpTa3FNcU02V1piWnNXQlN5Zmc5QmxkRC1iUWJPT3JhT0VWNWxUMU05OHJDV1RtMHc?oc=5",
+          "source": "v.daum.net",
+          "date": "2026-09-21"
         },
         {
-          "title": "경기도, 의왕 오매기 공공주택지구 토지거래허가구역 2029년 11월까지 재지정",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQMkhwQzF0UHhZSnBfSk12bUtfY0FQS1FPalpZdVpKSjVoZ0JaVEVZb1BiLWRyTjJxQ09WaU5ZUjg2Tk5YUVlmR3FqaTctb1IxT0U4VGZiLW1xd3EyM0drSVppZ3AyVWlKOGhMOUt3b2lRRWJ5VHlNRmVNT3VRQXdudWN5S0U?oc=5",
-          "source": "경기도",
-          "date": "2026-09-20"
+          "title": "오세훈 “5년간 정비구역 추진 늘고 지정기간 줄어···공급 늘려 집값 잡겠다”",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1QZnkzTFBJZnZXRm5NUlNlOEdzM0JqU3l4Ui1PRkhpVl93SDdHLVhIWW1zV05ia1pSa2tZQ2lUOTZ3TDhPSGVTVlE1RkVvVDA?oc=5",
+          "source": "v.daum.net",
+          "date": "2026-09-21"
         }
       ]
     },
     {
       "topic": "주택공급·공공주택",
-      "count": 158,
-      "trend_label": "직전 동일기간보다 84건 감소",
+      "count": 161,
+      "trend_label": "직전 동일기간보다 81건 감소",
       "analyzed_count": 15,
       "summary": {
         "points": [
           {
-            "label": "사업·공급",
-            "text": "공급 확대·사업 추진·정비 추진 흐름이 6건의 자료에서 확인됐다.",
-            "evidence_count": 6
+            "label": "정책·제도",
+            "text": "구역·사업 지정·규제 완화·관리 강화 관련 움직임이 7건의 자료에서 반복됐다.",
+            "evidence_count": 7
           },
           {
-            "label": "정책·제도",
-            "text": "구역·사업 지정·규제 완화·지원 확대 관련 움직임이 5건의 자료에서 반복됐다.",
-            "evidence_count": 5
+            "label": "사업·공급",
+            "text": "공급 확대·사업 추진·정비 추진 흐름이 7건의 자료에서 확인됐다.",
+            "evidence_count": 7
           },
           {
             "label": "공간·생활권",
@@ -853,8 +848,8 @@
     },
     {
       "topic": "스마트시티·AI·디지털전환",
-      "count": 128,
-      "trend_label": "직전 동일기간보다 74건 증가",
+      "count": 130,
+      "trend_label": "직전 동일기간보다 76건 증가",
       "analyzed_count": 15,
       "summary": {
         "points": [],
@@ -938,15 +933,15 @@
     },
     {
       "topic": "지역소멸·균형발전",
-      "count": 102,
-      "trend_label": "직전 동일기간보다 39건 증가",
+      "count": 103,
+      "trend_label": "직전 동일기간보다 40건 증가",
       "analyzed_count": 15,
       "summary": {
         "points": [
           {
             "label": "공간·생활권",
-            "text": "교통체계 변화·생활권 변화가 11건의 자료에서 공간 변화의 핵심으로 나타났다.",
-            "evidence_count": 11
+            "text": "교통체계 변화·생활권 변화가 10건의 자료에서 공간 변화의 핵심으로 나타났다.",
+            "evidence_count": 10
           }
         ],
         "note": "",
@@ -983,7 +978,7 @@
   "yearly": [
     {
       "topic": "재건축·재개발·정비사업",
-      "count": 5089,
+      "count": 5104,
       "trend_label": "최근 1년 누적",
       "analyzed_count": 15,
       "summary": {
@@ -1031,7 +1026,7 @@
     },
     {
       "topic": "철도·광역교통·역세권",
-      "count": 3512,
+      "count": 3515,
       "trend_label": "최근 1년 누적",
       "analyzed_count": 15,
       "summary": {
@@ -1084,7 +1079,7 @@
     },
     {
       "topic": "국토계획·용도지역·규제",
-      "count": 2832,
+      "count": 2846,
       "trend_label": "최근 1년 누적",
       "analyzed_count": 15,
       "summary": {
@@ -1132,7 +1127,7 @@
     },
     {
       "topic": "도시재생·빈집·원도심",
-      "count": 2706,
+      "count": 2711,
       "trend_label": "최근 1년 누적",
       "analyzed_count": 15,
       "summary": {
@@ -1180,7 +1175,7 @@
     },
     {
       "topic": "상권·골목경제·생활권",
-      "count": 1600,
+      "count": 1606,
       "trend_label": "최근 1년 누적",
       "analyzed_count": 15,
       "summary": {
@@ -1201,6 +1196,12 @@
       },
       "examples": [
         {
+          "title": "하남시의회, 추석 앞두고 전통시장으로…'골목상권 살리기' 힘 보탠다",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE00YVFJSTRjcklnYUo5YzZ4aW5GNS1nOEN0emU0QW5xTHVYNHpwSTZDbW1jd0pyTXVuWnBrS0p0MU9RWTZRODVvZG5Fa1JYVzIzVjNaWEZjMDlwbEExZjQyd1cxUkTSAWhBVV95cUxOUkpfdGI5Qk5heDRYcFVpMVNmTjQ0MXQxbW9vSGFld3FXdmFyUnh2YnZkUWExeUZjQnpOZ1pNcUVJdGVKdVJLNnEwR0Y5RWozRWVnbk1zU3Q3YkkzQmlaUUpxYXJEeVRTNQ?oc=5",
+          "source": "매일일보",
+          "date": "2026-09-21"
+        },
+        {
           "title": "전통시장 넘어 골목상권으로... 구로구 ‘장보기 상권’ 넓힌다",
           "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMGMxX28wcS10NFVnTEhPeWVXSjlOZ1VNLTBhaUltVXYzRHAwLTdkZTc4RzhXLXpiZEtUb0Jqd3FqdDc5cEl3SkREd1R1bjhQa3FBMkNCbGVQMmFhYlBpQ3hqaERxUDFxSzhwRWphMDhabFYzUk0tQ2g2T1dsUGVqSDYzLWxOcDRHRWNKNlhB?oc=5",
           "source": "조선일보",
@@ -1217,18 +1218,12 @@
           "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5xV2R6Y09BSmhOMXlRQnRUUzBQVFgzWkxWVGZtQzNFcG1sajFZYjN1LXRwTXF0V2ZUSUJaZ2FHZVh6RzE1Y3c?oc=5",
           "source": "v.daum.net",
           "date": "2026-09-17"
-        },
-        {
-          "title": "태안군, 태안 백화 골목상권 전통시장 수준 지원…상권 활력 기대",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB3Tm9NbGNaOXBvZGc1VUVOUGQ1NE9Kd1NQMmZxaFdtV1dfTnJCQVZBTFBDS3BVS241MWk2b0pQWGE4WmpLMDhueWFvcGpIZmVGb3BYLWdXcDZlNDRvcmlZR1kteG0td3hGbFJkQmVJaWQ?oc=5",
-          "source": "신아일보",
-          "date": "2026-09-16"
         }
       ]
     },
     {
       "topic": "주택공급·공공주택",
-      "count": 751,
+      "count": 754,
       "trend_label": "최근 1년 누적",
       "analyzed_count": 15,
       "summary": {
@@ -1329,7 +1324,7 @@
     },
     {
       "topic": "토지·부동산시장",
-      "count": 636,
+      "count": 638,
       "trend_label": "최근 1년 누적",
       "analyzed_count": 15,
       "summary": {
@@ -1341,12 +1336,12 @@
           },
           {
             "label": "공간·생활권",
-            "text": "역세권 재편·빈집 관리·개발밀도 변화가 5건의 자료에서 공간 변화의 핵심으로 나타났다.",
-            "evidence_count": 5
+            "text": "역세권 재편·빈집 관리가 4건의 자료에서 공간 변화의 핵심으로 나타났다.",
+            "evidence_count": 4
           },
           {
-            "label": "정책·제도",
-            "text": "구역·사업 지정·관리 강화·규제 완화 관련 움직임이 3건의 자료에서 반복됐다.",
+            "label": "사업·공급",
+            "text": "정비 추진·공급 확대 흐름이 3건의 자료에서 확인됐다.",
             "evidence_count": 3
           }
         ],
@@ -1435,15 +1430,15 @@
     },
     {
       "topic": "지역소멸·균형발전",
-      "count": 343,
+      "count": 344,
       "trend_label": "최근 1년 누적",
       "analyzed_count": 15,
       "summary": {
         "points": [
           {
             "label": "공간·생활권",
-            "text": "교통체계 변화·인구 변화·지역소멸가 10건의 자료에서 공간 변화의 핵심으로 나타났다.",
-            "evidence_count": 10
+            "text": "교통체계 변화·인구 변화·지역소멸가 9건의 자료에서 공간 변화의 핵심으로 나타났다.",
+            "evidence_count": 9
           }
         ],
         "note": "",
