@@ -1,59 +1,59 @@
 {
-  "updated_at": "2026-09-25 08:05 KST",
-  "run_started_at": "2026-09-25T08:05:58.109905+09:00",
+  "updated_at": "2026-09-25 12:04 KST",
+  "run_started_at": "2026-09-25T12:04:27.278464+09:00",
   "coverage": {
-    "items": 19527,
+    "items": 19560,
     "oldest": "2025-09-26",
-    "newest": "2026-09-24",
-    "days_covered": 364,
+    "newest": "2026-09-25",
+    "days_covered": 365,
     "complete": true
   },
   "today_counts": {
     "정책": 0,
     "법령": 0,
     "연구": 0,
-    "기사": 0
+    "기사": 1
   },
   "period_counts": {
     "weekly": {
       "정책": 38,
       "법령": 1,
       "연구": 35,
-      "기사": 615
+      "기사": 628
     },
     "monthly": {
       "정책": 210,
       "법령": 8,
-      "연구": 297,
-      "기사": 4572
+      "연구": 316,
+      "기사": 4586
     },
     "yearly": {
       "정책": 1114,
       "법령": 741,
-      "연구": 1344,
-      "기사": 16328
+      "연구": 1363,
+      "기사": 16342
     }
   },
   "source_status": {
-    "국토교통부": "20건 수집",
+    "국토교통부": "18건 수집",
     "서울특별시": "11건 수집",
-    "경기도": "17건 수집",
-    "법령·입법": "23건 수집",
-    "연구기관": "54건 수집",
+    "경기도": "15건 수집",
+    "법령·입법": "24건 수집",
+    "연구기관": "92건 수집",
     "지역연구원": "27건 수집",
     "언론-도시계획": "11건 수집",
-    "언론-지구단위": "84건 수집",
+    "언론-지구단위": "88건 수집",
     "언론-정비사업": "99건 수집",
     "언론-주택공급": "27건 수집",
-    "언론-지역정책": "14건 수집",
+    "언론-지역정책": "13건 수집",
     "언론-교통공간": "99건 수집",
     "언론-도시재생": "100건 수집",
     "언론-공업지역산업단지": "93건 수집",
     "언론-스마트기후": "21건 수집",
-    "분야:정책": "48건 수집",
-    "분야:연구": "81건 수집",
-    "분야:법령": "23건 수집",
-    "분야:기사": "548건 수집"
+    "분야:정책": "44건 수집",
+    "분야:연구": "119건 수집",
+    "분야:법령": "24건 수집",
+    "분야:기사": "551건 수집"
   },
   "backfill_status": {},
   "municipal_notices": [
@@ -179,13 +179,13 @@
     }
   ],
   "municipal_status": {
-    "화성": "화성시 고시공고 0건, 검색보완 0건",
-    "수원": "수원 기본·도시관리계획 2건 / 수원 지구단위계획 5건",
+    "수원": "수원 지구단위계획 5건 / 수원 기본·도시관리계획 2건",
     "고양": "고양시 고시·도시계획 선별 0건, 검색보완 0건",
-    "과천": "과천시 고시공고 0건, 검색보완 0건",
+    "화성": "화성시 고시공고 0건, 검색보완 0건",
     "서울": "서울도시공간포털 결정고시 20건",
     "광명": "광명시 고시공고 0건, 검색보완 0건",
-    "성남": "성남 지구단위계획 고시·공고 SSLError, 검색보완 0건"
+    "성남": "성남 지구단위계획 고시·공고 SSLError, 검색보완 0건",
+    "과천": "과천시 고시공고 0건, 검색보완 0건"
   },
   "seoul_housing_news": [],
   "seoul_housing_status": "공식 목록 0건, 검색보완 0건",
@@ -198,7 +198,7 @@
       "source": "서울",
       "category": "정비",
       "date": "2026-09-23",
-      "description": "홍제동 9-81 일대 신속통합기획 확정…3개 마을 통합 2,520여 세대 숲세권 단지 > 보도자료 seoul.go.kr",
+      "description": "홍제동 9-81 일대 신속통합기획 확정…3개 마을 통합 2,520여 세대 숲세권 단지 > 보도자료 서울특별시",
       "city": "서울",
       "source_type": "공식 정비사업 소식"
     },
@@ -226,19 +226,28 @@
     }
   ],
   "maintenance_status": {
-    "고양": "0건",
-    "화성": "0건",
-    "수원": "0건",
     "인천": "0건",
+    "고양": "0건",
+    "수원": "0건",
     "남양주": "0건",
-    "평택": "0건",
-    "성남": "0건",
-    "과천": "0건",
-    "광주": "0건",
+    "화성": "0건",
     "서울": "4건",
+    "과천": "0건",
+    "성남": "0건",
+    "평택": "0건",
+    "광주": "0건",
     "광명": "0건"
   },
   "items": [
+    {
+      "id": "e7d7082afa85a4b8",
+      "title": "\"명절에 우리 집은?\"…'AI 집사'가 추석 빈집 지킨다",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1qMmtwd21xTUM0a3pwR3RNbDA1blh3ZDdMQVRLNHd6cDVsZzczYjVGVXBvVzZXR3d1dGNSX2M1aEZWcnMtWnlDVTJ2dmJneEgzcVI5dkIyV1Y3ZTNRbEJtdWdrRk1UbXltMTVNVNIBckFVX3lxTE1BbVFJeGRucW9sUUpfbDc2T0RZdFd2bFlGU0RQR3kxblBoVDNMNHlVdDdONEVxZk1peVZCX05TRzBfeFhKdm1BUGJqZGhzbG16YThzQ3BZczRnalpqVnlVRFhNaThjbncwSmVFWGFTWmg4dw?oc=5",
+      "source": "머니투데이",
+      "category": "기사",
+      "date": "2026-09-25",
+      "description": "\"명절에 우리 집은?\"…'AI 집사'가 추석 빈집 지킨다 - 머니투데이 머니투데이"
+    },
     {
       "id": "612d9280d773588e",
       "title": "제주시민속오일시장 시설현대화...'아케이드.고객쉼터' 설치",
@@ -247,6 +256,15 @@
       "category": "기사",
       "date": "2026-09-24",
       "description": "제주시민속오일시장 시설현대화...'아케이드.고객쉼터' 설치 헤드라인제주"
+    },
+    {
+      "id": "5424f3e34797acce",
+      "title": "영천시, 빈집정비계획 용역 중간보고회 개최",
+      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE8zSUlPcEZEempidW8wdzV3TjVfOUpKYUF4ZmU0c0duNGNkRThhekZfUWVqZUVVMWhfMTdtb0doWGJBb0xFeW9j?oc=5",
+      "source": "코리아투데이뉴스",
+      "category": "기사",
+      "date": "2026-09-24",
+      "description": "영천시, 빈집정비계획 용역 중간보고회 개최 코리아투데이뉴스"
     },
     {
       "id": "0b10a73bb48a521a",
@@ -292,6 +310,15 @@
       "category": "기사",
       "date": "2026-09-24",
       "description": "서울 아파트는 신축보다 재건축…20년 초과, 매매가 상승폭 압도 연합뉴스"
+    },
+    {
+      "id": "5a44ff4a69b110ac",
+      "title": "남해 농어촌 기본소득, 추석 연휴 전통시장·골목상권 활력 기대",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5QNk5mdTJMWUllM29MSE5TNmg4NzdxbnJ4VmRTdVpFQjBkTTIxa0Y4Q1VVbzg5bW9MaW1CdW12UF93MkNIUEtVbTNaaVVGenNMZmpud0piVkktTVJzMFBGbdIBYEFVX3lxTE5QNk5mdTJMWUllM29MSE5TNmg4NzdxbnJ4VmRTdVpFQjBkTTIxa0Y4Q1VVbzg5bW9MaW1CdW12UF93MkNIUEtVbTNaaVVGenNMZmpud0piVkktTVJzMFBGbQ?oc=5",
+      "source": "연합뉴스",
+      "category": "기사",
+      "date": "2026-09-24",
+      "description": "남해 농어촌 기본소득, 추석 연휴 전통시장·골목상권 활력 기대 연합뉴스"
     },
     {
       "id": "b1a999d96607f93e",
@@ -357,6 +384,15 @@
       "description": "GTX-A 삼성역 철근 누락 책임 공방… 국토부, 서울시에 연내 구상금 청구 검토 땅집고"
     },
     {
+      "id": "c1a692437de1f0f3",
+      "title": "정비사업 수주 10兆 넘긴 현대건설, 뒤쫓는 삼성물산·GS건설…시선은 이제 목동으로",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE43Z2U2LTlXVUdqWGlOYkFIWHJSSjdmZzlGOWdjbzFDeG5vd1FxMlFrQzBKMlhSRTlsR0JuNzM4dGF5cE02ckhqUzJVdktOWTFkbHBtZjlMMzZOT29VMHJLUEJGMA?oc=5",
+      "source": "더구루",
+      "category": "기사",
+      "date": "2026-09-24",
+      "description": "정비사업 수주 10兆 넘긴 현대건설, 뒤쫓는 삼성물산·GS건설…시선은 이제 목동으로 더구루"
+    },
+    {
       "id": "ae8b06d4ec5e251d",
       "title": "이재관 \"빈집 5만6천호 중 184호만 등록…거래는 64호뿐\"",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1qSjdvbWk1WnBaVndRUVBCOFEwQXowS1Q4dVJnVWctQWM3U0pwMzhLX3BDOW80LWRYRnhXdFg3M1BWbW5nQkpEME9qV3k0TGM?oc=5",
@@ -400,6 +436,15 @@
       "category": "기사",
       "date": "2026-09-24",
       "description": "“캐시백 널뛰기 그만”…인천e음, 골목상권 중심 ‘시즌2’ 개편론 [인천 대표 상품 인천e음③] v.daum.net"
+    },
+    {
+      "id": "705d1a8ebe52ee47",
+      "title": "\"'얼죽신' 이젠 아니네\"...20년 넘은 재건축 '대반전'",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB4ZFg5QmdhSFNlN1dqRk1VMlZUVEw0Tl9ndVJRY0ZjVlBPUXdmcUU3bTcwUHc0WEFFU1FadzNlby11Uy1ISkdhLThUUl9xcnc?oc=5",
+      "source": "v.daum.net",
+      "category": "기사",
+      "date": "2026-09-24",
+      "description": "\"'얼죽신' 이젠 아니네\"...20년 넘은 재건축 '대반전' v.daum.net"
     },
     {
       "id": "cda58a4b05abb80b",
@@ -499,6 +544,15 @@
       "category": "기사",
       "date": "2026-09-23",
       "description": "남양주시, 왕숙 도시첨단산업단지 조성 속도... ‘국토부 심의 통과’ 한강타임즈"
+    },
+    {
+      "id": "5e66ae3cc857f184",
+      "title": "재개발·재건축 공사비 검증 동상이몽…국토부 ‘의무 강화’·서울시 ‘자율화’",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9xeTZ6cjhrOFVIZWN3cWJUZ1lxUVVvQkNEYnBicDdISXg2X01BSzVINWNUMDdPNU1pWDVGT2pZQWlMN2ZVUFdTOTNaNVlKN2N2cVdoUTUxOFFpeFJMWVJKbkctWWpKRTloQVVXMklsNXRibXM?oc=5",
+      "source": "하우징헤럴드",
+      "category": "기사",
+      "date": "2026-09-23",
+      "description": "재개발·재건축 공사비 검증 동상이몽…국토부 ‘의무 강화’·서울시 ‘자율화’ 하우징헤럴드"
     },
     {
       "id": "b3cd2c6531be46f8",
@@ -753,6 +807,15 @@
       "description": "오세훈 시장, 전통시장·골목상권 민생 점검 연합뉴스"
     },
     {
+      "id": "4d73c43082423fc7",
+      "title": "울산 북구, 명촌지구 풍수해 정비사업 실시계획 수립",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE50eHZvcGdFM3g0bnVkMUhYdkNYRVlXbXVCcXVCVUxiQmtmcWlmTXE0elVJa043Um9fb2NyYjVZdXpSWnFub0RodVE2MnhRaVAycmFLZ28wZjNBVFXSAWBBVV95cUxOSTZjQzdfc2NQajJjTHhVNVkzMXJnMG1BTW54T1lUd0RLN3YyUXBaRkViN3BrZFhrM09hS2wtNHJMVzhka2UxUWhyRzNtQ2dicXV6YUNjZ0hLa05qVjNrcTA?oc=5",
+      "source": "연합뉴스",
+      "category": "기사",
+      "date": "2026-09-23",
+      "description": "울산 북구, 명촌지구 풍수해 정비사업 실시계획 수립 연합뉴스"
+    },
+    {
       "id": "1ac3195b840273f5",
       "title": "AI서버 전력밀도 높아지자...ABB, 데이터센터 직류배전 공략",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA0al9CS29Xa2d3eDNWUExqNjF1R1l2M1ZMQWtoV3BnQW9GRGx4SVFEV2dPcEJEdVNqQ0xUVTExRTM1ZlFZMXB2M1EtR0NCTXB3RVl0NkNWR2VHSFJ1bmxka19SZVg5dWRLTDNNV2NwWmQ?oc=5",
@@ -769,6 +832,15 @@
       "category": "기사",
       "date": "2026-09-23",
       "description": "한국토지신탁, 수도권 정비사업 3만7865가구 확보…흑석·신길 분양으로 실행력 키운다 업코리아"
+    },
+    {
+      "id": "90ad3a1fe3bfb423",
+      "title": "목동 재건축 '49층 사수전'…14개 단지 2030년 시간표",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE10QzczTGd2SDJWOHlaS29iNW9JaHlibGdFMklLWkduQ0I3ZWdXQTRIUDNmdzNTcGRCd0kyS2VUSS1mUVJYMElQZUY3UQ?oc=5",
+      "source": "아이뉴스24",
+      "category": "기사",
+      "date": "2026-09-23",
+      "description": "목동 재건축 '49층 사수전'…14개 단지 2030년 시간표 아이뉴스24"
     },
     {
       "id": "88541769bc3ff0a7",
@@ -1113,6 +1185,15 @@
       "description": "남양주시 \"왕숙산단 국토부 심의 통과\"…후속절차 진행 뉴시스"
     },
     {
+      "id": "2e3bee3cd6ca278d",
+      "title": "동대문구, 정비사업 업무 사전 안내…재개발·재건축 촉진",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE51RmgzNmU1Wjl4dGo5RWZVbFFLWHFwcjE3eVNZY1pTS0EwUUUzcnIwczJlOTF0cl9PTVVFdUNVaWpnM2hMeFpRMmNMWkRDTWZPUzRVeFpyem11eU9jdF8zRNIBeEFVX3lxTE1Pc2Y2VW0tQV9aSkdTNGs4eWtlYVFKQlJyZzJMOXM1czR1ZGxBMkNGTUF1NmhPSXp6aGY0V0dLUmJyY1FfLWM4b3RDd0NCNkZnTHBCSVNEZEJWU24ycVZmNEJ2V1JxLWQzUklRRGhsSVdDNms4cDUxcg?oc=5",
+      "source": "뉴시스",
+      "category": "기사",
+      "date": "2026-09-23",
+      "description": "동대문구, 정비사업 업무 사전 안내…재개발·재건축 촉진 뉴시스"
+    },
+    {
       "id": "da5faa2465f620c7",
       "title": "경남도, 재개발·재건축 표준정관 제정 추진…투명한 조합 운영 지원",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9YU1VuQzBWTThhci16bWVNbnV3M1lsbXd3MWJKRHZMSnBZSjYtd2tvSzRCRFBkTWxOUjRSMFI0Z0tkdjBYQy1KY3pNQlRTTGNlY1p6OHJGRzFhSHRX?oc=5",
@@ -1336,6 +1417,15 @@
       "category": "기사",
       "date": "2026-09-23",
       "description": "수영1재개발정비사업조합, 백미 지원 국제신문"
+    },
+    {
+      "id": "a9a5664797544ade",
+      "title": "부천 대장안동네 용도지역 상향 길 열려…도시개발사업 본격화",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBETkRpeF81RUlhU2hhUWMxSl9DVkk1M0V4MExGTkpKRWlyVzk5cFI0T3pOal8teUQyRkhzT2dIWUhRd2JYeE9EeGJneFVIWkFyNDBWQzdQMXlZMXJ4WjdMZWxuOFQxdUw0MjEyctIBbEFVX3lxTFBETkRpeF81RUlhU2hhUWMxSl9DVkk1M0V4MExGTkpKRWlyVzk5cFI0T3pOal8teUQyRkhzT2dIWUhRd2JYeE9EeGJneFVIWkFyNDBWQzdQMXlZMXJ4WjdMZWxuOFQxdUw0MjEycg?oc=5",
+      "source": "광교신문",
+      "category": "기사",
+      "date": "2026-09-23",
+      "description": "부천 대장안동네 용도지역 상향 길 열려…도시개발사업 본격화 광교신문"
     },
     {
       "id": "37c6d7eac097e164",
@@ -1948,96 +2038,6 @@
       "category": "기사",
       "date": "2026-09-22",
       "description": "면목9구역 공공재개발, 롯데건설 우선협상자 지정 하우징헤럴드"
-    },
-    {
-      "id": "13945833e47b57dc",
-      "title": "진해 경화구역 재개발정비사업 특화설계 업체 선정",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE54UU1VdkdNdGw5OVdFTS1ERHlUTDJxaTBOZC1mbzY3YWJhcURYbHdwWnJVdEdCX2d6Vk00dEQzNHA3UzFFWVg2M1RSaUNsdDJkNWgtSWV3bVBJNDBBbEVfR19OUk16dWVkMUhVdThBNi10UU0?oc=5",
-      "source": "하우징헤럴드",
-      "category": "기사",
-      "date": "2026-09-22",
-      "description": "진해 경화구역 재개발정비사업 특화설계 업체 선정 하우징헤럴드"
-    },
-    {
-      "id": "0a2b9c1a2c6d31f4",
-      "title": "잠원한신타운 소규모재건축조합 법무사 선정",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFAxUkp5NjA5aFZnR2NBZVlKaTBkOWtrVGdPX29HUUo5UnFwOTVFblpOYmpGSW01OU9QcXdsbXE4dUpYVjJycDZ4OFBfdGhIUExlNDR5bkNVNVJYeEw5UzZhRlpBd0NIajVPeHh6TG5kaDEybXc?oc=5",
-      "source": "하우징헤럴드",
-      "category": "기사",
-      "date": "2026-09-22",
-      "description": "잠원한신타운 소규모재건축조합 법무사 선정 하우징헤럴드"
-    },
-    {
-      "id": "3c845467e4fac2f6",
-      "title": "반포주공1단지 재건축정비사업 커뮤니티 공간 내 이동식 가구 등 납품 용역업체 선정",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9uSG12YkJaT0F6VkRkU1A0Nk5DcGdXc1d0MTZtaHdLTVNEaFF3NmZ5dTg1TlJid0E0QTVSNWwtQ2J6ZjJ5cVJfcWRiNU0yUnhEQ0pQaWs0N0RGb1YyVk1JR1NIZ0FKVURIR2NYRzdRSEZEdWc?oc=5",
-      "source": "하우징헤럴드",
-      "category": "기사",
-      "date": "2026-09-22",
-      "description": "반포주공1단지 재건축정비사업 커뮤니티 공간 내 이동식 가구 등 납품 용역업체 선정 하우징헤럴드"
-    },
-    {
-      "id": "08fe0e00ab81bd0f",
-      "title": "답십리자동차부품상가 재개발정비사업 감정평가·건축물 해체계획서 작성 및 허가용역 선정",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5VWF93dnZOY2k4dExyV2dMY2JFb09Zbkk5cEpIdjFFeXRjWG12S3VzVThMalBmNmxKaE1iNnhUWkRsM1dqWGtKcVgtN0s1VjQ4dVpWUXRfTWtRX0RVN2swUXFJQ1JnSnZvV3pIQ19PSFVoS1k?oc=5",
-      "source": "하우징헤럴드",
-      "category": "기사",
-      "date": "2026-09-22",
-      "description": "답십리자동차부품상가 재개발정비사업 감정평가·건축물 해체계획서 작성 및 허가용역 선정 하우징헤럴드"
-    },
-    {
-      "id": "03bf996798bf6f97",
-      "title": "하남, GTX-D‧위신선 국가철도망 반영이 답”",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBwRDRnWmRxVEFxdDFJU3BhU0sxN0VkbmdMTmtfaU5WSzFidnFsWHdPU01rNzNwazFGQkpvNl9CazRPZDVLeVBNZjZ2Mm4wdWxLcUhsU3RUMHdvSVpEZVM3MHU1ZGN3bHlhREE?oc=5",
-      "source": "하남일보",
-      "category": "기사",
-      "date": "2026-09-22",
-      "description": "하남, GTX-D‧위신선 국가철도망 반영이 답” 하남일보"
-    },
-    {
-      "id": "4a5445f116de2387",
-      "title": "경기 광주시, 초월역 일원 지구단위계획구역 지정 추진",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBNc1RoN0V5cG5CeWZOYzBER2FHZEl3aDdURG1sTzVVYjZudVN0NmJUOWhPNU5sem85cGt5OE5JRFpoeXhKUW5NRWZSWnZEWjBJQjRFdkZyVWZ4X0Q5Tl94WURJM2VTQ1QxQVdR?oc=5",
-      "source": "프레시안",
-      "category": "기사",
-      "date": "2026-09-22",
-      "description": "경기 광주시, 초월역 일원 지구단위계획구역 지정 추진 프레시안"
-    },
-    {
-      "id": "e7f653676fa88255",
-      "title": "유성구의회 공유주방 예정지 확인으로 추경 심사 밀도",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8wSjU5cWQ1UFNqQ0U1dGJvRVE3aTItWDh5SDRyTW00OXBXQzFua29nNGRmcFQxMkw4VFFOZHV6YVk0SWVLT2tZMk9sSFV5SjlmX2syM05sMmRncm83dXpROUJVdlBtQ2tRRzRsZGRjcjM?oc=5",
-      "source": "충청일보",
-      "category": "기사",
-      "date": "2026-09-22",
-      "description": "유성구의회 공유주방 예정지 확인으로 추경 심사 밀도 충청일보"
-    },
-    {
-      "id": "b01e76b0684596d3",
-      "title": "진주시, 원도심 활성화 속도… 상권·문화·생활인구 확충",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9kWm92VjIzamZPZGZRdzBXQVJ3ZVU1OVZsWGFBX2x1dTMwQ2FlN3Znb3Rlc0J0UlZyNV9EMVZ6VDVaQTVZMlhRR2tLSVVscmpVX0VDMkxkbHFadlBFWHNNMy1OeVpBV3JnVkE?oc=5",
-      "source": "천지일보",
-      "category": "기사",
-      "date": "2026-09-22",
-      "description": "진주시, 원도심 활성화 속도… 상권·문화·생활인구 확충 천지일보"
-    },
-    {
-      "id": "623fd1df03829160",
-      "title": "군포시의회, 도시 미래 3대 현안 꺼냈다… 화물터미널·산본천·GTX-C 촉구",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9ROHR2UFJQaGU0TU5UajhsY3R4b2ZTVzJPT2FtSlhyUk0wMUx4cjFORHVSOVdsVWlycjI5a1BORE0zanBtaFlpMndiR2kwVTFTc05aQUlqbGIzWjEwNHBhR3ZKRndPUmtTNWc?oc=5",
-      "source": "천지일보",
-      "category": "기사",
-      "date": "2026-09-22",
-      "description": "군포시의회, 도시 미래 3대 현안 꺼냈다… 화물터미널·산본천·GTX-C 촉구 천지일보"
-    },
-    {
-      "id": "f7601183df8f4631",
-      "title": "조희대, 대통령 출국 다음날 147자 문자 거부…“빈집털이”",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9fcW9pV2wydm1lcm5odEJqcjF0UEd5ZkVFN2l2ZWgyamN0RHlhTXc2TXNMYWdkclIyQVVRMWY1NlVFYzM1Ym9LNDdlbllpdzIxZ2ROcnV1Zk5YVC1oVmfSAWNBVV95cUxONWhKZzhRXzVVV2UxWGctMzZTY1hFbEFSbXE2Y292TU5oTGhES0NjbGUxZDRrQ18yS3FxNThIdmFabWh0V0RVSkZndHd5YzdwSjQ1YzY4OElJN2QzaVo3TFBOUGs?oc=5",
-      "source": "채널A",
-      "category": "기사",
-      "date": "2026-09-22",
-      "description": "조희대, 대통령 출국 다음날 147자 문자 거부…“빈집털이” 채널A"
     }
   ]
 }
