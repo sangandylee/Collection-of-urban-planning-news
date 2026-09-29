@@ -1,29 +1,29 @@
 {
-  "updated_at": "2026-09-29 08:06 KST",
+  "updated_at": "2026-09-29 12:05 KST",
   "coverage": {
-    "items": 19944,
+    "items": 19994,
     "oldest": "2025-09-30",
-    "newest": "2026-09-28",
-    "days_covered": 364,
+    "newest": "2026-09-29",
+    "days_covered": 365,
     "complete": true
   },
   "weekly": [
     {
       "topic": "도시재생·빈집·원도심",
-      "count": 119,
-      "trend_label": "직전 동일기간보다 63건 감소",
+      "count": 125,
+      "trend_label": "직전 동일기간보다 57건 감소",
       "analyzed_count": 15,
       "summary": {
         "points": [
           {
             "label": "사업·공급",
-            "text": "사업 추진·정비 추진·공간·시설 조성 흐름이 6건의 자료에서 확인됐다.",
-            "evidence_count": 6
+            "text": "사업 추진·정비 추진·공간·시설 조성 흐름이 7건의 자료에서 확인됐다.",
+            "evidence_count": 7
           },
           {
             "label": "공간·생활권",
-            "text": "빈집 관리·교통체계 변화가 5건의 자료에서 공간 변화의 핵심으로 나타났다.",
-            "evidence_count": 5
+            "text": "빈집 관리·교통체계 변화·상권 변화가 7건의 자료에서 공간 변화의 핵심으로 나타났다.",
+            "evidence_count": 7
           }
         ],
         "note": "",
@@ -58,15 +58,15 @@
     },
     {
       "topic": "재건축·재개발·정비사업",
-      "count": 102,
-      "trend_label": "직전 동일기간보다 209건 감소",
+      "count": 117,
+      "trend_label": "직전 동일기간보다 194건 감소",
       "analyzed_count": 15,
       "summary": {
         "points": [
           {
             "label": "사업·공급",
-            "text": "정비 추진·사업 추진 흐름이 9건의 자료에서 확인됐다.",
-            "evidence_count": 9
+            "text": "정비 추진·사업 추진·공간·시설 조성 흐름이 10건의 자료에서 확인됐다.",
+            "evidence_count": 10
           },
           {
             "label": "정책·제도",
@@ -111,25 +111,25 @@
     },
     {
       "topic": "국토계획·용도지역·규제",
-      "count": 92,
-      "trend_label": "직전 동일기간보다 82건 감소",
+      "count": 108,
+      "trend_label": "직전 동일기간보다 66건 감소",
       "analyzed_count": 15,
       "summary": {
         "points": [
           {
             "label": "사업·공급",
-            "text": "계획 수립·공급 확대·공간·시설 조성 흐름이 6건의 자료에서 확인됐다.",
-            "evidence_count": 6
+            "text": "계획 수립·정비 추진·공간·시설 조성 흐름이 7건의 자료에서 확인됐다.",
+            "evidence_count": 7
           },
           {
             "label": "공간·생활권",
-            "text": "개발밀도 변화가 3건의 자료에서 공간 변화의 핵심으로 나타났다.",
-            "evidence_count": 3
+            "text": "개발밀도 변화가 5건의 자료에서 공간 변화의 핵심으로 나타났다.",
+            "evidence_count": 5
           },
           {
             "label": "정책·제도",
-            "text": "구역·사업 지정·규제 완화 관련 움직임이 2건의 자료에서 반복됐다.",
-            "evidence_count": 2
+            "text": "규제 완화·새 제도 도입 관련 움직임이 3건의 자료에서 반복됐다.",
+            "evidence_count": 3
           }
         ],
         "note": "",
@@ -143,72 +143,29 @@
           "date": "2026-09-23"
         },
         {
-          "title": "강남 푸른마을 아파트 재건축 시동… 최대 용적률보다 소유자 이익에 집중한다",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBUS3V6Rl9Lc2FUYmVFMTlRWFgzVVBTSmIwRXhPel9yZ1Jpemo1M210RWdyR19hazAycjJRNjVwOHpjRjNlcjVDU3REYnc4aTVmMTdZVW9NaDMxRWJoM3NqTDdCMlZEaTNPRUJsanNKWGY?oc=5",
-          "source": "하우징타임즈",
-          "date": "2026-09-28"
+          "title": "용적률은 높이고 규제는 풀고… 정비사업 관련 법안 첫 관문 넘었다",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1NR3RIMkt2LVdDcGQtam5Ia3NqOUFqSC1udXc3akhfWUJuWjJLbUl5bEdMZDJfM05jQjJ5Z2J5QnhrSG11VXJFNnhBeTVranh1V2pJYlBZZU9qY0Eta201NFRPdXQtSTcz?oc=5",
+          "source": "한국주택경제신문",
+          "date": "2026-09-29"
         },
         {
-          "title": "강남 일원동 푸른마을 아파트 재건축 시동… 최대 용적률보다 소유자 이익에 집중한다",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBUS3V6Rl9Lc2FUYmVFMTlRWFgzVVBTSmIwRXhPel9yZ1Jpemo1M210RWdyR19hazAycjJRNjVwOHpjRjNlcjVDU3REYnc4aTVmMTdZVW9NaDMxRWJoM3NqTDdCMlZEaTNPRUJsanNKWGY?oc=5",
-          "source": "하우징타임즈",
-          "date": "2026-09-28"
+          "title": "[김제시] “지목현실화 사업” 완료… 225필지 변경",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE85czczOEdjUVNoVk9wd3VIQTVGUnRnQ3Utb0h4QzkyOU11TmxrbmxOTXFPVUw1VzV3ZzA1TWF3Vmp0cmlHMVNOLVRoUTRHb1N3SmhGdlhLRl8xTUlHZmU2RS1xOVEzUE1w?oc=5",
+          "source": "투데이안",
+          "date": "2026-09-29"
         },
         {
-          "title": "세종시 '농지 투기'오명 벗을까...농지 3만 5천여 필지 심층조사",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5rU1pQOE43REo5ZTczQnJlc21XRkNkaHN6dUpnem5OZW0tS3lrMkt5V3QzVktxT2djUVlnY2U5MVZTVGRCOHZ4cUFLZzFZSTlkVEE0eVAxQTlBWE0xWTg4STNTZ0d3UHEzall1Zw?oc=5",
-          "source": "티제이비",
-          "date": "2026-09-28"
-        }
-      ]
-    },
-    {
-      "topic": "상권·골목경제·생활권",
-      "count": 77,
-      "trend_label": "직전 동일기간보다 61건 감소",
-      "analyzed_count": 15,
-      "summary": {
-        "points": [
-          {
-            "label": "공간·생활권",
-            "text": "상권 변화가 15건의 자료에서 공간 변화의 핵심으로 나타났다.",
-            "evidence_count": 15
-          }
-        ],
-        "note": "",
-        "topic": "상권·골목경제·생활권"
-      },
-      "examples": [
-        {
-          "title": "오세훈 시장, 23일(수) 추석 연휴 앞두고 전통시장·골목상권 민생 점검… 시민 안전 지키는 지구대 근무자도 격려",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1yQjBWQ0E1YnA2U0tyY1FSYnJFeGZEdlEyQ21jM1c5ZmlmVFdmeGpxSnlVRklLZnM1ODN4V0hXeFVzdU1JUXJsbkxWN2tQM2x6MUx5czd4WHcySnFT?oc=5",
-          "source": "한국방송뉴스",
-          "date": "2026-09-26"
-        },
-        {
-          "title": "JDC, 추석맞이 전통시장 ‧ 골목상권 소비 촉진 나서",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5nc01YN1BubUg3VGVuNklnWGxILVdjSjdDaHQ5UFFaZ2FlWW9FcFlUWWpXY3AzYUhRck00Y0dPcTJoRzRIYXhlSUl5Rlpwc3JLT3hlNEUxbjdJNUJzem9EYzY1TTF2LUNMWWhFNW00OA?oc=5",
-          "source": "채널제주",
-          "date": "2026-09-25"
-        },
-        {
-          "title": "JDC, 추석 맞아 전통시장·골목상권 소비 촉진",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4wY0h6bHBiZkN4UUFEQmNBQWpSRlpiREpxWVFiR0EzcVRVX19Dc2o4OVVxeWlXTzdrT1BPZmFZMS10Y1lxSEVjc3ZXSjNPMjBrLVNFeWZmZ0NxdlpWZ3ozX0lwUzRLQkU?oc=5",
-          "source": "제민일보",
-          "date": "2026-09-25"
-        },
-        {
-          "title": "남해 농어촌 기본소득, 추석 연휴 전통시장·골목상권 활력 기대",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5QNk5mdTJMWUllM29MSE5TNmg4NzdxbnJ4VmRTdVpFQjBkTTIxa0Y4Q1VVbzg5bW9MaW1CdW12UF93MkNIUEtVbTNaaVVGenNMZmpud0piVkktTVJzMFBGbdIBYEFVX3lxTE5QNk5mdTJMWUllM29MSE5TNmg4NzdxbnJ4VmRTdVpFQjBkTTIxa0Y4Q1VVbzg5bW9MaW1CdW12UF93MkNIUEtVbTNaaVVGenNMZmpud0piVkktTVJzMFBGbQ?oc=5",
+          "title": "강남 한솔·용산 반도아파트 재건축…서울시 도시계획위 의결",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9qRXV6T3daTllhTzJVUDlfYl9VMHlkZ0pjT1YxMEFaSEV3VzY4VXdENHlCQ3VVaFZMTVZaQ3hTRC1SdDE1R1R3dUNEZDVlSXgzN2J5TU9OMTdienfSAWBBVV95cUxPUmJpSDE0UXI0N3pXZGtvdFFua0xtUU9XVUtBeUs5SkVweTJyaEJpMEw4cWxlbzhkeGR6YlNjU2ZQRFFmUEhyTmZFYXVIdEJTejkxN1RIbEZBcHlIaUtwTlU?oc=5",
           "source": "연합뉴스",
-          "date": "2026-09-24"
+          "date": "2026-09-29"
         }
       ]
     },
     {
       "topic": "철도·광역교통·역세권",
-      "count": 76,
-      "trend_label": "직전 동일기간보다 115건 감소",
+      "count": 82,
+      "trend_label": "직전 동일기간보다 109건 감소",
       "analyzed_count": 15,
       "summary": {
         "points": [
@@ -250,6 +207,49 @@
           "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1OQkhNdEF6c200ZExSRmU1alV5M1ZYTVl4b2JXUS13TlZFejc2UkNwUHMtWXJ6WkFmMWVSVzF4UDQzY2tMakxXQlBkSEJJYlo4NkRLUDdXbEJ0NzRmYzg3b3J1UmQySDhqUUpiVktfTdIBb0FVX3lxTE1OQkhNdEF6c200ZExSRmU1alV5M1ZYTVl4b2JXUS13TlZFejc2UkNwUHMtWXJ6WkFmMWVSVzF4UDQzY2tMakxXQlBkSEJJYlo4NkRLUDdXbEJ0NzRmYzg3b3J1UmQySDhqUUpiVktfTQ?oc=5",
           "source": "머니투데이",
           "date": "2026-09-28"
+        }
+      ]
+    },
+    {
+      "topic": "상권·골목경제·생활권",
+      "count": 81,
+      "trend_label": "직전 동일기간보다 57건 감소",
+      "analyzed_count": 15,
+      "summary": {
+        "points": [
+          {
+            "label": "공간·생활권",
+            "text": "상권 변화가 15건의 자료에서 공간 변화의 핵심으로 나타났다.",
+            "evidence_count": 15
+          }
+        ],
+        "note": "",
+        "topic": "상권·골목경제·생활권"
+      },
+      "examples": [
+        {
+          "title": "오세훈 시장, 23일(수) 추석 연휴 앞두고 전통시장·골목상권 민생 점검… 시민 안전 지키는 지구대 근무자도 격려",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1yQjBWQ0E1YnA2U0tyY1FSYnJFeGZEdlEyQ21jM1c5ZmlmVFdmeGpxSnlVRklLZnM1ODN4V0hXeFVzdU1JUXJsbkxWN2tQM2x6MUx5czd4WHcySnFT?oc=5",
+          "source": "한국방송뉴스",
+          "date": "2026-09-26"
+        },
+        {
+          "title": "JDC, 추석맞이 전통시장 ‧ 골목상권 소비 촉진 나서",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5nc01YN1BubUg3VGVuNklnWGxILVdjSjdDaHQ5UFFaZ2FlWW9FcFlUWWpXY3AzYUhRck00Y0dPcTJoRzRIYXhlSUl5Rlpwc3JLT3hlNEUxbjdJNUJzem9EYzY1TTF2LUNMWWhFNW00OA?oc=5",
+          "source": "채널제주",
+          "date": "2026-09-25"
+        },
+        {
+          "title": "JDC, 추석 맞아 전통시장·골목상권 소비 촉진",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4wY0h6bHBiZkN4UUFEQmNBQWpSRlpiREpxWVFiR0EzcVRVX19Dc2o4OVVxeWlXTzdrT1BPZmFZMS10Y1lxSEVjc3ZXSjNPMjBrLVNFeWZmZ0NxdlpWZ3ozX0lwUzRLQkU?oc=5",
+          "source": "제민일보",
+          "date": "2026-09-25"
+        },
+        {
+          "title": "남해 농어촌 기본소득, 추석 연휴 전통시장·골목상권 활력 기대",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5QNk5mdTJMWUllM29MSE5TNmg4NzdxbnJ4VmRTdVpFQjBkTTIxa0Y4Q1VVbzg5bW9MaW1CdW12UF93MkNIUEtVbTNaaVVGenNMZmpud0piVkktTVJzMFBGbdIBYEFVX3lxTE5QNk5mdTJMWUllM29MSE5TNmg4NzdxbnJ4VmRTdVpFQjBkTTIxa0Y4Q1VVbzg5bW9MaW1CdW12UF93MkNIUEtVbTNaaVVGenNMZmpud0piVkktTVJzMFBGbQ?oc=5",
+          "source": "연합뉴스",
+          "date": "2026-09-24"
         }
       ]
     },
@@ -351,9 +351,9 @@
     },
     {
       "topic": "주택공급·공공주택",
-      "count": 14,
-      "trend_label": "직전 동일기간보다 29건 감소",
-      "analyzed_count": 13,
+      "count": 15,
+      "trend_label": "직전 동일기간보다 30건 감소",
+      "analyzed_count": 14,
       "summary": {
         "points": [
           {
@@ -372,6 +372,12 @@
       },
       "examples": [
         {
+          "title": "\"GTX 타고 수서까지 21분\"…'e편한세상 동탄역어반원' 분양",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBQOWF2WkxPR3R4di1lN2FKeVA0a0ItQnFxa0FLTTg2WTBLd1d6cjY0ckNUSWpMUWgyUU8xalV0c0dyTmpMa255WV94cWNoVXpnSk1hYUdMSTNGdFZIbjlHXw?oc=5",
+          "source": "아시아경제",
+          "date": "2026-09-28"
+        },
+        {
           "title": "\"수서까지 21분\" GTX 역세권…'e편한세상 동탄역 어반원' 분양",
           "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1OQkhNdEF6c200ZExSRmU1alV5M1ZYTVl4b2JXUS13TlZFejc2UkNwUHMtWXJ6WkFmMWVSVzF4UDQzY2tMakxXQlBkSEJJYlo4NkRLUDdXbEJ0NzRmYzg3b3J1UmQySDhqUUpiVktfTdIBb0FVX3lxTE1OQkhNdEF6c200ZExSRmU1alV5M1ZYTVl4b2JXUS13TlZFejc2UkNwUHMtWXJ6WkFmMWVSVzF4UDQzY2tMakxXQlBkSEJJYlo4NkRLUDdXbEJ0NzRmYzg3b3J1UmQySDhqUUpiVktfTQ?oc=5",
           "source": "머니투데이",
@@ -388,20 +394,14 @@
           "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1kWWFSUXpMdzQ5Ym5VWmxHczRCejhGTUhoOG9SLXZTZ2dRS2w3N1kzbmdqalRfZGc3Y1dpSUV0dzlZaFB4c1ZJVW1xYTB2MEZxak5nNk9nQmZINEZHLXJabHhMenJHRkFGOEE?oc=5",
           "source": "hidomin.com",
           "date": "2026-09-28"
-        },
-        {
-          "title": "대방동 393-66 일대 역세권 활성화사업 환경영향평가 용역 선정 입찰공고",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1TVWRNdmJkelA4ZHNHS2xMMGhtZ0c5M3BrZm4weU1tVVo3c3NLTGFUVmd0V3RkN2RXNURjdUM1NGx2dkRFQkI0RHcxdkFYQWtFcjNadFdhVHgxV3pWSzBYR0h2NVJrd3pa?oc=5",
-          "source": "arunews.com",
-          "date": "2026-09-28"
         }
       ]
     },
     {
       "topic": "토지·부동산시장",
-      "count": 12,
-      "trend_label": "직전 동일기간보다 4건 감소",
-      "analyzed_count": 11,
+      "count": 14,
+      "trend_label": "직전 동일기간보다 2건 감소",
+      "analyzed_count": 13,
       "summary": {
         "points": [
           {
@@ -411,8 +411,8 @@
           },
           {
             "label": "시장·비용",
-            "text": "지가 변화·거래 변화 문제가 3건의 자료에서 주요 관심사로 나타났다.",
-            "evidence_count": 3
+            "text": "지가 변화·거래 변화·사업성 문제가 4건의 자료에서 주요 관심사로 나타났다.",
+            "evidence_count": 4
           },
           {
             "label": "공간·생활권",
@@ -424,6 +424,12 @@
         "topic": "토지·부동산시장"
       },
       "examples": [
+        {
+          "title": "고대생만 찾던 안암동에 ‘28층 펜트하우스’ 들어선다 [부동산360]",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE41V3NDdjUzeEl0ZEctY0dTbm9zYlhhUDUzRVZab2IyVHRGWUpZbDNPWFZnVGR3VzJ2UDVNSmh6emV2dW5peHZsbnpVdzhjdThaT3l3SlFDVQ?oc=5",
+          "source": "헤럴드경제",
+          "date": "2026-09-28"
+        },
         {
           "title": "지번 하나로 공시지가·실거래가·용도지역·건축 가능 규모·토지등기부까지 한 화면에",
           "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9nLWJvb3laM21lUkVYVHZNbHU5cmNDU1FLSkxGZXA4MUZXa2tFWVJzdG9SOHg3U19SZTRDUEdXNF9vaGctV0tTcXNxcDdPYS1BTEw3R2JYSHhRU2l5Q0h4RnhFVV9Bck4t?oc=5",
@@ -440,12 +446,6 @@
           "title": "[아유경제_부동산] 기계공구상가 특별계획구역 지정… 구로역 일대 산업거점으로 재편",
           "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1PTUNZYVRESmFZNUljcXVPNUwwWFR1V3dRcnNpVGNUVlRNVm0tcGxrbEJDcUwwMm1VVkE4UnhwMV9Ia2Y1RllRZDd4SEtvRnk0b00ySFZXRWFZdXFCbFAyejNiQy0wdk9X?oc=5",
           "source": "아유경제",
-          "date": "2026-09-28"
-        },
-        {
-          "title": "[기획] 서울 정비사업 대규모 이주 예고…전세시장 ‘비상’",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE93cEJ3LXYzdXpIeGRJOHZ1TkN5eGdDLVdQX1loeFlVMFhDNWg0UEVITzRJMW1ES0JNZTZFaW1rVTBOVVdpMEVFME9rRWtPQU1qeGJXbEd6NnNKN2xkV29jeEF4ZEXSAWhBVV95cUxNWmNWTDBGdWc5YWRZb1pVV1R3U0RJR05zdm0tX1IwMWZQeGpEY1U1dDZocmZJUm1BYUgtdW9mNXVwZklYUVo2Z2JUenB5cHF6U2ozc2N5Z2dMSC1kUVlDZzk2V2J0SVJNTw?oc=5",
-          "source": "매일일보",
           "date": "2026-09-28"
         }
       ]
@@ -497,8 +497,8 @@
   "monthly": [
     {
       "topic": "재건축·재개발·정비사업",
-      "count": 1217,
-      "trend_label": "직전 동일기간보다 169건 감소",
+      "count": 1232,
+      "trend_label": "직전 동일기간보다 154건 감소",
       "analyzed_count": 15,
       "summary": {
         "points": [
@@ -550,8 +550,8 @@
     },
     {
       "topic": "철도·광역교통·역세권",
-      "count": 923,
-      "trend_label": "직전 동일기간보다 206건 감소",
+      "count": 929,
+      "trend_label": "직전 동일기간보다 200건 감소",
       "analyzed_count": 15,
       "summary": {
         "points": [
@@ -598,8 +598,8 @@
     },
     {
       "topic": "도시재생·빈집·원도심",
-      "count": 857,
-      "trend_label": "직전 동일기간보다 21건 감소",
+      "count": 863,
+      "trend_label": "직전 동일기간보다 15건 감소",
       "analyzed_count": 15,
       "summary": {
         "points": [
@@ -646,8 +646,8 @@
     },
     {
       "topic": "국토계획·용도지역·규제",
-      "count": 795,
-      "trend_label": "직전 동일기간보다 184건 감소",
+      "count": 811,
+      "trend_label": "직전 동일기간보다 168건 감소",
       "analyzed_count": 15,
       "summary": {
         "points": [
@@ -694,8 +694,8 @@
     },
     {
       "topic": "상권·골목경제·생활권",
-      "count": 531,
-      "trend_label": "직전 동일기간보다 35건 감소",
+      "count": 535,
+      "trend_label": "직전 동일기간보다 31건 감소",
       "analyzed_count": 15,
       "summary": {
         "points": [
@@ -737,20 +737,20 @@
     },
     {
       "topic": "토지·부동산시장",
-      "count": 156,
-      "trend_label": "직전 동일기간보다 32건 감소",
+      "count": 158,
+      "trend_label": "직전 동일기간보다 30건 감소",
       "analyzed_count": 15,
       "summary": {
         "points": [
           {
             "label": "사업·공급",
-            "text": "정비 추진·계획 수립·공급 확대 흐름이 6건의 자료에서 확인됐다.",
-            "evidence_count": 6
+            "text": "정비 추진·계획 수립·사업 추진 흐름이 5건의 자료에서 확인됐다.",
+            "evidence_count": 5
           },
           {
             "label": "시장·비용",
-            "text": "지가 변화·거래 변화 문제가 4건의 자료에서 주요 관심사로 나타났다.",
-            "evidence_count": 4
+            "text": "지가 변화·거래 변화·사업성 문제가 5건의 자료에서 주요 관심사로 나타났다.",
+            "evidence_count": 5
           },
           {
             "label": "공간·생활권",
@@ -775,15 +775,15 @@
           "date": "2026-09-10"
         },
         {
-          "title": "지번 하나로 공시지가·실거래가·용도지역·건축 가능 규모·토지등기부까지 한 화면에",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9nLWJvb3laM21lUkVYVHZNbHU5cmNDU1FLSkxGZXA4MUZXa2tFWVJzdG9SOHg3U19SZTRDUEdXNF9vaGctV0tTcXNxcDdPYS1BTEw3R2JYSHhRU2l5Q0h4RnhFVV9Bck4t?oc=5",
-          "source": "연합매일신문",
+          "title": "고대생만 찾던 안암동에 ‘28층 펜트하우스’ 들어선다 [부동산360]",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE41V3NDdjUzeEl0ZEctY0dTbm9zYlhhUDUzRVZab2IyVHRGWUpZbDNPWFZnVGR3VzJ2UDVNSmh6emV2dW5peHZsbnpVdzhjdThaT3l3SlFDVQ?oc=5",
+          "source": "헤럴드경제",
           "date": "2026-09-28"
         },
         {
-          "title": "[아유경제_부동산] 서울시, 공항로 지구단위계획 재정비… 비주거의무비율 폐지",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAyc2s0R0NZbFZYX0R6dERoQ1BlcUtwR01mcUV2dDU3eEt1UU5HMW5yZ0tZS3l0TUdsN0NRY0RLelp0VkN4SVZGSFM4TVpmcHFoNXd1ZWg5U3dudVpWUGMxT1BiSW5GMjVq?oc=5",
-          "source": "아유경제",
+          "title": "지번 하나로 공시지가·실거래가·용도지역·건축 가능 규모·토지등기부까지 한 화면에",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9nLWJvb3laM21lUkVYVHZNbHU5cmNDU1FLSkxGZXA4MUZXa2tFWVJzdG9SOHg3U19SZTRDUEdXNF9vaGctV0tTcXNxcDdPYS1BTEw3R2JYSHhRU2l5Q0h4RnhFVV9Bck4t?oc=5",
+          "source": "연합매일신문",
           "date": "2026-09-28"
         }
       ]
@@ -827,8 +827,8 @@
     },
     {
       "topic": "주택공급·공공주택",
-      "count": 139,
-      "trend_label": "직전 동일기간보다 105건 감소",
+      "count": 142,
+      "trend_label": "직전 동일기간보다 102건 감소",
       "analyzed_count": 15,
       "summary": {
         "points": [
@@ -983,7 +983,7 @@
   "yearly": [
     {
       "topic": "재건축·재개발·정비사업",
-      "count": 5306,
+      "count": 5321,
       "trend_label": "최근 1년 누적",
       "analyzed_count": 15,
       "summary": {
@@ -1031,7 +1031,7 @@
     },
     {
       "topic": "철도·광역교통·역세권",
-      "count": 3669,
+      "count": 3675,
       "trend_label": "최근 1년 누적",
       "analyzed_count": 15,
       "summary": {
@@ -1074,7 +1074,7 @@
     },
     {
       "topic": "국토계획·용도지역·규제",
-      "count": 3008,
+      "count": 3024,
       "trend_label": "최근 1년 누적",
       "analyzed_count": 15,
       "summary": {
@@ -1122,7 +1122,7 @@
     },
     {
       "topic": "도시재생·빈집·원도심",
-      "count": 2906,
+      "count": 2912,
       "trend_label": "최근 1년 누적",
       "analyzed_count": 15,
       "summary": {
@@ -1170,7 +1170,7 @@
     },
     {
       "topic": "상권·골목경제·생활권",
-      "count": 1749,
+      "count": 1753,
       "trend_label": "최근 1년 누적",
       "analyzed_count": 15,
       "summary": {
@@ -1213,7 +1213,7 @@
     },
     {
       "topic": "주택공급·공공주택",
-      "count": 782,
+      "count": 785,
       "trend_label": "최근 1년 누적",
       "analyzed_count": 15,
       "summary": {
@@ -1266,16 +1266,11 @@
     },
     {
       "topic": "토지·부동산시장",
-      "count": 657,
+      "count": 659,
       "trend_label": "최근 1년 누적",
       "analyzed_count": 15,
       "summary": {
         "points": [
-          {
-            "label": "사업·공급",
-            "text": "정비 추진·계획 수립·사업 추진 흐름이 5건의 자료에서 확인됐다.",
-            "evidence_count": 5
-          },
           {
             "label": "시장·비용",
             "text": "지가 변화·거래 변화·가격 변동 문제가 5건의 자료에서 주요 관심사로 나타났다.",
@@ -1285,6 +1280,11 @@
             "label": "공간·생활권",
             "text": "역세권 재편·빈집 관리가 5건의 자료에서 공간 변화의 핵심으로 나타났다.",
             "evidence_count": 5
+          },
+          {
+            "label": "사업·공급",
+            "text": "정비 추진·계획 수립·사업 추진 흐름이 4건의 자료에서 확인됐다.",
+            "evidence_count": 4
           }
         ],
         "note": "",
