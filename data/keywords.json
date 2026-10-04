@@ -1,45 +1,45 @@
 {
-  "updated_at": "2026-10-04 13:34 KST",
+  "updated_at": "2026-10-05 00:59 KST",
   "monthly": [
     {
       "word": "정비사업(재건축·재개발)",
-      "count": 1093
+      "count": 1089
     },
     {
       "word": "원도심",
-      "count": 414
+      "count": 417
     },
     {
       "word": "골목상권",
-      "count": 290
+      "count": 279
     },
     {
       "word": "GTX",
-      "count": 266
-    },
-    {
-      "word": "도시재생",
-      "count": 264
+      "count": 267
     },
     {
       "word": "역세권",
-      "count": 259
+      "count": 262
+    },
+    {
+      "word": "도시재생",
+      "count": 260
     },
     {
       "word": "조합",
-      "count": 232
+      "count": 231
     },
     {
       "word": "도시철도",
-      "count": 222
+      "count": 224
     },
     {
       "word": "필지",
-      "count": 187
+      "count": 188
     },
     {
       "word": "용적률",
-      "count": 176
+      "count": 177
     },
     {
       "word": "빈집",
@@ -55,19 +55,19 @@
     },
     {
       "word": "산업단지",
-      "count": 69
-    },
-    {
-      "word": "지구단위계획",
-      "count": 67
+      "count": 68
     },
     {
       "word": "전통시장",
       "count": 66
     },
     {
+      "word": "지구단위계획",
+      "count": 66
+    },
+    {
       "word": "개발밀도",
-      "count": 62
+      "count": 60
     },
     {
       "word": "공공주택",
@@ -79,29 +79,29 @@
     },
     {
       "word": "도시첨단산업단지",
-      "count": 47
+      "count": 46
     }
   ],
   "quarterly": [
     {
       "word": "정비사업(재건축·재개발)",
-      "count": 3863
+      "count": 3816
     },
     {
       "word": "원도심",
-      "count": 1211
+      "count": 1201
     },
     {
       "word": "역세권",
-      "count": 962
+      "count": 961
     },
     {
       "word": "도시재생",
-      "count": 936
+      "count": 914
     },
     {
       "word": "골목상권",
-      "count": 821
+      "count": 818
     },
     {
       "word": "필지",
@@ -109,15 +109,15 @@
     },
     {
       "word": "GTX",
-      "count": 728
+      "count": 722
     },
     {
       "word": "도시철도",
-      "count": 724
+      "count": 714
     },
     {
       "word": "조합",
-      "count": 710
+      "count": 696
     },
     {
       "word": "용적률",
@@ -125,7 +125,7 @@
     },
     {
       "word": "UAM·PAV",
-      "count": 605
+      "count": 598
     },
     {
       "word": "빈집",
@@ -133,11 +133,11 @@
     },
     {
       "word": "광역교통",
-      "count": 263
+      "count": 260
     },
     {
       "word": "개발밀도",
-      "count": 226
+      "count": 223
     },
     {
       "word": "주택공급",
@@ -145,15 +145,15 @@
     },
     {
       "word": "스마트시티",
-      "count": 214
+      "count": 209
     },
     {
       "word": "지구단위계획",
-      "count": 191
+      "count": 189
     },
     {
       "word": "노후계획도시",
-      "count": 190
+      "count": 189
     },
     {
       "word": "균형발전",
@@ -161,25 +161,25 @@
     },
     {
       "word": "공공주택",
-      "count": 148
+      "count": 144
     }
   ],
   "yearly": [
     {
       "word": "정비사업(재건축·재개발)",
-      "count": 5313
+      "count": 5315
     },
     {
       "word": "원도심",
-      "count": 1341
+      "count": 1345
     },
     {
       "word": "도시재생",
-      "count": 1208
+      "count": 1209
     },
     {
       "word": "역세권",
-      "count": 1159
+      "count": 1162
     },
     {
       "word": "골목상권",
@@ -187,7 +187,7 @@
     },
     {
       "word": "도시철도",
-      "count": 907
+      "count": 911
     },
     {
       "word": "조합",
@@ -195,15 +195,15 @@
     },
     {
       "word": "필지",
-      "count": 877
+      "count": 878
     },
     {
       "word": "GTX",
-      "count": 794
+      "count": 795
     },
     {
       "word": "용적률",
-      "count": 778
+      "count": 779
     },
     {
       "word": "UAM·PAV",
@@ -211,7 +211,7 @@
     },
     {
       "word": "빈집",
-      "count": 615
+      "count": 617
     },
     {
       "word": "산업단지",
@@ -223,11 +223,11 @@
     },
     {
       "word": "주택공급",
-      "count": 259
+      "count": 260
     },
     {
       "word": "균형발전",
-      "count": 255
+      "count": 256
     },
     {
       "word": "개발밀도",

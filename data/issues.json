@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-10-04 13:34 KST",
+  "updated_at": "2026-10-05 00:59 KST",
   "coverage": {
-    "items": 20952,
+    "items": 20973,
     "oldest": "2025-10-07",
     "newest": "2026-10-04",
     "days_covered": 363,
@@ -10,8 +10,8 @@
   "weekly": [
     {
       "topic": "재건축·재개발·정비사업",
-      "count": 308,
-      "trend_label": "직전 동일기간보다 108건 증가",
+      "count": 269,
+      "trend_label": "직전 동일기간보다 107건 증가",
       "analyzed_count": 15,
       "summary": {
         "points": [
@@ -49,23 +49,23 @@
           "date": "2026-10-01"
         },
         {
-          "title": "재건축·재개발 조합 설립 전부터 온라인 총회·투표 허용되나",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4ydGNiUnpWTW5kanRuWU4xV1BnSkNEMUhDTHd4M01ZYkVUWlVvRHBKa0t0bWxZQ1kydGxqMEJwQ0k3QXhPYlNoaE9mdkFqX2dCVTJsQkhWZmFFSlJiLU1retIBeEFVX3lxTFBRMjA4SkVtSjliQklOZngxQ0RtdUFOX2wyWkdSQ1pVSDdtOFkxTlhmSHR1SlFrWUxwZGtidFNwYXJFN21SdTZYVFdrR2Rxc2hqWTJ4c2FqWk5wYm84elZNTUI5N3l0NVgzZFVZeDRkRGRpbnc3cnctTQ?oc=5",
-          "source": "뉴시스",
-          "date": "2026-09-28"
+          "title": "재개발·재건축, 이렇게 합니다",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8yV2E4SENxZWJSeTNCUXFaLURjOUlmVlhybjFNYUZfNmVDaFBZWVFCRXhUOWlRUVN0R2xfNmJjWjB4ZUREYVBkbF9wbEI3RHZ6bEJ6dTJOM1FIQQ?oc=5",
+          "source": "한국경제",
+          "date": "2026-10-03"
         }
       ]
     },
     {
       "topic": "철도·광역교통·역세권",
-      "count": 231,
-      "trend_label": "직전 동일기간보다 106건 증가",
+      "count": 209,
+      "trend_label": "직전 동일기간보다 81건 증가",
       "analyzed_count": 15,
       "summary": {
         "points": [
           {
             "label": "공간·생활권",
-            "text": "철도축 변화·교통체계 변화·상권 변화가 15건의 자료에서 공간 변화의 핵심으로 나타났다.",
+            "text": "철도축 변화·교통체계 변화·역세권 재편가 15건의 자료에서 공간 변화의 핵심으로 나타났다.",
             "evidence_count": 15
           },
           {
@@ -96,82 +96,34 @@
           "date": "2026-10-04"
         },
         {
+          "title": "인천교통공사,‘도시철도 무임수송 제도 개선 국회 정책토론회’",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB6SjF1eEo5dTd2Q3lJbmVBeHRvdGltTjZCOXp3Qm1OMHg2WS1oTndCR0p1YllhUFZSNmQ4ZWxiYU5UQXpKd1ZhbVZjOEhEN3lPNW5yMFpRLXE4RHc0eW8zVDl3THVocHN5ZHBB?oc=5",
+          "source": "일간투데이",
+          "date": "2026-10-03"
+        },
+        {
           "title": "인천도시철도 무임수송 손실 533억원···\"국비 지원 절실\"",
           "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1lczV1WjBtdm9wZkpPVEFEdzlud0RteFgtRDd1VDI4WE1hWEUwdzJyTGpaTUtKc3Y1QllkRW9SLS1JZGk2dmtBS2Y1Mi13Z0o1R2RrcWlVX1M4RFlCeEdHUjQyZENfQ1dQRnJrcWVqWDU?oc=5",
           "source": "인천투데이",
           "date": "2026-10-03"
-        },
-        {
-          "title": "[포토뉴스]서울교통공사, ‘도시철도 무임수송제도 지속 가능 방안 마련 국회 정책토론회’ 개최",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAxZkx3OEd2aGlZYUU5eHk3WnRaLXVrWmhnd1laTXlOX2RnZkZUM0c1RmtDUjZRRmNKbjB0N3dNcjQ3bloxOWFxb0tmejdnSXU0NXZMSXdObFd0QWVDT0JVWHRYaHlQZ0s3NUNN?oc=5",
-          "source": "BBS불교방송",
-          "date": "2026-10-03"
-        }
-      ]
-    },
-    {
-      "topic": "도시재생·빈집·원도심",
-      "count": 210,
-      "trend_label": "직전 동일기간보다 69건 증가",
-      "analyzed_count": 15,
-      "summary": {
-        "points": [
-          {
-            "label": "공간·생활권",
-            "text": "빈집 관리·상권 변화가 8건의 자료에서 공간 변화의 핵심으로 나타났다.",
-            "evidence_count": 8
-          },
-          {
-            "label": "사업·공급",
-            "text": "사업 추진·정비 추진·공간·시설 조성 흐름이 4건의 자료에서 확인됐다.",
-            "evidence_count": 4
-          }
-        ],
-        "note": "",
-        "topic": "도시재생·빈집·원도심"
-      },
-      "examples": [
-        {
-          "title": "“집 없어 난리인데, 여긴 빈집이 썩어나네요”…수년째 공실 LH임대주택 1만가구",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1mRDV3dlNrTHBLY2ZHeTVjcmxSeGdhYlRyTmZHRDMybldJdHZJNWxwem1QdTJxaE04OTYySWdJOWpkeDJ6TFdRcnU4NVN5ZTVRbk93dzhOSWw?oc=5",
-          "source": "매일경제",
-          "date": "2026-10-01"
-        },
-        {
-          "title": "수원 매산동 도시재생, 원도심·골목상권 살린 성과로 '행안부장관상'",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZjlUUmtjQ1JHT3h2bGVueV9JX05YVmFNOEswdUp4WHZBYzlHaEhJOHI0aHI2YVQzMFBGQjNDek9nTzFyTC13ajkxTDBmQm5EVzBtV3ZwS3F5eV9OVTVWcnJ4M2xTbFJZcDQwWnBhVHBVdmV5dkRVNjEtakJhb3NNdFdvRzZyV2RqbnNv?oc=5",
-          "source": "글로벌이코노믹",
-          "date": "2026-10-01"
-        },
-        {
-          "title": "LH 공공임대 빈집 손실 3,654억원···2년 이상 공실 73% ‘초소형’",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAydVhmTU5IMk1CbFY1UUZjZ0RQdlpoS28wUUVha0tqTUJCNWY4dnBEX291cDZMOXE0d0NJeGxTVm1MN1dEaWxiQTB3Wk1vYmo1eGd3YV80LWxkaW8?oc=5",
-          "source": "강원일보",
-          "date": "2026-10-01"
-        },
-        {
-          "title": "음성군 ‘도시재생사업’ 국토부 장관상 수상… 원도심 상권회복 전국 최고",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5Lbk9QUTJZY19yZXhIM3ZrZGRkTGw1UHF3OUJxX0YxdjRldG9sV2RzcHJnWTB5RUhsNHNDU3Z4UFdBNWVib3BzcTEzRGtxWEZUMXZvMlRsOU4xRDl5cEFfWVJkclZXNUtRYnc?oc=5",
-          "source": "중부매일",
-          "date": "2026-09-30"
         }
       ]
     },
     {
       "topic": "국토계획·용도지역·규제",
-      "count": 206,
-      "trend_label": "직전 동일기간보다 81건 증가",
+      "count": 176,
+      "trend_label": "직전 동일기간보다 53건 증가",
       "analyzed_count": 15,
       "summary": {
         "points": [
           {
-            "label": "공간·생활권",
-            "text": "개발밀도 변화·역세권 재편·철도축 변화가 8건의 자료에서 공간 변화의 핵심으로 나타났다.",
-            "evidence_count": 8
-          },
-          {
             "label": "사업·공급",
             "text": "계획 수립·정비 추진 흐름이 7건의 자료에서 확인됐다.",
+            "evidence_count": 7
+          },
+          {
+            "label": "공간·생활권",
+            "text": "개발밀도 변화·역세권 재편가 7건의 자료에서 공간 변화의 핵심으로 나타났다.",
             "evidence_count": 7
           },
           {
@@ -211,9 +163,52 @@
       ]
     },
     {
+      "topic": "도시재생·빈집·원도심",
+      "count": 160,
+      "trend_label": "직전 동일기간보다 7건 감소",
+      "analyzed_count": 15,
+      "summary": {
+        "points": [
+          {
+            "label": "공간·생활권",
+            "text": "빈집 관리·상권 변화가 6건의 자료에서 공간 변화의 핵심으로 나타났다.",
+            "evidence_count": 6
+          }
+        ],
+        "note": "",
+        "topic": "도시재생·빈집·원도심"
+      },
+      "examples": [
+        {
+          "title": "수년간 방치된 원도심 공실, 청년 창업 공간으로 탈바꿈",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1OOTFfSkRtUEZybHdlU0loOWhRYnZhVV9zQ2tMUEVja210T2RBbWtQM2JHUXJENGpMLVVWR3kxR2lQRWxyYzV0bXZSQTdXTk1WWjN4R0YxVm14TVJmNUl1T3ZOeVRQbWZhWmUteg?oc=5",
+          "source": "뉴스N제주",
+          "date": "2026-10-04"
+        },
+        {
+          "title": "“집 없어 난리인데, 여긴 빈집이 썩어나네요”…수년째 공실 LH임대주택 1만가구",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1mRDV3dlNrTHBLY2ZHeTVjcmxSeGdhYlRyTmZHRDMybldJdHZJNWxwem1QdTJxaE04OTYySWdJOWpkeDJ6TFdRcnU4NVN5ZTVRbk93dzhOSWw?oc=5",
+          "source": "매일경제",
+          "date": "2026-10-01"
+        },
+        {
+          "title": "수원 매산동 도시재생, 원도심·골목상권 살린 성과로 '행안부장관상'",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZjlUUmtjQ1JHT3h2bGVueV9JX05YVmFNOEswdUp4WHZBYzlHaEhJOHI0aHI2YVQzMFBGQjNDek9nTzFyTC13ajkxTDBmQm5EVzBtV3ZwS3F5eV9OVTVWcnJ4M2xTbFJZcDQwWnBhVHBVdmV5dkRVNjEtakJhb3NNdFdvRzZyV2RqbnNv?oc=5",
+          "source": "글로벌이코노믹",
+          "date": "2026-10-01"
+        },
+        {
+          "title": "LH 공공임대 빈집 손실 3,654억원···2년 이상 공실 73% ‘초소형’",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAydVhmTU5IMk1CbFY1UUZjZ0RQdlpoS28wUUVha0tqTUJCNWY4dnBEX291cDZMOXE0d0NJeGxTVm1MN1dEaWxiQTB3Wk1vYmo1eGd3YV80LWxkaW8?oc=5",
+          "source": "강원일보",
+          "date": "2026-10-01"
+        }
+      ]
+    },
+    {
       "topic": "상권·골목경제·생활권",
-      "count": 137,
-      "trend_label": "직전 동일기간보다 23건 증가",
+      "count": 110,
+      "trend_label": "직전 동일기간보다 3건 감소",
       "analyzed_count": 15,
       "summary": {
         "points": [
@@ -265,8 +260,8 @@
     },
     {
       "topic": "주택공급·공공주택",
-      "count": 58,
-      "trend_label": "직전 동일기간보다 29건 증가",
+      "count": 52,
+      "trend_label": "직전 동일기간보다 31건 증가",
       "analyzed_count": 15,
       "summary": {
         "points": [
@@ -313,8 +308,8 @@
     },
     {
       "topic": "토지·부동산시장",
-      "count": 26,
-      "trend_label": "직전 동일기간보다 11건 증가",
+      "count": 19,
+      "trend_label": "직전 동일기간보다 1건 증가",
       "analyzed_count": 15,
       "summary": {
         "points": [
@@ -340,6 +335,12 @@
           "date": "2026-10-04"
         },
         {
+          "title": "“6억원 들고 ‘재개발 몸테크’ 들어가도 될까요?” [사이다 부동산]",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5Wb3RYUFFJV3kwdkx0SWJpeHRTX2sxYlB2WDcydjdxd1N5cXg1Z1ZJV2R0aVN4X2xlNENpQVJqbllVVk1La0l5UVNwbG5mSTdHbS13VmVtVzg2bC1HVFZTemJyX0lKZjJzYWJWWHhZSVZzSTTSAXNBVV95cUxOVm90WFBRSVd5MHZMdEliaXh0U19rMWJQdlg3MnY3cXdTeXF4NWdWSVdkdGlTeF9sZTRDaUFSam5ZVVZNS2tJeVFTcGxuZkk3R20td1ZlbVc4NmwtR1RWU3picl9JSmYyc2FiVlh4WUlWc0k0?oc=5",
+          "source": "시사저널",
+          "date": "2026-10-04"
+        },
+        {
           "title": "인구구조 전환에 따른 부동산시장 영향과 향후 과제",
           "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE96ajR2S1J5SjVlR3Z2WWVyOWhfUkw1aEVJaEN6VXpuS1lWWVdNSDJGWU0zbEozV296azdvbC1DeHdTUW9FMklJM05KNnB4RFd5aXZVVDRnazliUHM4czBOenFjTmVHOFVNLUdZZzIyMEtNaWV2eThSYm1EMA?oc=5",
           "source": "국토연구원",
@@ -350,19 +351,13 @@
           "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5sTGg2dmZRUUM1SXkyb3hoNFJlc0hSb2kyUnhqVHo3Q3JrQ3ozTnNMbXU1eURXY3JPVjJaQkJ6UDJoSmtKSHRvLTBYVEx6WkdLeXhLaUhQLUtQYVFqX2p6Q1lKRURLTGdSWlZKV2pKc1lTZ1Fta3lVQlVXU0o?oc=5",
           "source": "한국금융신문",
           "date": "2026-10-02"
-        },
-        {
-          "title": "호치민시 북동부 지역의 부동산은 수십억 달러 규모의 인프라 개발 사업의 호황을 누리고 있습니다.",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSTlmaHB1WVZUaEFCV2E4VEk5cF9jckFiTGNLM09NV25KLVRCVHBkTnMtLXBvdldJQ0JTQ0N1T182T1VPWkVlSVh3Y2pHaUZRa2E4dGtTZ3ZNb2I2MlVCLXlXTDVjQkJ3QzFDR09LQm84ZzhSeU9NM1UxQWtKTmhYbkU4bw?oc=5",
-          "source": "Vietnam.vn",
-          "date": "2026-10-02"
         }
       ]
     },
     {
       "topic": "컴팩트시티·미래도시",
       "count": 10,
-      "trend_label": "직전 동일기간보다 1건 감소",
+      "trend_label": "직전 동일기간보다 1건 증가",
       "analyzed_count": 10,
       "summary": {
         "points": [
@@ -408,102 +403,97 @@
       ]
     },
     {
-      "topic": "공업지역·산업단지 제도",
-      "count": 9,
-      "trend_label": "직전 동일기간보다 41건 감소",
-      "analyzed_count": 8,
+      "topic": "도시안전·재난 대응",
+      "count": 8,
+      "trend_label": "직전 동일기간보다 4건 증가",
+      "analyzed_count": 7,
       "summary": {
         "points": [
           {
             "label": "공간·생활권",
-            "text": "산업입지 변화·개발밀도 변화가 7건의 자료에서 공간 변화의 핵심으로 나타났다.",
-            "evidence_count": 7
+            "text": "상권 변화·개발밀도 변화가 3건의 자료에서 공간 변화의 핵심으로 나타났다.",
+            "evidence_count": 3
           },
           {
-            "label": "사업·공급",
-            "text": "사업 준공·공간·시설 조성·기능·기업 유치 흐름이 6건의 자료에서 확인됐다.",
-            "evidence_count": 6
-          },
-          {
-            "label": "정책·제도",
-            "text": "규제 완화·지원 확대 관련 움직임이 2건의 자료에서 반복됐다.",
-            "evidence_count": 2
+            "label": "안전·환경",
+            "text": "안전관리·재난 대응이 3건의 자료에서 주요 대응 과제로 나타났다.",
+            "evidence_count": 3
           }
         ],
         "note": "",
-        "topic": "공업지역·산업단지 제도"
+        "topic": "도시안전·재난 대응"
       },
       "examples": [
         {
-          "title": "염창우성1·2차·삼천리 재건축 탄력…준공업지역 용적률 400% 적용",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB0Tkt5d2pTekx5cnM0UXBBUWpLcDFEVVQwUlN6UnkwLWFDdHhrc01ZVUFQVWZ3VUppRWQxUERidmlZVWFDcEZ2eVlXRU04UGFPMlMxdEFTQl9JTGlnX1lWbERGUWUxWFlR?oc=5",
-          "source": "디벨로퍼뉴스",
-          "date": "2026-09-29"
+          "title": "군산시상권활성화재단, 지역상권 소비 촉진 위한 ‘페이백 행사’ 운영",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB2N2dQaEZuWnIxVjNOangzUWZzZ2FSQm54MGM1eXctWkxOZjgxZ3JEUVZPNVR1RXp1SmMzU25hQkE2UXpoczlDMEhvSGgyNU1TQWN6Y3psQndmNmVQbGcyNQ?oc=5",
+          "source": "한국방송뉴스",
+          "date": "2026-10-01"
         },
         {
-          "title": "남양주시, ‘왕숙 도시첨단산업단지’ 조성 속도 낸다",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5MTzhuTld1VDhYUGU2ZktNeUdFSHY2N2FPX3ROdGNmWmwyTS1tNFlKV216Z1VvbS15T0xCX1h5OUtjSFRNN3hPMWlscFhuU05JakUtVVVRX1JKNDBaQm9xZlJqS3ZaM2lidU800gFrQVVfeXFMTkxPOG5OV3VUOFhQZTZmS015R0VIdjY3YU9fdE50Y2ZabDJNLW00WUpXbXpnVW9tLXlPTEJfWHk5S2NIVE03eE8xaWxwWG5TTklqRS1VVVFfUko0MFpCb3FmUmpLdlozaWJ1TzQ?oc=5",
-          "source": "전국도민일보",
-          "date": "2026-09-28"
+          "title": "\"월패드와 스마트분전반이 전기화재 잡는다\"… 한전KDN, Edge AI 결합해 '가구별 전기안전' 시대 개막",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE90VzV2QmVwMExTZzN6YmVnRWdDQXFhbEtsUFlGRXN1RWtRemQyMXgySWd4SGJ2RjY3OXlveGxOT3JVSVVTUnAweW5IV2VtdEpaWWJBeUJGdXkwUnJtSjJsSDVtX2lqRW9WdlE?oc=5",
+          "source": "청년투데이",
+          "date": "2026-10-01"
         },
         {
-          "title": "유호준 도의원, 남양주 왕숙 도시첨단산업단지 국토부 심의 통과 환영",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9valJnSDJ5aDRKOEplTnVuR3QwZXdVM3JROURRbVVLS0hZTm1UQTV6V1JZVHRrSjlIYjFFT1I5eFFhRk14cVAzTFo2QUFYRHdOZE5OYWt0R0dFTnJCTGVMMEZKUm1CVVnSAWtBVV95cUxPUXRVR2ctdGc4TDUza0tucVVOa2poVEhtMmZMN1c2Y3BqTVdxSndSX1JYMVJxVzRJNGZMRURYNzZsMUVZc0g1UTczZFlySXR2dmNBNXpadFk2R0NsSW4tRVBNMm1YZzY3eWFNZw?oc=5",
-          "source": "의회신문",
-          "date": "2026-09-28"
+          "title": "【관련 국정과제】 31. 미래 모빌리티와 ‘K-AI 시티’ 실현, 국토·재난 관측부터 농경지·산림 관리까지…고품질 위성정보의 공공·민간 활용 확대",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1pR05BOWZrZ1JHQUxOdUcyZktjLVl4cVV3X2FzTF9Ub0Z4UXE2cC16cEtDUW1BTzAxVjkyUVp3RXlZNVdIMnlneWYxSThPYlBiYmxNZzRPNkVuNURlVktVekRRVVAzanpMZ010Z041RkQ5NWpRM0l3?oc=5",
+          "source": "국토교통부",
+          "date": "2026-10-01"
         },
         {
-          "title": "시흥시, 광명ㆍ시흥 도시첨단산업단지 선도기업 유치 본격화:시대일보",
-          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1XR2FUNTVpR3BzbTVheXY5cktTMVBQVXdieVMwNEVPN0M2Q2JxMGNCb0ZELWNiV25GNEJaR01xV0xHalhZWkszTHRFUdIBZ0FVX3lxTE9lTVZ3X1htaE11TWc0OFd6cTR1UnZqN1RCUEtWSEVIY2hOZEFTbG5DSTQ0UFY0ZWhJTE1Heks1c29WWVZmeTRiQXI0ZzlCOVMtV3pVaFprM1o5ZGhnQXNKNVVlUXJncjQ?oc=5",
-          "source": "시대일보",
-          "date": "2026-09-28"
+          "title": "군산상권활성화재단, 지역상권 소비 촉진 위한 ‘페이백 행사’",
+          "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9xWEhpckN3Y201dzFnVy01Z3Q5LVVMd2RSV3czUHU0NkxPaHp3VTFJdmVSSEdIRVZFUWRhUGR6cjh2UGtIWEE?oc=5",
+          "source": "v.daum.net",
+          "date": "2026-10-01"
         }
       ]
     },
     {
-      "topic": "스마트시티·AI·디지털전환",
-      "count": 9,
-      "trend_label": "직전 동일기간보다 1건 감소",
-      "analyzed_count": 9,
+      "topic": "관광·지역개발",
+      "count": 7,
+      "trend_label": "직전 동일기간보다 4건 증가",
+      "analyzed_count": 7,
       "summary": {
         "points": [
           {
-            "label": "정책·제도",
-            "text": "지원 확대·사업 공모 관련 움직임이 2건의 자료에서 반복됐다.",
-            "evidence_count": 2
+            "label": "공간·생활권",
+            "text": "역세권 재편가 3건의 자료에서 공간 변화의 핵심으로 나타났다.",
+            "evidence_count": 3
           },
           {
             "label": "사업·공급",
-            "text": "공간·시설 조성 흐름이 2건의 자료에서 확인됐다.",
+            "text": "공급 확대 흐름이 2건의 자료에서 확인됐다.",
             "evidence_count": 2
           }
         ],
         "note": "",
-        "topic": "스마트시티·AI·디지털전환"
+        "topic": "관광·지역개발"
       },
       "examples": [
         {
-          "title": "부천시, AI로 시민 안전 더 촘촘히…전국 지자체 최초 ‘AI CITY’ 구축",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE12YVlWeUdZczlqQmlSUkctcU45WmxrcGpVMkI4ZXVRVmdhWXJVNjJQbWY5Q2xGbjZIZVhwcGdPVDdQOFQ1eTRvcnhLb0NWeVE?oc=5",
-          "source": "v.daum.net",
+          "title": "인천시의회 인천택지지구공간재창조연구회, 왕십리역 다중역세권 입체복합개발 우수사례 벤치마킹",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBEUGdFTnBYSm1qQ280OEYwRndmdzFnZG5Qd2N6TlFUZ1JUZi1fT3BxeVJZY0xueGRWOU84ZzAzLUpabUxSOFgwX29Rcl9XWFdDZWN0Z0RvQ2dNYU9uZFE5NXA5Z1lOMDF2SWJVUEI5OA?oc=5",
+          "source": "인천뉴스",
+          "date": "2026-10-04"
+        },
+        {
+          "title": "'코엑스 2배'…동남권 新랜드마크 복정역세권 복합개발 본격화",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1Za0VVeEFrZWd6ZkxZbGE5dmlzSTNDbzVLVWlJSlFWZkRpel9NS2tWYTd3WmR6bmVzems3dDZhbHZVdVlSYl9mdzE1R1YxSEFIa1JVVHhfM25wM1JjSzRvcnR1R3ZOc2JOa1HSAW9BVV95cUxQa1NYaWZBanJUaWxPQ2lWWWtjRlVES1J5bkIySGtTd0pjTHdEUVI5Q0h2Rm5vSUx0cU9aOHcxUi1kR2p2cVNwc3dZbmgyWGdXREptRFlRNHJGVk5QazZWWFVUNlNFRndpb1YwUEtLNTA?oc=5",
+          "source": "머니투데이",
+          "date": "2026-10-01"
+        },
+        {
+          "title": "유휴부지 복합개발",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1wLUZ2S3pUcXQxWHlKZG9YZUU2VGx6MkI2RE5WbG8wSk1rZ1cybGtITkVITllBbEpaQ3JoSDh0QTBXLUpPd1NGaDFyYjRnMFo2Qy1NVEpINkQ0U1c4UjlFUEl4QXZLT2NOQzZRNkFn?oc=5",
+          "source": "국토연구원 전자도서관",
           "date": "2026-09-30"
         },
         {
-          "title": "안양시, 월드 스마트시티 엑스포 ‘스마트시티상’ 3년 연속 수상",
-          "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1ETDBUQ21venFpd2g1ak1LWU5XQVZjQzNnNk9lVUFZYmVzVWQ1bnM0UkxUTEFDYTRjaXJFYXVHQ0didw?oc=5",
-          "source": "브레이크뉴스",
-          "date": "2026-10-01"
-        },
-        {
-          "title": "전기차·자율주행·UAM 육성…고양시, 4개 기관과 미래모빌리티 생태계 조성",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9WVzVKSFFsT3psR2N2MTNmVWVJOW5lWFF1bFNSRGx1QXpNOUhCWktvU0ZIWjBxTXdQeXUyaVFFU0lyRlNUSlBPcV9xTVBBME0?oc=5",
-          "source": "v.daum.net",
-          "date": "2026-10-01"
-        },
-        {
-          "title": "고양시, 전기차·자율주행·드론·UAM 미래모빌리티 생태계 조성",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5nd3ZBb0kzeVl5TWhkc1hzOUVwYWVsWDEwSGZ4Zlg4ZHM4Q2Y5OTVJSV8wWU9FR1ZNU0RyeHhydE1EOUxPS2VoOFFOSFZMdkJpVjByclRLMFRYSWlqc3dTYnZSWjE?oc=5",
-          "source": "서울경제TV",
+          "title": "[용어풀이 336] 신축매입약정(신축매입임대주택 공급방식), 유휴부지 복합개발",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOaVoxdm8xaUlXRTlaWDNtZmVzZUVibEVBZUlOdWpETm5mSFdtZkVidmd2Z0xhWDNGUURZTG1wSGZaSlFyVFI2bW1jVVY0SkMzcWxwRGJZZlRFcWNZNmozeXhUTkxEc2ZUb3RTemc1WW13WFJ3bkw5Y3lKOVhRa2Y5MU1jNHNHWnNzX3VyVERxYkF1b3Ns?oc=5",
+          "source": "국토연구원 전자도서관",
           "date": "2026-09-30"
         }
       ]
@@ -512,8 +502,8 @@
   "monthly": [
     {
       "topic": "재건축·재개발·정비사업",
-      "count": 1136,
-      "trend_label": "직전 동일기간보다 456건 감소",
+      "count": 1132,
+      "trend_label": "직전 동일기간보다 402건 감소",
       "analyzed_count": 15,
       "summary": {
         "points": [
@@ -565,8 +555,8 @@
     },
     {
       "topic": "철도·광역교통·역세권",
-      "count": 907,
-      "trend_label": "직전 동일기간보다 345건 감소",
+      "count": 912,
+      "trend_label": "직전 동일기간보다 305건 감소",
       "analyzed_count": 15,
       "summary": {
         "points": [
@@ -579,11 +569,6 @@
             "label": "사업·공급",
             "text": "사업 추진 흐름이 3건의 자료에서 확인됐다.",
             "evidence_count": 3
-          },
-          {
-            "label": "정책·제도",
-            "text": "지원 확대 관련 움직임이 2건의 자료에서 반복됐다.",
-            "evidence_count": 2
           }
         ],
         "note": "",
@@ -609,17 +594,17 @@
           "date": "2026-10-04"
         },
         {
-          "title": "인천도시철도 무임수송 손실 533억원···\"국비 지원 절실\"",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1lczV1WjBtdm9wZkpPVEFEdzlud0RteFgtRDd1VDI4WE1hWEUwdzJyTGpaTUtKc3Y1QllkRW9SLS1JZGk2dmtBS2Y1Mi13Z0o1R2RrcWlVX1M4RFlCeEdHUjQyZENfQ1dQRnJrcWVqWDU?oc=5",
-          "source": "인천투데이",
+          "title": "인천교통공사,‘도시철도 무임수송 제도 개선 국회 정책토론회’",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB6SjF1eEo5dTd2Q3lJbmVBeHRvdGltTjZCOXp3Qm1OMHg2WS1oTndCR0p1YllhUFZSNmQ4ZWxiYU5UQXpKd1ZhbVZjOEhEN3lPNW5yMFpRLXE4RHc0eW8zVDl3THVocHN5ZHBB?oc=5",
+          "source": "일간투데이",
           "date": "2026-10-03"
         }
       ]
     },
     {
       "topic": "도시재생·빈집·원도심",
-      "count": 828,
-      "trend_label": "직전 동일기간보다 94건 감소",
+      "count": 827,
+      "trend_label": "직전 동일기간보다 69건 감소",
       "analyzed_count": 15,
       "summary": {
         "points": [
@@ -639,6 +624,12 @@
       },
       "examples": [
         {
+          "title": "수년간 방치된 원도심 공실, 청년 창업 공간으로 탈바꿈",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1OOTFfSkRtUEZybHdlU0loOWhRYnZhVV9zQ2tMUEVja210T2RBbWtQM2JHUXJENGpMLVVWR3kxR2lQRWxyYzV0bXZSQTdXTk1WWjN4R0YxVm14TVJmNUl1T3ZOeVRQbWZhWmUteg?oc=5",
+          "source": "뉴스N제주",
+          "date": "2026-10-04"
+        },
+        {
           "title": "“집 없어 난리인데, 여긴 빈집이 썩어나네요”…수년째 공실 LH임대주택 1만가구",
           "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1mRDV3dlNrTHBLY2ZHeTVjcmxSeGdhYlRyTmZHRDMybldJdHZJNWxwem1QdTJxaE04OTYySWdJOWpkeDJ6TFdRcnU4NVN5ZTVRbk93dzhOSWw?oc=5",
           "source": "매일경제",
@@ -655,19 +646,13 @@
           "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAydVhmTU5IMk1CbFY1UUZjZ0RQdlpoS28wUUVha0tqTUJCNWY4dnBEX291cDZMOXE0d0NJeGxTVm1MN1dEaWxiQTB3Wk1vYmo1eGd3YV80LWxkaW8?oc=5",
           "source": "강원일보",
           "date": "2026-10-01"
-        },
-        {
-          "title": "음성군 ‘도시재생사업’ 국토부 장관상 수상… 원도심 상권회복 전국 최고",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5Lbk9QUTJZY19yZXhIM3ZrZGRkTGw1UHF3OUJxX0YxdjRldG9sV2RzcHJnWTB5RUhsNHNDU3Z4UFdBNWVib3BzcTEzRGtxWEZUMXZvMlRsOU4xRDl5cEFfWVJkclZXNUtRYnc?oc=5",
-          "source": "중부매일",
-          "date": "2026-09-30"
         }
       ]
     },
     {
       "topic": "국토계획·용도지역·규제",
-      "count": 746,
-      "trend_label": "직전 동일기간보다 367건 감소",
+      "count": 743,
+      "trend_label": "직전 동일기간보다 339건 감소",
       "analyzed_count": 15,
       "summary": {
         "points": [
@@ -719,8 +704,8 @@
     },
     {
       "topic": "상권·골목경제·생활권",
-      "count": 532,
-      "trend_label": "직전 동일기간보다 22건 감소",
+      "count": 521,
+      "trend_label": "직전 동일기간보다 23건 감소",
       "analyzed_count": 15,
       "summary": {
         "points": [
@@ -762,8 +747,8 @@
     },
     {
       "topic": "주택공급·공공주택",
-      "count": 169,
-      "trend_label": "직전 동일기간보다 79건 감소",
+      "count": 171,
+      "trend_label": "직전 동일기간보다 61건 감소",
       "analyzed_count": 15,
       "summary": {
         "points": [
@@ -773,13 +758,13 @@
             "evidence_count": 5
           },
           {
-            "label": "정책·제도",
-            "text": "구역·사업 지정·사업 공모 관련 움직임이 3건의 자료에서 반복됐다.",
-            "evidence_count": 3
+            "label": "공간·생활권",
+            "text": "역세권 재편·교통체계 변화가 4건의 자료에서 공간 변화의 핵심으로 나타났다.",
+            "evidence_count": 4
           },
           {
-            "label": "공간·생활권",
-            "text": "역세권 재편·교통체계 변화가 3건의 자료에서 공간 변화의 핵심으로 나타났다.",
+            "label": "정책·제도",
+            "text": "구역·사업 지정·사업 공모 관련 움직임이 3건의 자료에서 반복됐다.",
             "evidence_count": 3
           }
         ],
@@ -852,15 +837,15 @@
     },
     {
       "topic": "토지·부동산시장",
-      "count": 110,
-      "trend_label": "직전 동일기간보다 124건 감소",
+      "count": 111,
+      "trend_label": "직전 동일기간보다 112건 감소",
       "analyzed_count": 15,
       "summary": {
         "points": [
           {
             "label": "공간·생활권",
-            "text": "역세권 재편·교통체계 변화·빈집 관리가 8건의 자료에서 공간 변화의 핵심으로 나타났다.",
-            "evidence_count": 8
+            "text": "역세권 재편·교통체계 변화·빈집 관리가 7건의 자료에서 공간 변화의 핵심으로 나타났다.",
+            "evidence_count": 7
           },
           {
             "label": "사업·공급",
@@ -891,17 +876,17 @@
           "date": "2026-10-04"
         },
         {
-          "title": "인구구조 전환에 따른 부동산시장 영향과 향후 과제",
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE96ajR2S1J5SjVlR3Z2WWVyOWhfUkw1aEVJaEN6VXpuS1lWWVdNSDJGWU0zbEozV296azdvbC1DeHdTUW9FMklJM05KNnB4RFd5aXZVVDRnazliUHM4czBOenFjTmVHOFVNLUdZZzIyMEtNaWV2eThSYm1EMA?oc=5",
-          "source": "국토연구원",
-          "date": "2026-10-03"
+          "title": "“6억원 들고 ‘재개발 몸테크’ 들어가도 될까요?” [사이다 부동산]",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5Wb3RYUFFJV3kwdkx0SWJpeHRTX2sxYlB2WDcydjdxd1N5cXg1Z1ZJV2R0aVN4X2xlNENpQVJqbllVVk1La0l5UVNwbG5mSTdHbS13VmVtVzg2bC1HVFZTemJyX0lKZjJzYWJWWHhZSVZzSTTSAXNBVV95cUxOVm90WFBRSVd5MHZMdEliaXh0U19rMWJQdlg3MnY3cXdTeXF4NWdWSVdkdGlTeF9sZTRDaUFSam5ZVVZNS2tJeVFTcGxuZkk3R20td1ZlbVc4NmwtR1RWU3picl9JSmYyc2FiVlh4WUlWc0k0?oc=5",
+          "source": "시사저널",
+          "date": "2026-10-04"
         }
       ]
     },
     {
       "topic": "컴팩트시티·미래도시",
       "count": 108,
-      "trend_label": "직전 동일기간보다 29건 증가",
+      "trend_label": "직전 동일기간보다 31건 증가",
       "analyzed_count": 15,
       "summary": {
         "points": [
@@ -953,8 +938,8 @@
     },
     {
       "topic": "공업지역·산업단지 제도",
-      "count": 107,
-      "trend_label": "직전 동일기간보다 63건 증가",
+      "count": 106,
+      "trend_label": "직전 동일기간보다 64건 증가",
       "analyzed_count": 15,
       "summary": {
         "points": [
@@ -1008,7 +993,7 @@
   "yearly": [
     {
       "topic": "재건축·재개발·정비사업",
-      "count": 5566,
+      "count": 5568,
       "trend_label": "최근 1년 누적",
       "analyzed_count": 15,
       "summary": {
@@ -1056,7 +1041,7 @@
     },
     {
       "topic": "철도·광역교통·역세권",
-      "count": 3897,
+      "count": 3904,
       "trend_label": "최근 1년 누적",
       "analyzed_count": 15,
       "summary": {
@@ -1067,13 +1052,13 @@
             "evidence_count": 15
           },
           {
-            "label": "사업·공급",
-            "text": "사업 추진·계획 수립 흐름이 4건의 자료에서 확인됐다.",
-            "evidence_count": 4
-          },
-          {
             "label": "정책·제도",
             "text": "지원 확대 관련 움직임이 2건의 자료에서 반복됐다.",
+            "evidence_count": 2
+          },
+          {
+            "label": "사업·공급",
+            "text": "계획 수립·사업 추진 흐름이 2건의 자료에서 확인됐다.",
             "evidence_count": 2
           }
         ],
@@ -1109,7 +1094,7 @@
     },
     {
       "topic": "국토계획·용도지역·규제",
-      "count": 3183,
+      "count": 3186,
       "trend_label": "최근 1년 누적",
       "analyzed_count": 15,
       "summary": {
@@ -1121,7 +1106,7 @@
           },
           {
             "label": "사업·공급",
-            "text": "계획 수립·정비 추진·공급 확대 흐름이 11건의 자료에서 확인됐다.",
+            "text": "계획 수립·정비 추진·공간·시설 조성 흐름이 11건의 자료에서 확인됐다.",
             "evidence_count": 11
           },
           {
@@ -1162,7 +1147,7 @@
     },
     {
       "topic": "도시재생·빈집·원도심",
-      "count": 3068,
+      "count": 3075,
       "trend_label": "최근 1년 누적",
       "analyzed_count": 15,
       "summary": {
@@ -1189,6 +1174,12 @@
           "date": "2026-08-31"
         },
         {
+          "title": "수년간 방치된 원도심 공실, 청년 창업 공간으로 탈바꿈",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1OOTFfSkRtUEZybHdlU0loOWhRYnZhVV9zQ2tMUEVja210T2RBbWtQM2JHUXJENGpMLVVWR3kxR2lQRWxyYzV0bXZSQTdXTk1WWjN4R0YxVm14TVJmNUl1T3ZOeVRQbWZhWmUteg?oc=5",
+          "source": "뉴스N제주",
+          "date": "2026-10-04"
+        },
+        {
           "title": "“집 없어 난리인데, 여긴 빈집이 썩어나네요”…수년째 공실 LH임대주택 1만가구",
           "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1mRDV3dlNrTHBLY2ZHeTVjcmxSeGdhYlRyTmZHRDMybldJdHZJNWxwem1QdTJxaE04OTYySWdJOWpkeDJ6TFdRcnU4NVN5ZTVRbk93dzhOSWw?oc=5",
           "source": "매일경제",
@@ -1199,18 +1190,12 @@
           "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZjlUUmtjQ1JHT3h2bGVueV9JX05YVmFNOEswdUp4WHZBYzlHaEhJOHI0aHI2YVQzMFBGQjNDek9nTzFyTC13ajkxTDBmQm5EVzBtV3ZwS3F5eV9OVTVWcnJ4M2xTbFJZcDQwWnBhVHBVdmV5dkRVNjEtakJhb3NNdFdvRzZyV2RqbnNv?oc=5",
           "source": "글로벌이코노믹",
           "date": "2026-10-01"
-        },
-        {
-          "title": "LH 공공임대 빈집 손실 3,654억원···2년 이상 공실 73% ‘초소형’",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAydVhmTU5IMk1CbFY1UUZjZ0RQdlpoS28wUUVha0tqTUJCNWY4dnBEX291cDZMOXE0d0NJeGxTVm1MN1dEaWxiQTB3Wk1vYmo1eGd3YV80LWxkaW8?oc=5",
-          "source": "강원일보",
-          "date": "2026-10-01"
         }
       ]
     },
     {
       "topic": "상권·골목경제·생활권",
-      "count": 1864,
+      "count": 1865,
       "trend_label": "최근 1년 누적",
       "analyzed_count": 15,
       "summary": {
@@ -1253,7 +1238,7 @@
     },
     {
       "topic": "주택공급·공공주택",
-      "count": 838,
+      "count": 840,
       "trend_label": "최근 1년 누적",
       "analyzed_count": 15,
       "summary": {
@@ -1306,15 +1291,15 @@
     },
     {
       "topic": "토지·부동산시장",
-      "count": 681,
+      "count": 682,
       "trend_label": "최근 1년 누적",
       "analyzed_count": 15,
       "summary": {
         "points": [
           {
             "label": "공간·생활권",
-            "text": "역세권 재편·교통체계 변화·빈집 관리가 8건의 자료에서 공간 변화의 핵심으로 나타났다.",
-            "evidence_count": 8
+            "text": "역세권 재편·교통체계 변화·빈집 관리가 7건의 자료에서 공간 변화의 핵심으로 나타났다.",
+            "evidence_count": 7
           },
           {
             "label": "시장·비용",
