@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-10-04 11:59 KST",
-  "run_started_at": "2026-10-04T11:59:03.575910+09:00",
+  "updated_at": "2026-10-04 13:34 KST",
+  "run_started_at": "2026-10-04T13:34:05.328950+09:00",
   "coverage": {
-    "items": 20943,
+    "items": 20952,
     "oldest": "2025-10-07",
     "newest": "2026-10-04",
     "days_covered": 363,
@@ -12,37 +12,37 @@
     "정책": 0,
     "법령": 0,
     "연구": 0,
-    "기사": 2
+    "기사": 4
   },
   "period_counts": {
     "weekly": {
-      "정책": 39,
+      "정책": 40,
       "법령": 1,
-      "연구": 77,
-      "기사": 1039
+      "연구": 79,
+      "기사": 1042
     },
     "monthly": {
-      "정책": 185,
+      "정책": 186,
       "법령": 9,
-      "연구": 335,
-      "기사": 4173
+      "연구": 340,
+      "기사": 4176
     },
     "yearly": {
-      "정책": 1150,
+      "정책": 1151,
       "법령": 712,
-      "연구": 1477,
-      "기사": 17604
+      "연구": 1482,
+      "기사": 17607
     }
   },
   "source_status": {
     "국토교통부": "16건 수집",
     "서울특별시": "10건 수집",
-    "경기도": "11건 수집",
-    "법령·입법": "21건 수집",
-    "연구기관": "83건 수집",
-    "지역연구원": "24건 수집",
+    "경기도": "12건 수집",
+    "법령·입법": "22건 수집",
+    "연구기관": "90건 수집",
+    "지역연구원": "23건 수집",
     "언론-도시계획": "13건 수집",
-    "언론-지구단위": "98건 수집",
+    "언론-지구단위": "99건 수집",
     "언론-정비사업": "97건 수집",
     "언론-주택공급": "29건 수집",
     "언론-지역정책": "11건 수집",
@@ -50,10 +50,10 @@
     "언론-도시재생": "99건 수집",
     "언론-공업지역산업단지": "94건 수집",
     "언론-스마트기후": "12건 수집",
-    "분야:정책": "37건 수집",
-    "분야:연구": "107건 수집",
-    "분야:법령": "21건 수집",
-    "분야:기사": "553건 수집"
+    "분야:정책": "38건 수집",
+    "분야:연구": "113건 수집",
+    "분야:법령": "22건 수집",
+    "분야:기사": "554건 수집"
   },
   "backfill_status": {},
   "municipal_notices": [
@@ -94,6 +94,14 @@
       "title": "서울특별시 2026-557 도시관리계획(북창 지구단위계획) 결정(변경) 및 지형도면 정정고시",
       "url": "https://urban.seoul.go.kr/view/html/PMNU4030100001",
       "eum_url": "https://www.eum.go.kr/web/gs/gv/gvGosiList.jsp?startdt=2026-09-29&enddt=2026-10-03&zonenm=%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C+2026-557+%EB%8F%84%EC%8B%9C%EA%B4%80%EB%A6%AC%EA%B3%84%ED%9A%8D%28%EB%B6%81%EC%B0%BD+%EC%A7%80%EA%B5%AC%EB%8B%A8%EC%9C%84%EA%B3%84%ED%9A%8D%29+%EA%B2%B0%EC%A0%95%28%EB%B3%80%EA%B2%BD%29+%EB%B0%8F+%EC%A7%80%ED%98%95%EB%8F%84%EB%A9%B4+%EC%A0%95%EC%A0%95%EA%B3%A0%EC%8B%9C&pageNo=1",
+      "date": "2026-10-01",
+      "source_type": "서울도시공간포털 결정고시"
+    },
+    {
+      "city": "서울",
+      "title": "영등포구 2026-159 도시관리계획(영등포구 대림동 993-15번지 역세권 활성화사업 지구단위계획) 결정(경미한 변경) 및 지형도면 고시",
+      "url": "https://urban.seoul.go.kr/view/html/PMNU4030100001",
+      "eum_url": "https://www.eum.go.kr/web/gs/gv/gvGosiList.jsp?startdt=2026-09-29&enddt=2026-10-03&zonenm=%EC%98%81%EB%93%B1%ED%8F%AC%EA%B5%AC+2026-159+%EB%8F%84%EC%8B%9C%EA%B4%80%EB%A6%AC%EA%B3%84%ED%9A%8D%28%EC%98%81%EB%93%B1%ED%8F%AC%EA%B5%AC+%EB%8C%80%EB%A6%BC%EB%8F%99+993-15%EB%B2%88%EC%A7%80+%EC%97%AD%EC%84%B8%EA%B6%8C+%ED%99%9C%EC%84%B1%ED%99%94%EC%82%AC%EC%97%85+%EC%A7%80%EA%B5%AC%EB%8B%A8%EC%9C%84%EA%B3%84%ED%9A%8D%29+%EA%B2%B0%EC%A0%95%28%EA%B2%BD%EB%AF%B8%ED%95%9C+%EB%B3%80%EA%B2%BD%29+%EB%B0%8F+%EC%A7%80%ED%98%95%EB%8F%84%EB%A9%B4+%EA%B3%A0%EC%8B%9C&pageNo=1",
       "date": "2026-10-01",
       "source_type": "서울도시공간포털 결정고시"
     },
@@ -146,34 +154,82 @@
       "source_type": "서울도시공간포털 결정고시"
     },
     {
-      "city": "서울",
-      "title": "서울특별시 2026-531 세운재정비촉진지구 6-4-1구역 재정비촉진계획(변경) 지구단위계획구역지구단위계획 결정 및 지형도면고시",
-      "url": "https://urban.seoul.go.kr/view/html/PMNU4030100001",
-      "eum_url": "https://www.eum.go.kr/web/gs/gv/gvGosiList.jsp?startdt=2026-09-15&enddt=2026-09-19&zonenm=%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C+2026-531+%EC%84%B8%EC%9A%B4%EC%9E%AC%EC%A0%95%EB%B9%84%EC%B4%89%EC%A7%84%EC%A7%80%EA%B5%AC+6-4-1%EA%B5%AC%EC%97%AD+%EC%9E%AC%EC%A0%95%EB%B9%84%EC%B4%89%EC%A7%84%EA%B3%84%ED%9A%8D%28%EB%B3%80%EA%B2%BD%29+%EC%A7%80%EA%B5%AC%EB%8B%A8%EC%9C%84%EA%B3%84%ED%9A%8D%EA%B5%AC%EC%97%AD%EC%A7%80%EA%B5%AC%EB%8B%A8%EC%9C%84%EA%B3%84%ED%9A%8D+%EA%B2%B0%EC%A0%95+%EB%B0%8F+%EC%A7%80%ED%98%95%EB%8F%84%EB%A9%B4%EA%B3%A0%EC%8B%9C&pageNo=1",
-      "date": "2026-09-17",
-      "source_type": "서울도시공간포털 결정고시"
+      "city": "수원",
+      "title": "수원도시관리계획(제4호하천, 제15호하천) 결정(경미한 변경) 및 지형도면 고시",
+      "url": "https://www.suwon.go.kr/web/board/BD_board.list.do?bbsCd=1164",
+      "eum_url": "https://www.eum.go.kr/web/gs/gv/gvGosiList.jsp?startdt=2026-09-14&enddt=2026-09-18&zonenm=%EC%88%98%EC%9B%90%EB%8F%84%EC%8B%9C%EA%B4%80%EB%A6%AC%EA%B3%84%ED%9A%8D%28%EC%A0%9C4%ED%98%B8%ED%95%98%EC%B2%9C%2C+%EC%A0%9C15%ED%98%B8%ED%95%98%EC%B2%9C%29+%EA%B2%B0%EC%A0%95%28%EA%B2%BD%EB%AF%B8%ED%95%9C+%EB%B3%80%EA%B2%BD%29+%EB%B0%8F+%EC%A7%80%ED%98%95%EB%8F%84%EB%A9%B4+%EA%B3%A0%EC%8B%9C&pageNo=1",
+      "date": "2026-09-16",
+      "source_type": "수원 기본·도시관리계획"
+    },
+    {
+      "city": "수원",
+      "title": "수원도시관리계획(소로1-141호선 등 7개시설) 결정(경미한 변경) 및 지형도면 고시",
+      "url": "https://www.suwon.go.kr/web/board/BD_board.list.do?bbsCd=1164",
+      "eum_url": "https://www.eum.go.kr/web/gs/gv/gvGosiList.jsp?startdt=2026-09-14&enddt=2026-09-18&zonenm=%EC%88%98%EC%9B%90%EB%8F%84%EC%8B%9C%EA%B4%80%EB%A6%AC%EA%B3%84%ED%9A%8D%28%EC%86%8C%EB%A1%9C1-141%ED%98%B8%EC%84%A0+%EB%93%B1+7%EA%B0%9C%EC%8B%9C%EC%84%A4%29+%EA%B2%B0%EC%A0%95%28%EA%B2%BD%EB%AF%B8%ED%95%9C+%EB%B3%80%EA%B2%BD%29+%EB%B0%8F+%EC%A7%80%ED%98%95%EB%8F%84%EB%A9%B4+%EA%B3%A0%EC%8B%9C&pageNo=1",
+      "date": "2026-09-16",
+      "source_type": "수원 기본·도시관리계획"
+    },
+    {
+      "city": "수원",
+      "title": "수원 도시관리계획(매탄4 지구단위계획) 결정(변경) 및 지형도면 고시",
+      "url": "https://www.suwon.go.kr/web/board/BD_board.list.do?bbsCd=1303",
+      "eum_url": "https://www.eum.go.kr/web/gs/gv/gvGosiList.jsp?startdt=2026-09-13&enddt=2026-09-17&zonenm=%EC%88%98%EC%9B%90+%EB%8F%84%EC%8B%9C%EA%B4%80%EB%A6%AC%EA%B3%84%ED%9A%8D%28%EB%A7%A4%ED%83%844+%EC%A7%80%EA%B5%AC%EB%8B%A8%EC%9C%84%EA%B3%84%ED%9A%8D%29+%EA%B2%B0%EC%A0%95%28%EB%B3%80%EA%B2%BD%29+%EB%B0%8F+%EC%A7%80%ED%98%95%EB%8F%84%EB%A9%B4+%EA%B3%A0%EC%8B%9C&pageNo=1",
+      "date": "2026-09-15",
+      "source_type": "수원 지구단위계획"
+    },
+    {
+      "city": "수원",
+      "title": "수원 도시관리계획(역세권2 지구단위계획) 결정(변경) 및 지형도면 고시",
+      "url": "https://www.suwon.go.kr/web/board/BD_board.list.do?bbsCd=1303",
+      "eum_url": "https://www.eum.go.kr/web/gs/gv/gvGosiList.jsp?startdt=2026-09-13&enddt=2026-09-17&zonenm=%EC%88%98%EC%9B%90+%EB%8F%84%EC%8B%9C%EA%B4%80%EB%A6%AC%EA%B3%84%ED%9A%8D%28%EC%97%AD%EC%84%B8%EA%B6%8C2+%EC%A7%80%EA%B5%AC%EB%8B%A8%EC%9C%84%EA%B3%84%ED%9A%8D%29+%EA%B2%B0%EC%A0%95%28%EB%B3%80%EA%B2%BD%29+%EB%B0%8F+%EC%A7%80%ED%98%95%EB%8F%84%EB%A9%B4+%EA%B3%A0%EC%8B%9C&pageNo=1",
+      "date": "2026-09-15",
+      "source_type": "수원 지구단위계획"
+    },
+    {
+      "city": "수원",
+      "title": "수원 도시관리계획(고색2 지구단위계획) 결정(변경) 및 지형도면 고시",
+      "url": "https://www.suwon.go.kr/web/board/BD_board.list.do?bbsCd=1303",
+      "eum_url": "https://www.eum.go.kr/web/gs/gv/gvGosiList.jsp?startdt=2026-09-13&enddt=2026-09-17&zonenm=%EC%88%98%EC%9B%90+%EB%8F%84%EC%8B%9C%EA%B4%80%EB%A6%AC%EA%B3%84%ED%9A%8D%28%EA%B3%A0%EC%83%892+%EC%A7%80%EA%B5%AC%EB%8B%A8%EC%9C%84%EA%B3%84%ED%9A%8D%29+%EA%B2%B0%EC%A0%95%28%EB%B3%80%EA%B2%BD%29+%EB%B0%8F+%EC%A7%80%ED%98%95%EB%8F%84%EB%A9%B4+%EA%B3%A0%EC%8B%9C&pageNo=1",
+      "date": "2026-09-15",
+      "source_type": "수원 지구단위계획"
+    },
+    {
+      "city": "수원",
+      "title": "수원 도시관리계획(영통 지구단위계획) 결정(변경) 및 지형도면 고시",
+      "url": "https://www.suwon.go.kr/web/board/BD_board.list.do?bbsCd=1303",
+      "eum_url": "https://www.eum.go.kr/web/gs/gv/gvGosiList.jsp?startdt=2026-09-13&enddt=2026-09-17&zonenm=%EC%88%98%EC%9B%90+%EB%8F%84%EC%8B%9C%EA%B4%80%EB%A6%AC%EA%B3%84%ED%9A%8D%28%EC%98%81%ED%86%B5+%EC%A7%80%EA%B5%AC%EB%8B%A8%EC%9C%84%EA%B3%84%ED%9A%8D%29+%EA%B2%B0%EC%A0%95%28%EB%B3%80%EA%B2%BD%29+%EB%B0%8F+%EC%A7%80%ED%98%95%EB%8F%84%EB%A9%B4+%EA%B3%A0%EC%8B%9C&pageNo=1",
+      "date": "2026-09-15",
+      "source_type": "수원 지구단위계획"
+    },
+    {
+      "city": "수원",
+      "title": "수원 도시관리계획(광교 지구단위계획) 결정(변경) 및 지형도면 고시",
+      "url": "https://www.suwon.go.kr/web/board/BD_board.list.do?bbsCd=1303",
+      "eum_url": "https://www.eum.go.kr/web/gs/gv/gvGosiList.jsp?startdt=2026-09-13&enddt=2026-09-17&zonenm=%EC%88%98%EC%9B%90+%EB%8F%84%EC%8B%9C%EA%B4%80%EB%A6%AC%EA%B3%84%ED%9A%8D%28%EA%B4%91%EA%B5%90+%EC%A7%80%EA%B5%AC%EB%8B%A8%EC%9C%84%EA%B3%84%ED%9A%8D%29+%EA%B2%B0%EC%A0%95%28%EB%B3%80%EA%B2%BD%29+%EB%B0%8F+%EC%A7%80%ED%98%95%EB%8F%84%EB%A9%B4+%EA%B3%A0%EC%8B%9C&pageNo=1",
+      "date": "2026-09-15",
+      "source_type": "수원 지구단위계획"
     }
   ],
   "municipal_status": {
+    "수원": "수원 기본·도시관리계획 2건 / 수원 지구단위계획 5건",
     "화성": "화성시 고시공고 1건",
-    "서울": "서울도시공간포털 결정고시 13건",
+    "고양": "고양시 고시·도시계획 선별 0건, 검색보완 0건",
     "과천": "과천시 고시공고 1건",
+    "서울": "서울도시공간포털 결정고시 14건",
     "광명": "광명시 고시공고 2건",
-    "고양": "고양시 고시·도시계획 선별 ConnectTimeout, 검색보완 0건",
-    "성남": "성남 지구단위계획 고시·공고 ConnectTimeout, 검색보완 0건",
-    "수원": "수원 지구단위계획 ConnectTimeout, 검색보완 0건 / 수원 기본·도시관리계획 ConnectTimeout, 검색보완 0건"
+    "성남": "성남 지구단위계획 고시·공고 SSLError, 검색보완 0건"
   },
   "seoul_housing_news": [],
   "seoul_housing_status": "공식 목록 0건, 검색보완 0건",
   "seoul_housing_link": "https://housing.seoul.go.kr/site/main/tvReportedInfo/list?cp=2&pageSize=5",
   "maintenance_updates": [
     {
-      "id": "819ab2f92a4c8999",
+      "id": "ee2c91e289c4842e",
       "title": "망원동 416-53 신통기획 확정, 골목상권과 어우러진 생활밀착 주거단지 조성 > 보도자료",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOYXQzWVM2SEFFanlNckZweF9FaVNvUXV0NkhaZmhkTk9CR3o3WmxuZkZPdjViQkxJZ20xSGo5TnVZMmNIT0NTMDhKanZqWVJrOEFVQkVTU3BzQkhNcUc0d3Fya1gyREpQbGJTWjZYMy00WHVqMFA4ZENTN2JWN0VUeE9sX2RuM21BUC1EN2N1aEEwSzZZbGZNakJKX3ktT1FqWWpoN21PN3ZOUHF3dEpJeUdYUUs0RUpvdHc?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQSUpaQWVmTjltaHRqcGZjTU5OdEJ5RGhUVlpCNEV6Q3lVaDQ1aDZnWmpWWTdPVjQxaTRVZEhSRE1PS3dici0xSHRMM0wyb3lBblBWQlVSU0I1ZGU4M3d5dTd0QkVSYzhKSWliTkk1VUVWWlp2M2VSOEhPZXA2aUNGczJuc0htRktLVzAyVHktNGZCUDVW?oc=5",
       "source": "서울",
       "category": "정비",
-      "date": "2026-10-01",
+      "date": "2026-10-02",
       "description": "망원동 416-53 신통기획 확정, 골목상권과 어우러진 생활밀착 주거단지 조성 > 보도자료 동행·매력 특별시 서울",
       "city": "서울",
       "source_type": "공식 정비사업 소식"
@@ -202,19 +258,37 @@
     }
   ],
   "maintenance_status": {
-    "남양주": "0건",
     "인천": "0건",
+    "남양주": "0건",
+    "고양": "0건",
     "수원": "0건",
     "화성": "0건",
-    "고양": "0건",
     "성남": "0건",
     "평택": "0건",
-    "광주": "0건",
-    "과천": "0건",
+    "서울": "6건",
     "광명": "0건",
-    "서울": "6건"
+    "광주": "0건",
+    "과천": "0건"
   },
   "items": [
+    {
+      "id": "4f490f0c1efd0045",
+      "title": "집값 들썩이는 GTX-C 노선, 우리가 놓치는 것은?",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1rcE1OY1ZNSm0zTmdvS3gyeVdYVFR5T1BpTGlCOEdJZ2ZhUzhPMGRWcTNsTWl6UXhZRTJ0ejE0a3YtNUk1S2ZnVXhpQ2F1QVRzbnFOYklEejRsZVNsTnU4cVBwM29Vb28?oc=5",
+      "source": "코리아방송",
+      "category": "기사",
+      "date": "2026-10-04",
+      "description": "집값 들썩이는 GTX-C 노선, 우리가 놓치는 것은? 코리아방송"
+    },
+    {
+      "id": "f5190f418bebb219",
+      "title": "문경시, 오는 17일 지역상권 활성화 위한 문경전통시장 특성화 축제 개최",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1CMkozSzVJcmdhcmc1NWMydGlENXdMYjRHM0FfbGtxM05Fd012TVNicGxvSlpzbkEyY3BZUm9sU2lucTF2Y3pGS1ZJeDZtWV82MjBZa2I2SXB2eVI5SXFZeU14SHQwUQ?oc=5",
+      "source": "데일리대구경북뉴스",
+      "category": "기사",
+      "date": "2026-10-04",
+      "description": "문경시, 오는 17일 지역상권 활성화 위한 문경전통시장 특성화 축제 개최 데일리대구경북뉴스"
+    },
     {
       "id": "2f79eba560e0d32d",
       "title": "광주 도시철도 2호선 공사 지연 반복…시민 불편·예산 부담",
@@ -439,6 +513,24 @@
       "category": "기사",
       "date": "2026-10-03",
       "description": "양주시, 산북 도시재생사업 '국토교통부장관상' 수상 metroseoul.co.kr"
+    },
+    {
+      "id": "432f7c9f64c674a0",
+      "title": "미원 도시계획 기본계획(안)",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5NZEsxcE1rXzNEOGIyQUFrZHlnZXRWZUtTTXVobmdLZGxCQTBOZGh1V1VJcnBhejY4clB4bm4wTERYNlFoaTYzV2FRcGZqeTVnTE90THVPT2RmejJpSzBOYnlUa1ZFZFJfM0E?oc=5",
+      "source": "library.krihs.re.kr",
+      "category": "연구",
+      "date": "2026-10-03",
+      "description": "미원 도시계획 기본계획(안) library.krihs.re.kr"
+    },
+    {
+      "id": "9b3dc02cdf4ecdf8",
+      "title": "종합토지정책의 발전연구(Ⅰ): 종합토지세제의 제도화방안",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE50MXNPcmJXUFVxM2NqSk1NT2JUc2Y2TkI3UlZ2eWxmU1p2YXU1N0d5S2VMOFk4d21PT2JPVXZISV9ZaEJzNGQzTDFPZjY0SnRtRmVNZXRnWXR0Yi1SdmROZ25fbFZJX2c?oc=5",
+      "source": "library.krihs.re.kr",
+      "category": "연구",
+      "date": "2026-10-03",
+      "description": "종합토지정책의 발전연구(Ⅰ): 종합토지세제의 제도화방안 library.krihs.re.kr"
     },
     {
       "id": "29c7bd5d8ebb94ee",
@@ -828,6 +920,15 @@
       "description": "광진구의회 ‘광진명품도시 정책연구회’, 지역상권 활성화 위한 특화 거리 조성 본격 시동 시정일보"
     },
     {
+      "id": "e696a02aab36dce5",
+      "title": "양천구, 신정 재정비촉진계획 개편",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBtSktkQjhhN3FoX1hmMUpjZmVzOGU2VTlTZHdOa1BUZTBHeTBHVXVOV0oxU3BzSGJFZm5LZ09QWnRuZy1GNkFLSU56ZVBiR29JUE1ZSkRoNURQbUdNbzI3MkhhY3ZYQTBBampn?oc=5",
+      "source": "시정일보",
+      "category": "기사",
+      "date": "2026-10-02",
+      "description": "양천구, 신정 재정비촉진계획 개편 시정일보"
+    },
+    {
       "id": "4043cfde4bb6099c",
       "title": "[기획] 'AI 도시' 화성시, ‘별별화성 Awards’ 흥행…『MARS 2026』 출전",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9DakUwd2w1dzR1YW55cnJFZUY2THBhaGpwQk5iaExkM3lraGtsdEwwMUNPOWYxTjU5N292WUVfYVQ0YTJmY2VaTU1OVXdvb3lhZm5WN0lpUzFKWTVvV3JYMlhSWGhZS0tGdkE?oc=5",
@@ -853,6 +954,15 @@
       "category": "정책",
       "date": "2026-10-02",
       "description": "amp;#40;석간) 서울신보, 지역 상생 성과 인정받아 행정안전부 장관상 수상 > 보도자료 동행·매력 특별시 서울"
+    },
+    {
+      "id": "ee2c91e289c4842e",
+      "title": "망원동 416-53 신통기획 확정, 골목상권과 어우러진 생활밀착 주거단지 조성 > 보도자료",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQSUpaQWVmTjltaHRqcGZjTU5OdEJ5RGhUVlpCNEV6Q3lVaDQ1aDZnWmpWWTdPVjQxaTRVZEhSRE1PS3dici0xSHRMM0wyb3lBblBWQlVSU0I1ZGU4M3d5dTd0QkVSYzhKSWliTkk1VUVWWlp2M2VSOEhPZXA2aUNGczJuc0htRktLVzAyVHktNGZCUDVW?oc=5",
+      "source": "서울특별시",
+      "category": "정책",
+      "date": "2026-10-02",
+      "description": "망원동 416-53 신통기획 확정, 골목상권과 어우러진 생활밀착 주거단지 조성 > 보도자료 동행·매력 특별시 서울"
     },
     {
       "id": "723d937e5d9a7d73",
@@ -1296,33 +1406,6 @@
       "description": "\"식사·돌봄·의료 결합한 맞춤형 서비스 주택 늘려야\"(2026.10.2. 한국경제) | 언론기사 | auri 소식 | 소식 건축공간연구원"
     },
     {
-      "id": "7dc91a84556f2ef7",
-      "title": "\"식사·돌봄·의료 결합한 맞춤형 서비스 주택 늘려야\"(2026.10.2. 한국경제) | 언론기사",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPSk9iSjMtbXRWSXJHR1pCS2lhWWFLaTZFRGxyWWpvQ29UWm9xbDh0UmUtUVdrMTBMY180MUlCUUR3c0hsbmtmWXpRS3NZTndvbE10WjNxOXR2MWVidGt4aVVfVTJXMEk3QWl3SF9BaVVSRlZwTEhLcXc3RzM1amFFMm5yWUJrZw?oc=5",
-      "source": "건축공간연구원",
-      "category": "연구",
-      "date": "2026-10-02",
-      "description": "\"식사·돌봄·의료 결합한 맞춤형 서비스 주택 늘려야\"(2026.10.2. 한국경제) | 언론기사 | auri 소식 | 소식 건축공간연구원"
-    },
-    {
-      "id": "ff45faa2eeee2e83",
-      "title": "건축공간연구원 위촉직 모집 | 채용정보",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZDFPcGNfMFZPdkJSRHpmVmpCU1lHbGZTaDA1VmtPQ0VDNlViYi1qOU4xMjZOVlg5SUFBR3FJWkJpYVk4Uzh4Ui05T0trSHJOSVo0aFJvRGRuRkxMbUMwMnFNZWtFMXVLQzhNUlp0R3RLVGVid0dMYTJ1bmxlS1Bpbk0xcVdUYUN1SGh1ekdPR0ZBcERwZUFr?oc=5",
-      "source": "건축공간연구원",
-      "category": "연구",
-      "date": "2026-10-02",
-      "description": "건축공간연구원 위촉직 모집 | 채용정보 | 채용안내 및 인재상 | 소식 건축공간연구원"
-    },
-    {
-      "id": "49e4394e6a0dea61",
-      "title": "건정연 20주년···전문건설 발전 ‘길잡이’ 되다(2026.10.1. 대한전문건설신문) | 언론기사",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNdVJUS1lRLUdhdzl3WTh5bzZTc3BPNXJyNzRvUURvb2gxRV9RN1pkQ29BUVlBRHFoNEJQcjNjai1IZVFMRGxWZXlzVEcxdUt3UGRFTFdTT01FSDItdXJjcXprM1NQWUhxR3VIbUx5SGRKLTdEQkQ3S3NsR0hRWkh1di0zdk8yUQ?oc=5",
-      "source": "건축공간연구원",
-      "category": "연구",
-      "date": "2026-10-02",
-      "description": "건정연 20주년···전문건설 발전 ‘길잡이’ 되다(2026.10.1. 대한전문건설신문) | 언론기사 | auri 소식 | 소식 건축공간연구원"
-    },
-    {
       "id": "43be3a1fb410b716",
       "title": "중랑역 일대에 주거·상업·생활SOC 복합시설 들어선다...역세권 활성화사업 추진",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9HSXZ4UXRKUjRCdHc2VjBZUHRZRmpzRlFrMlJlZW9ZaVEyUEIzSllJdWxqVzU2TzVaTVZxei1Yb0ZLeFVmTUwyMjdEaGJyekM0MTI0RA?oc=5",
@@ -1555,6 +1638,33 @@
       "category": "기사",
       "date": "2026-10-02",
       "description": "망원동 416-53 신통기획 확정, 골목상권과 어우러진 생활밀착 주거단지 조성 bvba.org"
+    },
+    {
+      "id": "7dc91a84556f2ef7",
+      "title": "\"식사·돌봄·의료 결합한 맞춤형 서비스 주택 늘려야\"(2026.10.2. 한국경제) | 언론기사",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPSk9iSjMtbXRWSXJHR1pCS2lhWWFLaTZFRGxyWWpvQ29UWm9xbDh0UmUtUVdrMTBMY180MUlCUUR3c0hsbmtmWXpRS3NZTndvbE10WjNxOXR2MWVidGt4aVVfVTJXMEk3QWl3SF9BaVVSRlZwTEhLcXc3RzM1amFFMm5yWUJrZw?oc=5",
+      "source": "auri.re.kr",
+      "category": "연구",
+      "date": "2026-10-02",
+      "description": "\"식사·돌봄·의료 결합한 맞춤형 서비스 주택 늘려야\"(2026.10.2. 한국경제) | 언론기사 | auri 소식 | 소식 auri.re.kr"
+    },
+    {
+      "id": "ff45faa2eeee2e83",
+      "title": "건축공간연구원 위촉직 모집 | 채용정보",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZDFPcGNfMFZPdkJSRHpmVmpCU1lHbGZTaDA1VmtPQ0VDNlViYi1qOU4xMjZOVlg5SUFBR3FJWkJpYVk4Uzh4Ui05T0trSHJOSVo0aFJvRGRuRkxMbUMwMnFNZWtFMXVLQzhNUlp0R3RLVGVid0dMYTJ1bmxlS1Bpbk0xcVdUYUN1SGh1ekdPR0ZBcERwZUFr?oc=5",
+      "source": "auri.re.kr",
+      "category": "연구",
+      "date": "2026-10-02",
+      "description": "건축공간연구원 위촉직 모집 | 채용정보 | 채용안내 및 인재상 | 소식 auri.re.kr"
+    },
+    {
+      "id": "49e4394e6a0dea61",
+      "title": "건정연 20주년···전문건설 발전 ‘길잡이’ 되다(2026.10.1. 대한전문건설신문) | 언론기사",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNdVJUS1lRLUdhdzl3WTh5bzZTc3BPNXJyNzRvUURvb2gxRV9RN1pkQ29BUVlBRHFoNEJQcjNjai1IZVFMRGxWZXlzVEcxdUt3UGRFTFdTT01FSDItdXJjcXprM1NQWUhxR3VIbUx5SGRKLTdEQkQ3S3NsR0hRWkh1di0zdk8yUQ?oc=5",
+      "source": "auri.re.kr",
+      "category": "연구",
+      "date": "2026-10-02",
+      "description": "건정연 20주년···전문건설 발전 ‘길잡이’ 되다(2026.10.1. 대한전문건설신문) | 언론기사 | auri 소식 | 소식 auri.re.kr"
     },
     {
       "id": "685ca1483db54780",
@@ -1960,60 +2070,6 @@
       "category": "기사",
       "date": "2026-10-01",
       "description": "여의도 한양아파트 재건축정비사업 전자투표 업체 선정 하우징헤럴드"
-    },
-    {
-      "id": "c4ea5b37b4f15317",
-      "title": "정비사업 초반에만 쏠린 지원정책…착공 멈춰선 현장은 어쩌나",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9FcmE2VjJVcXl2cFhQRVRKbXZHUDJOUVhXb2Ffc0lVazNCYTlkN29KZTFXT1hOZ3Y2TUFXS0JRRkYxeHlNcjJ1ZG9MSmpWX1B4TFM5M2dvZFE0VkNoMzExOVBUbHhOenB1Q1o4OFFBdjBrcmM?oc=5",
-      "source": "하우징헤럴드",
-      "category": "기사",
-      "date": "2026-10-01",
-      "description": "정비사업 초반에만 쏠린 지원정책…착공 멈춰선 현장은 어쩌나 하우징헤럴드"
-    },
-    {
-      "id": "941a7f0e2bf08a99",
-      "title": "반포미도1차 재건축조합 시공자 입찰제안 공사비검토 업체 선정",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1MeHVJbHJOemNvY1RrQnZZcVBIZFRHUTRNX2xSbEJTbF9tM29CTzJ4VDZUSmx6dFdUM0VQTHRMY3gyQ0JUS3dfQU5qNnh6dUgyRHVibFBROUEtUGVabXUtdVFfdXQ0WnlFZW1NY3dNb3NLZXM?oc=5",
-      "source": "하우징헤럴드",
-      "category": "기사",
-      "date": "2026-10-01",
-      "description": "반포미도1차 재건축조합 시공자 입찰제안 공사비검토 업체 선정 하우징헤럴드"
-    },
-    {
-      "id": "8b05ee5d007cbdcc",
-      "title": "대연9구역 재개발사업 추진위 설계자·정비사업전문관리업자 선정",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBvRkhIUy1aRTJsX1BmcVluX2NTMXk3eDFHWTZzZU9ha0VDOUF4TUlyTWNZQzVPNWdtR0VSWmpXTF8wRzZOMDAwaXVJbExQNDMyaUN0RG9IdTl5S25nWTdQR1JmcG81U3RfOEZKcGZlV05qUDA?oc=5",
-      "source": "하우징헤럴드",
-      "category": "기사",
-      "date": "2026-10-01",
-      "description": "대연9구역 재개발사업 추진위 설계자·정비사업전문관리업자 선정 하우징헤럴드"
-    },
-    {
-      "id": "e1a8c227a3a2cfb3",
-      "title": "여의도 진주아파트 재건축정비사업 시공자 선정",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9EeDRJei1jVGx5U2hsZ2FERjZNZWNldzVBMERBR1l0eXh4dkdBdW1CeEpvWFY2SFUwaFpVS0RiUUd1Y0k5UXZFNWxLYWFaSnJZUlZtRlliT2FaX2ZVWWJPWWZaem5kemVmTEMzZUltcmt0Nms?oc=5",
-      "source": "하우징헤럴드",
-      "category": "기사",
-      "date": "2026-10-01",
-      "description": "여의도 진주아파트 재건축정비사업 시공자 선정 하우징헤럴드"
-    },
-    {
-      "id": "47fe820b78001a87",
-      "title": "목동13단지 재건축정비사업 협력업체 4종 선정",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA4alp0MUdBYmhqb2FubmhkdDhJTzlNYXhSeFdMeGFJTy0tUG1iQnp5Yk9QY1JkeVUxLTlvbkN6YmRxVnBidTI5cnZPbVdwY1RXSUc2a3ZwRzZVR1lHZ3M2TTRyOHUtUVFhQ1R4VlFIbl9RUVE?oc=5",
-      "source": "하우징헤럴드",
-      "category": "기사",
-      "date": "2026-10-01",
-      "description": "목동13단지 재건축정비사업 협력업체 4종 선정 하우징헤럴드"
-    },
-    {
-      "id": "9b1e38364ab959c3",
-      "title": "월계동신아파트 재건축 지장물차단 및 폐전폐관공사 선정",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1uQU80QUNKRk5zTzdDcGc3dzQ0bm01MUJWUEpYSTJFTDZUWjAtT01QTm9rRFEtcXZ3am0yQkdxUkxJbTNqOGhiVDQ5dEhmN1cwRGk4dmp5bk1hdy0xUTU0LVVmS1VqOGVJLTlaRWtIRVVVcFE?oc=5",
-      "source": "하우징헤럴드",
-      "category": "기사",
-      "date": "2026-10-01",
-      "description": "월계동신아파트 재건축 지장물차단 및 폐전폐관공사 선정 하우징헤럴드"
     }
   ]
 }
