@@ -1,33 +1,33 @@
 {
-  "updated_at": "2026-10-05 00:59 KST",
+  "updated_at": "2026-10-05 08:05 KST",
   "monthly": [
     {
       "word": "정비사업(재건축·재개발)",
-      "count": 1089
+      "count": 1097
     },
     {
       "word": "원도심",
-      "count": 417
+      "count": 420
     },
     {
       "word": "골목상권",
-      "count": 279
+      "count": 281
     },
     {
       "word": "GTX",
-      "count": 267
+      "count": 268
     },
     {
       "word": "역세권",
-      "count": 262
+      "count": 263
     },
     {
       "word": "도시재생",
-      "count": 260
+      "count": 261
     },
     {
       "word": "조합",
-      "count": 231
+      "count": 233
     },
     {
       "word": "도시철도",
@@ -85,23 +85,23 @@
   "quarterly": [
     {
       "word": "정비사업(재건축·재개발)",
-      "count": 3816
+      "count": 3824
     },
     {
       "word": "원도심",
-      "count": 1201
+      "count": 1204
     },
     {
       "word": "역세권",
-      "count": 961
+      "count": 962
     },
     {
       "word": "도시재생",
-      "count": 914
+      "count": 915
     },
     {
       "word": "골목상권",
-      "count": 818
+      "count": 820
     },
     {
       "word": "필지",
@@ -109,7 +109,7 @@
     },
     {
       "word": "GTX",
-      "count": 722
+      "count": 723
     },
     {
       "word": "도시철도",
@@ -117,7 +117,7 @@
     },
     {
       "word": "조합",
-      "count": 696
+      "count": 698
     },
     {
       "word": "용적률",
@@ -148,11 +148,11 @@
       "count": 209
     },
     {
-      "word": "지구단위계획",
-      "count": 189
+      "word": "노후계획도시",
+      "count": 190
     },
     {
-      "word": "노후계획도시",
+      "word": "지구단위계획",
       "count": 189
     },
     {
@@ -167,23 +167,23 @@
   "yearly": [
     {
       "word": "정비사업(재건축·재개발)",
-      "count": 5315
+      "count": 5323
     },
     {
       "word": "원도심",
-      "count": 1345
+      "count": 1348
     },
     {
       "word": "도시재생",
-      "count": 1209
+      "count": 1210
     },
     {
       "word": "역세권",
-      "count": 1162
+      "count": 1163
     },
     {
       "word": "골목상권",
-      "count": 979
+      "count": 981
     },
     {
       "word": "도시철도",
@@ -191,7 +191,7 @@
     },
     {
       "word": "조합",
-      "count": 884
+      "count": 886
     },
     {
       "word": "필지",
@@ -199,7 +199,7 @@
     },
     {
       "word": "GTX",
-      "count": 795
+      "count": 796
     },
     {
       "word": "용적률",
