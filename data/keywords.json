@@ -1,37 +1,37 @@
 {
-  "updated_at": "2026-10-05 08:05 KST",
+  "updated_at": "2026-10-05 12:06 KST",
   "monthly": [
     {
       "word": "정비사업(재건축·재개발)",
-      "count": 1097
+      "count": 1106
     },
     {
       "word": "원도심",
-      "count": 420
+      "count": 423
     },
     {
       "word": "골목상권",
-      "count": 281
+      "count": 283
     },
     {
       "word": "GTX",
-      "count": 268
+      "count": 269
     },
     {
       "word": "역세권",
-      "count": 263
+      "count": 264
     },
     {
       "word": "도시재생",
-      "count": 261
+      "count": 264
     },
     {
       "word": "조합",
-      "count": 233
+      "count": 235
     },
     {
       "word": "도시철도",
-      "count": 224
+      "count": 225
     },
     {
       "word": "필지",
@@ -55,11 +55,11 @@
     },
     {
       "word": "산업단지",
-      "count": 68
+      "count": 69
     },
     {
       "word": "전통시장",
-      "count": 66
+      "count": 68
     },
     {
       "word": "지구단위계획",
@@ -79,29 +79,29 @@
     },
     {
       "word": "도시첨단산업단지",
-      "count": 46
+      "count": 47
     }
   ],
   "quarterly": [
     {
       "word": "정비사업(재건축·재개발)",
-      "count": 3824
+      "count": 3833
     },
     {
       "word": "원도심",
-      "count": 1204
+      "count": 1207
     },
     {
       "word": "역세권",
-      "count": 962
+      "count": 963
     },
     {
       "word": "도시재생",
-      "count": 915
+      "count": 918
     },
     {
       "word": "골목상권",
-      "count": 820
+      "count": 822
     },
     {
       "word": "필지",
@@ -109,15 +109,15 @@
     },
     {
       "word": "GTX",
-      "count": 723
+      "count": 724
     },
     {
       "word": "도시철도",
-      "count": 714
+      "count": 715
     },
     {
       "word": "조합",
-      "count": 698
+      "count": 700
     },
     {
       "word": "용적률",
@@ -167,31 +167,31 @@
   "yearly": [
     {
       "word": "정비사업(재건축·재개발)",
-      "count": 5323
+      "count": 5332
     },
     {
       "word": "원도심",
-      "count": 1348
+      "count": 1351
     },
     {
       "word": "도시재생",
-      "count": 1210
+      "count": 1213
     },
     {
       "word": "역세권",
-      "count": 1163
+      "count": 1164
     },
     {
       "word": "골목상권",
-      "count": 981
+      "count": 983
     },
     {
       "word": "도시철도",
-      "count": 911
+      "count": 912
     },
     {
       "word": "조합",
-      "count": 886
+      "count": 888
     },
     {
       "word": "필지",
@@ -199,7 +199,7 @@
     },
     {
       "word": "GTX",
-      "count": 796
+      "count": 797
     },
     {
       "word": "용적률",
@@ -215,7 +215,7 @@
     },
     {
       "word": "산업단지",
-      "count": 326
+      "count": 327
     },
     {
       "word": "광역교통",
@@ -242,8 +242,8 @@
       "count": 227
     },
     {
-      "word": "공공주택",
-      "count": 223
+      "word": "도시첨단산업단지",
+      "count": 224
     }
   ]
 }
