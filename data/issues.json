@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-10-14 10:31 KST",
+  "updated_at": "2026-10-14 17:13 KST",
   "coverage": {
-    "items": 22516,
+    "items": 22648,
     "oldest": "2025-10-15",
     "newest": "2026-10-14",
     "days_covered": 365,
@@ -10,19 +10,19 @@
   "weekly": [
     {
       "topic": "재건축·재개발·정비사업",
-      "count": 207,
-      "trend_label": "직전 동일기간보다 82건 감소",
+      "count": 249,
+      "trend_label": "직전 동일기간보다 41건 감소",
       "analyzed_count": 15,
       "summary": {
         "points": [
           {
             "label": "사업·공급",
-            "text": "정비 추진·사업 착공·사업 추진 흐름이 14건의 자료에서 확인됐다.",
-            "evidence_count": 14
+            "text": "정비 추진·사업 착공·사업 추진 흐름이 13건의 자료에서 확인됐다.",
+            "evidence_count": 13
           },
           {
             "label": "정책·제도",
-            "text": "구역·사업 지정·제도 시행 관련 움직임이 2건의 자료에서 반복됐다.",
+            "text": "관리 강화·구역·사업 지정 관련 움직임이 2건의 자료에서 반복됐다.",
             "evidence_count": 2
           }
         ],
@@ -43,35 +43,30 @@
           "date": "2026-10-11"
         },
         {
-          "title": "별양단독주택구역 재개발조합 추진위원회 정비사업전문관리업자 선정 입찰공고",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1DX1dsZFNjVXFSUlFVNXRxTV85RDU2SmxsV2pWR3B6amxBX214ZkJ1Zlh4ekNXbGlNeTVmMTJGcFEyR2NVNlVid3Z5akxHcnV1SUlMTWhXZzA2MTVFdjUwaW1PcEUtcXY2?oc=5",
+          "title": "양평제12구역 도시환경정비사업조합 보류지 매각 공고",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE84M0tmc21uTVY2cGlFSGl4V0M3S2c0dE9UMXFYUzFyM3NTWi1FMVo1V19zNVNQMURKbFVOdzF3SUsxekRHcjZ1YVRJSnZjYzktS3YxY3VXenFSTEtUdDBJdDg2SGVneDBN?oc=5",
           "source": "한국주택경제신문",
-          "date": "2026-10-13"
+          "date": "2026-10-14"
         },
         {
-          "title": "재개발교육, 정비사업 조합·신탁방식 장단점 입체 분석",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1Sa181enJfRV9fQjNLckh3WEhHLWljejAwY1JQYjBRcVk3S0Y4cUI0NFJwT0hjTWtyOVVJTzdhVUw1WU5BN0luYjByVktNcHJObHVRWTJGZWVRY1FYaDRQVkRPSWdYUUVhZlR3dzRHQ2lxZHc?oc=5",
-          "source": "하우징헤럴드",
-          "date": "2026-10-13"
+          "title": "하소주공1차아파트 재건축조합 추진위원회 정비사업전문관리업자 선정 입찰공고",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE96VWp6S1VnbFlmT3Z3bEVvVXZUaF8xRmx6ck1mMjByT0pleC1JQW1iY3RrVHlhdWdCNWhpY2lTb29IZ2dHY3U0R3hxV3dzc3RNYTg5UmE1dTQwVXVpREsxQmVfQ1pkcEFf?oc=5",
+          "source": "한국주택경제신문",
+          "date": "2026-10-14"
         }
       ]
     },
     {
       "topic": "철도·광역교통·역세권",
-      "count": 182,
-      "trend_label": "직전 동일기간보다 94건 감소",
+      "count": 208,
+      "trend_label": "직전 동일기간보다 68건 감소",
       "analyzed_count": 15,
       "summary": {
         "points": [
           {
             "label": "공간·생활권",
-            "text": "철도축 변화·역세권 재편·교통체계 변화가 15건의 자료에서 공간 변화의 핵심으로 나타났다.",
+            "text": "철도축 변화·역세권 재편가 15건의 자료에서 공간 변화의 핵심으로 나타났다.",
             "evidence_count": 15
-          },
-          {
-            "label": "안전·환경",
-            "text": "안전관리이 2건의 자료에서 주요 대응 과제로 나타났다.",
-            "evidence_count": 2
           }
         ],
         "note": "",
@@ -85,35 +80,35 @@
           "date": "2026-10-13"
         },
         {
+          "title": "IPARK현대산업개발 \"GTX-C 품은 금정역세권\" 주거환경 변화 기대",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9NM0NUVWc3Y01ZdTB5LUtPMFhzTDJkNGZUeFo2WkJWcENwQmp4a3NYME9vOFVZeENfQldqVTNsRXBHY3F0eGppeUk4d25RSG5aQ2dwZXhHWUpXNFZEZExQbw?oc=5",
+          "source": "프라임경제",
+          "date": "2026-10-14"
+        },
+        {
           "title": "“서부권광역급행철도·GTX-B 접속부 선시공 예산, 국회서 살려야”",
           "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9odlYzYkUzWXYxdUdKbHM2YnZScDI5ZmMxM0VVakFobUcydEc5WjNPMWxMZmo5cm5SOUhlS1BrZTNvZ0w4SVZnQU9GS3AwUDFhb1plX0VOaEVBRUo5TWRpQlR1SzRMTVFxbUV6OWFIZlQ?oc=5",
           "source": "인천투데이",
           "date": "2026-10-14"
         },
         {
-          "title": "[2026 국감] GTX-A 삼성역 보강안 12월 결론…철도 안전·통합 효과도 도마",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBYWkVLQkVXdmlTVV9VQ3NwWjI4WmRib2xVQ01ObF9OQ054eXpFQXR1bkNIa0RQb0dKaW9fVTlrVGhmeXFXYjEySldVcFl5OXBUMzk1MlFaMnBORmc?oc=5",
-          "source": "에너지경제신문",
-          "date": "2026-10-14"
-        },
-        {
-          "title": "광주 도시철도 2호선 전동차 반입…내년 본격 시운전",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBwLWtOTFRLYnAzSkU5N284dGdKSDI0RDRZX29sZGtUcU9FSXRKeV80eHAyQzNpTGxlMGV4dHJqVDd6ZEFZeTVZaDZrZVp5NThh?oc=5",
-          "source": "문화일보",
+          "title": "광주 도시철도 2호선 1단계 내년 시운전 착수...전동차 입고",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBvaXl0X2VLZ3I4Q1R5TWc4RHpydzhIQkxFV3JGS0Iya29WU2lRVVN4RGw2MmJZTVJWRDJQRHpOWDR2LUxzZm1pdmJsaVFzbnAweGhxc2o4N0RFOE92MVQ3VXBCenpQNmM?oc=5",
+          "source": "연합뉴스TV",
           "date": "2026-10-14"
         }
       ]
     },
     {
       "topic": "도시재생·빈집·원도심",
-      "count": 128,
-      "trend_label": "직전 동일기간보다 85건 감소",
+      "count": 147,
+      "trend_label": "직전 동일기간보다 67건 감소",
       "analyzed_count": 15,
       "summary": {
         "points": [
           {
             "label": "공간·생활권",
-            "text": "빈집 관리가 3건의 자료에서 공간 변화의 핵심으로 나타났다.",
+            "text": "상권 변화·빈집 관리가 3건의 자료에서 공간 변화의 핵심으로 나타났다.",
             "evidence_count": 3
           },
           {
@@ -145,29 +140,34 @@
           "date": "2026-10-09"
         },
         {
-          "title": "순천시, 원도심 리빌딩 프로젝트 추진…다양한 현장 목소리 수렴",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5DMEFCc0RrcGduOGctY3JIN3ZfYzMyRWFjaHlhdFRObFR1T2NaNUFDMVBFQ3ZKZmpEaWdxMXhWai13cWhDYUtqZjRvNVQwNVFVb3luQmdGRUZaa0pkN19ZXw?oc=5",
-          "source": "아시아경제",
+          "title": "재능대-제물포구의회, 원도심 활성화 위한 협력 방안 논의",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBrd3Q4T2k1RGN6TWJmY2otRzByRUhyaWlNRDc5SWpyeGRIQnE5MjlXSmJoNUsxTDZhbHFsMUQtOU5rd291aGZ1aWVyelFPakhQMGNiZkM4cFoydEtjZkhUZnMzS0FRdw?oc=5",
+          "source": "한국대학신문",
           "date": "2026-10-14"
         }
       ]
     },
     {
       "topic": "국토계획·용도지역·규제",
-      "count": 117,
-      "trend_label": "직전 동일기간보다 41건 감소",
+      "count": 145,
+      "trend_label": "직전 동일기간보다 15건 감소",
       "analyzed_count": 15,
       "summary": {
         "points": [
           {
-            "label": "사업·공급",
-            "text": "공급 확대·사업 추진·계획 수립 흐름이 7건의 자료에서 확인됐다.",
+            "label": "공간·생활권",
+            "text": "개발밀도 변화·인구 변화가 10건의 자료에서 공간 변화의 핵심으로 나타났다.",
+            "evidence_count": 10
+          },
+          {
+            "label": "정책·제도",
+            "text": "규제 완화·구역·사업 지정 관련 움직임이 7건의 자료에서 반복됐다.",
             "evidence_count": 7
           },
           {
-            "label": "공간·생활권",
-            "text": "개발밀도 변화·인구 변화가 3건의 자료에서 공간 변화의 핵심으로 나타났다.",
-            "evidence_count": 3
+            "label": "사업·공급",
+            "text": "계획 수립·공급 확대·정비 추진 흐름이 5건의 자료에서 확인됐다.",
+            "evidence_count": 5
           }
         ],
         "note": "",
@@ -175,35 +175,35 @@
       },
       "examples": [
         {
-          "title": "제주연구원, 지역 여건에 맞는 제주형 도시계획 사전협상제도 단계적 운영 필요",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBnVnl5ckZ4RWR1bG1USnlWSVpWYTEtRUUzWmlQMW5NbmtmcDI4R09nTEJKdU5zYVVMejNnVGFwV2xmT3JuZHl1eWFQMXpfeWw0UGFLNWFiM1d1bmJwVklidjEtRVh3cF9PUkVNdGtR?oc=5",
-          "source": "지금제주",
-          "date": "2026-10-13"
+          "title": "서울시, 저층주거지 7곳 특별건축구역 지정…건폐율·용적률 등 규제 완화",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5icERKZTQ4dVdwWkRWb21GUjFILU1sYk8tMDdWSGYzSWFrUHowcGNyVDluRWs5RTdfY2pjX2E2alh2YW5sUWppdExMUUtJTzNtZlVEajRCeTFRZl9lb1B3N3hSdl9DT1dtREJMYlZR?oc=5",
+          "source": "포커스경제",
+          "date": "2026-10-14"
         },
         {
-          "title": "“3기 신도시 용적률 높여 6.4만가구 더…수도권 주택 공급·이주 수요 동시에 해결”",
-          "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9KVk5fQjdqRE9nbzJtNWN0d2dVd0hsUkJGWHBTbER0bXBFblk4cllhU0NyemZCQ2d1QUlfeFdDdzAyTVdwOUE?oc=5",
-          "source": "매일경제",
-          "date": "2026-10-13"
+          "title": "서울 저층주거지 7곳 '특별건축구역' 지정안 통과…용적률 최대 1.2배·건폐율 최대 80%",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9Ub1NfUFJNWmVLWDk4d1ZGN1hWR05GSnR6eWJxTHpKZ2JTWHVtVWRZeVpzcmtMRHRkd0VoWE1yVVlxWnZjTjNlakxPc3gzWkZOd1lXNWVB?oc=5",
+          "source": "어반톡",
+          "date": "2026-10-14"
         },
         {
-          "title": "용인 처인구 남동 9개 필지 분양…원룸형 170가구 설계안 적용",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE14MVVtRVJEWDllR3c2ZXFISkZXUmp0amFqd1FFX0E4R3BjVHF6c2RaTHo3VlFaMkdFMmowQ3FKRmJ3MnhEc3dveFRWV2JzOXI3WmEzNEZRQkZZRzR2UmtvQVY2czFKRjjSAWtBVV95cUxNQ2pHb2swcWxubmQtdE5PTGdDcXRWT0pNRDhHT0xsMFMxZlkwaU53dDQ0Nm9yT0ZKVzEwbWI4R1dTVkVBdzZBcHRWd25kbXFxMVZLekJweVpFTV9hMERWdDN6ZkQzZzY4QVZLOA?oc=5",
-          "source": "K뉴스통신",
-          "date": "2026-10-13"
+          "title": "서울 저층주거지 7곳 건축규제 완화…용적률 최대 1.2배·건폐율 특례 적용",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9VdEdHNXVEdlFQWW1aXzV6bGVvYnIta2psaXN3eXRnc2lRbUIxRTloUm1xdkZPX2JGbEZNVVRUU2V5aUlMRGZqRGJxY19pOHR2bTJteUJUVVBvUQ?oc=5",
+          "source": "브릿지경제",
+          "date": "2026-10-14"
         },
         {
-          "title": "용산 1단계 1.4만가구 공급…용적률 600% 넘는 고밀개발 논란",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE14MnVuV2Zld2RwUDBwbnRfR2hjUG01M2VTUlo3UHZ5OVJSUkJtSUROejJhUUpRbTV1bko2eEFxS28zX1pnaV9kVDZvc1pCS3lGRnpUeEs4ak80dEg4dTR0aHpmM2phQVl3WEJ2cnB3?oc=5",
-          "source": "아시아투데이",
-          "date": "2026-10-12"
+          "title": "낡은 빌라 새로 짓기 쉬워진다 … 서울 7곳 용적률·건폐율 완화",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxObWQxbkNOZHdRUGtfdEtDanVuT0lyQ2NyMmlnd2NBbHVWUzJKV0xXU183eXFvNmRxbU1aaVZrSTFlWWNrUHlyNTQwbmdfaFNzSldpMFpoUmlRdkhpTXY5WjFDNFR5Y240eHREN3hYYU5mc29YSTVISjFLUUVhTkZLddIBgAFBVV95cUxObWQxbkNOZHdRUGtfdEtDanVuT0lyQ2NyMmlnd2NBbHVWUzJKV0xXU183eXFvNmRxbU1aaVZrSTFlWWNrUHlyNTQwbmdfaFNzSldpMFpoUmlRdkhpTXY5WjFDNFR5Y240eHREN3hYYU5mc29YSTVISjFLUUVhTkZLdQ?oc=5",
+          "source": "뉴데일리",
+          "date": "2026-10-14"
         }
       ]
     },
     {
       "topic": "상권·골목경제·생활권",
-      "count": 71,
-      "trend_label": "직전 동일기간보다 49건 감소",
+      "count": 83,
+      "trend_label": "직전 동일기간보다 37건 감소",
       "analyzed_count": 15,
       "summary": {
         "points": [
@@ -245,24 +245,24 @@
     },
     {
       "topic": "주택공급·공공주택",
-      "count": 46,
-      "trend_label": "직전 동일기간보다 3건 감소",
+      "count": 49,
+      "trend_label": "직전 동일기간과 동일",
       "analyzed_count": 15,
       "summary": {
         "points": [
           {
             "label": "사업·공급",
-            "text": "공급 확대·정비 추진·사업 추진 흐름이 6건의 자료에서 확인됐다.",
-            "evidence_count": 6
-          },
-          {
-            "label": "공간·생활권",
-            "text": "상권 변화·인구 변화·역세권 재편가 3건의 자료에서 공간 변화의 핵심으로 나타났다.",
-            "evidence_count": 3
+            "text": "공급 확대·정비 추진 흐름이 5건의 자료에서 확인됐다.",
+            "evidence_count": 5
           },
           {
             "label": "시장·비용",
             "text": "분담금·비용 부담 문제가 2건의 자료에서 주요 관심사로 나타났다.",
+            "evidence_count": 2
+          },
+          {
+            "label": "공간·생활권",
+            "text": "상권 변화·인구 변화가 2건의 자료에서 공간 변화의 핵심으로 나타났다.",
             "evidence_count": 2
           }
         ],
@@ -283,23 +283,23 @@
           "date": "2026-10-14"
         },
         {
+          "title": "사직1구역 재개발정비사업 임대주택 임대사업자 선정",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9Fcm1KRXIzZ1VRbWF6NUg2VDVCbmtJUDkxV216X2tBSDFtYWJqUlNyamliZXZPZi03bXhJTkNpZnJSX0g3VjE5ZUotV19ZT1d4UmI3NWd6ejhQLTROb0NGTldMeHZSMGg3VXhPMTlIMjFzbWM?oc=5",
+          "source": "하우징헤럴드",
+          "date": "2026-10-14"
+        },
+        {
           "title": "강릉시, 주문진농공단지 확장 산업용지 11필지 분양",
           "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9qRXU1eDM3OVVncXpuUkpZMDN3b2JOeU5KU1VoZkgxMUxRNUNCcE5SQ1FIQVpnYkkxY3BhRnNBWGpWbXpqbUJrdk82MmlBak90S1lESVY0OXRIUlXSAWBBVV95cUxNM1FTaWRndXZsNTFQTFlYMHppY0ktOXNQYUM3OFhXSkJ2QWNPU2pFei12aFpUUXktaWY1T21ZQVdPWGlDWjRQbHNnLWg1c0pIeTM5VHVLYUpmdG5EaXBzelk?oc=5",
           "source": "연합뉴스",
           "date": "2026-10-14"
-        },
-        {
-          "title": "일원 가람아파트, 수서택지지구 첫 재건축 조합설립인가",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5Ka1RlZ3NrZ3YzaXZLNkxYZXR2d3owWmJUUEhleF9vSTVzb2Q3UGNPWUM2WXJhT2tHOTV2YldlX1BXekQ1ZXhpNmhLTFZSR3Fzbl8wSVk3aFFNOUE1STNIRHB5OVB1OXR0?oc=5",
-          "source": "한국주택경제신문",
-          "date": "2026-10-13"
         }
       ]
     },
     {
       "topic": "공업지역·산업단지 제도",
-      "count": 27,
-      "trend_label": "직전 동일기간보다 24건 증가",
+      "count": 29,
+      "trend_label": "직전 동일기간보다 26건 증가",
       "analyzed_count": 15,
       "summary": {
         "points": [
@@ -310,13 +310,8 @@
           },
           {
             "label": "사업·공급",
-            "text": "기능·기업 유치·계획 수립·공급 확대 흐름이 12건의 자료에서 확인됐다.",
-            "evidence_count": 12
-          },
-          {
-            "label": "정책·제도",
-            "text": "계획·사업 승인 관련 움직임이 2건의 자료에서 반복됐다.",
-            "evidence_count": 2
+            "text": "기능·기업 유치·공급 확대·사업 준공 흐름이 11건의 자료에서 확인됐다.",
+            "evidence_count": 11
           }
         ],
         "note": "",
@@ -330,6 +325,12 @@
           "date": "2026-10-14"
         },
         {
+          "title": "인천시, 20일부터 청라IHP(도시첨단산업단지) 진입도로 개통",
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNYmFHUkNycjFFcnhnWWNMM3lGbEZMaVpSdU41ZkpUbGxJbHBUT2ljeTdtVmhVZm4tR3h4WVZIaXAwT09MWDUwR05kWDBfNkZRaXNiaDhxYS13UFF2RnVHdTZsVl9CT1VFZk9KTHAtV09IWVpFdDlhSHAzNVRDZG5nS3pHX1g0aTdkR19RMFh1Q0F4ZTNrN2NfM1pGOU4xNVFXYVBYbXdFYkl0dWxPOHBGNTZaeEwwdW5vMU5mSzFrS2gtVTNCTTZDRm55dVdzN3BGX0xxS0JNVTVhWUlud2hkb3Fn?oc=5",
+          "source": "인천광역시",
+          "date": "2026-10-13"
+        },
+        {
           "title": "반도체 부품기업 동원파츠, 인천 남동 도시첨단산업단지에 신규 공장 착공",
           "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9xRUltWUt6a3llN1FWTkoybGJQak9NT05GYTRQRjhVcG9BaEJLcFZYRE9vaTFwWmpiOUVHa0pUbFRBRHVEV1dpT2J2cGJZRUNXZmlCMXpDV3BiQQ?oc=5",
           "source": "파이낸셜뉴스",
@@ -340,19 +341,13 @@
           "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4ybmZ2dVF5a2hfdVo3b1lvVTlhczZ2czlqR3BBVFY4cjQ0UVB6TDJmTEJBSW10Yi1fSnNYZlhweThjM1VGWk1BTEdxNVV1X2pLRDNNSzY4RWhXekxxMUtIUFZKT2lvVnJoci0xbDJB?oc=5",
           "source": "투어코리아",
           "date": "2026-10-12"
-        },
-        {
-          "title": "남양주시, 한국전자전(KES)서 왕숙 도시첨단산업단지 투자유치 나선다",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8zc0IwanEzM1V3eEZfVlhQNXRhLW9ia1ZiZ0ZpZUx5MDlDSUNLdmh0Tm9tQnpnV3B2Ni1iMTVEZTd2bDJ3OV9WajBaQnZ4VkZZbmg2endRYjQzcVJXZ0w0THNGam9uSHhyOEdR?oc=5",
-          "source": "일간투데이",
-          "date": "2026-10-12"
         }
       ]
     },
     {
       "topic": "산업단지·지역산업 전환",
-      "count": 24,
-      "trend_label": "직전 동일기간보다 23건 증가",
+      "count": 25,
+      "trend_label": "직전 동일기간보다 24건 증가",
       "analyzed_count": 15,
       "summary": {
         "points": [
@@ -363,19 +358,25 @@
           },
           {
             "label": "사업·공급",
-            "text": "기능·기업 유치·계획 수립·사업 착공 흐름이 12건의 자료에서 확인됐다.",
-            "evidence_count": 12
+            "text": "기능·기업 유치·계획 수립·사업 착공 흐름이 11건의 자료에서 확인됐다.",
+            "evidence_count": 11
           },
           {
             "label": "정책·제도",
-            "text": "계획·사업 승인 관련 움직임이 3건의 자료에서 반복됐다.",
-            "evidence_count": 3
+            "text": "계획·사업 승인 관련 움직임이 2건의 자료에서 반복됐다.",
+            "evidence_count": 2
           }
         ],
         "note": "",
         "topic": "산업단지·지역산업 전환"
       },
       "examples": [
+        {
+          "title": "인천시, 20일부터 청라IHP(도시첨단산업단지) 진입도로 개통",
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNYmFHUkNycjFFcnhnWWNMM3lGbEZMaVpSdU41ZkpUbGxJbHBUT2ljeTdtVmhVZm4tR3h4WVZIaXAwT09MWDUwR05kWDBfNkZRaXNiaDhxYS13UFF2RnVHdTZsVl9CT1VFZk9KTHAtV09IWVpFdDlhSHAzNVRDZG5nS3pHX1g0aTdkR19RMFh1Q0F4ZTNrN2NfM1pGOU4xNVFXYVBYbXdFYkl0dWxPOHBGNTZaeEwwdW5vMU5mSzFrS2gtVTNCTTZDRm55dVdzN3BGX0xxS0JNVTVhWUlud2hkb3Fn?oc=5",
+          "source": "인천광역시",
+          "date": "2026-10-13"
+        },
         {
           "title": "반도체 부품기업 동원파츠, 인천 남동 도시첨단산업단지에 신규 공장 착공",
           "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9xRUltWUt6a3llN1FWTkoybGJQak9NT05GYTRQRjhVcG9BaEJLcFZYRE9vaTFwWmpiOUVHa0pUbFRBRHVEV1dpT2J2cGJZRUNXZmlCMXpDV3BiQQ?oc=5",
@@ -392,12 +393,6 @@
           "title": "남양주시, 한국전자전(KES)서 왕숙 도시첨단산업단지 투자유치 나선다",
           "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8zc0IwanEzM1V3eEZfVlhQNXRhLW9ia1ZiZ0ZpZUx5MDlDSUNLdmh0Tm9tQnpnV3B2Ni1iMTVEZTd2bDJ3OV9WajBaQnZ4VkZZbmg2endRYjQzcVJXZ0w0THNGam9uSHhyOEdR?oc=5",
           "source": "일간투데이",
-          "date": "2026-10-12"
-        },
-        {
-          "title": "남양주시, 한국전자전서 왕숙 도시첨단산업단지 투자유치 추진",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1xT1JIR08ySEVNRUNQb0NBRGJpNXlDQ1hydkxHV3hjMXhFc3htOWNYX1BtSVMtbElZTk9ZaEpPUTRhN1dHNWZmdC1OTnRPQXNUQzJYd3lkY2lvcDRKYWd2X1oyMkJlbmt1aXhlUWFtVE1BQQ?oc=5",
-          "source": "웹이코노미",
           "date": "2026-10-12"
         }
       ]
@@ -452,24 +447,24 @@
     },
     {
       "topic": "토지·부동산시장",
-      "count": 13,
-      "trend_label": "직전 동일기간보다 12건 감소",
-      "analyzed_count": 13,
+      "count": 18,
+      "trend_label": "직전 동일기간보다 7건 감소",
+      "analyzed_count": 15,
       "summary": {
         "points": [
-          {
-            "label": "공간·생활권",
-            "text": "역세권 재편·빈집 관리·철도축 변화가 7건의 자료에서 공간 변화의 핵심으로 나타났다.",
-            "evidence_count": 7
-          },
           {
             "label": "사업·공급",
             "text": "정비 추진·사업 추진·공급 확대 흐름이 5건의 자료에서 확인됐다.",
             "evidence_count": 5
           },
           {
-            "label": "시장·비용",
-            "text": "거래 변화·지가 변화 문제가 2건의 자료에서 주요 관심사로 나타났다.",
+            "label": "공간·생활권",
+            "text": "역세권 재편·개발밀도 변화·빈집 관리가 5건의 자료에서 공간 변화의 핵심으로 나타났다.",
+            "evidence_count": 5
+          },
+          {
+            "label": "정책·제도",
+            "text": "규제 완화·지원 확대 관련 움직임이 2건의 자료에서 반복됐다.",
             "evidence_count": 2
           }
         ],
@@ -484,22 +479,22 @@
           "date": "2026-10-08"
         },
         {
-          "title": "숙대입구역세권 장기전세주택 도시정비형 재개발사업 시공사 선정",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFAtcldkQ19ndjBRRExLQWdrVzVyTkxBNThGem5jMm5UaE9jczV6NWlVVE0yRjBQLU1aNURhY3ZaZk5aRGtuZnFvMzd6cnBuU3A2MV9weWxQY0t3VjlSazhYeFNmNnJJeGllY3BLbjVUMEVta2s?oc=5",
-          "source": "하우징헤럴드",
-          "date": "2026-10-13"
+          "title": "[아유경제_부동산] 서울시, ‘휴먼타운 2.0’ 7곳 건축 규제 완화… 용적률 최대 1.2배",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1fR25DeUd1d0dSX2JIMHN2dUZyaTRZMWQ5ZmFXT0xBQWRkWm5sMWdNX2NqSVlINUZSc3F0WndHYlNzd2xvM2phaHo2YkdWZUlqYmlJNFVmdHc4MTVrZzZodUNCdlZLMDRf?oc=5",
+          "source": "아유경제",
+          "date": "2026-10-14"
         },
         {
-          "title": "지방도 더블역세권이 대세 '집값 껑충'",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5yaUUwdTkzWEdQb2Q2dnZqcmdzSlRrTHMwcHVNTjBBQmFLSzRDOWMxbWFiWWVoSnVQVFlrTExzd21makRHdkVITXB1bkp5dkVOM3RhbGlkT0JLQQ?oc=5",
-          "source": "파이낸셜뉴스",
-          "date": "2026-10-13"
+          "title": "\"재건축 이주가 집값 자극? 실제론 반경 1km·2~3개월 '반짝' 수준”",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5tM3dyQnRSVExkd0JjWjVQVjhrWGRveWtJc1ZCZ1Z4OHJPYUtkQzhvcERreDY0bkZfSkN3akI0QWlLcFJnc0lpVDFuTzZZYmJSMGhWeWh6ZzFzdjBnTGdDcDFFOXU5dkVZVVZsUUdqZWJGRUFmWnRXUjlYTG1QZGfSAXNBVV95cUxNbjFwaENsajFsUGFvbS1IV1JlbE9Oa2hfZ29HeTVBMnJJUVRveHJPVENGQlM2UV9paFFXYVZLTEdjOTRmU1BYQjZ4dUY1aHdSMmczTTJneFJRMVNUUXBKZUZPX3dIXzQ4TVlIZU9PU2IxZWNz?oc=5",
+          "source": "땅집고",
+          "date": "2026-10-14"
         },
         {
-          "title": "\"정비사업 제한 시 매매·전세 폭등\"…학계, 국토부 '쿼터제' 경고",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA4Z2xEZnhQZW00TFdRT1pKckE0VWhqZ094SXQ4YVo5ZWxPdHZtaTlKdkdGOU1ZLVUzbGpqLUZsdy0zUnI2NE8zV3phM29qSG9zc05LNWxWVGtBX2FNSGV3Tg?oc=5",
-          "source": "아시아경제",
-          "date": "2026-10-13"
+          "title": "자원을 활용하고 부동산 시장의 균형을 되찾습니다.",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNenVNa3VLaWo0LW5OUHpDQnNzU05EeG5JMjhsZk1leVVLUWRRVDVCbEVkTE1YcldUaEh5Q3dzMHMtOGtEOHh1YmhnX3MtaHZHc3phLWpDMjhJRGVKU0tOU1hsRG9oeXd0Wm1SUnZBeWtlRFQ1NERIU0hyS1MxNUktZXEwNFdfVGxSVXI0?oc=5",
+          "source": "Vietnam.vn",
+          "date": "2026-10-14"
         }
       ]
     }
@@ -507,20 +502,20 @@
   "monthly": [
     {
       "topic": "재건축·재개발·정비사업",
-      "count": 1151,
-      "trend_label": "직전 동일기간보다 307건 감소",
+      "count": 1194,
+      "trend_label": "직전 동일기간보다 264건 감소",
       "analyzed_count": 15,
       "summary": {
         "points": [
           {
             "label": "사업·공급",
-            "text": "정비 추진·사업 추진·사업 착공 흐름이 15건의 자료에서 확인됐다.",
-            "evidence_count": 15
+            "text": "정비 추진·사업 추진·사업 착공 흐름이 13건의 자료에서 확인됐다.",
+            "evidence_count": 13
           },
           {
             "label": "정책·제도",
-            "text": "관리 강화·구역·사업 지정 관련 움직임이 2건의 자료에서 반복됐다.",
-            "evidence_count": 2
+            "text": "관리 강화·구역·사업 지정 관련 움직임이 3건의 자료에서 반복됐다.",
+            "evidence_count": 3
           }
         ],
         "note": "",
@@ -555,20 +550,15 @@
     },
     {
       "topic": "철도·광역교통·역세권",
-      "count": 895,
-      "trend_label": "직전 동일기간보다 361건 감소",
+      "count": 921,
+      "trend_label": "직전 동일기간보다 335건 감소",
       "analyzed_count": 15,
       "summary": {
         "points": [
           {
             "label": "공간·생활권",
-            "text": "철도축 변화·역세권 재편·교통체계 변화가 15건의 자료에서 공간 변화의 핵심으로 나타났다.",
+            "text": "철도축 변화·역세권 재편가 15건의 자료에서 공간 변화의 핵심으로 나타났다.",
             "evidence_count": 15
-          },
-          {
-            "label": "안전·환경",
-            "text": "안전관리이 2건의 자료에서 주요 대응 과제로 나타났다.",
-            "evidence_count": 2
           }
         ],
         "note": "",
@@ -594,17 +584,17 @@
           "date": "2026-09-20"
         },
         {
-          "title": "“서부권광역급행철도·GTX-B 접속부 선시공 예산, 국회서 살려야”",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9odlYzYkUzWXYxdUdKbHM2YnZScDI5ZmMxM0VVakFobUcydEc5WjNPMWxMZmo5cm5SOUhlS1BrZTNvZ0w4SVZnQU9GS3AwUDFhb1plX0VOaEVBRUo5TWRpQlR1SzRMTVFxbUV6OWFIZlQ?oc=5",
-          "source": "인천투데이",
+          "title": "IPARK현대산업개발 \"GTX-C 품은 금정역세권\" 주거환경 변화 기대",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9NM0NUVWc3Y01ZdTB5LUtPMFhzTDJkNGZUeFo2WkJWcENwQmp4a3NYME9vOFVZeENfQldqVTNsRXBHY3F0eGppeUk4d25RSG5aQ2dwZXhHWUpXNFZEZExQbw?oc=5",
+          "source": "프라임경제",
           "date": "2026-10-14"
         }
       ]
     },
     {
       "topic": "도시재생·빈집·원도심",
-      "count": 793,
-      "trend_label": "직전 동일기간보다 147건 감소",
+      "count": 813,
+      "trend_label": "직전 동일기간보다 127건 감소",
       "analyzed_count": 15,
       "summary": {
         "points": [
@@ -646,8 +636,8 @@
     },
     {
       "topic": "국토계획·용도지역·규제",
-      "count": 745,
-      "trend_label": "직전 동일기간보다 233건 감소",
+      "count": 775,
+      "trend_label": "직전 동일기간보다 203건 감소",
       "analyzed_count": 15,
       "summary": {
         "points": [
@@ -658,13 +648,13 @@
           },
           {
             "label": "사업·공급",
-            "text": "계획 수립·정비 추진·공급 확대 흐름이 10건의 자료에서 확인됐다.",
-            "evidence_count": 10
+            "text": "공급 확대·계획 수립·정비 추진 흐름이 7건의 자료에서 확인됐다.",
+            "evidence_count": 7
           },
           {
             "label": "정책·제도",
-            "text": "규제 완화·구역·사업 지정 관련 움직임이 3건의 자료에서 반복됐다.",
-            "evidence_count": 3
+            "text": "규제 완화·구역·사업 지정 관련 움직임이 5건의 자료에서 반복됐다.",
+            "evidence_count": 5
           }
         ],
         "note": "",
@@ -672,35 +662,35 @@
       },
       "examples": [
         {
-          "title": "제주연구원, 지역 여건에 맞는 제주형 도시계획 사전협상제도 단계적 운영 필요",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBnVnl5ckZ4RWR1bG1USnlWSVpWYTEtRUUzWmlQMW5NbmtmcDI4R09nTEJKdU5zYVVMejNnVGFwV2xmT3JuZHl1eWFQMXpfeWw0UGFLNWFiM1d1bmJwVklidjEtRVh3cF9PUkVNdGtR?oc=5",
-          "source": "지금제주",
-          "date": "2026-10-13"
+          "title": "서울시, 저층주거지 7곳 특별건축구역 지정…건폐율·용적률 등 규제 완화",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5icERKZTQ4dVdwWkRWb21GUjFILU1sYk8tMDdWSGYzSWFrUHowcGNyVDluRWs5RTdfY2pjX2E2alh2YW5sUWppdExMUUtJTzNtZlVEajRCeTFRZl9lb1B3N3hSdl9DT1dtREJMYlZR?oc=5",
+          "source": "포커스경제",
+          "date": "2026-10-14"
         },
         {
-          "title": "“3기 신도시 용적률 높여 6.4만가구 더…수도권 주택 공급·이주 수요 동시에 해결”",
-          "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9KVk5fQjdqRE9nbzJtNWN0d2dVd0hsUkJGWHBTbER0bXBFblk4cllhU0NyemZCQ2d1QUlfeFdDdzAyTVdwOUE?oc=5",
-          "source": "매일경제",
-          "date": "2026-10-13"
+          "title": "서울 저층주거지 7곳 '특별건축구역' 지정안 통과…용적률 최대 1.2배·건폐율 최대 80%",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9Ub1NfUFJNWmVLWDk4d1ZGN1hWR05GSnR6eWJxTHpKZ2JTWHVtVWRZeVpzcmtMRHRkd0VoWE1yVVlxWnZjTjNlakxPc3gzWkZOd1lXNWVB?oc=5",
+          "source": "어반톡",
+          "date": "2026-10-14"
         },
         {
-          "title": "용인 처인구 남동 9개 필지 분양…원룸형 170가구 설계안 적용",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE14MVVtRVJEWDllR3c2ZXFISkZXUmp0amFqd1FFX0E4R3BjVHF6c2RaTHo3VlFaMkdFMmowQ3FKRmJ3MnhEc3dveFRWV2JzOXI3WmEzNEZRQkZZRzR2UmtvQVY2czFKRjjSAWtBVV95cUxNQ2pHb2swcWxubmQtdE5PTGdDcXRWT0pNRDhHT0xsMFMxZlkwaU53dDQ0Nm9yT0ZKVzEwbWI4R1dTVkVBdzZBcHRWd25kbXFxMVZLekJweVpFTV9hMERWdDN6ZkQzZzY4QVZLOA?oc=5",
-          "source": "K뉴스통신",
-          "date": "2026-10-13"
+          "title": "서울 저층주거지 7곳 건축규제 완화…용적률 최대 1.2배·건폐율 특례 적용",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9VdEdHNXVEdlFQWW1aXzV6bGVvYnIta2psaXN3eXRnc2lRbUIxRTloUm1xdkZPX2JGbEZNVVRUU2V5aUlMRGZqRGJxY19pOHR2bTJteUJUVVBvUQ?oc=5",
+          "source": "브릿지경제",
+          "date": "2026-10-14"
         },
         {
-          "title": "용산 1단계 1.4만가구 공급…용적률 600% 넘는 고밀개발 논란",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE14MnVuV2Zld2RwUDBwbnRfR2hjUG01M2VTUlo3UHZ5OVJSUkJtSUROejJhUUpRbTV1bko2eEFxS28zX1pnaV9kVDZvc1pCS3lGRnpUeEs4ak80dEg4dTR0aHpmM2phQVl3WEJ2cnB3?oc=5",
-          "source": "아시아투데이",
-          "date": "2026-10-12"
+          "title": "낡은 빌라 새로 짓기 쉬워진다 … 서울 7곳 용적률·건폐율 완화",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxObWQxbkNOZHdRUGtfdEtDanVuT0lyQ2NyMmlnd2NBbHVWUzJKV0xXU183eXFvNmRxbU1aaVZrSTFlWWNrUHlyNTQwbmdfaFNzSldpMFpoUmlRdkhpTXY5WjFDNFR5Y240eHREN3hYYU5mc29YSTVISjFLUUVhTkZLddIBgAFBVV95cUxObWQxbkNOZHdRUGtfdEtDanVuT0lyQ2NyMmlnd2NBbHVWUzJKV0xXU183eXFvNmRxbU1aaVZrSTFlWWNrUHlyNTQwbmdfaFNzSldpMFpoUmlRdkhpTXY5WjFDNFR5Y240eHREN3hYYU5mc29YSTVISjFLUUVhTkZLdQ?oc=5",
+          "source": "뉴데일리",
+          "date": "2026-10-14"
         }
       ]
     },
     {
       "topic": "상권·골목경제·생활권",
-      "count": 501,
-      "trend_label": "직전 동일기간보다 61건 감소",
+      "count": 513,
+      "trend_label": "직전 동일기간보다 49건 감소",
       "analyzed_count": 15,
       "summary": {
         "points": [
@@ -742,8 +732,8 @@
     },
     {
       "topic": "주택공급·공공주택",
-      "count": 192,
-      "trend_label": "직전 동일기간보다 4건 감소",
+      "count": 195,
+      "trend_label": "직전 동일기간보다 1건 감소",
       "analyzed_count": 15,
       "summary": {
         "points": [
@@ -795,8 +785,8 @@
     },
     {
       "topic": "공업지역·산업단지 제도",
-      "count": 110,
-      "trend_label": "직전 동일기간보다 57건 증가",
+      "count": 112,
+      "trend_label": "직전 동일기간보다 59건 증가",
       "analyzed_count": 15,
       "summary": {
         "points": [
@@ -807,8 +797,8 @@
           },
           {
             "label": "사업·공급",
-            "text": "기능·기업 유치·사업 준공·공급 확대 흐름이 12건의 자료에서 확인됐다.",
-            "evidence_count": 12
+            "text": "기능·기업 유치·사업 준공·공급 확대 흐름이 11건의 자료에서 확인됐다.",
+            "evidence_count": 11
           }
         ],
         "note": "",
@@ -828,39 +818,39 @@
           "date": "2026-09-29"
         },
         {
+          "title": "인천시, 20일부터 청라IHP(도시첨단산업단지) 진입도로 개통",
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNYmFHUkNycjFFcnhnWWNMM3lGbEZMaVpSdU41ZkpUbGxJbHBUT2ljeTdtVmhVZm4tR3h4WVZIaXAwT09MWDUwR05kWDBfNkZRaXNiaDhxYS13UFF2RnVHdTZsVl9CT1VFZk9KTHAtV09IWVpFdDlhSHAzNVRDZG5nS3pHX1g0aTdkR19RMFh1Q0F4ZTNrN2NfM1pGOU4xNVFXYVBYbXdFYkl0dWxPOHBGNTZaeEwwdW5vMU5mSzFrS2gtVTNCTTZDRm55dVdzN3BGX0xxS0JNVTVhWUlud2hkb3Fn?oc=5",
+          "source": "인천광역시",
+          "date": "2026-10-13"
+        },
+        {
           "title": "반도체 부품기업 동원파츠, 인천 남동 도시첨단산업단지에 신규 공장 착공",
           "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9xRUltWUt6a3llN1FWTkoybGJQak9NT05GYTRQRjhVcG9BaEJLcFZYRE9vaTFwWmpiOUVHa0pUbFRBRHVEV1dpT2J2cGJZRUNXZmlCMXpDV3BiQQ?oc=5",
           "source": "파이낸셜뉴스",
-          "date": "2026-10-12"
-        },
-        {
-          "title": "남양주시, 한국전자전서 왕숙 도시첨단산업단지 투자기업 발굴",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4ybmZ2dVF5a2hfdVo3b1lvVTlhczZ2czlqR3BBVFY4cjQ0UVB6TDJmTEJBSW10Yi1fSnNYZlhweThjM1VGWk1BTEdxNVV1X2pLRDNNSzY4RWhXekxxMUtIUFZKT2lvVnJoci0xbDJB?oc=5",
-          "source": "투어코리아",
           "date": "2026-10-12"
         }
       ]
     },
     {
       "topic": "토지·부동산시장",
-      "count": 89,
-      "trend_label": "직전 동일기간보다 146건 감소",
+      "count": 94,
+      "trend_label": "직전 동일기간보다 141건 감소",
       "analyzed_count": 15,
       "summary": {
         "points": [
           {
-            "label": "공간·생활권",
-            "text": "역세권 재편·빈집 관리·철도축 변화가 8건의 자료에서 공간 변화의 핵심으로 나타났다.",
-            "evidence_count": 8
-          },
-          {
             "label": "사업·공급",
-            "text": "정비 추진·공급 확대·사업 추진 흐름이 6건의 자료에서 확인됐다.",
-            "evidence_count": 6
+            "text": "정비 추진·사업 추진·공급 확대 흐름이 5건의 자료에서 확인됐다.",
+            "evidence_count": 5
           },
           {
-            "label": "시장·비용",
-            "text": "거래 변화·지가 변화 문제가 2건의 자료에서 주요 관심사로 나타났다.",
+            "label": "공간·생활권",
+            "text": "역세권 재편·개발밀도 변화·빈집 관리가 5건의 자료에서 공간 변화의 핵심으로 나타났다.",
+            "evidence_count": 5
+          },
+          {
+            "label": "정책·제도",
+            "text": "규제 완화·지원 확대 관련 움직임이 2건의 자료에서 반복됐다.",
             "evidence_count": 2
           }
         ],
@@ -875,29 +865,29 @@
           "date": "2026-10-08"
         },
         {
-          "title": "숙대입구역세권 장기전세주택 도시정비형 재개발사업 시공사 선정",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFAtcldkQ19ndjBRRExLQWdrVzVyTkxBNThGem5jMm5UaE9jczV6NWlVVE0yRjBQLU1aNURhY3ZaZk5aRGtuZnFvMzd6cnBuU3A2MV9weWxQY0t3VjlSazhYeFNmNnJJeGllY3BLbjVUMEVta2s?oc=5",
-          "source": "하우징헤럴드",
-          "date": "2026-10-13"
+          "title": "[아유경제_부동산] 서울시, ‘휴먼타운 2.0’ 7곳 건축 규제 완화… 용적률 최대 1.2배",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1fR25DeUd1d0dSX2JIMHN2dUZyaTRZMWQ5ZmFXT0xBQWRkWm5sMWdNX2NqSVlINUZSc3F0WndHYlNzd2xvM2phaHo2YkdWZUlqYmlJNFVmdHc4MTVrZzZodUNCdlZLMDRf?oc=5",
+          "source": "아유경제",
+          "date": "2026-10-14"
         },
         {
-          "title": "지방도 더블역세권이 대세 '집값 껑충'",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5yaUUwdTkzWEdQb2Q2dnZqcmdzSlRrTHMwcHVNTjBBQmFLSzRDOWMxbWFiWWVoSnVQVFlrTExzd21makRHdkVITXB1bkp5dkVOM3RhbGlkT0JLQQ?oc=5",
-          "source": "파이낸셜뉴스",
-          "date": "2026-10-13"
+          "title": "\"재건축 이주가 집값 자극? 실제론 반경 1km·2~3개월 '반짝' 수준”",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5tM3dyQnRSVExkd0JjWjVQVjhrWGRveWtJc1ZCZ1Z4OHJPYUtkQzhvcERreDY0bkZfSkN3akI0QWlLcFJnc0lpVDFuTzZZYmJSMGhWeWh6ZzFzdjBnTGdDcDFFOXU5dkVZVVZsUUdqZWJGRUFmWnRXUjlYTG1QZGfSAXNBVV95cUxNbjFwaENsajFsUGFvbS1IV1JlbE9Oa2hfZ29HeTVBMnJJUVRveHJPVENGQlM2UV9paFFXYVZLTEdjOTRmU1BYQjZ4dUY1aHdSMmczTTJneFJRMVNUUXBKZUZPX3dIXzQ4TVlIZU9PU2IxZWNz?oc=5",
+          "source": "땅집고",
+          "date": "2026-10-14"
         },
         {
-          "title": "\"정비사업 제한 시 매매·전세 폭등\"…학계, 국토부 '쿼터제' 경고",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA4Z2xEZnhQZW00TFdRT1pKckE0VWhqZ094SXQ4YVo5ZWxPdHZtaTlKdkdGOU1ZLVUzbGpqLUZsdy0zUnI2NE8zV3phM29qSG9zc05LNWxWVGtBX2FNSGV3Tg?oc=5",
-          "source": "아시아경제",
-          "date": "2026-10-13"
+          "title": "자원을 활용하고 부동산 시장의 균형을 되찾습니다.",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNenVNa3VLaWo0LW5OUHpDQnNzU05EeG5JMjhsZk1leVVLUWRRVDVCbEVkTE1YcldUaEh5Q3dzMHMtOGtEOHh1YmhnX3MtaHZHc3phLWpDMjhJRGVKU0tOU1hsRG9oeXd0Wm1SUnZBeWtlRFQ1NERIU0hyS1MxNUktZXEwNFdfVGxSVXI0?oc=5",
+          "source": "Vietnam.vn",
+          "date": "2026-10-14"
         }
       ]
     },
     {
       "topic": "산업단지·지역산업 전환",
-      "count": 86,
-      "trend_label": "직전 동일기간보다 38건 증가",
+      "count": 87,
+      "trend_label": "직전 동일기간보다 39건 증가",
       "analyzed_count": 15,
       "summary": {
         "points": [
@@ -908,19 +898,25 @@
           },
           {
             "label": "사업·공급",
-            "text": "기능·기업 유치·계획 수립·사업 착공 흐름이 12건의 자료에서 확인됐다.",
-            "evidence_count": 12
+            "text": "기능·기업 유치·계획 수립·사업 착공 흐름이 11건의 자료에서 확인됐다.",
+            "evidence_count": 11
           },
           {
             "label": "정책·제도",
-            "text": "계획·사업 승인 관련 움직임이 3건의 자료에서 반복됐다.",
-            "evidence_count": 3
+            "text": "계획·사업 승인 관련 움직임이 2건의 자료에서 반복됐다.",
+            "evidence_count": 2
           }
         ],
         "note": "",
         "topic": "산업단지·지역산업 전환"
       },
       "examples": [
+        {
+          "title": "인천시, 20일부터 청라IHP(도시첨단산업단지) 진입도로 개통",
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNYmFHUkNycjFFcnhnWWNMM3lGbEZMaVpSdU41ZkpUbGxJbHBUT2ljeTdtVmhVZm4tR3h4WVZIaXAwT09MWDUwR05kWDBfNkZRaXNiaDhxYS13UFF2RnVHdTZsVl9CT1VFZk9KTHAtV09IWVpFdDlhSHAzNVRDZG5nS3pHX1g0aTdkR19RMFh1Q0F4ZTNrN2NfM1pGOU4xNVFXYVBYbXdFYkl0dWxPOHBGNTZaeEwwdW5vMU5mSzFrS2gtVTNCTTZDRm55dVdzN3BGX0xxS0JNVTVhWUlud2hkb3Fn?oc=5",
+          "source": "인천광역시",
+          "date": "2026-10-13"
+        },
         {
           "title": "반도체 부품기업 동원파츠, 인천 남동 도시첨단산업단지에 신규 공장 착공",
           "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9xRUltWUt6a3llN1FWTkoybGJQak9NT05GYTRQRjhVcG9BaEJLcFZYRE9vaTFwWmpiOUVHa0pUbFRBRHVEV1dpT2J2cGJZRUNXZmlCMXpDV3BiQQ?oc=5",
@@ -937,12 +933,6 @@
           "title": "남양주시, 한국전자전(KES)서 왕숙 도시첨단산업단지 투자유치 나선다",
           "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8zc0IwanEzM1V3eEZfVlhQNXRhLW9ia1ZiZ0ZpZUx5MDlDSUNLdmh0Tm9tQnpnV3B2Ni1iMTVEZTd2bDJ3OV9WajBaQnZ4VkZZbmg2endRYjQzcVJXZ0w0THNGam9uSHhyOEdR?oc=5",
           "source": "일간투데이",
-          "date": "2026-10-12"
-        },
-        {
-          "title": "남양주시, 한국전자전서 왕숙 도시첨단산업단지 투자유치 추진",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1xT1JIR08ySEVNRUNQb0NBRGJpNXlDQ1hydkxHV3hjMXhFc3htOWNYX1BtSVMtbElZTk9ZaEpPUTRhN1dHNWZmdC1OTnRPQXNUQzJYd3lkY2lvcDRKYWd2X1oyMkJlbmt1aXhlUWFtVE1BQQ?oc=5",
-          "source": "웹이코노미",
           "date": "2026-10-12"
         }
       ]
@@ -999,7 +989,7 @@
   "yearly": [
     {
       "topic": "재건축·재개발·정비사업",
-      "count": 5955,
+      "count": 5998,
       "trend_label": "최근 1년 누적",
       "analyzed_count": 15,
       "summary": {
@@ -1047,7 +1037,7 @@
     },
     {
       "topic": "철도·광역교통·역세권",
-      "count": 4249,
+      "count": 4275,
       "trend_label": "최근 1년 누적",
       "analyzed_count": 15,
       "summary": {
@@ -1056,16 +1046,6 @@
             "label": "공간·생활권",
             "text": "철도축 변화·교통체계 변화·역세권 재편가 15건의 자료에서 공간 변화의 핵심으로 나타났다.",
             "evidence_count": 15
-          },
-          {
-            "label": "정책·제도",
-            "text": "지원 확대·관리 강화 관련 움직임이 2건의 자료에서 반복됐다.",
-            "evidence_count": 2
-          },
-          {
-            "label": "안전·환경",
-            "text": "안전관리이 2건의 자료에서 주요 대응 과제로 나타났다.",
-            "evidence_count": 2
           }
         ],
         "note": "",
@@ -1100,25 +1080,25 @@
     },
     {
       "topic": "국토계획·용도지역·규제",
-      "count": 3404,
+      "count": 3434,
       "trend_label": "최근 1년 누적",
       "analyzed_count": 15,
       "summary": {
         "points": [
           {
             "label": "공간·생활권",
-            "text": "개발밀도 변화·인구 변화·역세권 재편가 13건의 자료에서 공간 변화의 핵심으로 나타났다.",
-            "evidence_count": 13
+            "text": "개발밀도 변화·인구 변화·역세권 재편가 14건의 자료에서 공간 변화의 핵심으로 나타났다.",
+            "evidence_count": 14
           },
           {
             "label": "사업·공급",
-            "text": "계획 수립·공급 확대·정비 추진 흐름이 11건의 자료에서 확인됐다.",
-            "evidence_count": 11
+            "text": "계획 수립·공급 확대·정비 추진 흐름이 10건의 자료에서 확인됐다.",
+            "evidence_count": 10
           },
           {
             "label": "정책·제도",
-            "text": "규제 완화·구역·사업 지정 관련 움직임이 2건의 자료에서 반복됐다.",
-            "evidence_count": 2
+            "text": "규제 완화·구역·사업 지정 관련 움직임이 5건의 자료에서 반복됐다.",
+            "evidence_count": 5
           }
         ],
         "note": "",
@@ -1153,7 +1133,7 @@
     },
     {
       "topic": "도시재생·빈집·원도심",
-      "count": 3345,
+      "count": 3365,
       "trend_label": "최근 1년 누적",
       "analyzed_count": 15,
       "summary": {
@@ -1196,7 +1176,7 @@
     },
     {
       "topic": "상권·골목경제·생활권",
-      "count": 2012,
+      "count": 2024,
       "trend_label": "최근 1년 누적",
       "analyzed_count": 15,
       "summary": {
@@ -1239,7 +1219,7 @@
     },
     {
       "topic": "주택공급·공공주택",
-      "count": 909,
+      "count": 912,
       "trend_label": "최근 1년 누적",
       "analyzed_count": 15,
       "summary": {
@@ -1292,15 +1272,15 @@
     },
     {
       "topic": "토지·부동산시장",
-      "count": 712,
+      "count": 717,
       "trend_label": "최근 1년 누적",
       "analyzed_count": 15,
       "summary": {
         "points": [
           {
             "label": "공간·생활권",
-            "text": "역세권 재편·빈집 관리가 6건의 자료에서 공간 변화의 핵심으로 나타났다.",
-            "evidence_count": 6
+            "text": "역세권 재편·빈집 관리·개발밀도 변화가 7건의 자료에서 공간 변화의 핵심으로 나타났다.",
+            "evidence_count": 7
           },
           {
             "label": "시장·비용",
@@ -1308,8 +1288,8 @@
             "evidence_count": 5
           },
           {
-            "label": "사업·공급",
-            "text": "정비 추진 흐름이 2건의 자료에서 확인됐다.",
+            "label": "정책·제도",
+            "text": "구역·사업 지정·관리 강화·규제 완화 관련 움직임이 2건의 자료에서 반복됐다.",
             "evidence_count": 2
           }
         ],
@@ -1388,7 +1368,7 @@
     },
     {
       "topic": "공업지역·산업단지 제도",
-      "count": 459,
+      "count": 461,
       "trend_label": "최근 1년 누적",
       "analyzed_count": 15,
       "summary": {
