@@ -1,29 +1,29 @@
 {
-  "updated_at": "2026-10-28 18:09 KST",
+  "updated_at": "2026-10-29 01:13 KST",
   "coverage": {
-    "items": 25268,
-    "oldest": "2025-10-29",
+    "items": 25320,
+    "oldest": "2025-10-30",
     "newest": "2026-10-28",
-    "days_covered": 365,
+    "days_covered": 364,
     "complete": true
   },
   "weekly": [
     {
       "topic": "재건축·재개발·정비사업",
-      "count": 337,
-      "trend_label": "직전 동일기간보다 20건 증가",
+      "count": 294,
+      "trend_label": "직전 동일기간보다 20건 감소",
       "analyzed_count": 15,
       "summary": {
         "points": [
           {
             "label": "사업·공급",
-            "text": "정비 추진·계획 수립·사업 추진 흐름이 10건의 자료에서 확인됐다.",
+            "text": "정비 추진·계획 수립 흐름이 10건의 자료에서 확인됐다.",
             "evidence_count": 10
           },
           {
             "label": "정책·제도",
-            "text": "제도 시행·구역·사업 지정·새 제도 도입 관련 움직임이 5건의 자료에서 반복됐다.",
-            "evidence_count": 5
+            "text": "제도 시행·구역·사업 지정 관련 움직임이 4건의 자료에서 반복됐다.",
+            "evidence_count": 4
           }
         ],
         "note": "",
@@ -43,10 +43,10 @@
           "date": "2026-10-26"
         },
         {
-          "title": "상계보람아파트 재건축조합 추진위원회 정비사업전문관리업자 선정 입찰공고",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1SQXcteU1Fd2NpcXYzUThweXE1VkJlMzNnekNZWDNQbjdXeTZXV3U4bEJSVzlLcmg1ZjNqY242UDhRV2UzclRHYnhzbmU5QnQ5NURJUXp4STh1SHI2YlFqN3ZzVGpENlhp?oc=5",
+          "title": "시흥 포동1구역 재개발조합 정비사업전문관리업자 선정 입찰공고",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9DNEczR2l1YnZBNTJ0YmRXUVI3aUptSS0wdUdWdGRXVmNGT3I2V2JzeGtkWjIyYUdtZHAzdXpoU0poSGxTNzM2TUZDTHh3eXJvUVZpVU03OU1NVlNqakNvcVpuMTRkT1Rx?oc=5",
           "source": "한국주택경제신문",
-          "date": "2026-10-27"
+          "date": "2026-10-28"
         },
         {
           "title": "정비사업 늑장 행정 차단…서울시, \"사업시행자 지정 30일 내 처리\"",
@@ -58,20 +58,20 @@
     },
     {
       "topic": "국토계획·용도지역·규제",
-      "count": 223,
-      "trend_label": "직전 동일기간보다 31건 증가",
+      "count": 173,
+      "trend_label": "직전 동일기간보다 35건 감소",
       "analyzed_count": 15,
       "summary": {
         "points": [
           {
             "label": "공간·생활권",
-            "text": "개발밀도 변화가 11건의 자료에서 공간 변화의 핵심으로 나타났다.",
-            "evidence_count": 11
+            "text": "개발밀도 변화가 8건의 자료에서 공간 변화의 핵심으로 나타났다.",
+            "evidence_count": 8
           },
           {
             "label": "사업·공급",
-            "text": "공급 확대·계획 수립·정비 추진 흐름이 8건의 자료에서 확인됐다.",
-            "evidence_count": 8
+            "text": "계획 수립·정비 추진·공급 확대 흐름이 6건의 자료에서 확인됐다.",
+            "evidence_count": 6
           },
           {
             "label": "정책·제도",
@@ -102,30 +102,41 @@
           "date": "2026-10-23"
         },
         {
-          "title": "3기 신도시 용적률 250%로 상향 검토… 주택 3만8000가구 추가 공급",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBHNWctZU1BdUI0NE42T1FTaXRocjV0RGVnSW5FbktMbzlVRmdlZ3BldnZ5UHpHTUJ6bUNweFNESTZUTldSMHhoMGNKRkxRR1RidzcyaEh6RjVWdzZCTDFrR0lrU1hIbU1iVXVB?oc=5",
-          "source": "현대경제",
-          "date": "2026-10-22"
+          "title": "영덕군, 토지이동 860필지 개별공시지가 결정·공시",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBCX0c1Mk1TQlpNZmhmdVV2WWo1dzUtdUhBRHpWZzVLeW1kS0duU21kQ0V6TkVsbWZGOVRYRDNqb1c2MFI4NGFCcFdja2FyeUx6b1B6cGhLb243NUI2emYzMXF0a3ZjQVZGcW5Z0gFvQVVfeXFMTmtZUnE4TFNoaGNNa0ZtSW4wQ3RIbVFkM0pvOWZqY29Xbmp6bFJzVVJiVlZKWTExMXo3V2lZUUlJcUFnd18yUmFENV9SUktkYmV1eHIyZ2ZsVDB6cmQyMVozX1NCUXZXM3cxdVVYc0xn?oc=5",
+          "source": "한스경제",
+          "date": "2026-10-28"
         }
       ]
     },
     {
       "topic": "철도·광역교통·역세권",
-      "count": 194,
-      "trend_label": "직전 동일기간보다 141건 감소",
+      "count": 168,
+      "trend_label": "직전 동일기간보다 158건 감소",
       "analyzed_count": 15,
       "summary": {
         "points": [
           {
             "label": "공간·생활권",
-            "text": "철도축 변화·교통체계 변화·역세권 재편가 15건의 자료에서 공간 변화의 핵심으로 나타났다.",
+            "text": "철도축 변화·교통체계 변화가 15건의 자료에서 공간 변화의 핵심으로 나타났다.",
             "evidence_count": 15
+          },
+          {
+            "label": "갈등·리스크",
+            "text": "사업 지연·정책·사업 논란 위험이 2건의 자료에서 반복적으로 제기됐다.",
+            "evidence_count": 2
           }
         ],
         "note": "",
         "topic": "철도·광역교통·역세권"
       },
       "examples": [
+        {
+          "title": "광주 도시철도 2호선 1단계 18개 역명 확정",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBNMUR5amZXZDdOdnNVNlBSSzNYU25nX1N6VnprcjlhM2pDeVFmVnUxWFZJa200S1hZeUlBRzJVZG5NbEVZallaODRfY0pNSzFlUDhEX0N5ek1pWDhnaFlUeUdJY095bjBoOFBocHFJcw?oc=5",
+          "source": "전남일보",
+          "date": "2026-10-28"
+        },
         {
           "title": "광주도시철도 2호선 1단계 18개 역명 고시",
           "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBRbWV5d1haMmNxSzZMR2I1aUFDUGFnTVFzOEhHRzdOZ183cXpORkw5bk4ta0JHejlLUTJScncwQXZKeUNqSUdyTko5V1lLV1p2TkVmblNQZXZoNHpoZnJsN9IBYEFVX3lxTFBRbWV5d1haMmNxSzZMR2I1aUFDUGFnTVFzOEhHRzdOZ183cXpORkw5bk4ta0JHejlLUTJScncwQXZKeUNqSUdyTko5V1lLV1p2TkVmblNQZXZoNHpoZnJsNw?oc=5",
@@ -143,19 +154,56 @@
           "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1OYllyS195c1BabEp1YmxVMUNoQ01oYUdjV0dTaUtYMW4zOEF2WGIxU05hRWNOUDJBaWVyb3VRMmpYVEJjbDViZ0Judlo2enZ2S0w1bzEyTk04NDdzM2JVUDBsR0Fmdw?oc=5",
           "source": "데일리대구경북뉴스",
           "date": "2026-10-28"
+        }
+      ]
+    },
+    {
+      "topic": "상권·골목경제·생활권",
+      "count": 163,
+      "trend_label": "직전 동일기간보다 31건 증가",
+      "analyzed_count": 15,
+      "summary": {
+        "points": [
+          {
+            "label": "공간·생활권",
+            "text": "상권 변화가 15건의 자료에서 공간 변화의 핵심으로 나타났다.",
+            "evidence_count": 15
+          }
+        ],
+        "note": "",
+        "topic": "상권·골목경제·생활권"
+      },
+      "examples": [
+        {
+          "title": "경기 전통시장·골목상권 9곳서 동행축제 열린다",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBSU3NKZlhyeDcxMDdHNFUyX2pwQVhZOE5yaHV0eFc3SjBsYmZnSWhBTmx2cTY3cC00WHBIeEg3VlJGbnpzMEhjc0lxQ3FRa2lKYjI4d0ZxUGl3Z3pSNTRHRktHZ2lXb19WSU44OHdpWQ?oc=5",
+          "source": "기호일보",
+          "date": "2026-10-28"
         },
         {
-          "title": "박현규 “도시철도 4호선 공론화, 요식행위 안 돼”…대구시 “최종 결정은 대구시”",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE90eWVoQkVMNjJrUXV5VTR2b1M4LVJhNmU2WFlXUHRnTjF1WlQ3VThNY01UcFlRZzZmV0k3cTJLZzVvamR3UU0tSVp4c2RhMjZvSmh2ZncyWGJsTXgzZ2NEcUFXeENJbmJX?oc=5",
-          "source": "대구일보",
+          "title": "[글로컬픽] 전남광주 상인들, 여수서 전통시장·골목상권 협력 '한마음'",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5Femc3T1A3UWxPTkdORGdxQVdQYUtxQ0lTNHhYcmdFbUlZdHpOX1hBRU93QzlpRUNxX1V5bDl3VDVyeGJMMVpHVThrRjk5b05zQTJpLWg5TUxFVkdoQ3Jv?oc=5",
+          "source": "MTN 머니투데이방송",
           "date": "2026-10-28"
+        },
+        {
+          "title": "홍성, ‘70만 명 바비큐 특수’ 잡는다… 전통시장·골목상권까지 소비 확대",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5ydWJoMHB5WE95VjlsRWRMbk15d1dQeUowUl9XamNHYm81Q2lrZjdSWTJQOE1UZ3k2TF9sYkpVbXQ5TnNrOUlCVkxQSk1SYjNJQnoyalpuVGlyRlAwZGduaUdLSUVwbjV3?oc=5",
+          "source": "녹색경제신문",
+          "date": "2026-10-27"
+        },
+        {
+          "title": "청주 전통시장·골목상권서 동행축제… 도깨비장터·직지 그래피티 축제",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1jSzdYVE9lbS1MeEo3OHY2WlY4SlJfUm52dGV3Y2NIc0FhVGt5c25NYmVXRWRHRVUwWC1kMDlpWjB3U2FMYzNKOEg3YkdQUkdNcXlJblZSTVJlTFEwWW82ZjJEVF9BVlJTdkVF?oc=5",
+          "source": "동양일보",
+          "date": "2026-10-26"
         }
       ]
     },
     {
       "topic": "도시재생·빈집·원도심",
-      "count": 172,
-      "trend_label": "직전 동일기간보다 61건 감소",
+      "count": 148,
+      "trend_label": "직전 동일기간보다 79건 감소",
       "analyzed_count": 15,
       "summary": {
         "points": [
@@ -201,59 +249,16 @@
       ]
     },
     {
-      "topic": "상권·골목경제·생활권",
-      "count": 172,
-      "trend_label": "직전 동일기간보다 37건 증가",
-      "analyzed_count": 15,
-      "summary": {
-        "points": [
-          {
-            "label": "공간·생활권",
-            "text": "상권 변화가 15건의 자료에서 공간 변화의 핵심으로 나타났다.",
-            "evidence_count": 15
-          }
-        ],
-        "note": "",
-        "topic": "상권·골목경제·생활권"
-      },
-      "examples": [
-        {
-          "title": "경기 전통시장·골목상권 9곳서 동행축제 열린다",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBSU3NKZlhyeDcxMDdHNFUyX2pwQVhZOE5yaHV0eFc3SjBsYmZnSWhBTmx2cTY3cC00WHBIeEg3VlJGbnpzMEhjc0lxQ3FRa2lKYjI4d0ZxUGl3Z3pSNTRHRktHZ2lXb19WSU44OHdpWQ?oc=5",
-          "source": "기호일보",
-          "date": "2026-10-28"
-        },
-        {
-          "title": "[글로컬픽] 전남광주 상인들, 여수서 전통시장·골목상권 협력 '한마음'",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5Femc3T1A3UWxPTkdORGdxQVdQYUtxQ0lTNHhYcmdFbUlZdHpOX1hBRU93QzlpRUNxX1V5bDl3VDVyeGJMMVpHVThrRjk5b05zQTJpLWg5TUxFVkdoQ3Jv?oc=5",
-          "source": "MTN 머니투데이방송",
-          "date": "2026-10-28"
-        },
-        {
-          "title": "홍성, ‘70만 명 바비큐 특수’ 잡는다… 전통시장·골목상권까지 소비 확대",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5ydWJoMHB5WE95VjlsRWRMbk15d1dQeUowUl9XamNHYm81Q2lrZjdSWTJQOE1UZ3k2TF9sYkpVbXQ5TnNrOUlCVkxQSk1SYjNJQnoyalpuVGlyRlAwZGduaUdLSUVwbjV3?oc=5",
-          "source": "녹색경제신문",
-          "date": "2026-10-27"
-        },
-        {
-          "title": "청주 전통시장·골목상권서 동행축제… 도깨비장터·직지 그래피티 축제",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1jSzdYVE9lbS1MeEo3OHY2WlY4SlJfUm52dGV3Y2NIc0FhVGt5c25NYmVXRWRHRVUwWC1kMDlpWjB3U2FMYzNKOEg3YkdQUkdNcXlJblZSTVJlTFEwWW82ZjJEVF9BVlJTdkVF?oc=5",
-          "source": "동양일보",
-          "date": "2026-10-26"
-        }
-      ]
-    },
-    {
       "topic": "토지·부동산시장",
-      "count": 66,
-      "trend_label": "직전 동일기간보다 37건 증가",
+      "count": 60,
+      "trend_label": "직전 동일기간보다 30건 증가",
       "analyzed_count": 15,
       "summary": {
         "points": [
           {
             "label": "시장·비용",
-            "text": "지가 변화 문제가 13건의 자료에서 주요 관심사로 나타났다.",
-            "evidence_count": 13
+            "text": "지가 변화 문제가 12건의 자료에서 주요 관심사로 나타났다.",
+            "evidence_count": 12
           },
           {
             "label": "사업·공급",
@@ -293,15 +298,15 @@
     },
     {
       "topic": "주택공급·공공주택",
-      "count": 29,
-      "trend_label": "직전 동일기간보다 4건 감소",
+      "count": 26,
+      "trend_label": "직전 동일기간보다 5건 감소",
       "analyzed_count": 15,
       "summary": {
         "points": [
           {
             "label": "사업·공급",
-            "text": "정비 추진·계획 수립·공급 확대 흐름이 9건의 자료에서 확인됐다.",
-            "evidence_count": 9
+            "text": "정비 추진·계획 수립·공급 확대 흐름이 8건의 자료에서 확인됐다.",
+            "evidence_count": 8
           },
           {
             "label": "공간·생활권",
@@ -346,8 +351,8 @@
     },
     {
       "topic": "컴팩트시티·미래도시",
-      "count": 23,
-      "trend_label": "직전 동일기간보다 56건 감소",
+      "count": 20,
+      "trend_label": "직전 동일기간보다 63건 감소",
       "analyzed_count": 15,
       "summary": {
         "points": [
@@ -368,6 +373,12 @@
           "date": "2026-10-28"
         },
         {
+          "title": "민경선 고양특례시장, 한국공항공사와 UAM 협력방안 논의",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBFd1FGM0Y3OTBNV1JrejlGeWs5VXptUTVhVS1mRkhvYUNoNjM1aW5XT21RY01nZ290OGFVaVp6TXpYVXROeURKREJiZ2lONzhyc0FfYTJIUFRSdzRYRmRpdnRoQjVzYm9xSDRFaDNRalViaU0?oc=5",
+          "source": "대한경제",
+          "date": "2026-10-28"
+        },
+        {
           "title": "고양시, 한국공항공사와 UAM 협력 논의",
           "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5hRkNiME9mODZPeW1qTlYyTDJvOVFBcmNxMWdPdXFxeUhkbHRVQlQyZ1ByejlRa3ZkeHpLMlU0a2l3LWhlLTFoMUpoZjhzek9OOEI4SWFNVXk2NG9kVXB2X0FGclk1SGp5aGU4?oc=5",
           "source": "BBS불교방송",
@@ -378,19 +389,13 @@
           "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1ITzZWUGVRbExFZHNiLWlhZDlwTDdVZi1jYzB4cVpuaVgycEhrSUViWEdRcXhoX1RFYnBfekxiMTBRZUd0Zm9YekVLU21sUTNQRWptMVBjSEliT1hvaUIxUzFqRQ?oc=5",
           "source": "조세금융신문",
           "date": "2026-10-27"
-        },
-        {
-          "title": "민경선 고양시장 “킨텍스~김포공항 잇는 UAM 교통망 구축”",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9YUHdXZFJ2Nmh5MkJCNGd1YkxhdkpfNktsZ0dOLVA0U21kRjh0UGNIYmhCcGU4ZHN6ZlEtZksxVVRUX0VFR3JsRjQxSEEtdFo1WHB2NWpvbVo4MHFrS2VXdA?oc=5",
-          "source": "아시아경제",
-          "date": "2026-10-27"
         }
       ]
     },
     {
       "topic": "도시안전·재난 대응",
       "count": 9,
-      "trend_label": "직전 동일기간보다 3건 감소",
+      "trend_label": "직전 동일기간보다 1건 감소",
       "analyzed_count": 9,
       "summary": {
         "points": [
@@ -432,14 +437,14 @@
     },
     {
       "topic": "지역소멸·균형발전",
-      "count": 8,
+      "count": 6,
       "trend_label": "직전 동일기간보다 15건 감소",
-      "analyzed_count": 8,
+      "analyzed_count": 6,
       "summary": {
         "points": [
           {
             "label": "공간·생활권",
-            "text": "빈집 관리·지역소멸·인구 변화가 3건의 자료에서 공간 변화의 핵심으로 나타났다.",
+            "text": "지역소멸·빈집 관리·인구 변화가 3건의 자료에서 공간 변화의 핵심으로 나타났다.",
             "evidence_count": 3
           },
           {
@@ -482,14 +487,14 @@
   "monthly": [
     {
       "topic": "재건축·재개발·정비사업",
-      "count": 1424,
-      "trend_label": "직전 동일기간보다 162건 증가",
+      "count": 1336,
+      "trend_label": "직전 동일기간보다 10건 증가",
       "analyzed_count": 15,
       "summary": {
         "points": [
           {
             "label": "사업·공급",
-            "text": "정비 추진·사업 추진·계획 수립 흐름이 11건의 자료에서 확인됐다.",
+            "text": "정비 추진·계획 수립·사업 추진 흐름이 11건의 자료에서 확인됐다.",
             "evidence_count": 11
           },
           {
@@ -530,15 +535,20 @@
     },
     {
       "topic": "철도·광역교통·역세권",
-      "count": 1157,
-      "trend_label": "직전 동일기간보다 177건 증가",
+      "count": 1122,
+      "trend_label": "직전 동일기간보다 129건 증가",
       "analyzed_count": 15,
       "summary": {
         "points": [
           {
             "label": "공간·생활권",
-            "text": "철도축 변화·역세권 재편·교통체계 변화가 15건의 자료에서 공간 변화의 핵심으로 나타났다.",
+            "text": "철도축 변화·교통체계 변화·역세권 재편가 15건의 자료에서 공간 변화의 핵심으로 나타났다.",
             "evidence_count": 15
+          },
+          {
+            "label": "갈등·리스크",
+            "text": "사업 지연·정책·사업 논란 위험이 2건의 자료에서 반복적으로 제기됐다.",
+            "evidence_count": 2
           }
         ],
         "note": "",
@@ -573,8 +583,8 @@
     },
     {
       "topic": "도시재생·빈집·원도심",
-      "count": 891,
-      "trend_label": "직전 동일기간보다 6건 증가",
+      "count": 861,
+      "trend_label": "직전 동일기간보다 44건 감소",
       "analyzed_count": 15,
       "summary": {
         "points": [
@@ -621,8 +631,8 @@
     },
     {
       "topic": "국토계획·용도지역·규제",
-      "count": 864,
-      "trend_label": "직전 동일기간보다 33건 증가",
+      "count": 812,
+      "trend_label": "직전 동일기간보다 54건 감소",
       "analyzed_count": 15,
       "summary": {
         "points": [
@@ -638,7 +648,7 @@
           },
           {
             "label": "정책·제도",
-            "text": "구역·사업 지정·새 제도 도입·규제 완화 관련 움직임이 3건의 자료에서 반복됐다.",
+            "text": "구역·사업 지정·규제 완화·새 제도 도입 관련 움직임이 3건의 자료에서 반복됐다.",
             "evidence_count": 3
           }
         ],
@@ -674,8 +684,8 @@
     },
     {
       "topic": "상권·골목경제·생활권",
-      "count": 598,
-      "trend_label": "직전 동일기간보다 45건 증가",
+      "count": 582,
+      "trend_label": "직전 동일기간보다 20건 증가",
       "analyzed_count": 15,
       "summary": {
         "points": [
@@ -717,8 +727,8 @@
     },
     {
       "topic": "주택공급·공공주택",
-      "count": 195,
-      "trend_label": "직전 동일기간보다 44건 증가",
+      "count": 192,
+      "trend_label": "직전 동일기간보다 39건 증가",
       "analyzed_count": 15,
       "summary": {
         "points": [
@@ -770,7 +780,7 @@
     },
     {
       "topic": "토지·부동산시장",
-      "count": 153,
+      "count": 151,
       "trend_label": "직전 동일기간보다 19건 감소",
       "analyzed_count": 15,
       "summary": {
@@ -824,7 +834,7 @@
     {
       "topic": "컴팩트시티·미래도시",
       "count": 120,
-      "trend_label": "직전 동일기간보다 2건 감소",
+      "trend_label": "직전 동일기간보다 3건 감소",
       "analyzed_count": 15,
       "summary": {
         "points": [
@@ -845,6 +855,12 @@
           "date": "2026-10-28"
         },
         {
+          "title": "민경선 고양특례시장, 한국공항공사와 UAM 협력방안 논의",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBFd1FGM0Y3OTBNV1JrejlGeWs5VXptUTVhVS1mRkhvYUNoNjM1aW5XT21RY01nZ290OGFVaVp6TXpYVXROeURKREJiZ2lONzhyc0FfYTJIUFRSdzRYRmRpdnRoQjVzYm9xSDRFaDNRalViaU0?oc=5",
+          "source": "대한경제",
+          "date": "2026-10-28"
+        },
+        {
           "title": "고양시, 한국공항공사와 UAM 협력 논의",
           "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5hRkNiME9mODZPeW1qTlYyTDJvOVFBcmNxMWdPdXFxeUhkbHRVQlQyZ1ByejlRa3ZkeHpLMlU0a2l3LWhlLTFoMUpoZjhzek9OOEI4SWFNVXk2NG9kVXB2X0FGclk1SGp5aGU4?oc=5",
           "source": "BBS불교방송",
@@ -855,25 +871,19 @@
           "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1ITzZWUGVRbExFZHNiLWlhZDlwTDdVZi1jYzB4cVpuaVgycEhrSUViWEdRcXhoX1RFYnBfekxiMTBRZUd0Zm9YekVLU21sUTNQRWptMVBjSEliT1hvaUIxUzFqRQ?oc=5",
           "source": "조세금융신문",
           "date": "2026-10-27"
-        },
-        {
-          "title": "민경선 고양시장 “킨텍스~김포공항 잇는 UAM 교통망 구축”",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9YUHdXZFJ2Nmh5MkJCNGd1YkxhdkpfNktsZ0dOLVA0U21kRjh0UGNIYmhCcGU4ZHN6ZlEtZksxVVRUX0VFR3JsRjQxSEEtdFo1WHB2NWpvbVo4MHFrS2VXdA?oc=5",
-          "source": "아시아경제",
-          "date": "2026-10-27"
         }
       ]
     },
     {
       "topic": "지역소멸·균형발전",
-      "count": 88,
-      "trend_label": "직전 동일기간보다 5건 감소",
+      "count": 89,
+      "trend_label": "직전 동일기간보다 4건 감소",
       "analyzed_count": 15,
       "summary": {
         "points": [
           {
             "label": "공간·생활권",
-            "text": "인구 변화·빈집 관리·지역소멸가 7건의 자료에서 공간 변화의 핵심으로 나타났다.",
+            "text": "인구 변화·지역소멸·빈집 관리가 7건의 자료에서 공간 변화의 핵심으로 나타났다.",
             "evidence_count": 7
           },
           {
@@ -914,19 +924,19 @@
     },
     {
       "topic": "공업지역·산업단지 제도",
-      "count": 48,
-      "trend_label": "직전 동일기간보다 84건 감소",
+      "count": 46,
+      "trend_label": "직전 동일기간보다 87건 감소",
       "analyzed_count": 15,
       "summary": {
         "points": [
           {
             "label": "공간·생활권",
-            "text": "산업입지 변화·역세권 재편·개발밀도 변화가 15건의 자료에서 공간 변화의 핵심으로 나타났다.",
+            "text": "산업입지 변화·역세권 재편가 15건의 자료에서 공간 변화의 핵심으로 나타났다.",
             "evidence_count": 15
           },
           {
             "label": "사업·공급",
-            "text": "기능·기업 유치·사업 준공·공급 확대 흐름이 13건의 자료에서 확인됐다.",
+            "text": "기능·기업 유치·공급 확대·사업 준공 흐름이 13건의 자료에서 확인됐다.",
             "evidence_count": 13
           }
         ],
@@ -941,12 +951,6 @@
           "date": "2026-10-14"
         },
         {
-          "title": "염창우성1·2차·삼천리 재건축 탄력…준공업지역 용적률 400% 적용",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB0Tkt5d2pTekx5cnM0UXBBUWpLcDFEVVQwUlN6UnkwLWFDdHhrc01ZVUFQVWZ3VUppRWQxUERidmlZVWFDcEZ2eVlXRU04UGFPMlMxdEFTQl9JTGlnX1lWbERGUWUxWFlR?oc=5",
-          "source": "디벨로퍼뉴스",
-          "date": "2026-09-29"
-        },
-        {
           "title": "청라 로봇랜드, IHP 도시첨단산업단지에 ‘AI 커넥티드 모빌리티 사이언스파크’ 조성",
           "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9mVWdUTnFLWUdXU1lDYTFpUTFoVG5sb1BLY2pzWkJNbzIzanFLWHZkZXhBYV9sTTdZdXpCblVuV3c5eURERkxQbEYtVGJ0YldkczN0aEpFZVpBcnpsTHFyaFJrWmRHUHlYUS1OdQ?oc=5",
           "source": "인천in 시민의 손으로 만드는 인터넷신문",
@@ -957,6 +961,12 @@
           "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBJQzNJVl96NDhXNEVGWFYtTXlBUFp6dW9NRmtxSU1qMUlocTVyNGpkWnBMRmhTZlhMMXhLUUNZbFZHZ1dPSk9IWEUxNTh6bkZyd2kyckh4UUIyQ0V1S2tIYnJVLThDYjdDZTBDMzhR?oc=5",
           "source": "중부일보",
           "date": "2026-10-22"
+        },
+        {
+          "title": "남양주시, LH와 왕숙 도시첨단산업단지 기업 유치 활성화 방안 논의",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBnSHZSSUdmUXVHWEpzT2paWWpFYU9SbUxTYjR5OVVRc2ZxcWpZNTRUaFc5M1lQaDdoelJMM2UwQkpodkktaDhsZkxzZHJkZjdwNkpudXMyM3A0SXQweXVORg?oc=5",
+          "source": "메트로신문",
+          "date": "2026-10-22"
         }
       ]
     }
@@ -964,7 +974,7 @@
   "yearly": [
     {
       "topic": "재건축·재개발·정비사업",
-      "count": 6678,
+      "count": 6685,
       "trend_label": "최근 1년 누적",
       "analyzed_count": 15,
       "summary": {
@@ -1012,7 +1022,7 @@
     },
     {
       "topic": "철도·광역교통·역세권",
-      "count": 4853,
+      "count": 4862,
       "trend_label": "최근 1년 누적",
       "analyzed_count": 15,
       "summary": {
@@ -1060,7 +1070,7 @@
     },
     {
       "topic": "국토계획·용도지역·규제",
-      "count": 3874,
+      "count": 3880,
       "trend_label": "최근 1년 누적",
       "analyzed_count": 15,
       "summary": {
@@ -1113,7 +1123,7 @@
     },
     {
       "topic": "도시재생·빈집·원도심",
-      "count": 3806,
+      "count": 3813,
       "trend_label": "최근 1년 누적",
       "analyzed_count": 15,
       "summary": {
@@ -1161,7 +1171,7 @@
     },
     {
       "topic": "상권·골목경제·생활권",
-      "count": 2352,
+      "count": 2361,
       "trend_label": "최근 1년 누적",
       "analyzed_count": 15,
       "summary": {
@@ -1204,7 +1214,7 @@
     },
     {
       "topic": "주택공급·공공주택",
-      "count": 982,
+      "count": 983,
       "trend_label": "최근 1년 누적",
       "analyzed_count": 15,
       "summary": {
@@ -1257,7 +1267,7 @@
     },
     {
       "topic": "토지·부동산시장",
-      "count": 815,
+      "count": 819,
       "trend_label": "최근 1년 누적",
       "analyzed_count": 15,
       "summary": {
@@ -1305,7 +1315,7 @@
     },
     {
       "topic": "컴팩트시티·미래도시",
-      "count": 778,
+      "count": 779,
       "trend_label": "최근 1년 누적",
       "analyzed_count": 15,
       "summary": {
@@ -1327,6 +1337,12 @@
           "date": "2026-10-28"
         },
         {
+          "title": "민경선 고양특례시장, 한국공항공사와 UAM 협력방안 논의",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBFd1FGM0Y3OTBNV1JrejlGeWs5VXptUTVhVS1mRkhvYUNoNjM1aW5XT21RY01nZ290OGFVaVp6TXpYVXROeURKREJiZ2lONzhyc0FfYTJIUFRSdzRYRmRpdnRoQjVzYm9xSDRFaDNRalViaU0?oc=5",
+          "source": "대한경제",
+          "date": "2026-10-28"
+        },
+        {
           "title": "고양시, 한국공항공사와 UAM 협력 논의",
           "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5hRkNiME9mODZPeW1qTlYyTDJvOVFBcmNxMWdPdXFxeUhkbHRVQlQyZ1ByejlRa3ZkeHpLMlU0a2l3LWhlLTFoMUpoZjhzek9OOEI4SWFNVXk2NG9kVXB2X0FGclk1SGp5aGU4?oc=5",
           "source": "BBS불교방송",
@@ -1336,12 +1352,6 @@
           "title": "'서울 하늘길 열린다'…박중화 서울시의원, ‘UAM 체계 구축 조례안’ 발의",
           "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1ITzZWUGVRbExFZHNiLWlhZDlwTDdVZi1jYzB4cVpuaVgycEhrSUViWEdRcXhoX1RFYnBfekxiMTBRZUd0Zm9YekVLU21sUTNQRWptMVBjSEliT1hvaUIxUzFqRQ?oc=5",
           "source": "조세금융신문",
-          "date": "2026-10-27"
-        },
-        {
-          "title": "민경선 고양시장 “킨텍스~김포공항 잇는 UAM 교통망 구축”",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9YUHdXZFJ2Nmh5MkJCNGd1YkxhdkpfNktsZ0dOLVA0U21kRjh0UGNIYmhCcGU4ZHN6ZlEtZksxVVRUX0VFR3JsRjQxSEEtdFo1WHB2NWpvbVo4MHFrS2VXdA?oc=5",
-          "source": "아시아경제",
           "date": "2026-10-27"
         }
       ]
@@ -1401,7 +1411,7 @@
     },
     {
       "topic": "지역소멸·균형발전",
-      "count": 441,
+      "count": 442,
       "trend_label": "최근 1년 누적",
       "analyzed_count": 15,
       "summary": {
