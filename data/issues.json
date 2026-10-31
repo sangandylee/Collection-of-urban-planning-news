@@ -1,17 +1,17 @@
 {
-  "updated_at": "2026-10-31 18:05 KST",
+  "updated_at": "2026-11-01 00:28 KST",
   "coverage": {
-    "items": 25836,
-    "oldest": "2025-11-01",
+    "items": 25846,
+    "oldest": "2025-11-02",
     "newest": "2026-10-31",
-    "days_covered": 365,
+    "days_covered": 364,
     "complete": true
   },
   "weekly": [
     {
       "topic": "재건축·재개발·정비사업",
-      "count": 408,
-      "trend_label": "직전 동일기간보다 103건 증가",
+      "count": 393,
+      "trend_label": "직전 동일기간보다 85건 증가",
       "analyzed_count": 15,
       "summary": {
         "points": [
@@ -22,7 +22,7 @@
           },
           {
             "label": "정책·제도",
-            "text": "제도 시행·구역·사업 지정·지원 확대 관련 움직임이 6건의 자료에서 반복됐다.",
+            "text": "제도 시행·구역·사업 지정·관리 강화 관련 움직임이 6건의 자료에서 반복됐다.",
             "evidence_count": 6
           }
         ],
@@ -58,8 +58,8 @@
     },
     {
       "topic": "국토계획·용도지역·규제",
-      "count": 269,
-      "trend_label": "직전 동일기간보다 54건 증가",
+      "count": 260,
+      "trend_label": "직전 동일기간보다 43건 증가",
       "analyzed_count": 15,
       "summary": {
         "points": [
@@ -111,8 +111,8 @@
     },
     {
       "topic": "철도·광역교통·역세권",
-      "count": 235,
-      "trend_label": "직전 동일기간보다 55건 감소",
+      "count": 231,
+      "trend_label": "직전 동일기간보다 45건 감소",
       "analyzed_count": 15,
       "summary": {
         "points": [
@@ -137,6 +137,12 @@
       },
       "examples": [
         {
+          "title": "대전 오정역세권 7조 5천억 개발구상…철도지하화 연계 검토",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBoUkxCYlpKQVNITFNCb2xManlkOFM4RUl5bEZWOVVZblBTT1BPOEtnTFZ2elg2N1I3cVR0dGo4TGt5OXFZNVdXenFaVHlTaXhhaW9GUw?oc=5",
+          "source": "타임뉴스",
+          "date": "2026-10-31"
+        },
+        {
           "title": "빈스피드, 호치민시 ‘벤탄-껀저’ 도시철도 건설 본격화…2029년 개통 목표",
           "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5sX0lydDlBbkdmV3FxN2otUFFxX29MU3JfaDk3SFU3ZWtxZ0NoR1dVZWNOMGNvUjVkSU5KWkVzM2VKaGxEWmJwZXRTMjdPeTdWSWJhTkJqQkFieUI3dF9YRHRUTGR6Uk14bmhZRQ?oc=5",
           "source": "인사이드비나",
@@ -153,19 +159,13 @@
           "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBETl9INEdHV3hweXE5SlJSMTY3U3d3bDY4UkdGUFhCR01MOEVRYWwzclJrOHplQXppZFdMWkZkNkFadnhybXpUNVl2bTdxejc0SzBEdHhNVWQyQQ?oc=5",
           "source": "브릿지경제",
           "date": "2026-10-30"
-        },
-        {
-          "title": "대구교통공사, 19개 기관과 도시철도 복합재난 대응훈련",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA5NDVjU2hkRHR4MVVCaHZIbVZ5eXg5MWxPdElRWFBPY1NmVDB3RVpFSU1BaTgtLXluTG1xdVhlZ2pHTlRFTm9MMDRSY2U2UldRT3REa01IdTBOdnFqMThjNTNDeHQ?oc=5",
-          "source": "매일일보",
-          "date": "2026-10-30"
         }
       ]
     },
     {
       "topic": "도시재생·빈집·원도심",
-      "count": 207,
-      "trend_label": "직전 동일기간보다 23건 증가",
+      "count": 198,
+      "trend_label": "직전 동일기간보다 19건 증가",
       "analyzed_count": 15,
       "summary": {
         "points": [
@@ -207,8 +207,8 @@
     },
     {
       "topic": "상권·골목경제·생활권",
-      "count": 199,
-      "trend_label": "직전 동일기간보다 67건 증가",
+      "count": 189,
+      "trend_label": "직전 동일기간보다 60건 증가",
       "analyzed_count": 15,
       "summary": {
         "points": [
@@ -250,15 +250,15 @@
     },
     {
       "topic": "토지·부동산시장",
-      "count": 117,
-      "trend_label": "직전 동일기간보다 84건 증가",
+      "count": 113,
+      "trend_label": "직전 동일기간보다 78건 증가",
       "analyzed_count": 15,
       "summary": {
         "points": [
           {
             "label": "시장·비용",
-            "text": "지가 변화 문제가 8건의 자료에서 주요 관심사로 나타났다.",
-            "evidence_count": 8
+            "text": "지가 변화 문제가 7건의 자료에서 주요 관심사로 나타났다.",
+            "evidence_count": 7
           },
           {
             "label": "사업·공급",
@@ -282,6 +282,12 @@
           "date": "2026-10-26"
         },
         {
+          "title": "“재건축 소식에 집값 좀 뛰었거든요”…강남 아파트로 눈돌리는 분당 주민들",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0zQmFHX0RCQWNScE1TWXR1ZlF4QU5BZFlDQUVEbFpRYkVRYlNhRGh2VlIzZHNTYXdiTldhV0ZoYmZIQ3VXTEhMZ2ZyTGE3Y1puYnNsQkJuc2Q?oc=5",
+          "source": "매일경제",
+          "date": "2026-10-31"
+        },
+        {
           "title": "보령 2,170필지 공시지가 확인하세요…이의신청 11월 27일까지",
           "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9xS3JGSDlXQmlmWGNtaFJqV3pKNDJfR1RlM0xGYXRWTnE0S3hqX3JCVmRnNV9hZFNZTTQ4TkR2X0drLVk2dlFjak5ULVpWMS1QSmJ2NlNyYUZFdjVMcFE?oc=5",
           "source": "데일리환경",
@@ -292,25 +298,19 @@
           "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBJMzlqbWg0VmFRZFNlR3l3cmgtaUtmMjJVNWJvRm1WanZpdi1mdUVrM1RDYi1VcHFoaDFUcGRUcWlHbFpHX21KRVozc0NGNjZwVUhPNTNodk4xYkFrTTFDWmUyX3RVenFJOFNJSi05SHZKZw?oc=5",
           "source": "더코리아",
           "date": "2026-10-31"
-        },
-        {
-          "title": "서울시, 洪장관 발언 반박…“정비사업 용적률 1.2배 이미 건의…정부가 나서야” [부동산360]",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE16V0d2RzRNUHNKTGtnUmZab1BDeC1CMUY3Q0p5UUc3cVhhcnJEa216c2JQTHJLb2RIVFhJTGhrQlRfRjMzZ19VSFZIYjdlbEVBeTVIOFdB?oc=5",
-          "source": "헤럴드경제",
-          "date": "2026-10-30"
         }
       ]
     },
     {
       "topic": "주택공급·공공주택",
       "count": 45,
-      "trend_label": "직전 동일기간보다 17건 증가",
+      "trend_label": "직전 동일기간보다 19건 증가",
       "analyzed_count": 15,
       "summary": {
         "points": [
           {
             "label": "사업·공급",
-            "text": "공급 확대·정비 추진·사업 착공 흐름이 8건의 자료에서 확인됐다.",
+            "text": "공급 확대·사업 착공·정비 추진 흐름이 8건의 자료에서 확인됐다.",
             "evidence_count": 8
           },
           {
@@ -356,8 +356,8 @@
     },
     {
       "topic": "컴팩트시티·미래도시",
-      "count": 26,
-      "trend_label": "직전 동일기간보다 57건 감소",
+      "count": 25,
+      "trend_label": "직전 동일기간보다 59건 감소",
       "analyzed_count": 15,
       "summary": {
         "points": [
@@ -371,6 +371,12 @@
         "topic": "컴팩트시티·미래도시"
       },
       "examples": [
+        {
+          "title": "경북테크노파크, 구미서 ‘UAM 미래인재’ 진로 탐색의 장 마련",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5qWFNNVmR2VzRqMUdRU0RzcTV4T2JrQTJpMGlYR0dQV2hyS1dkeTdDeFJQNnNkQno4aGxSV1pfeXRnZU5TRXZGTUF2SVlqWTB1d21lYVBCaE1ZOERSRXB6VWIxWWhtSV9xU0U1ei1KSDd5eXBxckYtNGhB0gF_QVVfeXFMTWtKY3lnd1ZnUlZZSE15TGQzYW5fQ2k3TVhEQmJGVzRURmp1QlYyblVfV09NRmtVSWwtcTJWd3RQc21FZ3d2cnA4WHNfS2gtdjJpVGdTSldNSDZzQXJHMXdtUllTdi1uMVRYZ1JqaE1FUzRjckNGbUUzakowdVhmRQ?oc=5",
+          "source": "뉴데일리 대구경북",
+          "date": "2026-10-31"
+        },
         {
           "title": "\"용인, UAM으로 이동시간 단축·지역 접근성 높여야\"",
           "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9qQW1QZ2lla2RYb3hMYnFXc2ZDeVkzeGhJQ2FkdEdjM3JwQXJDa1BFODVEZ0V6N3B3LW92alMxemZoWWRCZ1NtRUd6TzlXR1hfeDFralo4d091ZWNtTFoyYkRtVW5sZjRHYXRCUTZ0RFZaNUN1ZTlSNNIBeEFVX3lxTE9qQW1QZ2lla2RYb3hMYnFXc2ZDeVkzeGhJQ2FkdEdjM3JwQXJDa1BFODVEZ0V6N3B3LW92alMxemZoWWRCZ1NtRUd6TzlXR1hfeDFralo4d091ZWNtTFoyYkRtVW5sZjRHYXRCUTZ0RFZaNUN1ZTlSNA?oc=5",
@@ -388,12 +394,6 @@
           "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1qT0taWF92ZHdxZV9MclNETWJJaXZ4QTFua0hSblRrRWNFWmtWZ3J1OWlMQUxPbzBhNHQxRVp0R1JxQUxZakp5ZzNqbGpUXzhrV2FjYzN4QzEzbURTZnZONVYyVmFPV0dYaTJ6ejY1ZjQ?oc=5",
           "source": "인천투데이",
           "date": "2026-10-29"
-        },
-        {
-          "title": "한국UAM드론협회, UAM드론 지상 인프라 구체적 표준·운영 기준 제시",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1kc3JqSlVCX1BMNUhCWWhxd0FLR25WeXg4eVVMSUhMTWswSk8za2hNc2R0R1FDUnhfOHg5TXNoT0k4VTMzTHZUS3pmTWozSkQ4Tlh6cm04N2RzUUVEb3R2TjktNXJ6VE45OHRDddIBcEFVX3lxTE94dFE4dW9CdTdKenc3bEttdjluckZ6UEFqSVRrZFAyTmstb1M2YWNEYzJNZzJCT2FUVVRRSlU1TmpMRVNhY0xaU0c2VDJmenEtWkg2ZlUyM3h4SVpvVWNXbnhSRWJJZktpc2Y2TXhfZGI?oc=5",
-          "source": "에너지플랫폼뉴스",
-          "date": "2026-10-28"
         }
       ]
     },
@@ -437,7 +437,7 @@
     {
       "topic": "지역소멸·균형발전",
       "count": 10,
-      "trend_label": "직전 동일기간보다 3건 감소",
+      "trend_label": "직전 동일기간과 동일",
       "analyzed_count": 10,
       "summary": {
         "points": [
@@ -486,8 +486,8 @@
   "monthly": [
     {
       "topic": "재건축·재개발·정비사업",
-      "count": 1341,
-      "trend_label": "직전 동일기간보다 1건 감소",
+      "count": 1311,
+      "trend_label": "직전 동일기간보다 7건 증가",
       "analyzed_count": 15,
       "summary": {
         "points": [
@@ -534,8 +534,8 @@
     },
     {
       "topic": "철도·광역교통·역세권",
-      "count": 1102,
-      "trend_label": "직전 동일기간보다 139건 증가",
+      "count": 1049,
+      "trend_label": "직전 동일기간보다 79건 증가",
       "analyzed_count": 15,
       "summary": {
         "points": [
@@ -560,6 +560,12 @@
       },
       "examples": [
         {
+          "title": "대전 오정역세권 7조 5천억 개발구상…철도지하화 연계 검토",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBoUkxCYlpKQVNITFNCb2xManlkOFM4RUl5bEZWOVVZblBTT1BPOEtnTFZ2elg2N1I3cVR0dGo4TGt5OXFZNVdXenFaVHlTaXhhaW9GUw?oc=5",
+          "source": "타임뉴스",
+          "date": "2026-10-31"
+        },
+        {
           "title": "지티엑스(GTX) 문화공원 조성 본격화 수도권광역급행철도(GTX) 역세권 상징물(랜드마크) 만든다",
           "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBQZnd1T1d1UDdwQXJwUWk4cWdxNF9lX2U3Mk00dGhfS2NQbFJmQm0zOHpqVlJCVlUwWThKTVVtajJWZ080SFd5d2k0Mndrc0pDa3BXMXdFZG1IeEh5aEVjbWRRZVo1ai1VUFpj?oc=5",
           "source": "일간투데이",
@@ -576,67 +582,13 @@
           "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9CTW9QZG9mRkNadWVCWlY2U3oxNnV0enI2NlNLZ1JvdnplR0pHUEJ1SHpicGlyOV91UWFSSGYtNl9OWUFXN1U1bGE4dHVlc3J5SjZoS3poOEo2X2lZek16V2FaTUJRNWxFdnctcWtycw?oc=5",
           "source": "중부일보",
           "date": "2026-10-13"
-        },
-        {
-          "title": "인천 다시 ’철도 도시’로…GTX 및 7개 도시철도 미래 연다",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE12bjFHM3Q5RUNOUG4zMkpMWkI3R2hSaTFGVXFxSnV3T0hFODFFQVFpcWpPdkYyVE5hUWNrZlFYYVVSajFLem5sNVF2QmRWQm8?oc=5",
-          "source": "v.daum.net",
-          "date": "2026-10-06"
-        }
-      ]
-    },
-    {
-      "topic": "도시재생·빈집·원도심",
-      "count": 839,
-      "trend_label": "직전 동일기간보다 67건 감소",
-      "analyzed_count": 15,
-      "summary": {
-        "points": [
-          {
-            "label": "공간·생활권",
-            "text": "빈집 관리·인구 변화·상권 변화가 4건의 자료에서 공간 변화의 핵심으로 나타났다.",
-            "evidence_count": 4
-          },
-          {
-            "label": "정책·제도",
-            "text": "지원 확대·사업 공모 관련 움직임이 2건의 자료에서 반복됐다.",
-            "evidence_count": 2
-          }
-        ],
-        "note": "",
-        "topic": "도시재생·빈집·원도심"
-      },
-      "examples": [
-        {
-          "title": "강양원 남원교육장 \"구도심 빈집을 유학 가족의 집으로\"… 거주는 시내, 통학은 농촌학교로 제안",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE53aDZkV0RIRnk2ZFppdVlPYk9qal8ycUVmX1J3NURxckc1bF9BS045eGZfQjM4QkVRakdEbUwya0RZOWpqZHc3SGFJRUNNQXI4aHcyeTQ2Qy1XbmdqbTNV?oc=5",
-          "source": "전북미래교육신문",
-          "date": "2026-10-30"
-        },
-        {
-          "title": "빈집을 공익공간으로…'민·관·학 참여' 울산 동구 도시재생 주목",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9iNFlORUdjb1d2NHo0RUlwWTVxT3VuY1NyYm5Va2pUTElCSjB3U3Z5bjk3cTd0YU03aTh3U0hBeG9PWm8zOS1Sd2IwOHZIU1Y4dEE?oc=5",
-          "source": "뉴스1",
-          "date": "2026-10-30"
-        },
-        {
-          "title": "익산 원도심 활성화…공실·국공유지 3차원 공간 구축 시연회",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9ESkhrQjVOMmtIX1lLQmFBdm5rdHpnWS05eXVPYThXWV8zWUlqWHdOYWdPYlN1cDBCcTBJcEdBVU9qMENxeXZta2dlalRad29oQXdOOWk4TmNjd25LanNSNtIBYEFVX3lxTE9ESkhrQjVOMmtIX1lLQmFBdm5rdHpnWS05eXVPYThXWV8zWUlqWHdOYWdPYlN1cDBCcTBJcEdBVU9qMENxeXZta2dlalRad29oQXdOOWk4TmNjd25LanNSNg?oc=5",
-          "source": "연합뉴스",
-          "date": "2026-10-27"
-        },
-        {
-          "title": "원주시, 원도심 활성화 방안 논의…유휴공간 활용·청년 창업 지원 검토",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9lRDZIQzRuTTNBQzdRSUdfQ1FKNXlyUVhSaGFEZVVRNFFhZHFyVV9nRk9wNS1XV3h1WG1RSmxLSHJTTThqb3hPQ3NOV1gxTXJHOTlNQ2pKUkJzTzJvbF9SU2l2MUJzQm1adzZPSTI5c2o?oc=5",
-          "source": "신아일보",
-          "date": "2026-10-27"
         }
       ]
     },
     {
       "topic": "국토계획·용도지역·규제",
-      "count": 836,
-      "trend_label": "직전 동일기간보다 33건 감소",
+      "count": 817,
+      "trend_label": "직전 동일기간보다 18건 감소",
       "analyzed_count": 15,
       "summary": {
         "points": [
@@ -682,9 +634,57 @@
       ]
     },
     {
+      "topic": "도시재생·빈집·원도심",
+      "count": 814,
+      "trend_label": "직전 동일기간보다 95건 감소",
+      "analyzed_count": 15,
+      "summary": {
+        "points": [
+          {
+            "label": "공간·생활권",
+            "text": "빈집 관리·인구 변화·상권 변화가 4건의 자료에서 공간 변화의 핵심으로 나타났다.",
+            "evidence_count": 4
+          },
+          {
+            "label": "정책·제도",
+            "text": "지원 확대·사업 공모 관련 움직임이 2건의 자료에서 반복됐다.",
+            "evidence_count": 2
+          }
+        ],
+        "note": "",
+        "topic": "도시재생·빈집·원도심"
+      },
+      "examples": [
+        {
+          "title": "강양원 남원교육장 \"구도심 빈집을 유학 가족의 집으로\"… 거주는 시내, 통학은 농촌학교로 제안",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE53aDZkV0RIRnk2ZFppdVlPYk9qal8ycUVmX1J3NURxckc1bF9BS045eGZfQjM4QkVRakdEbUwya0RZOWpqZHc3SGFJRUNNQXI4aHcyeTQ2Qy1XbmdqbTNV?oc=5",
+          "source": "전북미래교육신문",
+          "date": "2026-10-30"
+        },
+        {
+          "title": "빈집을 공익공간으로…'민·관·학 참여' 울산 동구 도시재생 주목",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9iNFlORUdjb1d2NHo0RUlwWTVxT3VuY1NyYm5Va2pUTElCSjB3U3Z5bjk3cTd0YU03aTh3U0hBeG9PWm8zOS1Sd2IwOHZIU1Y4dEE?oc=5",
+          "source": "뉴스1",
+          "date": "2026-10-30"
+        },
+        {
+          "title": "익산 원도심 활성화…공실·국공유지 3차원 공간 구축 시연회",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9ESkhrQjVOMmtIX1lLQmFBdm5rdHpnWS05eXVPYThXWV8zWUlqWHdOYWdPYlN1cDBCcTBJcEdBVU9qMENxeXZta2dlalRad29oQXdOOWk4TmNjd25LanNSNtIBYEFVX3lxTE9ESkhrQjVOMmtIX1lLQmFBdm5rdHpnWS05eXVPYThXWV8zWUlqWHdOYWdPYlN1cDBCcTBJcEdBVU9qMENxeXZta2dlalRad29oQXdOOWk4TmNjd25LanNSNg?oc=5",
+          "source": "연합뉴스",
+          "date": "2026-10-27"
+        },
+        {
+          "title": "원주시, 원도심 활성화 방안 논의…유휴공간 활용·청년 창업 지원 검토",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9lRDZIQzRuTTNBQzdRSUdfQ1FKNXlyUVhSaGFEZVVRNFFhZHFyVV9nRk9wNS1XV3h1WG1RSmxLSHJTTThqb3hPQ3NOV1gxTXJHOTlNQ2pKUkJzTzJvbF9SU2l2MUJzQm1adzZPSTI5c2o?oc=5",
+          "source": "신아일보",
+          "date": "2026-10-27"
+        }
+      ]
+    },
+    {
       "topic": "상권·골목경제·생활권",
-      "count": 578,
-      "trend_label": "직전 동일기간보다 5건 감소",
+      "count": 562,
+      "trend_label": "직전 동일기간보다 12건 감소",
       "analyzed_count": 15,
       "summary": {
         "points": [
@@ -726,7 +726,7 @@
     },
     {
       "topic": "토지·부동산시장",
-      "count": 205,
+      "count": 204,
       "trend_label": "직전 동일기간보다 73건 증가",
       "analyzed_count": 15,
       "summary": {
@@ -738,8 +738,8 @@
           },
           {
             "label": "공간·생활권",
-            "text": "빈집 관리·개발밀도 변화·역세권 재편가 6건의 자료에서 공간 변화의 핵심으로 나타났다.",
-            "evidence_count": 6
+            "text": "빈집 관리·역세권 재편·개발밀도 변화가 5건의 자료에서 공간 변화의 핵심으로 나타났다.",
+            "evidence_count": 5
           },
           {
             "label": "사업·공급",
@@ -779,8 +779,8 @@
     },
     {
       "topic": "주택공급·공공주택",
-      "count": 180,
-      "trend_label": "직전 동일기간보다 5건 증가",
+      "count": 171,
+      "trend_label": "직전 동일기간보다 8건 감소",
       "analyzed_count": 15,
       "summary": {
         "points": [
@@ -823,17 +823,17 @@
           "date": "2026-10-29"
         },
         {
-          "title": "고양시장, 국토부 장관 만나 공공주택지구 제도 개선 건의",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1HNERPa2xYTm94cW5paEZyWmRqRkJJWkNNamNqVVlnMDQ5QUN2S3BNcnVJaGpYYThyMWpMUWU1ZDRjbTAyWGw0RmhvQ2RBVllCYlBWRmZ2SDdXVlhyLXEtUdIBYEFVX3lxTE1HNERPa2xYTm94cW5paEZyWmRqRkJJWkNNamNqVVlnMDQ5QUN2S3BNcnVJaGpYYThyMWpMUWU1ZDRjbTAyWGw0RmhvQ2RBVllCYlBWRmZ2SDdXVlhyLXEtUQ?oc=5",
-          "source": "연합뉴스",
-          "date": "2026-10-21"
+          "title": "경기도, 3기 신도시·공공주택지구 등 대형공사장 환경오염 불법행위 집중단속",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNWWRGeXBWSzRhSDB3X2Fhb0l4T2dSalU3eTRoTVN2QmlOYlN6WTYxS0pxaS1Dc2hMUF9jT3VHOEYxM240bUpObGFqY083RUMwdlJrVnQxU1hnNl9vUzd2Rjh1R1YwV0ZvcmthYldFVzllRDhXbDVyTFhCNnZvaFJfTXlLMi0?oc=5",
+          "source": "경기도",
+          "date": "2026-10-22"
         }
       ]
     },
     {
       "topic": "컴팩트시티·미래도시",
-      "count": 117,
-      "trend_label": "직전 동일기간보다 3건 증가",
+      "count": 118,
+      "trend_label": "직전 동일기간보다 8건 증가",
       "analyzed_count": 15,
       "summary": {
         "points": [
@@ -847,6 +847,12 @@
         "topic": "컴팩트시티·미래도시"
       },
       "examples": [
+        {
+          "title": "경북테크노파크, 구미서 ‘UAM 미래인재’ 진로 탐색의 장 마련",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5qWFNNVmR2VzRqMUdRU0RzcTV4T2JrQTJpMGlYR0dQV2hyS1dkeTdDeFJQNnNkQno4aGxSV1pfeXRnZU5TRXZGTUF2SVlqWTB1d21lYVBCaE1ZOERSRXB6VWIxWWhtSV9xU0U1ei1KSDd5eXBxckYtNGhB0gF_QVVfeXFMTWtKY3lnd1ZnUlZZSE15TGQzYW5fQ2k3TVhEQmJGVzRURmp1QlYyblVfV09NRmtVSWwtcTJWd3RQc21FZ3d2cnA4WHNfS2gtdjJpVGdTSldNSDZzQXJHMXdtUllTdi1uMVRYZ1JqaE1FUzRjckNGbUUzakowdVhmRQ?oc=5",
+          "source": "뉴데일리 대구경북",
+          "date": "2026-10-31"
+        },
         {
           "title": "\"용인, UAM으로 이동시간 단축·지역 접근성 높여야\"",
           "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9qQW1QZ2lla2RYb3hMYnFXc2ZDeVkzeGhJQ2FkdEdjM3JwQXJDa1BFODVEZ0V6N3B3LW92alMxemZoWWRCZ1NtRUd6TzlXR1hfeDFralo4d091ZWNtTFoyYkRtVW5sZjRHYXRCUTZ0RFZaNUN1ZTlSNNIBeEFVX3lxTE9qQW1QZ2lla2RYb3hMYnFXc2ZDeVkzeGhJQ2FkdEdjM3JwQXJDa1BFODVEZ0V6N3B3LW92alMxemZoWWRCZ1NtRUd6TzlXR1hfeDFralo4d091ZWNtTFoyYkRtVW5sZjRHYXRCUTZ0RFZaNUN1ZTlSNA?oc=5",
@@ -864,19 +870,13 @@
           "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1qT0taWF92ZHdxZV9MclNETWJJaXZ4QTFua0hSblRrRWNFWmtWZ3J1OWlMQUxPbzBhNHQxRVp0R1JxQUxZakp5ZzNqbGpUXzhrV2FjYzN4QzEzbURTZnZONVYyVmFPV0dYaTJ6ejY1ZjQ?oc=5",
           "source": "인천투데이",
           "date": "2026-10-29"
-        },
-        {
-          "title": "한국UAM드론협회, UAM드론 지상 인프라 구체적 표준·운영 기준 제시",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1kc3JqSlVCX1BMNUhCWWhxd0FLR25WeXg4eVVMSUhMTWswSk8za2hNc2R0R1FDUnhfOHg5TXNoT0k4VTMzTHZUS3pmTWozSkQ4Tlh6cm04N2RzUUVEb3R2TjktNXJ6VE45OHRDddIBcEFVX3lxTE94dFE4dW9CdTdKenc3bEttdjluckZ6UEFqSVRrZFAyTmstb1M2YWNEYzJNZzJCT2FUVVRRSlU1TmpMRVNhY0xaU0c2VDJmenEtWkg2ZlUyM3h4SVpvVWNXbnhSRWJJZktpc2Y2TXhfZGI?oc=5",
-          "source": "에너지플랫폼뉴스",
-          "date": "2026-10-28"
         }
       ]
     },
     {
       "topic": "지역소멸·균형발전",
-      "count": 88,
-      "trend_label": "직전 동일기간보다 2건 증가",
+      "count": 85,
+      "trend_label": "직전 동일기간보다 3건 증가",
       "analyzed_count": 15,
       "summary": {
         "points": [
@@ -923,8 +923,8 @@
     },
     {
       "topic": "공업지역·산업단지 제도",
-      "count": 50,
-      "trend_label": "직전 동일기간보다 67건 감소",
+      "count": 49,
+      "trend_label": "직전 동일기간보다 68건 감소",
       "analyzed_count": 15,
       "summary": {
         "points": [
@@ -978,7 +978,7 @@
   "yearly": [
     {
       "topic": "재건축·재개발·정비사업",
-      "count": 6842,
+      "count": 6846,
       "trend_label": "최근 1년 누적",
       "analyzed_count": 15,
       "summary": {
@@ -1026,7 +1026,7 @@
     },
     {
       "topic": "철도·광역교통·역세권",
-      "count": 4952,
+      "count": 4955,
       "trend_label": "최근 1년 누적",
       "analyzed_count": 15,
       "summary": {
@@ -1047,6 +1047,12 @@
       },
       "examples": [
         {
+          "title": "대전 오정역세권 7조 5천억 개발구상…철도지하화 연계 검토",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBoUkxCYlpKQVNITFNCb2xManlkOFM4RUl5bEZWOVVZblBTT1BPOEtnTFZ2elg2N1I3cVR0dGo4TGt5OXFZNVdXenFaVHlTaXhhaW9GUw?oc=5",
+          "source": "타임뉴스",
+          "date": "2026-10-31"
+        },
+        {
           "title": "지티엑스(GTX) 문화공원 조성 본격화 수도권광역급행철도(GTX) 역세권 상징물(랜드마크) 만든다",
           "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBQZnd1T1d1UDdwQXJwUWk4cWdxNF9lX2U3Mk00dGhfS2NQbFJmQm0zOHpqVlJCVlUwWThKTVVtajJWZ080SFd5d2k0Mndrc0pDa3BXMXdFZG1IeEh5aEVjbWRRZVo1ai1VUFpj?oc=5",
           "source": "일간투데이",
@@ -1063,12 +1069,6 @@
           "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9CTW9QZG9mRkNadWVCWlY2U3oxNnV0enI2NlNLZ1JvdnplR0pHUEJ1SHpicGlyOV91UWFSSGYtNl9OWUFXN1U1bGE4dHVlc3J5SjZoS3poOEo2X2lZek16V2FaTUJRNWxFdnctcWtycw?oc=5",
           "source": "중부일보",
           "date": "2026-10-13"
-        },
-        {
-          "title": "인천 다시 ’철도 도시’로…GTX 및 7개 도시철도 미래 연다",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE12bjFHM3Q5RUNOUG4zMkpMWkI3R2hSaTFGVXFxSnV3T0hFODFFQVFpcWpPdkYyVE5hUWNrZlFYYVVSajFLem5sNVF2QmRWQm8?oc=5",
-          "source": "v.daum.net",
-          "date": "2026-10-06"
         }
       ]
     },
@@ -1127,7 +1127,7 @@
     },
     {
       "topic": "도시재생·빈집·원도심",
-      "count": 3890,
+      "count": 3893,
       "trend_label": "최근 1년 누적",
       "analyzed_count": 15,
       "summary": {
@@ -1175,7 +1175,7 @@
     },
     {
       "topic": "상권·골목경제·생활권",
-      "count": 2428,
+      "count": 2430,
       "trend_label": "최근 1년 누적",
       "analyzed_count": 15,
       "summary": {
@@ -1271,15 +1271,15 @@
     },
     {
       "topic": "토지·부동산시장",
-      "count": 880,
+      "count": 881,
       "trend_label": "최근 1년 누적",
       "analyzed_count": 15,
       "summary": {
         "points": [
           {
             "label": "시장·비용",
-            "text": "지가 변화·가격 변동·미분양 문제가 7건의 자료에서 주요 관심사로 나타났다.",
-            "evidence_count": 7
+            "text": "지가 변화·가격 변동·미분양 문제가 6건의 자료에서 주요 관심사로 나타났다.",
+            "evidence_count": 6
           },
           {
             "label": "공간·생활권",
@@ -1319,7 +1319,7 @@
     },
     {
       "topic": "컴팩트시티·미래도시",
-      "count": 785,
+      "count": 786,
       "trend_label": "최근 1년 누적",
       "analyzed_count": 15,
       "summary": {
@@ -1334,6 +1334,12 @@
         "topic": "컴팩트시티·미래도시"
       },
       "examples": [
+        {
+          "title": "경북테크노파크, 구미서 ‘UAM 미래인재’ 진로 탐색의 장 마련",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5qWFNNVmR2VzRqMUdRU0RzcTV4T2JrQTJpMGlYR0dQV2hyS1dkeTdDeFJQNnNkQno4aGxSV1pfeXRnZU5TRXZGTUF2SVlqWTB1d21lYVBCaE1ZOERSRXB6VWIxWWhtSV9xU0U1ei1KSDd5eXBxckYtNGhB0gF_QVVfeXFMTWtKY3lnd1ZnUlZZSE15TGQzYW5fQ2k3TVhEQmJGVzRURmp1QlYyblVfV09NRmtVSWwtcTJWd3RQc21FZ3d2cnA4WHNfS2gtdjJpVGdTSldNSDZzQXJHMXdtUllTdi1uMVRYZ1JqaE1FUzRjckNGbUUzakowdVhmRQ?oc=5",
+          "source": "뉴데일리 대구경북",
+          "date": "2026-10-31"
+        },
         {
           "title": "\"용인, UAM으로 이동시간 단축·지역 접근성 높여야\"",
           "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9qQW1QZ2lla2RYb3hMYnFXc2ZDeVkzeGhJQ2FkdEdjM3JwQXJDa1BFODVEZ0V6N3B3LW92alMxemZoWWRCZ1NtRUd6TzlXR1hfeDFralo4d091ZWNtTFoyYkRtVW5sZjRHYXRCUTZ0RFZaNUN1ZTlSNNIBeEFVX3lxTE9qQW1QZ2lla2RYb3hMYnFXc2ZDeVkzeGhJQ2FkdEdjM3JwQXJDa1BFODVEZ0V6N3B3LW92alMxemZoWWRCZ1NtRUd6TzlXR1hfeDFralo4d091ZWNtTFoyYkRtVW5sZjRHYXRCUTZ0RFZaNUN1ZTlSNA?oc=5",
@@ -1351,12 +1357,6 @@
           "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1qT0taWF92ZHdxZV9MclNETWJJaXZ4QTFua0hSblRrRWNFWmtWZ3J1OWlMQUxPbzBhNHQxRVp0R1JxQUxZakp5ZzNqbGpUXzhrV2FjYzN4QzEzbURTZnZONVYyVmFPV0dYaTJ6ejY1ZjQ?oc=5",
           "source": "인천투데이",
           "date": "2026-10-29"
-        },
-        {
-          "title": "한국UAM드론협회, UAM드론 지상 인프라 구체적 표준·운영 기준 제시",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1kc3JqSlVCX1BMNUhCWWhxd0FLR25WeXg4eVVMSUhMTWswSk8za2hNc2R0R1FDUnhfOHg5TXNoT0k4VTMzTHZUS3pmTWozSkQ4Tlh6cm04N2RzUUVEb3R2TjktNXJ6VE45OHRDddIBcEFVX3lxTE94dFE4dW9CdTdKenc3bEttdjluckZ6UEFqSVRrZFAyTmstb1M2YWNEYzJNZzJCT2FUVVRRSlU1TmpMRVNhY0xaU0c2VDJmenEtWkg2ZlUyM3h4SVpvVWNXbnhSRWJJZktpc2Y2TXhfZGI?oc=5",
-          "source": "에너지플랫폼뉴스",
-          "date": "2026-10-28"
         }
       ]
     },

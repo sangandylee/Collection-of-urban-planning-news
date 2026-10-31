@@ -1,59 +1,59 @@
 {
-  "updated_at": "2026-10-31 18:05 KST",
-  "run_started_at": "2026-10-31T18:05:33.931400+09:00",
+  "updated_at": "2026-11-01 00:28 KST",
+  "run_started_at": "2026-11-01T00:28:39.526180+09:00",
   "coverage": {
-    "items": 25836,
-    "oldest": "2025-11-01",
+    "items": 25846,
+    "oldest": "2025-11-02",
     "newest": "2026-10-31",
-    "days_covered": 365,
+    "days_covered": 364,
     "complete": true
   },
   "today_counts": {
     "정책": 0,
     "법령": 0,
     "연구": 0,
-    "기사": 12
+    "기사": 0
   },
   "period_counts": {
     "weekly": {
-      "정책": 25,
+      "정책": 22,
       "법령": 4,
-      "연구": 48,
-      "기사": 1251
+      "연구": 47,
+      "기사": 1211
     },
     "monthly": {
-      "정책": 120,
+      "정책": 115,
       "법령": 9,
-      "연구": 258,
-      "기사": 4659
+      "연구": 249,
+      "기사": 4517
     },
     "yearly": {
-      "정책": 1258,
-      "법령": 704,
-      "연구": 1726,
-      "기사": 22148
+      "정책": 1259,
+      "법령": 701,
+      "연구": 1724,
+      "기사": 22162
     }
   },
   "source_status": {
-    "국토교통부": "9건 수집",
-    "서울특별시": "9건 수집",
-    "경기도": "14건 수집",
-    "법령·입법": "2건 수집",
+    "국토교통부": "8건 수집",
+    "서울특별시": "12건 수집",
+    "경기도": "19건 수집",
+    "법령·입법": "14건 수집",
     "연구기관": "28건 수집",
-    "지역연구원": "35건 수집",
-    "언론-도시계획": "25건 수집",
+    "지역연구원": "33건 수집",
+    "언론-도시계획": "26건 수집",
     "언론-지구단위": "99건 수집",
-    "언론-정비사업": "100건 수집",
-    "언론-주택공급": "27건 수집",
-    "언론-지역정책": "16건 수집",
+    "언론-정비사업": "96건 수집",
+    "언론-주택공급": "13건 수집",
+    "언론-지역정책": "9건 수집",
     "언론-교통공간": "100건 수집",
     "언론-도시재생": "100건 수집",
     "언론-공업지역산업단지": "98건 수집",
-    "언론-스마트기후": "16건 수집",
-    "분야:정책": "32건 수집",
-    "분야:연구": "63건 수집",
-    "분야:법령": "2건 수집",
-    "분야:기사": "581건 수집"
+    "언론-스마트기후": "17건 수집",
+    "분야:정책": "39건 수집",
+    "분야:연구": "61건 수집",
+    "분야:기사": "558건 수집",
+    "분야:법령": "14건 수집"
   },
   "backfill_status": {},
   "municipal_notices": [
@@ -156,12 +156,12 @@
   ],
   "municipal_status": {
     "수원": "수원 지구단위계획 2건 / 수원 기본·도시관리계획 0건, 검색보완 0건",
-    "화성": "화성시 고시공고 2건",
     "고양": "고양시 고시·도시계획 선별 0건, 검색보완 0건",
+    "화성": "화성시 고시공고 2건",
     "과천": "과천시 고시공고 0건, 검색보완 0건",
     "서울": "서울도시공간포털 결정고시 21건",
-    "성남": "성남 지구단위계획 고시·공고 SSLError, 검색보완 0건",
-    "광명": "광명시 고시공고 0건, 검색보완 0건"
+    "광명": "광명시 고시공고 0건, 검색보완 0건",
+    "성남": "성남 지구단위계획 고시·공고 SSLError, 검색보완 0건"
   },
   "seoul_housing_news": [],
   "seoul_housing_status": "공식 목록 0건, 검색보완 0건",
@@ -202,16 +202,16 @@
     }
   ],
   "maintenance_status": {
-    "남양주": "0건",
-    "화성": "0건",
     "인천": "0건",
+    "화성": "0건",
     "고양": "0건",
+    "남양주": "0건",
+    "서울": "5건",
     "수원": "0건",
     "평택": "0건",
     "성남": "0건",
-    "과천": "0건",
-    "서울": "8건",
     "광명": "0건",
+    "과천": "0건",
     "광주": "0건"
   },
   "items": [
@@ -234,6 +234,15 @@
       "description": "재건축 아파트값 '억' 소리나게 떨어져…몸테크 열풍 끝? [이슬기의 새집다오] 한국경제"
     },
     {
+      "id": "ad37cc57e2ca8104",
+      "title": "대전 오정역세권 7조 5천억 개발구상…철도지하화 연계 검토",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBoUkxCYlpKQVNITFNCb2xManlkOFM4RUl5bEZWOVVZblBTT1BPOEtnTFZ2elg2N1I3cVR0dGo4TGt5OXFZNVdXenFaVHlTaXhhaW9GUw?oc=5",
+      "source": "타임뉴스",
+      "category": "기사",
+      "date": "2026-10-31",
+      "description": "대전 오정역세권 7조 5천억 개발구상…철도지하화 연계 검토 타임뉴스"
+    },
+    {
       "id": "0921159513d3d314",
       "title": "이광희 국의원, 공원 · 녹지 추가 조성하는 정비사업에 ‘ 용적률 완화 ’ 추진",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBhRno1RzJqU2VPWENBY0lsaVVRQmtOY1pOVkhKUVQxcmtQX2lwdmEwVGhDeC1NWGwyLV9udlZPVFF1ZmNfbmI1ZmxmdkdubzhpdzczVVdkQnV1YUtFVThtV2ZkQlhZTGNZcmt3?oc=5",
@@ -241,6 +250,15 @@
       "category": "기사",
       "date": "2026-10-31",
       "description": "이광희 국의원, 공원 · 녹지 추가 조성하는 정비사업에 ‘ 용적률 완화 ’ 추진 청주일보"
+    },
+    {
+      "id": "8f73068a375af5cd",
+      "title": "윤해동 안양시의회 부의장, 평촌역 상권 활성화 논의… “소비층부터 명확히 해야”",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAtaDVJZ3Nkbk51a2IzWU8wQXF0TWJQNTQ4cUJLUHNoOG1fZmxxd0VqMV9vYmduLTAxWlBlSGJ3YzFiaVNPWG94Nl9sS0ZkVm5fOFE1bmFkajBlSVczajA0RFAxc3hEbmUwelE?oc=5",
+      "source": "천지일보",
+      "category": "기사",
+      "date": "2026-10-31",
+      "description": "윤해동 안양시의회 부의장, 평촌역 상권 활성화 논의… “소비층부터 명확히 해야” 천지일보"
     },
     {
       "id": "d7c51ecb5a4b320e",
@@ -270,6 +288,15 @@
       "description": "천안·아산·원주 AI 도시 만든다…데이터·전력 규제 푸는 법안 발의 이데일리"
     },
     {
+      "id": "94c83e047af493ad",
+      "title": "“재건축 소식에 집값 좀 뛰었거든요”…강남 아파트로 눈돌리는 분당 주민들",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0zQmFHX0RCQWNScE1TWXR1ZlF4QU5BZFlDQUVEbFpRYkVRYlNhRGh2VlIzZHNTYXdiTldhV0ZoYmZIQ3VXTEhMZ2ZyTGE3Y1puYnNsQkJuc2Q?oc=5",
+      "source": "매일경제",
+      "category": "기사",
+      "date": "2026-10-31",
+      "description": "“재건축 소식에 집값 좀 뛰었거든요”…강남 아파트로 눈돌리는 분당 주민들 매일경제"
+    },
+    {
       "id": "857bb684d7651e31",
       "title": "보령 2,170필지 공시지가 확인하세요…이의신청 11월 27일까지",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9xS3JGSDlXQmlmWGNtaFJqV3pKNDJfR1RlM0xGYXRWTnE0S3hqX3JCVmRnNV9hZFNZTTQ4TkR2X0drLVk2dlFjak5ULVpWMS1QSmJ2NlNyYUZFdjVMcFE?oc=5",
@@ -286,6 +313,24 @@
       "category": "기사",
       "date": "2026-10-31",
       "description": "구리시, 293필지 개별공시지가 10월 29일 결정 공시 > 뉴스 더코리아"
+    },
+    {
+      "id": "7eae010f26c810f1",
+      "title": "경북테크노파크, 구미서 ‘UAM 미래인재’ 진로 탐색의 장 마련",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5qWFNNVmR2VzRqMUdRU0RzcTV4T2JrQTJpMGlYR0dQV2hyS1dkeTdDeFJQNnNkQno4aGxSV1pfeXRnZU5TRXZGTUF2SVlqWTB1d21lYVBCaE1ZOERSRXB6VWIxWWhtSV9xU0U1ei1KSDd5eXBxckYtNGhB0gF_QVVfeXFMTWtKY3lnd1ZnUlZZSE15TGQzYW5fQ2k3TVhEQmJGVzRURmp1QlYyblVfV09NRmtVSWwtcTJWd3RQc21FZ3d2cnA4WHNfS2gtdjJpVGdTSldNSDZzQXJHMXdtUllTdi1uMVRYZ1JqaE1FUzRjckNGbUUzakowdVhmRQ?oc=5",
+      "source": "뉴데일리 대구경북",
+      "category": "기사",
+      "date": "2026-10-31",
+      "description": "경북테크노파크, 구미서 ‘UAM 미래인재’ 진로 탐색의 장 마련 뉴데일리 대구경북"
+    },
+    {
+      "id": "3935a00d6942b181",
+      "title": "축제장서 원도심 골목까지…예천 가을축제 소비동선 넓혔다",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8yWnpYQzhqM1k5TlhCeWczNFRuLXRsMVA5d0FyM2Y1VWZLQ3MyNWhJS1MydWplSW13MndSaHZwRDFhRXpEbk9Hc0VtazlkcVpiQjVHRUZjY2EyZm1sWGhqd1VzSUNmc1p2SUdFN293aw?oc=5",
+      "source": "경북일보",
+      "category": "기사",
+      "date": "2026-10-31",
+      "description": "축제장서 원도심 골목까지…예천 가을축제 소비동선 넓혔다 경북일보"
     },
     {
       "id": "32d9b1f0426a0838",
@@ -1863,6 +1908,15 @@
       "description": "지하철역 반경 1,000m 이내의 주택들이 철거될 예정인가요? Vietnam.vn"
     },
     {
+      "id": "e8674893578d03b7",
+      "title": "호치민시의 TOD(대중교통 중심 개발) 구역에 있는 주택들이 철거될까요?",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1mUmptZGZHdUlsdDkxeV9SeEJKSG11NnVBRHNocG5YN1licW1HWHVRQk45ZUNLLXNWbkphSDdCLVZEYWdQUlZxTHQwY1dINzhKMXhBUi1ENUpsOGplOEJMc3ZVbXFTOER6bVJhZzBpZTJUbDM3WVE?oc=5",
+      "source": "Vietnam.vn",
+      "category": "기사",
+      "date": "2026-10-30",
+      "description": "호치민시의 TOD(대중교통 중심 개발) 구역에 있는 주택들이 철거될까요? Vietnam.vn"
+    },
+    {
       "id": "8a2578c60c96e308",
       "title": "도시철도 반월당역 등 ‘핼러윈’ 안전관리 강화",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1WNDBSSUhYaEhRbGFKVmFLU0I3UFMwdzFNSXo3N3l3UjNVdzlHX3hSbXI1bUlyUENJZ0c3V3pETU5XNnI1Xy1qMW40Rk5BQVB2T3JBa2VQUnVOV2M?oc=5",
@@ -1908,6 +1962,15 @@
       "description": "속초시, 방치된 빈집 583호 실태조사 환경일보"
     },
     {
+      "id": "cc06364b28bd3b28",
+      "title": "수원시, ‘영통 도시재생혁신지구 사업’ 주민공청회 개최",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE03Y0N0a2hfNG43TW9nZjRXRTJhcUI5WXBMdFdDUWlzdndaOFE0aUFLVE1mbjc4U2FseXd2OHFfOHpSWTNFMTA5NEtuc00zYmhTZGpHZ2R1Nl9qNjJiSTYxQl9QME9aU29H?oc=5",
+      "source": "환경일보",
+      "category": "기사",
+      "date": "2026-10-29",
+      "description": "수원시, ‘영통 도시재생혁신지구 사업’ 주민공청회 개최 환경일보"
+    },
+    {
       "id": "9ed786a73774aafc",
       "title": "도시계획변경 사전협상 조례안 본회의 통과",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAwZ2JiVWQ3V1VhTVBhRFUwTUhEOXRZSVpBNFllZmM1WURickN1Rms2b3BULTFtbF9tZzBoaU1oZUxrTXVMaU1TM3Z2Q29XR2ZRSk9lanJaV0p6VDJmY2N5dE9BOHFSU2xtbWhwNkRR?oc=5",
@@ -1951,69 +2014,6 @@
       "category": "기사",
       "date": "2026-10-29",
       "description": "경찰청, 재건축·재개발 비리 강력 단속 한국주택경제신문"
-    },
-    {
-      "id": "9649344eb2088cd9",
-      "title": "상일동 빌라단지, 최고 29층 아파트 1,484세대로 재건축",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBfbG55YlVnTXlOTTZNOWJsVlJsX0hjOU1lUlpQZG5LZ2VVQk1TQzV6MU12c05iNWt0YmU4STl2ZThPSkQ3SzBxWVV6VkFHdUVzaXF2VmhQVXBieGl6eEdrRTFIOGxfOVUy?oc=5",
-      "source": "한국주택경제신문",
-      "category": "기사",
-      "date": "2026-10-29",
-      "description": "상일동 빌라단지, 최고 29층 아파트 1,484세대로 재건축 한국주택경제신문"
-    },
-    {
-      "id": "c2435367bb6bf573",
-      "title": "경남도, 도내 9곳 정비사업전문관리업자 전수조사",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9uTUQ3S05QOVA0SXlneElnRU5EaWNqRW9QU0x3b2YxSnFPUlZQR3NhM2xpOHRqZEtoSnNzZi0tRS0zb2ZNX3Z0bXdFS2ZiUkZHdWpHQkZjaFhNbHVRMUVsZ19remhxZG82?oc=5",
-      "source": "한국주택경제신문",
-      "category": "기사",
-      "date": "2026-10-29",
-      "description": "경남도, 도내 9곳 정비사업전문관리업자 전수조사 한국주택경제신문"
-    },
-    {
-      "id": "39f4876609eb08c2",
-      "title": "청구역세권, 재개발 추정비례율 142.58%로 추산",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9fbnlURUw0SHNpVmIzd091TFBfZG1DeFBuOHhnajljYW9rRW9vcmdCZTBxSDUzbHlic2tOYVBZZmlmYWdQbjRlSklmQ2tUb09OOF95YmQzcWViWEQ0Z3lHc3dra0F2VmFD?oc=5",
-      "source": "한국주택경제신문",
-      "category": "기사",
-      "date": "2026-10-29",
-      "description": "청구역세권, 재개발 추정비례율 142.58%로 추산 한국주택경제신문"
-    },
-    {
-      "id": "27d703dac398c3e5",
-      "title": "명일삼익그린11차아파트 소규모재건축조합 시공자 선정 입찰공고",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5XaHNUTkg3dk1HNnlLUTVBUG01REZuSzB5bnpXcWNLNEZjSElTZ2NUWXp4V1NwOHlmeVlZbUdwNkNDTlRaZjY4aUZxamVaRFJvb3ctS1lfaHl6RmFaa1VXd0hpS1g5ZUtp?oc=5",
-      "source": "한국주택경제신문",
-      "category": "기사",
-      "date": "2026-10-29",
-      "description": "명일삼익그린11차아파트 소규모재건축조합 시공자 선정 입찰공고 한국주택경제신문"
-    },
-    {
-      "id": "d77fa74917f57221",
-      "title": "명일삼익그린11차아파트 소규모재건축조합 건축환경 및 경관분야 협력업체 선정 입찰공고",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA1VnJxVkRPSWlKZmFlU0x4ZE1hWHB3M04wQVliSXVjbE1tZmRBSzNOXzRlR3M0Qy04XzB4VmhvR2lzV0NFS0RKcVdDYlViWDB6MUtBTzVaSXV5VXhHaFhSbWRReHBBNnU3?oc=5",
-      "source": "한국주택경제신문",
-      "category": "기사",
-      "date": "2026-10-29",
-      "description": "명일삼익그린11차아파트 소규모재건축조합 건축환경 및 경관분야 협력업체 선정 입찰공고 한국주택경제신문"
-    },
-    {
-      "id": "efd1f3cc83dbea6a",
-      "title": "명일삼익그린11차아파트 소규모재건축조합 도시계획 업체 선정 입찰공고",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB5WjZKbkpiSHJPaEc1cDl0QV8tb0VmOVNFUzkyN2tMTG9vVmRQT180VFJmZE8zR2M0MV9fMkxCSEZKUGlncGw0VGVxLXphZk8xajVMVUlLNU5fRlYydk5SMHA4VWlGMGhS?oc=5",
-      "source": "한국주택경제신문",
-      "category": "기사",
-      "date": "2026-10-29",
-      "description": "명일삼익그린11차아파트 소규모재건축조합 도시계획 업체 선정 입찰공고 한국주택경제신문"
-    },
-    {
-      "id": "75a8d2134da9843b",
-      "title": "북아현2재정비촉진구역 재개발조합 전기설계 및 전력계통영향평가 용역업체 선정 입찰공고",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBDazB4cTdDRGZCMU1yZmFaWmQ0VWs5OXV5YTM4VV80SzFKYzZBTHQ5WDN3RDVXT0piNUg2Y3llVlVkNnpnTWc2R2NzcmZWc1FROGJoZTNpRFFwcm01aTJmTS1EdUkwOWdB?oc=5",
-      "source": "한국주택경제신문",
-      "category": "기사",
-      "date": "2026-10-29",
-      "description": "북아현2재정비촉진구역 재개발조합 전기설계 및 전력계통영향평가 용역업체 선정 입찰공고 한국주택경제신문"
     }
   ]
 }
