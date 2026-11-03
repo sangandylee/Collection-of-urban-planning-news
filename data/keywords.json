@@ -1,57 +1,57 @@
 {
-  "updated_at": "2026-11-03 12:48 KST",
+  "updated_at": "2026-11-03 19:18 KST",
   "monthly": [
     {
       "word": "정비사업(재건축·재개발)",
-      "count": 1475
+      "count": 1495
     },
     {
       "word": "역세권",
-      "count": 420
+      "count": 423
     },
     {
       "word": "원도심",
-      "count": 400
+      "count": 409
     },
     {
       "word": "골목상권",
-      "count": 358
+      "count": 375
     },
     {
       "word": "조합",
-      "count": 304
+      "count": 309
     },
     {
       "word": "도시재생",
-      "count": 298
-    },
-    {
-      "word": "필지",
-      "count": 271
+      "count": 304
     },
     {
       "word": "GTX",
-      "count": 258
+      "count": 273
+    },
+    {
+      "word": "필지",
+      "count": 273
     },
     {
       "word": "도시철도",
-      "count": 244
+      "count": 249
     },
     {
       "word": "용적률",
-      "count": 208
+      "count": 215
     },
     {
       "word": "빈집",
-      "count": 180
+      "count": 182
     },
     {
       "word": "UAM·PAV",
-      "count": 135
+      "count": 145
     },
     {
       "word": "개발밀도",
-      "count": 100
+      "count": 102
     },
     {
       "word": "광역교통",
@@ -59,11 +59,11 @@
     },
     {
       "word": "균형발전",
-      "count": 64
+      "count": 67
     },
     {
       "word": "지구단위계획",
-      "count": 57
+      "count": 66
     },
     {
       "word": "기부채납",
@@ -74,66 +74,66 @@
       "count": 46
     },
     {
-      "word": "산업단지",
+      "word": "노후계획도시",
       "count": 45
     },
     {
-      "word": "노후계획도시",
-      "count": 44
+      "word": "산업단지",
+      "count": 45
     }
   ],
   "quarterly": [
     {
       "word": "정비사업(재건축·재개발)",
-      "count": 4111
+      "count": 4131
     },
     {
       "word": "원도심",
-      "count": 1251
+      "count": 1260
     },
     {
       "word": "역세권",
-      "count": 1120
+      "count": 1123
     },
     {
       "word": "도시재생",
-      "count": 908
-    },
-    {
-      "word": "필지",
-      "count": 891
+      "count": 914
     },
     {
       "word": "골목상권",
-      "count": 884
+      "count": 901
+    },
+    {
+      "word": "필지",
+      "count": 893
     },
     {
       "word": "GTX",
-      "count": 812
+      "count": 827
     },
     {
       "word": "조합",
-      "count": 806
+      "count": 811
     },
     {
       "word": "도시철도",
-      "count": 787
+      "count": 792
     },
     {
       "word": "용적률",
-      "count": 649
+      "count": 656
     },
     {
       "word": "빈집",
-      "count": 538
+      "count": 540
     },
     {
       "word": "UAM·PAV",
-      "count": 310
+      "count": 320
     },
     {
       "word": "개발밀도",
-      "count": 256
+      "count": 258
     },
     {
       "word": "광역교통",
@@ -145,73 +145,73 @@
     },
     {
       "word": "스마트시티",
-      "count": 189
+      "count": 190
     },
     {
       "word": "노후계획도시",
-      "count": 177
+      "count": 178
     },
     {
       "word": "균형발전",
-      "count": 163
+      "count": 166
     },
     {
       "word": "산업단지",
       "count": 162
     },
     {
-      "word": "공공주택",
-      "count": 149
+      "word": "지구단위계획",
+      "count": 150
     }
   ],
   "yearly": [
     {
       "word": "정비사업(재건축·재개발)",
-      "count": 6766
+      "count": 6786
     },
     {
       "word": "원도심",
-      "count": 1756
+      "count": 1765
     },
     {
       "word": "역세권",
-      "count": 1584
+      "count": 1587
     },
     {
       "word": "도시재생",
-      "count": 1510
+      "count": 1516
     },
     {
       "word": "골목상권",
-      "count": 1347
+      "count": 1364
     },
     {
       "word": "조합",
-      "count": 1187
+      "count": 1192
     },
     {
       "word": "도시철도",
-      "count": 1173
+      "count": 1178
     },
     {
       "word": "필지",
-      "count": 1153
+      "count": 1155
     },
     {
       "word": "GTX",
-      "count": 1057
+      "count": 1072
     },
     {
       "word": "용적률",
-      "count": 989
+      "count": 996
     },
     {
       "word": "빈집",
-      "count": 801
+      "count": 803
     },
     {
       "word": "UAM·PAV",
-      "count": 783
+      "count": 793
     },
     {
       "word": "산업단지",
@@ -223,11 +223,11 @@
     },
     {
       "word": "개발밀도",
-      "count": 349
+      "count": 351
     },
     {
       "word": "균형발전",
-      "count": 323
+      "count": 326
     },
     {
       "word": "주택공급",
@@ -235,7 +235,7 @@
     },
     {
       "word": "지구단위계획",
-      "count": 283
+      "count": 292
     },
     {
       "word": "도시첨단산업단지",
@@ -243,7 +243,7 @@
     },
     {
       "word": "노후계획도시",
-      "count": 269
+      "count": 270
     }
   ]
 }
