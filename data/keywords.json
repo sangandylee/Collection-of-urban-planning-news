@@ -1,53 +1,53 @@
 {
-  "updated_at": "2026-11-11 19:03 KST",
+  "updated_at": "2026-11-12 02:23 KST",
   "monthly": [
     {
       "word": "정비사업(재건축·재개발)",
-      "count": 1840
+      "count": 1784
     },
     {
       "word": "골목상권",
-      "count": 448
+      "count": 427
     },
     {
       "word": "원도심",
-      "count": 419
+      "count": 392
     },
     {
       "word": "역세권",
-      "count": 397
+      "count": 382
     },
     {
       "word": "조합",
-      "count": 369
+      "count": 357
     },
     {
       "word": "도시재생",
-      "count": 312
+      "count": 305
     },
     {
       "word": "도시철도",
-      "count": 297
-    },
-    {
-      "word": "필지",
-      "count": 283
+      "count": 288
     },
     {
       "word": "GTX",
-      "count": 281
+      "count": 273
+    },
+    {
+      "word": "필지",
+      "count": 266
     },
     {
       "word": "용적률",
-      "count": 263
+      "count": 258
     },
     {
       "word": "UAM·PAV",
-      "count": 204
+      "count": 205
     },
     {
       "word": "빈집",
-      "count": 149
+      "count": 145
     },
     {
       "word": "광역교통",
@@ -58,74 +58,74 @@
       "count": 71
     },
     {
-      "word": "개발밀도",
-      "count": 68
+      "word": "노후계획도시",
+      "count": 64
     },
     {
       "word": "균형발전",
-      "count": 67
+      "count": 57
     },
     {
-      "word": "노후계획도시",
-      "count": 65
+      "word": "개발밀도",
+      "count": 55
     },
     {
       "word": "전통시장",
-      "count": 59
-    },
-    {
-      "word": "기부채납",
-      "count": 52
+      "count": 53
     },
     {
       "word": "공공기여",
-      "count": 47
+      "count": 49
+    },
+    {
+      "word": "기부채납",
+      "count": 46
     }
   ],
   "quarterly": [
     {
       "word": "정비사업(재건축·재개발)",
-      "count": 4322
+      "count": 4307
     },
     {
       "word": "원도심",
-      "count": 1260
+      "count": 1249
     },
     {
       "word": "역세권",
-      "count": 1103
+      "count": 1101
     },
     {
       "word": "골목상권",
-      "count": 985
+      "count": 980
     },
     {
       "word": "조합",
-      "count": 870
+      "count": 868
     },
     {
       "word": "도시재생",
-      "count": 867
-    },
-    {
-      "word": "필지",
-      "count": 854
+      "count": 862
     },
     {
       "word": "GTX",
-      "count": 848
+      "count": 842
+    },
+    {
+      "word": "필지",
+      "count": 830
     },
     {
       "word": "도시철도",
-      "count": 831
+      "count": 826
     },
     {
       "word": "용적률",
-      "count": 667
+      "count": 663
     },
     {
       "word": "빈집",
-      "count": 533
+      "count": 528
     },
     {
       "word": "UAM·PAV",
@@ -133,49 +133,49 @@
     },
     {
       "word": "개발밀도",
-      "count": 248
+      "count": 247
     },
     {
       "word": "광역교통",
-      "count": 237
-    },
-    {
-      "word": "노후계획도시",
-      "count": 191
+      "count": 234
     },
     {
       "word": "스마트시티",
       "count": 191
     },
     {
+      "word": "노후계획도시",
+      "count": 190
+    },
+    {
       "word": "산업단지",
-      "count": 183
+      "count": 182
     },
     {
       "word": "균형발전",
-      "count": 167
+      "count": 164
     },
     {
       "word": "전통시장",
       "count": 161
     },
     {
-      "word": "주택공급",
+      "word": "지구단위계획",
       "count": 153
     }
   ],
   "yearly": [
     {
       "word": "정비사업(재건축·재개발)",
-      "count": 7419
+      "count": 7429
     },
     {
       "word": "원도심",
-      "count": 1854
+      "count": 1860
     },
     {
       "word": "역세권",
-      "count": 1675
+      "count": 1682
     },
     {
       "word": "도시재생",
@@ -183,7 +183,7 @@
     },
     {
       "word": "골목상권",
-      "count": 1500
+      "count": 1501
     },
     {
       "word": "조합",
@@ -191,15 +191,15 @@
     },
     {
       "word": "도시철도",
-      "count": 1294
+      "count": 1297
     },
     {
       "word": "필지",
-      "count": 1209
+      "count": 1210
     },
     {
       "word": "GTX",
-      "count": 1162
+      "count": 1165
     },
     {
       "word": "용적률",
@@ -207,7 +207,7 @@
     },
     {
       "word": "UAM·PAV",
-      "count": 860
+      "count": 861
     },
     {
       "word": "빈집",
@@ -227,11 +227,11 @@
     },
     {
       "word": "균형발전",
-      "count": 344
+      "count": 345
     },
     {
       "word": "주택공급",
-      "count": 317
+      "count": 316
     },
     {
       "word": "지구단위계획",
