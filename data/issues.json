@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-11-15 11:19 KST",
+  "updated_at": "2026-11-15 19:11 KST",
   "coverage": {
-    "items": 28632,
+    "items": 28667,
     "oldest": "2025-11-16",
     "newest": "2026-11-15",
     "days_covered": 365,
@@ -10,15 +10,15 @@
   "weekly": [
     {
       "topic": "재건축·재개발·정비사업",
-      "count": 466,
-      "trend_label": "직전 동일기간보다 99건 감소",
+      "count": 480,
+      "trend_label": "직전 동일기간보다 85건 감소",
       "analyzed_count": 15,
       "summary": {
         "points": [
           {
             "label": "사업·공급",
-            "text": "정비 추진·사업 추진·공급 확대 흐름이 10건의 자료에서 확인됐다.",
-            "evidence_count": 10
+            "text": "정비 추진·사업 추진·공급 확대 흐름이 9건의 자료에서 확인됐다.",
+            "evidence_count": 9
           },
           {
             "label": "정책·제도",
@@ -58,8 +58,8 @@
     },
     {
       "topic": "철도·광역교통·역세권",
-      "count": 264,
-      "trend_label": "직전 동일기간보다 65건 감소",
+      "count": 266,
+      "trend_label": "직전 동일기간보다 63건 감소",
       "analyzed_count": 15,
       "summary": {
         "points": [
@@ -79,6 +79,18 @@
       },
       "examples": [
         {
+          "title": "GTX·경기남부광역철도 운명 갈린다… 경기도 철도 연말 판가름",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE52cHdYdWZvb0YtR3c5YTd0U2ZqaVg4eEQ0NU1MNDhsWXdLcHJZN2JZd0xfSEM0bWJZdXI0SllUcVZ2Y2toSkpZZEVZN21oYTc2elJWUFJpWnpoYzg4WWUwVDJ6aUdBZHZHem44aXVB?oc=5",
+          "source": "중부일보",
+          "date": "2026-11-15"
+        },
+        {
+          "title": "대구 도시철도, 수능날 오전 6~8시 12회 증편 운행",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9VRjFkTlI2R25GNjVWamNidjN4LWhYenJ0d2I0UkJIQlRkMU1WYkhkd1RScWlOTEt1M1RPamozNzFuQWpmYkNKYzZDZWhRUHY0dUhtNklwMlhqTjBCazNWM1lpaWpoQzVMbkNXRG5IMA?oc=5",
+          "source": "경북일보",
+          "date": "2026-11-15"
+        },
+        {
           "title": "[금주의 시흥시] 신천신림선·GTX-C 오이도 연장 반영 총력…철도 확충 필요성 강조 外",
           "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9vbjZaSTJwQ2h0MzlGVjRiNWNHYlhPZFRPd3dPaER3VXpyZUNjelVXNnAxXzBBaVdqbi1Ka3dwU0Z0cTE0RzVfSHNUcFpRODBtaTNPbGc0MVk4THlDQVFaa0dTS1d3allYclBOZTJTMA?oc=5",
           "source": "중부일보",
@@ -89,37 +101,25 @@
           "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5mS0lsc0lqcXFlM05Da3pmZG5wZFozbGJUZFBmQzl5U1VlYm00ckItaWF6anY0RFI4aExMWVplV1NqVXF2Q2xIU2pONGZyUUxicDNhTVBqRDNpX3hXS1VFZ1JKUXRzYmJTOTJSMFRjQUs?oc=5",
           "source": "인천일보",
           "date": "2026-11-13"
-        },
-        {
-          "title": "술 취해 도시철도 멈추게 하고 승용차 훔친 러시아 선원 검거",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9UVzd3WldydlVKaGpSaG5MRjBXMmZwRmt3UllkeDRfZ3oxaUltdy0xdUZkWWRuR0QwNnNfS1Bpc2dkLXhRMlJIeTdpYkNaempzazFfR0V6ZU5BemhPUzZSYWZaZ25CWHJqVExEV2ZJNnlqMmwz?oc=5",
-          "source": "연합뉴스 한민족센터",
-          "date": "2026-11-13"
-        },
-        {
-          "title": "대구 도시철도, 수능 당일 증편 운행…비상상황실도 운영",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBJZzRaeUZfZEtJNXNVU0dDcEtYSC1DaWhEUU9tT0ZFbHd2SmJndW9qTWlvdHJRZEtvVWZVdy1faW9NMXZ5Y0UyTEp0ZFdiUlB5cFhqQmpMcFFVbDjSAWBBVV95cUxPQ1AyQzZQT3pKTzJMXzd2Nl9URHJMTERvNy1PUUpITlE1RDJZZE5hb1MtSHVVcmJLZ1N5NElnZmVfOXhWdEFkUnhQLS1TWUxSY1JjYTFQQldvWUluOXhzWDg?oc=5",
-          "source": "연합뉴스",
-          "date": "2026-11-13"
         }
       ]
     },
     {
       "topic": "도시재생·빈집·원도심",
-      "count": 158,
-      "trend_label": "직전 동일기간보다 27건 감소",
+      "count": 165,
+      "trend_label": "직전 동일기간보다 20건 감소",
       "analyzed_count": 15,
       "summary": {
         "points": [
           {
             "label": "공간·생활권",
-            "text": "빈집 관리가 4건의 자료에서 공간 변화의 핵심으로 나타났다.",
-            "evidence_count": 4
+            "text": "빈집 관리가 5건의 자료에서 공간 변화의 핵심으로 나타났다.",
+            "evidence_count": 5
           },
           {
             "label": "정책·제도",
-            "text": "관리 강화·지원 확대 관련 움직임이 3건의 자료에서 반복됐다.",
-            "evidence_count": 3
+            "text": "관리 강화·지원 확대 관련 움직임이 4건의 자료에서 반복됐다.",
+            "evidence_count": 4
           }
         ],
         "note": "",
@@ -154,25 +154,25 @@
     },
     {
       "topic": "국토계획·용도지역·규제",
-      "count": 141,
-      "trend_label": "직전 동일기간보다 61건 감소",
+      "count": 148,
+      "trend_label": "직전 동일기간보다 54건 감소",
       "analyzed_count": 15,
       "summary": {
         "points": [
           {
-            "label": "공간·생활권",
-            "text": "개발밀도 변화·역세권 재편가 8건의 자료에서 공간 변화의 핵심으로 나타났다.",
-            "evidence_count": 8
+            "label": "사업·공급",
+            "text": "정비 추진·공급 확대·계획 수립 흐름이 7건의 자료에서 확인됐다.",
+            "evidence_count": 7
           },
           {
-            "label": "사업·공급",
-            "text": "계획 수립·정비 추진·공급 확대 흐름이 6건의 자료에서 확인됐다.",
+            "label": "공간·생활권",
+            "text": "개발밀도 변화·역세권 재편가 6건의 자료에서 공간 변화의 핵심으로 나타났다.",
             "evidence_count": 6
           },
           {
             "label": "정책·제도",
-            "text": "계획·사업 승인·구역·사업 지정·규제 완화 관련 움직임이 2건의 자료에서 반복됐다.",
-            "evidence_count": 2
+            "text": "구역·사업 지정·계획·사업 승인·규제 완화 관련 움직임이 4건의 자료에서 반복됐다.",
+            "evidence_count": 4
           }
         ],
         "note": "",
@@ -207,8 +207,8 @@
     },
     {
       "topic": "상권·골목경제·생활권",
-      "count": 95,
-      "trend_label": "직전 동일기간보다 104건 감소",
+      "count": 101,
+      "trend_label": "직전 동일기간보다 98건 감소",
       "analyzed_count": 15,
       "summary": {
         "points": [
@@ -216,11 +216,6 @@
             "label": "공간·생활권",
             "text": "상권 변화·지역소멸가 15건의 자료에서 공간 변화의 핵심으로 나타났다.",
             "evidence_count": 15
-          },
-          {
-            "label": "사업·공급",
-            "text": "정비 추진·사업 추진 흐름이 2건의 자료에서 확인됐다.",
-            "evidence_count": 2
           }
         ],
         "note": "",
@@ -255,8 +250,8 @@
     },
     {
       "topic": "토지·부동산시장",
-      "count": 48,
-      "trend_label": "직전 동일기간보다 17건 증가",
+      "count": 50,
+      "trend_label": "직전 동일기간보다 19건 증가",
       "analyzed_count": 15,
       "summary": {
         "points": [
@@ -272,7 +267,7 @@
           },
           {
             "label": "정책·제도",
-            "text": "관리 강화·지원 확대·계획·사업 승인 관련 움직임이 5건의 자료에서 반복됐다.",
+            "text": "관리 강화·지원 확대·구역·사업 지정 관련 움직임이 5건의 자료에서 반복됐다.",
             "evidence_count": 5
           }
         ],
@@ -280,6 +275,18 @@
         "topic": "토지·부동산시장"
       },
       "examples": [
+        {
+          "title": "[부동산 손품노트] '닥공' 발표보다 정비사업 일정표 확인하라 … 서울 집값 핵심변수 총정리",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBOZTB5MEp1Yk9wZ2p5MVJWYzEyellvOUhhT0Nna1E3NmlSeWl0YVlUYnd4cmtQY3hOaUpCN1MtZmRaSEV4cEhQNk5EcDdRUUhkZzJDNGQzU3U?oc=5",
+          "source": "매일경제",
+          "date": "2026-11-15"
+        },
+        {
+          "title": "서울시, 신통기획 재개발 후보지 6곳 토지거래허가구역 지정",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBGQk5OQ2c1MUFBUEQ2S19USkZBVFNCM0RvUFpRR2pLaldBNHVwRlVhaU9rQkZqYVBRUnlTUkcwNW9sbU4zQnJMRTk1SjMybFFSLXVVV0ozeTVoUQ?oc=5",
+          "source": "브릿지경제",
+          "date": "2026-11-15"
+        },
         {
           "title": "한화갤러리아, 명품관 재건축·부동산 신사업 '바쁘다'",
           "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1wUnh6aXlBRS0ycnp5MWpOTmVRaldrS0ZnQ2RocmJRWkN1TUpXMktfVU5DQ0JSVEpiZFBhTWdfZEo0R0prRWtrMm51Z3VZSGhubnFmcjlHdzRMN1g1amU0SHRDVXRwcGF3REk0?oc=5",
@@ -291,18 +298,6 @@
           "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9RVGs1aWFJaHNhUFd3d1dZQjdPRm9aN3hEOXdYLTJTWWY2NUpIU0pMWFFQLWl6OWJCQTQwQzl0MmZUQ3hIZ24wZklTaF9nX0M5SjdpRFJQbGQzZUdibzhxQjVTcEtHNl9KSzdMOQ?oc=5",
           "source": "파이낸스투데이",
           "date": "2026-11-13"
-        },
-        {
-          "title": "대림삼거리역세권 장기전세주택 재개발, 추진위 승인…동의율 68.21%",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBpUFpBZWxVcFFvdmp1eXVsNkV3Y0daRXY3dnF6ODdJUHhrLTFNbm5nRjhidk1qTGRKd1M0bXNELURCR05aWFB2TzBGb3BLajhweFRKTGZySVFLOUptel9kdzBCODQ3RVkx?oc=5",
-          "source": "디벨로퍼뉴스",
-          "date": "2026-11-13"
-        },
-        {
-          "title": "노들역세권에 최고 42층 938세대…장기전세주택 224세대 공급",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5KVkNUVk13ZU1IaTJwMjhQc1J1Ykxkb0Mtd3lGX0dJbnQwU25lYzQ4VFo1YmdXQjNPS2h4QmpUM3gtNGtIMk1mWWdhdkZDMU9GbGZfS3ZB?oc=5",
-          "source": "어반톡",
-          "date": "2026-11-12"
         }
       ]
     },
@@ -404,15 +399,15 @@
     },
     {
       "topic": "지역소멸·균형발전",
-      "count": 21,
-      "trend_label": "직전 동일기간보다 4건 증가",
+      "count": 22,
+      "trend_label": "직전 동일기간보다 5건 증가",
       "analyzed_count": 15,
       "summary": {
         "points": [
           {
             "label": "공간·생활권",
-            "text": "지역소멸가 4건의 자료에서 공간 변화의 핵심으로 나타났다.",
-            "evidence_count": 4
+            "text": "지역소멸가 5건의 자료에서 공간 변화의 핵심으로 나타났다.",
+            "evidence_count": 5
           },
           {
             "label": "정책·제도",
@@ -421,7 +416,7 @@
           },
           {
             "label": "사업·공급",
-            "text": "사업 추진 흐름이 3건의 자료에서 확인됐다.",
+            "text": "사업 추진·기능·기업 유치 흐름이 3건의 자료에서 확인됐다.",
             "evidence_count": 3
           }
         ],
@@ -448,9 +443,9 @@
           "date": "2026-11-12"
         },
         {
-          "title": "경기도, 경기북부 조직 통합안… “균형발전 사업 위축될라”",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8zWWU2bEt2cDRZa0xFYjNMc3Vjc1FITTNuaHpTRk1GaHdGdUFwTUtDZV9SSTd6UGcydDBndFNwUzNEWDJGWnNtbzY4Z2ZwTHZpX1E?oc=5",
-          "source": "경인일보",
+          "title": "정원으로 지방소멸 넘는다…곡성군·전남광주통합특별시, ‘2031 국제정원박람회’ 유치 손잡아",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5YaWpPRENJVUNPdUx1OXZXZlZybkZUQlBqZWJ1N0E4R0dzeEtCSlRZcnlSUHRkS0Z2c1Buc1hKRmVwWjJEZVNRZTZRY1hhQ1ZLUWh0UkNERC15RXE0RmJDWnJzTWxsdjA4?oc=5",
+          "source": "녹색경제신문",
           "date": "2026-11-12"
         }
       ]
@@ -507,8 +502,8 @@
   "monthly": [
     {
       "topic": "재건축·재개발·정비사업",
-      "count": 1828,
-      "trend_label": "직전 동일기간보다 592건 증가",
+      "count": 1842,
+      "trend_label": "직전 동일기간보다 606건 증가",
       "analyzed_count": 15,
       "summary": {
         "points": [
@@ -555,8 +550,8 @@
     },
     {
       "topic": "철도·광역교통·역세권",
-      "count": 1169,
-      "trend_label": "직전 동일기간보다 210건 증가",
+      "count": 1171,
+      "trend_label": "직전 동일기간보다 212건 증가",
       "analyzed_count": 15,
       "summary": {
         "points": [
@@ -564,11 +559,6 @@
             "label": "공간·생활권",
             "text": "철도축 변화·교통체계 변화·역세권 재편가 15건의 자료에서 공간 변화의 핵심으로 나타났다.",
             "evidence_count": 15
-          },
-          {
-            "label": "사업·공급",
-            "text": "계획 수립 흐름이 2건의 자료에서 확인됐다.",
-            "evidence_count": 2
           }
         ],
         "note": "",
@@ -582,29 +572,29 @@
           "date": "2026-10-31"
         },
         {
+          "title": "GTX·경기남부광역철도 운명 갈린다… 경기도 철도 연말 판가름",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE52cHdYdWZvb0YtR3c5YTd0U2ZqaVg4eEQ0NU1MNDhsWXdLcHJZN2JZd0xfSEM0bWJZdXI0SllUcVZ2Y2toSkpZZEVZN21oYTc2elJWUFJpWnpoYzg4WWUwVDJ6aUdBZHZHem44aXVB?oc=5",
+          "source": "중부일보",
+          "date": "2026-11-15"
+        },
+        {
+          "title": "대구 도시철도, 수능날 오전 6~8시 12회 증편 운행",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9VRjFkTlI2R25GNjVWamNidjN4LWhYenJ0d2I0UkJIQlRkMU1WYkhkd1RScWlOTEt1M1RPamozNzFuQWpmYkNKYzZDZWhRUHY0dUhtNklwMlhqTjBCazNWM1lpaWpoQzVMbkNXRG5IMA?oc=5",
+          "source": "경북일보",
+          "date": "2026-11-15"
+        },
+        {
           "title": "[금주의 시흥시] 신천신림선·GTX-C 오이도 연장 반영 총력…철도 확충 필요성 강조 外",
           "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9vbjZaSTJwQ2h0MzlGVjRiNWNHYlhPZFRPd3dPaER3VXpyZUNjelVXNnAxXzBBaVdqbi1Ka3dwU0Z0cTE0RzVfSHNUcFpRODBtaTNPbGc0MVk4THlDQVFaa0dTS1d3allYclBOZTJTMA?oc=5",
           "source": "중부일보",
-          "date": "2026-11-13"
-        },
-        {
-          "title": "[현장] 박찬대 “인천 철도망 이중 소외”…국가계획에 GTX 등 반영 촉구",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5mS0lsc0lqcXFlM05Da3pmZG5wZFozbGJUZFBmQzl5U1VlYm00ckItaWF6anY0RFI4aExMWVplV1NqVXF2Q2xIU2pONGZyUUxicDNhTVBqRDNpX3hXS1VFZ1JKUXRzYmJTOTJSMFRjQUs?oc=5",
-          "source": "인천일보",
-          "date": "2026-11-13"
-        },
-        {
-          "title": "술 취해 도시철도 멈추게 하고 승용차 훔친 러시아 선원 검거",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9UVzd3WldydlVKaGpSaG5MRjBXMmZwRmt3UllkeDRfZ3oxaUltdy0xdUZkWWRuR0QwNnNfS1Bpc2dkLXhRMlJIeTdpYkNaempzazFfR0V6ZU5BemhPUzZSYWZaZ25CWHJqVExEV2ZJNnlqMmwz?oc=5",
-          "source": "연합뉴스 한민족센터",
           "date": "2026-11-13"
         }
       ]
     },
     {
       "topic": "국토계획·용도지역·규제",
-      "count": 871,
-      "trend_label": "직전 동일기간보다 98건 증가",
+      "count": 878,
+      "trend_label": "직전 동일기간보다 105건 증가",
       "analyzed_count": 15,
       "summary": {
         "points": [
@@ -656,15 +646,15 @@
     },
     {
       "topic": "도시재생·빈집·원도심",
-      "count": 774,
-      "trend_label": "직전 동일기간보다 74건 감소",
+      "count": 781,
+      "trend_label": "직전 동일기간보다 67건 감소",
       "analyzed_count": 15,
       "summary": {
         "points": [
           {
             "label": "공간·생활권",
-            "text": "빈집 관리가 5건의 자료에서 공간 변화의 핵심으로 나타났다.",
-            "evidence_count": 5
+            "text": "빈집 관리가 6건의 자료에서 공간 변화의 핵심으로 나타났다.",
+            "evidence_count": 6
           },
           {
             "label": "정책·제도",
@@ -704,8 +694,8 @@
     },
     {
       "topic": "상권·골목경제·생활권",
-      "count": 663,
-      "trend_label": "직전 동일기간보다 127건 증가",
+      "count": 669,
+      "trend_label": "직전 동일기간보다 133건 증가",
       "analyzed_count": 15,
       "summary": {
         "points": [
@@ -747,15 +737,15 @@
     },
     {
       "topic": "토지·부동산시장",
-      "count": 246,
-      "trend_label": "직전 동일기간보다 143건 증가",
+      "count": 248,
+      "trend_label": "직전 동일기간보다 145건 증가",
       "analyzed_count": 15,
       "summary": {
         "points": [
           {
             "label": "사업·공급",
-            "text": "정비 추진·공급 확대·계획 수립 흐름이 11건의 자료에서 확인됐다.",
-            "evidence_count": 11
+            "text": "정비 추진·공급 확대·계획 수립 흐름이 10건의 자료에서 확인됐다.",
+            "evidence_count": 10
           },
           {
             "label": "공간·생활권",
@@ -764,14 +754,20 @@
           },
           {
             "label": "정책·제도",
-            "text": "관리 강화·지원 확대·계획·사업 승인 관련 움직임이 4건의 자료에서 반복됐다.",
-            "evidence_count": 4
+            "text": "구역·사업 지정·계획·사업 승인·관리 강화 관련 움직임이 3건의 자료에서 반복됐다.",
+            "evidence_count": 3
           }
         ],
         "note": "",
         "topic": "토지·부동산시장"
       },
       "examples": [
+        {
+          "title": "[부동산 손품노트] '닥공' 발표보다 정비사업 일정표 확인하라 … 서울 집값 핵심변수 총정리",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBOZTB5MEp1Yk9wZ2p5MVJWYzEyellvOUhhT0Nna1E3NmlSeWl0YVlUYnd4cmtQY3hOaUpCN1MtZmRaSEV4cEhQNk5EcDdRUUhkZzJDNGQzU3U?oc=5",
+          "source": "매일경제",
+          "date": "2026-11-15"
+        },
         {
           "title": "[부동산돋보기] 재건축 늦추면 ‘공급 차질’, 서두르면 ‘전세난’…서울의 딜레마",
           "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9yYXd6OHFNbGtYZ1hGNTQ5c01LS3ZiSmkyOVZhb2VsYUx5RHg4dW9XYk1HZWlRc0Zhc25TQnpQdDdEQ2lscFJrVmpnR19tWmtTMTUwMW82SkNoTndyU3JEQjhwUGtVZDFpNHk4?oc=5",
@@ -789,12 +785,6 @@
           "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBEb2Q4YlJET2FielJ2SktKWEJGNjVvSUxGcjRhMHRXQ3FRYmFldGdIQ005cmJ2dnBPaF9YV1VRbUxreXJYLU1IZDBPMUZneXZOaWMxQ0p3V1dlUU91RUg0enlET2FLTy1hdHfSAW9BVV95cUxPZW5iTWlSdVlsUjVnQ3FyS3ZOTUJpeE01cGJkYkVtLU9SUUF0eTlkbDMtbjVZaUtqeUN6OGJELXJGQ1poQnZyU0FQZnQ5LVZpdTI0c2htX04xUFpvdlBiajFtcmtreXhxVEFYZ0toVXM?oc=5",
           "source": "머니투데이",
           "date": "2026-10-19"
-        },
-        {
-          "title": "한화갤러리아, 명품관 재건축·부동산 신사업 '바쁘다'",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1wUnh6aXlBRS0ycnp5MWpOTmVRaldrS0ZnQ2RocmJRWkN1TUpXMktfVU5DQ0JSVEpiZFBhTWdfZEo0R0prRWtrMm51Z3VZSGhubnFmcjlHdzRMN1g1amU0SHRDVXRwcGF3REk0?oc=5",
-          "source": "뉴스저널리즘",
-          "date": "2026-11-14"
         }
       ]
     },
@@ -901,15 +891,15 @@
     },
     {
       "topic": "지역소멸·균형발전",
-      "count": 69,
-      "trend_label": "직전 동일기간보다 12건 감소",
+      "count": 70,
+      "trend_label": "직전 동일기간보다 11건 감소",
       "analyzed_count": 15,
       "summary": {
         "points": [
           {
             "label": "공간·생활권",
-            "text": "지역소멸가 4건의 자료에서 공간 변화의 핵심으로 나타났다.",
-            "evidence_count": 4
+            "text": "지역소멸가 5건의 자료에서 공간 변화의 핵심으로 나타났다.",
+            "evidence_count": 5
           },
           {
             "label": "정책·제도",
@@ -918,7 +908,7 @@
           },
           {
             "label": "사업·공급",
-            "text": "사업 추진 흐름이 3건의 자료에서 확인됐다.",
+            "text": "사업 추진·기능·기업 유치 흐름이 3건의 자료에서 확인됐다.",
             "evidence_count": 3
           }
         ],
@@ -945,9 +935,9 @@
           "date": "2026-11-12"
         },
         {
-          "title": "경기도, 경기북부 조직 통합안… “균형발전 사업 위축될라”",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8zWWU2bEt2cDRZa0xFYjNMc3Vjc1FITTNuaHpTRk1GaHdGdUFwTUtDZV9SSTd6UGcydDBndFNwUzNEWDJGWnNtbzY4Z2ZwTHZpX1E?oc=5",
-          "source": "경인일보",
+          "title": "정원으로 지방소멸 넘는다…곡성군·전남광주통합특별시, ‘2031 국제정원박람회’ 유치 손잡아",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5YaWpPRENJVUNPdUx1OXZXZlZybkZUQlBqZWJ1N0E4R0dzeEtCSlRZcnlSUHRkS0Z2c1Buc1hKRmVwWjJEZVNRZTZRY1hhQ1ZLUWh0UkNERC15RXE0RmJDWnJzTWxsdjA4?oc=5",
+          "source": "녹색경제신문",
           "date": "2026-11-12"
         }
       ]
@@ -1004,7 +994,7 @@
   "yearly": [
     {
       "topic": "재건축·재개발·정비사업",
-      "count": 7901,
+      "count": 7915,
       "trend_label": "최근 1년 누적",
       "analyzed_count": 15,
       "summary": {
@@ -1052,7 +1042,7 @@
     },
     {
       "topic": "철도·광역교통·역세권",
-      "count": 5586,
+      "count": 5588,
       "trend_label": "최근 1년 누적",
       "analyzed_count": 15,
       "summary": {
@@ -1100,7 +1090,7 @@
     },
     {
       "topic": "국토계획·용도지역·규제",
-      "count": 4386,
+      "count": 4393,
       "trend_label": "최근 1년 누적",
       "analyzed_count": 15,
       "summary": {
@@ -1153,7 +1143,7 @@
     },
     {
       "topic": "도시재생·빈집·원도심",
-      "count": 4263,
+      "count": 4270,
       "trend_label": "최근 1년 누적",
       "analyzed_count": 15,
       "summary": {
@@ -1165,8 +1155,8 @@
           },
           {
             "label": "정책·제도",
-            "text": "관리 강화·지원 확대 관련 움직임이 3건의 자료에서 반복됐다.",
-            "evidence_count": 3
+            "text": "관리 강화·지원 확대 관련 움직임이 4건의 자료에서 반복됐다.",
+            "evidence_count": 4
           }
         ],
         "note": "",
@@ -1201,7 +1191,7 @@
     },
     {
       "topic": "상권·골목경제·생활권",
-      "count": 2759,
+      "count": 2765,
       "trend_label": "최근 1년 누적",
       "analyzed_count": 15,
       "summary": {
@@ -1297,7 +1287,7 @@
     },
     {
       "topic": "토지·부동산시장",
-      "count": 973,
+      "count": 975,
       "trend_label": "최근 1년 누적",
       "analyzed_count": 15,
       "summary": {
@@ -1311,12 +1301,23 @@
             "label": "공간·생활권",
             "text": "빈집 관리·역세권 재편가 6건의 자료에서 공간 변화의 핵심으로 나타났다.",
             "evidence_count": 6
+          },
+          {
+            "label": "사업·공급",
+            "text": "정비 추진·공급 확대 흐름이 2건의 자료에서 확인됐다.",
+            "evidence_count": 2
           }
         ],
         "note": "",
         "topic": "토지·부동산시장"
       },
       "examples": [
+        {
+          "title": "[부동산 손품노트] '닥공' 발표보다 정비사업 일정표 확인하라 … 서울 집값 핵심변수 총정리",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBOZTB5MEp1Yk9wZ2p5MVJWYzEyellvOUhhT0Nna1E3NmlSeWl0YVlUYnd4cmtQY3hOaUpCN1MtZmRaSEV4cEhQNk5EcDdRUUhkZzJDNGQzU3U?oc=5",
+          "source": "매일경제",
+          "date": "2026-11-15"
+        },
         {
           "title": "[부동산돋보기] 재건축 늦추면 ‘공급 차질’, 서두르면 ‘전세난’…서울의 딜레마",
           "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9yYXd6OHFNbGtYZ1hGNTQ5c01LS3ZiSmkyOVZhb2VsYUx5RHg4dW9XYk1HZWlRc0Zhc25TQnpQdDdEQ2lscFJrVmpnR19tWmtTMTUwMW82SkNoTndyU3JEQjhwUGtVZDFpNHk4?oc=5",
@@ -1334,12 +1335,6 @@
           "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBEb2Q4YlJET2FielJ2SktKWEJGNjVvSUxGcjRhMHRXQ3FRYmFldGdIQ005cmJ2dnBPaF9YV1VRbUxreXJYLU1IZDBPMUZneXZOaWMxQ0p3V1dlUU91RUg0enlET2FLTy1hdHfSAW9BVV95cUxPZW5iTWlSdVlsUjVnQ3FyS3ZOTUJpeE01cGJkYkVtLU9SUUF0eTlkbDMtbjVZaUtqeUN6OGJELXJGQ1poQnZyU0FQZnQ5LVZpdTI0c2htX04xUFpvdlBiajFtcmtreXhxVEFYZ0toVXM?oc=5",
           "source": "머니투데이",
           "date": "2026-10-19"
-        },
-        {
-          "title": "부동산 정책 시행 1년…\"부산 빈집 넘치고 전세난 심화\" |",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1rLVV3TkJoX0h5eE9mempXLUtSb3BoVjZWUjJGTURUWm1tSWc2T1NyWThPSTZXVjNNNURrTGNxQ1dhMDEwNjdrNExDeS1IZGExYVJuVHpUcGJaWU9XdUkyeGxiWkg2V1U4MTJsS0xoVjJKRUpuWWc?oc=5",
-          "source": "LG헬로비전",
-          "date": "2026-10-16"
         }
       ]
     },
@@ -1446,7 +1441,7 @@
     },
     {
       "topic": "지역소멸·균형발전",
-      "count": 485,
+      "count": 486,
       "trend_label": "최근 1년 누적",
       "analyzed_count": 15,
       "summary": {
@@ -1457,13 +1452,13 @@
             "evidence_count": 10
           },
           {
-            "label": "정책·제도",
-            "text": "새 제도 도입·관리 강화 관련 움직임이 2건의 자료에서 반복됐다.",
-            "evidence_count": 2
+            "label": "사업·공급",
+            "text": "공간·시설 조성·기능·기업 유치 흐름이 3건의 자료에서 확인됐다.",
+            "evidence_count": 3
           },
           {
-            "label": "사업·공급",
-            "text": "공간·시설 조성 흐름이 2건의 자료에서 확인됐다.",
+            "label": "정책·제도",
+            "text": "새 제도 도입·관리 강화 관련 움직임이 2건의 자료에서 반복됐다.",
             "evidence_count": 2
           }
         ],
