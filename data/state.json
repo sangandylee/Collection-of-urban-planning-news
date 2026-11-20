@@ -1,8 +1,8 @@
 {
   "complete": true,
-  "completed_at": "2026-11-20T12:49:12.503689+09:00",
+  "completed_at": "2026-11-20T19:44:42.191881+09:00",
   "coverage": {
-    "items": 29732,
+    "items": 29823,
     "oldest": "2025-11-21",
     "newest": "2026-11-20",
     "days_covered": 365,
