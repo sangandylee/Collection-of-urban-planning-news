@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-11-24 15:39 KST",
+  "updated_at": "2026-11-24 22:06 KST",
   "coverage": {
-    "items": 30531,
+    "items": 30640,
     "oldest": "2025-11-25",
     "newest": "2026-11-24",
     "days_covered": 365,
@@ -10,20 +10,20 @@
   "weekly": [
     {
       "topic": "재건축·재개발·정비사업",
-      "count": 483,
-      "trend_label": "직전 동일기간보다 45건 증가",
+      "count": 502,
+      "trend_label": "직전 동일기간보다 62건 증가",
       "analyzed_count": 15,
       "summary": {
         "points": [
           {
             "label": "사업·공급",
-            "text": "정비 추진·사업 추진 흐름이 10건의 자료에서 확인됐다.",
-            "evidence_count": 10
+            "text": "정비 추진·사업 추진 흐름이 8건의 자료에서 확인됐다.",
+            "evidence_count": 8
           },
           {
             "label": "정책·제도",
-            "text": "제도 시행·구역·사업 지정 관련 움직임이 5건의 자료에서 반복됐다.",
-            "evidence_count": 5
+            "text": "제도 시행·구역·사업 지정 관련 움직임이 6건의 자료에서 반복됐다.",
+            "evidence_count": 6
           }
         ],
         "note": "",
@@ -31,9 +31,21 @@
       },
       "examples": [
         {
+          "title": "분당 푸른마을, 재건축 설명회… 내년 3월 사업시행자 지정",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4tNG0yZkh2OFhyczFJWGF3MHpfT2lTbXFvS1daVWFsN2JMNTZoT0hDWnUyMU9TQm9ZdVRackR1SHpieTRNSFM2S2doSnpUS2dsclV5SURVamYxbF9nQzJXTC1SaEN3empa?oc=5",
+          "source": "한국주택경제신문",
+          "date": "2026-11-24"
+        },
+        {
           "title": "서울 재개발·재건축 조합설립 최단 112일로 단축",
           "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBIWWtjOWNHNXpzdm90Qm1QTVN6ODk1U0pSX1J0Zm0xRFd5QlE0SDcyTmtPaWJrN2UtOWtiRkw4NktyT2JLMHoxQjNWbUpLOWFaY1Vrd3l5Zm0wVTJ2THJXT0RqeXI?oc=5",
           "source": "매일일보",
+          "date": "2026-11-24"
+        },
+        {
+          "title": "서울시 \"3년 반 걸리던 재개발·재건축 조합설립, 112일로 단축돼\"",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1NTVBTRWh1emRsRVRnMmphMnYxNmJCME9DaVBEbktvOFlBV2VpN0I2aHFrVEpCUGxCTjVMczUzLVNpdEN5U3VCRW9ITHhBV1BJYW5uald4al9SV1p3RnU4eUZGcw?oc=5",
+          "source": "더구루",
           "date": "2026-11-24"
         },
         {
@@ -41,25 +53,13 @@
           "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBTbGV0TmpjdjVjQlltNXg1Mk03WG1LSjRpVWRjTWRaZ0F6Wk5xaEphS2lWLWNyT3N1aHhaWHRhcWNERVNJNVJvT2lRLXpmdlFpTE1nN1AzVlFMZnNKY1NOVjVHUkx2ZzViZ2ZIa2xCekg?oc=5",
           "source": "Investing.com 한국어",
           "date": "2026-11-24"
-        },
-        {
-          "title": "구월4동구역 재개발조합 추진위원회 정비사업전문관리업자 선정 입찰공고",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9XVUFPZGU4VjhuY1RtV3l4OWNPY3FRS3lXNEF0bVlfbjF2R1BJa1E0RnV0eUVFSy1ZUXlOXy1JZ3B0aUxuOWxCOVA3UUlOaU5CQ3pISXUxcFpjWEJfWjlFQVBaTnJGNkd5?oc=5",
-          "source": "한국주택경제신문",
-          "date": "2026-11-23"
-        },
-        {
-          "title": "여의도 수정아파트 재건축조합 정비사업전문관리업자 선정 입찰공고",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1Xbk5hYWlNV2R5bDRpYnJIS1JDUG9rTmNBSk9ORXNRSXNCRHd4cWNnVGFuS1ZUc2d5S2cwRXN5eUk3R3libzlOelgtZVlxdTBTV1kyU3plZ2lQZWx0LUJzYXFkc0RFVkFR?oc=5",
-          "source": "한국주택경제신문",
-          "date": "2026-11-23"
         }
       ]
     },
     {
       "topic": "철도·광역교통·역세권",
-      "count": 264,
-      "trend_label": "직전 동일기간보다 18건 감소",
+      "count": 288,
+      "trend_label": "직전 동일기간보다 4건 증가",
       "analyzed_count": 15,
       "summary": {
         "points": [
@@ -106,20 +106,20 @@
     },
     {
       "topic": "도시재생·빈집·원도심",
-      "count": 204,
-      "trend_label": "직전 동일기간보다 31건 증가",
+      "count": 216,
+      "trend_label": "직전 동일기간보다 41건 증가",
       "analyzed_count": 15,
       "summary": {
         "points": [
           {
-            "label": "공간·생활권",
-            "text": "빈집 관리가 6건의 자료에서 공간 변화의 핵심으로 나타났다.",
+            "label": "정책·제도",
+            "text": "사업 공모·지원 확대 관련 움직임이 6건의 자료에서 반복됐다.",
             "evidence_count": 6
           },
           {
-            "label": "정책·제도",
-            "text": "지원 확대·사업 공모 관련 움직임이 3건의 자료에서 반복됐다.",
-            "evidence_count": 3
+            "label": "공간·생활권",
+            "text": "빈집 관리·역세권 재편가 4건의 자료에서 공간 변화의 핵심으로 나타났다.",
+            "evidence_count": 4
           }
         ],
         "note": "",
@@ -133,6 +133,12 @@
           "date": "2026-11-24"
         },
         {
+          "title": "2026년 인천 원도심 활성화 도시재생 공모사업 7곳 성과 공유",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5ibGtTaUM3VVZvYlo4THZsN0tobHVTR3RJWkJvRGxKM0tTM3NkbTE5eDBNVVRfc0paTFNPWUhncVIxM2dLV3R1RmhvaTlSQjNoRU03alp4aDVvUjRsbXZZ?oc=5",
+          "source": "자치의정브리핑",
+          "date": "2026-11-24"
+        },
+        {
           "title": "인천시 도시재생지원센터, 2026년 원도심 활성화 공모사업 성과공유회 개최",
           "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5kbGZEei13Z2EyQVBPb0tEUnhQR0FPOHVXNHZpSnkxT3F1QWFuTHB5d3A1bFNhXzNLdEF4XzFSWlRsbEtMSUJocjJMSUpGMGo4WDlGT1dmSHhmSGtJTEdkUEVCSC1JQU1FdEpfMVgtdw?oc=5",
           "source": "인천뉴스",
@@ -143,31 +149,30 @@
           "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9LMHVhYXhkWVc5LUIybGpMY0JfNl85VWx5TE9BRWpoTlJSU0FrclJWZTlNT01XQnlOci1IbGpqbTBwcm01ZDQ1akZNd2RIRk95RXdXcGVTMW9sUDhSU3RUS3IxVHRXeFd2YUN6U2xHTDRMSjQ?oc=5",
           "source": "오늘경제",
           "date": "2026-11-24"
-        },
-        {
-          "title": "인천시 도시재생지원센터, 원도심 활성화 공모사업 성과공유회",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0teWtyTFhfQjE2cHc0RkIyaU9uMlRRZld1dF9aSnVGOEw4cHB5YUdaTDMxckJqalBTWTJyQjJuMktNWjlJTEVqcFB6QmtIOVlhOFRsZ1hxdkpXbjlZcHNkdHl3Z2dIVW1CSEE?oc=5",
-          "source": "미디어인천신문",
-          "date": "2026-11-24"
         }
       ]
     },
     {
       "topic": "국토계획·용도지역·규제",
-      "count": 152,
-      "trend_label": "직전 동일기간보다 31건 감소",
+      "count": 167,
+      "trend_label": "직전 동일기간보다 17건 감소",
       "analyzed_count": 15,
       "summary": {
         "points": [
           {
             "label": "사업·공급",
-            "text": "계획 수립·정비 추진·공급 확대 흐름이 10건의 자료에서 확인됐다.",
-            "evidence_count": 10
+            "text": "계획 수립·정비 추진·사업 추진 흐름이 8건의 자료에서 확인됐다.",
+            "evidence_count": 8
           },
           {
             "label": "공간·생활권",
             "text": "개발밀도 변화가 5건의 자료에서 공간 변화의 핵심으로 나타났다.",
             "evidence_count": 5
+          },
+          {
+            "label": "갈등·리스크",
+            "text": "법적 분쟁·이해관계자 갈등·사업 지연 위험이 2건의 자료에서 반복적으로 제기됐다.",
+            "evidence_count": 2
           }
         ],
         "note": "",
@@ -202,8 +207,8 @@
     },
     {
       "topic": "상권·골목경제·생활권",
-      "count": 126,
-      "trend_label": "직전 동일기간보다 17건 감소",
+      "count": 136,
+      "trend_label": "직전 동일기간보다 7건 감소",
       "analyzed_count": 15,
       "summary": {
         "points": [
@@ -214,14 +219,26 @@
           },
           {
             "label": "정책·제도",
-            "text": "지원 확대·관리 강화·법령 개정 관련 움직임이 4건의 자료에서 반복됐다.",
-            "evidence_count": 4
+            "text": "구역·사업 지정·관리 강화·지원 확대 관련 움직임이 6건의 자료에서 반복됐다.",
+            "evidence_count": 6
           }
         ],
         "note": "",
         "topic": "상권·골목경제·생활권"
       },
       "examples": [
+        {
+          "title": "진주시의회 연구회, 전통시장·골목상권 상생 과제 도출",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5CNEkxZDl2N25EOVlNTG1sR2VheXU3Q1hoM2x4VFJTVl96MTJfM203OHJBSnh3OG5zRGxwWDZVelRoaE1ON1dtTnNmbEVzUU13cDlpZmlxbFN0MC1pQWtlclFmQkJzMURWYnNZ?oc=5",
+          "source": "경남미디어",
+          "date": "2026-11-24"
+        },
+        {
+          "title": "진주시의회 지역경제 활성화 연구회, 전통시장·골목상권 상생 방안 제시",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9YaXJPNXZJOGNhX3RhdUJOMEgwRXo0MnFySzJSWjIyTWNDSEhpRXZaVnVfVHhRY1JmMEMwMUNrMm12cy1lTGNDak95OXdsbWFvdy15YjN6bDBhX1dOdkhFaE43RVFzTVBi?oc=5",
+          "source": "경남뉴스",
+          "date": "2026-11-24"
+        },
         {
           "title": "[2026 행정사무감사] 강남구의회 박대용 의원 \"전통시장·골목상권 사업 총체적 난맥상\"…일회성 행사부터 수의계약 개선 주문",
           "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5mejllNDYtRWtLMzN6SmVKREVxeXlrU3JjYWI0RWNDaDNMWnZMMTlHbXo1c1hXVy1OWEk2bUhXdDRhTFpQQUFJT2xZYmhDeE1faUFJdVVwaEhqcklocnZWOGJRMFlXU0pHTk5V?oc=5",
@@ -233,42 +250,30 @@
           "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBVZE1iN3J2ZlVkVk9TRERMQWViWXNwd0ZpbnNXQzdiZEVhbldLU0E5eFZfWlBRRmZqTkZ0bnhpQ1RkSmdyeXZybjM3YW9fbXVBWjQxNA?oc=5",
           "source": "성광일보",
           "date": "2026-11-20"
-        },
-        {
-          "title": "미추홀구의회 안재훈 의원, 전통시장·골목상권 화재 예방 및 활성화 촉구",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5ib2lEVnZTX19tcGJjcy1xZkVkTms1TEVXWVJoYVNFSm1OdVBWdDh3NllTWVlEd19KSUZaZ0k2RUxZZXA1QW5lc0ZJbzlGRTZlMVVRam1OWlZCOHlYTmtLQ2xhMC1KTmdOSklqWDVB?oc=5",
-          "source": "현대일보",
-          "date": "2026-11-19"
-        },
-        {
-          "title": "안재훈 미추홀구의원 \"겨울철 전통시장·골목상권 화재 예방 강화\"",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9zazdoZjBTaEtpMTJKdExlT0d5M3N1c1Q5NnFWWXBrSnJ0RXh5aktIVlk0S3U5a3dScUxiTUYzbHhWcDd0bm5FVVpackpJZDBDamp2M1RBQXZyU01Sb0E1QkdCTV95NFBXN0Fja3lveXc?oc=5",
-          "source": "인천투데이",
-          "date": "2026-11-19"
         }
       ]
     },
     {
       "topic": "주택공급·공공주택",
-      "count": 39,
-      "trend_label": "직전 동일기간보다 1건 증가",
+      "count": 51,
+      "trend_label": "직전 동일기간보다 12건 증가",
       "analyzed_count": 15,
       "summary": {
         "points": [
           {
-            "label": "사업·공급",
-            "text": "공급 확대·정비 추진·기능·기업 유치 흐름이 8건의 자료에서 확인됐다.",
+            "label": "공간·생활권",
+            "text": "역세권 재편·교통체계 변화·철도축 변화가 8건의 자료에서 공간 변화의 핵심으로 나타났다.",
             "evidence_count": 8
           },
           {
             "label": "정책·제도",
-            "text": "사업 공모·구역·사업 지정·법령 개정 관련 움직임이 5건의 자료에서 반복됐다.",
-            "evidence_count": 5
+            "text": "사업 공모·지원 확대·구역·사업 지정 관련 움직임이 7건의 자료에서 반복됐다.",
+            "evidence_count": 7
           },
           {
-            "label": "공간·생활권",
-            "text": "교통체계 변화·철도축 변화·역세권 재편가 4건의 자료에서 공간 변화의 핵심으로 나타났다.",
-            "evidence_count": 4
+            "label": "사업·공급",
+            "text": "공급 확대·계획 수립·기능·기업 유치 흐름이 6건의 자료에서 확인됐다.",
+            "evidence_count": 6
           }
         ],
         "note": "",
@@ -282,6 +287,12 @@
           "date": "2026-11-22"
         },
         {
+          "title": "양주·남양주·포천, 대규모 택지·철도망 확충 건의…수도권 주택공급 확대 조건",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBDU1NrbmZxYlkwajVGSVkyRDRJTXRaRWFOaDRnZENLTFUwQzJuX2JXa043c1ZmUjB2UGJwZnIzcC1EU0xVdHlyWGdtMC15a3R0YzE1RzRoSG5tMVRFZ1d5SnhzQQ?oc=5",
+          "source": "쿠키뉴스",
+          "date": "2026-11-21"
+        },
+        {
           "title": "백영현 시장, 소흘역세권 공공주택지구 지정·GTX-G 반영 건의",
           "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB1UkhINlBPOFp1RXY4dTRmcVZWYXdia19VLWZWd3NwYlNSMU8tX240bVNlYTc4cVpmMmRBUG1JVjBJczgtbVNDYnpLcDRQXzN0aF9YX2c3UU1qS2VsMmw1Mnd4ZTFYZw?oc=5",
           "source": "포천일보",
@@ -291,12 +302,6 @@
           "title": "최원용 평택시장, 홍지선 국토부 장관 만나 광역교통·공공주택·철도유휴부지 협의",
           "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9ibjFGTlNVY3R4WVZBeTkwX015anlhTU9kNU54SHlxTllMVGpTenhoMEZoRTh2blppVEEwd3NEXzFqTDlzV2hPajJWSXJkblAxMjc0Y1J6RlluMkxzbmFFTlpnWFo5bk1XSGc?oc=5",
           "source": "인천일보",
-          "date": "2026-11-24"
-        },
-        {
-          "title": "화성특례시, 송산그린시티 산업 용지 9필지 우선 분양…미래차·바이오 기업 유치",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBXd2w0aHJBV3kyRHExWkswbWxvUkI1azNROHp3QVVoLW9OUFFBeXIwYjcwbzRjOHFhRkZvZWV0RklsTk9SMnphRkhkU09VOFp5U0VmRVM5NmNBSDRaY1EyUmNQMnl2dFBBYTM3eWhn?oc=5",
-          "source": "뉴스후플러스",
           "date": "2026-11-24"
         }
       ]
@@ -356,16 +361,11 @@
     },
     {
       "topic": "지역소멸·균형발전",
-      "count": 22,
-      "trend_label": "직전 동일기간보다 15건 감소",
+      "count": 25,
+      "trend_label": "직전 동일기간보다 14건 감소",
       "analyzed_count": 15,
       "summary": {
         "points": [
-          {
-            "label": "공간·생활권",
-            "text": "인구 변화·지역소멸·상권 변화가 4건의 자료에서 공간 변화의 핵심으로 나타났다.",
-            "evidence_count": 4
-          },
           {
             "label": "사업·공급",
             "text": "계획 수립·공간·시설 조성·사업 추진 흐름이 3건의 자료에서 확인됐다.",
@@ -394,30 +394,83 @@
           "date": "2026-11-24"
         },
         {
-          "title": "전남광주통합특별시의회 박필순 시의원, 전남광주통합특별시 첫 예산안에 쓴소리…해외사무소·첨단산업·균형발전 전략 보완 촉구",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBYUVo4WUZ6bkJhVE5mYWlWQmFERWNDd2hvTVlMUXU5Szc3aWlfeWlqVnhtM2daQVRpQVhIdEZkVHVGOWtTLVE1TXV2eW82cHpjYkF1dQ?oc=5",
-          "source": "시사의창",
-          "date": "2026-11-23"
+          "title": "[여의도 칼럼]문화에도 ‘균형발전’이 필요하다",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9yZGhDOTE5Y0hmZGlDUkFCYWZ3N2dLWHhmSnpkYmF0VHpKeEJxaWRzOUxmdGtRSENYUjR5WEZuRW94OVFQVTN3T2pYZWpqX19KdG9xWVQ2TlpHOXBpRm1MV2kxa3F3clU3Yl96cm1fX0XSAXBBVV95cUxPcmRoQzkxOWNIZmRpQ1JBQmFmdzdnS1h4Zkp6ZGJhdFR6SnhCcWlkczlMZnRrUUhDWFI0eVhGbkVveDlRUFUzd09qWGVqal9fSnRvcVlUNk5aRzlwaUZtTFdpMWtxd3JVN2JfenJtX19F?oc=5",
+          "source": "남도일보",
+          "date": "2026-11-24"
         },
         {
-          "title": "광주도시공사 노조 “시의회 ‘지역균형발전 조례안’은 통합공사 청사 외곽 이전 노린 정치적 포석” 강력 반발",
-          "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBONmxkenduWE14bkNRYnJSeE5UT0JyekdyTG4yODd5WDk3Vm1oRzlTZkJCWnl0ZklJbEduTVVKTVpPQQ?oc=5",
-          "source": "브레이크뉴스",
+          "title": "노성환 경북도의원, 남부권 균형발전·농어촌 현안 해결 위한 정책 대안 촉구",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE96ZXN4cV9TcF9fajRGQ25vOHAyVFlVaTljMGFzMzA0SGYxR18yWnZFaVBhbS03Q3B2UWtacW5rNVpwRFdIYjQtOHBqdlFGQ0hXcmFnN05xc0RWaXBDT09GcFVVel9fbWN0MXY1Zk9nSTJmZw?oc=5",
+          "source": "프라임경제",
           "date": "2026-11-23"
         }
       ]
     },
     {
-      "topic": "도시안전·재난 대응",
-      "count": 14,
-      "trend_label": "직전 동일기간보다 1건 증가",
-      "analyzed_count": 14,
+      "topic": "산업단지·지역산업 전환",
+      "count": 16,
+      "trend_label": "직전 동일기간보다 4건 감소",
+      "analyzed_count": 15,
       "summary": {
         "points": [
           {
             "label": "공간·생활권",
-            "text": "상권 변화·철도축 변화·교통체계 변화가 10건의 자료에서 공간 변화의 핵심으로 나타났다.",
+            "text": "산업입지 변화가 10건의 자료에서 공간 변화의 핵심으로 나타났다.",
             "evidence_count": 10
+          },
+          {
+            "label": "사업·공급",
+            "text": "공급 확대 흐름이 9건의 자료에서 확인됐다.",
+            "evidence_count": 9
+          },
+          {
+            "label": "정책·제도",
+            "text": "사업 공모·지원 확대 관련 움직임이 4건의 자료에서 반복됐다.",
+            "evidence_count": 4
+          }
+        ],
+        "note": "",
+        "topic": "산업단지·지역산업 전환"
+      },
+      "examples": [
+        {
+          "title": "화성시, 송산그린시티 국가산업단지 산업시설용지 우선 분양 추천 공모",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE95d1NidUJuM2Y5YVUtZjNQMDY2a3NuVjNtLVNyTExicVltVjhNREVPR0lPSENON1ZYVExEUF9Lbjhmd2d0aTAxaWVzR3hoeExWQWlGMkUxcjZzTzViNEhsZmFwTDA?oc=5",
+          "source": "매일일보",
+          "date": "2026-11-24"
+        },
+        {
+          "title": "최현덕 남양주시장 “왕숙 첨단산업단지 중심으로 기업 성장·일자리 창출 이끌 것”",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE84YktYRVdMa0l4RUpqekpNZFQ0ZVNVQ0E0RkRQOXBqM3VxaE5CRmZQN1I3T0dFRnN5bHNZaW50b3NjeGJ5RkI1TnRsS0hFeXczSVBNWm5vWFVqaGlrMzM0LUhBNlQydw?oc=5",
+          "source": "열린뉴스통신",
+          "date": "2026-11-19"
+        },
+        {
+          "title": "화성 송산그린시티 국가산단 9필지 공급",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9xS3Q1Q0ZzSGNxak1OaWxaNzlJWllBTV91WW40RlBfMFZMMktIUEdaV1Fta0ZUaG5OeWhhWnJweUlLREdrdTVjdmFGaEhuUlhTZFVETS12NmdtT3JxTl92UEhQcXJJQlcz?oc=5",
+          "source": "일간경기",
+          "date": "2026-11-24"
+        },
+        {
+          "title": "화성특례시, 송산그린시티 국가산단 9필지 우선 분양…미래차·바이오 기업 대상",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9Kc2VCNWtsb0ozREhrWUZfTUJVaHZNSC1IMGxEckJxa1FRb3Z3aWxvb3UzMk05VkNFdl9ocVFLY0JxdTMyZTZLMkdhZE51bDZyYS1lb0VxcG11dw?oc=5",
+          "source": "데일리엔뉴스",
+          "date": "2026-11-24"
+        }
+      ]
+    },
+    {
+      "topic": "도시안전·재난 대응",
+      "count": 15,
+      "trend_label": "직전 동일기간보다 2건 증가",
+      "analyzed_count": 15,
+      "summary": {
+        "points": [
+          {
+            "label": "공간·생활권",
+            "text": "상권 변화·철도축 변화·교통체계 변화가 11건의 자료에서 공간 변화의 핵심으로 나타났다.",
+            "evidence_count": 11
           },
           {
             "label": "안전·환경",
@@ -435,6 +488,12 @@
       },
       "examples": [
         {
+          "title": "\"빈 점포 채운 로컬 브랜드, 원도심에 새 숨결 불어넣다\"… 순천시상권활성화재단 정기이사회 개최",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5PcTgxbWhPWnhMQUpGcFBWUWhhUERqTWMwZFBmNUllLVRtOF9SeFJON0loSDlpMnhydEpQeEo1OFlPNjlvX1NfdUZYRV8xSGZuSG80MHdfcU5sdFI2bFF5Y1FVdUo3SzBRa0E?oc=5",
+          "source": "비즈월드",
+          "date": "2026-11-24"
+        },
+        {
           "title": "구리시상권활성화재단, ‘와구리 페스타’ 마무리…12개 상권 순회",
           "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9hMDVwdFdLQkF4OXVBeEY1c0xrenZqUWVIcW0xZW1pOTQwblZSaXFPUml0enFuNV9uUjNPQU5HRzUtOHgtUkV3cWg0aUhLMlZaM00zZ1IwOU9DUVJrMmt3UFRodVRBN2tQVGY2d0R3?oc=5",
           "source": "포커스경제",
@@ -451,65 +510,6 @@
           "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBCNDZZYU1NbmJIaWh2dlZlQlpHSGNKNlRjeUFWbmtLbURkU2hsRmpqOTZSR2tPZllYMHo4ZEpRT3FDSjZEbEdIMUt4b1hVZU1ZMzcwQQ?oc=5",
           "source": "시사의창",
           "date": "2026-11-23"
-        },
-        {
-          "title": "(재)순천시상권활성화재단, 2026년 정기이사회 개최 > 뉴스",
-          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1ZVnFOMzBLdldNNUxidVg5TXhrVlp2LS1lTWlOWFA0Tkw5Rl9pVmNxVGRKRy1YM0t5bmhKUm1oaEVkUjlsbl93MklsWQ?oc=5",
-          "source": "더코리아",
-          "date": "2026-11-23"
-        }
-      ]
-    },
-    {
-      "topic": "산업단지·지역산업 전환",
-      "count": 12,
-      "trend_label": "직전 동일기간보다 7건 감소",
-      "analyzed_count": 12,
-      "summary": {
-        "points": [
-          {
-            "label": "사업·공급",
-            "text": "공급 확대·사업 추진 흐름이 9건의 자료에서 확인됐다.",
-            "evidence_count": 9
-          },
-          {
-            "label": "공간·생활권",
-            "text": "산업입지 변화·역세권 재편가 9건의 자료에서 공간 변화의 핵심으로 나타났다.",
-            "evidence_count": 9
-          },
-          {
-            "label": "정책·제도",
-            "text": "사업 공모·지원 확대 관련 움직임이 2건의 자료에서 반복됐다.",
-            "evidence_count": 2
-          }
-        ],
-        "note": "",
-        "topic": "산업단지·지역산업 전환"
-      },
-      "examples": [
-        {
-          "title": "최현덕 남양주시장 “왕숙 첨단산업단지 중심으로 기업 성장·일자리 창출 이끌 것”",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE84YktYRVdMa0l4RUpqekpNZFQ0ZVNVQ0E0RkRQOXBqM3VxaE5CRmZQN1I3T0dFRnN5bHNZaW50b3NjeGJ5RkI1TnRsS0hFeXczSVBNWm5vWFVqaGlrMzM0LUhBNlQydw?oc=5",
-          "source": "열린뉴스통신",
-          "date": "2026-11-19"
-        },
-        {
-          "title": "화성 송산그린시티 국가산단 9필지 공급",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9xS3Q1Q0ZzSGNxak1OaWxaNzlJWllBTV91WW40RlBfMFZMMktIUEdaV1Fta0ZUaG5OeWhhWnJweUlLREdrdTVjdmFGaEhuUlhTZFVETS12NmdtT3JxTl92UEhQcXJJQlcz?oc=5",
-          "source": "일간경기",
-          "date": "2026-11-24"
-        },
-        {
-          "title": "GH, 산업단지 용지 16필지 공급…가격 15% 할인",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE85N1FFdGJsenVYRTV2endVd3FqVDBLNy1hWDFvZ3I3UjJfWE1JUlNxTWpJNWdfODhHQkF3X0xDckFCM3JJeW01emNuUkk5d2czS0g4ZmRPcGtjZw?oc=5",
-          "source": "한국경제",
-          "date": "2026-11-23"
-        },
-        {
-          "title": "GH, 파주·안성·동두천 4개 산업단지에 16필지 공급... 12월 2일 온라인 입찰",
-          "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBSVWZoNEpqbm9xZXlTOGIzQk80MFhPNjBTS0hhY2VhVDNGeGxjNjZmY09FMWNPaUJHMU1lYXhFZ2c0Y2M?oc=5",
-          "source": "인디포커스",
-          "date": "2026-11-23"
         }
       ]
     }
@@ -517,20 +517,20 @@
   "monthly": [
     {
       "topic": "재건축·재개발·정비사업",
-      "count": 2179,
-      "trend_label": "직전 동일기간보다 911건 증가",
+      "count": 2200,
+      "trend_label": "직전 동일기간보다 932건 증가",
       "analyzed_count": 15,
       "summary": {
         "points": [
           {
             "label": "정책·제도",
-            "text": "제도 시행·구역·사업 지정·관리 강화 관련 움직임이 9건의 자료에서 반복됐다.",
+            "text": "제도 시행·구역·사업 지정 관련 움직임이 9건의 자료에서 반복됐다.",
             "evidence_count": 9
           },
           {
             "label": "사업·공급",
-            "text": "정비 추진·계획 수립·사업 추진 흐름이 9건의 자료에서 확인됐다.",
-            "evidence_count": 9
+            "text": "정비 추진·계획 수립·사업 추진 흐름이 7건의 자료에서 확인됐다.",
+            "evidence_count": 7
           }
         ],
         "note": "",
@@ -556,17 +556,17 @@
           "date": "2026-10-26"
         },
         {
-          "title": "서울 재개발·재건축 조합설립 최단 112일로 단축",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBIWWtjOWNHNXpzdm90Qm1QTVN6ODk1U0pSX1J0Zm0xRFd5QlE0SDcyTmtPaWJrN2UtOWtiRkw4NktyT2JLMHoxQjNWbUpLOWFaY1Vrd3l5Zm0wVTJ2THJXT0RqeXI?oc=5",
-          "source": "매일일보",
+          "title": "분당 푸른마을, 재건축 설명회… 내년 3월 사업시행자 지정",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4tNG0yZkh2OFhyczFJWGF3MHpfT2lTbXFvS1daVWFsN2JMNTZoT0hDWnUyMU9TQm9ZdVRackR1SHpieTRNSFM2S2doSnpUS2dsclV5SURVamYxbF9nQzJXTC1SaEN3empa?oc=5",
+          "source": "한국주택경제신문",
           "date": "2026-11-24"
         }
       ]
     },
     {
       "topic": "철도·광역교통·역세권",
-      "count": 1268,
-      "trend_label": "직전 동일기간보다 177건 증가",
+      "count": 1294,
+      "trend_label": "직전 동일기간보다 203건 증가",
       "analyzed_count": 15,
       "summary": {
         "points": [
@@ -613,8 +613,8 @@
     },
     {
       "topic": "국토계획·용도지역·규제",
-      "count": 902,
-      "trend_label": "직전 동일기간보다 86건 증가",
+      "count": 918,
+      "trend_label": "직전 동일기간보다 102건 증가",
       "analyzed_count": 15,
       "summary": {
         "points": [
@@ -666,15 +666,15 @@
     },
     {
       "topic": "도시재생·빈집·원도심",
-      "count": 850,
-      "trend_label": "직전 동일기간보다 16건 감소",
+      "count": 864,
+      "trend_label": "직전 동일기간보다 2건 감소",
       "analyzed_count": 15,
       "summary": {
         "points": [
           {
             "label": "정책·제도",
-            "text": "지원 확대·사업 공모·관리 강화 관련 움직임이 6건의 자료에서 반복됐다.",
-            "evidence_count": 6
+            "text": "사업 공모·지원 확대·관리 강화 관련 움직임이 7건의 자료에서 반복됐다.",
+            "evidence_count": 7
           },
           {
             "label": "공간·생활권",
@@ -693,6 +693,12 @@
           "date": "2026-11-24"
         },
         {
+          "title": "2026년 인천 원도심 활성화 도시재생 공모사업 7곳 성과 공유",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5ibGtTaUM3VVZvYlo4THZsN0tobHVTR3RJWkJvRGxKM0tTM3NkbTE5eDBNVVRfc0paTFNPWUhncVIxM2dLV3R1RmhvaTlSQjNoRU03alp4aDVvUjRsbXZZ?oc=5",
+          "source": "자치의정브리핑",
+          "date": "2026-11-24"
+        },
+        {
           "title": "인천시 도시재생지원센터, 2026년 원도심 활성화 공모사업 성과공유회 개최",
           "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5kbGZEei13Z2EyQVBPb0tEUnhQR0FPOHVXNHZpSnkxT3F1QWFuTHB5d3A1bFNhXzNLdEF4XzFSWlRsbEtMSUJocjJMSUpGMGo4WDlGT1dmSHhmSGtJTEdkUEVCSC1JQU1FdEpfMVgtdw?oc=5",
           "source": "인천뉴스",
@@ -703,19 +709,13 @@
           "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9LMHVhYXhkWVc5LUIybGpMY0JfNl85VWx5TE9BRWpoTlJSU0FrclJWZTlNT01XQnlOci1IbGpqbTBwcm01ZDQ1akZNd2RIRk95RXdXcGVTMW9sUDhSU3RUS3IxVHRXeFd2YUN6U2xHTDRMSjQ?oc=5",
           "source": "오늘경제",
           "date": "2026-11-24"
-        },
-        {
-          "title": "인천시 도시재생지원센터, 원도심 활성화 공모사업 성과공유회",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0teWtyTFhfQjE2cHc0RkIyaU9uMlRRZld1dF9aSnVGOEw4cHB5YUdaTDMxckJqalBTWTJyQjJuMktNWjlJTEVqcFB6QmtIOVlhOFRsZ1hxdkpXbjlZcHNkdHl3Z2dIVW1CSEE?oc=5",
-          "source": "미디어인천신문",
-          "date": "2026-11-24"
         }
       ]
     },
     {
       "topic": "상권·골목경제·생활권",
-      "count": 739,
-      "trend_label": "직전 동일기간보다 206건 증가",
+      "count": 749,
+      "trend_label": "직전 동일기간보다 216건 증가",
       "analyzed_count": 15,
       "summary": {
         "points": [
@@ -726,14 +726,26 @@
           },
           {
             "label": "정책·제도",
-            "text": "지원 확대·관리 강화·법령 개정 관련 움직임이 4건의 자료에서 반복됐다.",
-            "evidence_count": 4
+            "text": "지원 확대·관리 강화·법령 개정 관련 움직임이 3건의 자료에서 반복됐다.",
+            "evidence_count": 3
           }
         ],
         "note": "",
         "topic": "상권·골목경제·생활권"
       },
       "examples": [
+        {
+          "title": "진주시의회 연구회, 전통시장·골목상권 상생 과제 도출",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5CNEkxZDl2N25EOVlNTG1sR2VheXU3Q1hoM2x4VFJTVl96MTJfM203OHJBSnh3OG5zRGxwWDZVelRoaE1ON1dtTnNmbEVzUU13cDlpZmlxbFN0MC1pQWtlclFmQkJzMURWYnNZ?oc=5",
+          "source": "경남미디어",
+          "date": "2026-11-24"
+        },
+        {
+          "title": "진주시의회 지역경제 활성화 연구회, 전통시장·골목상권 상생 방안 제시",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9YaXJPNXZJOGNhX3RhdUJOMEgwRXo0MnFySzJSWjIyTWNDSEhpRXZaVnVfVHhRY1JmMEMwMUNrMm12cy1lTGNDak95OXdsbWFvdy15YjN6bDBhX1dOdkhFaE43RVFzTVBi?oc=5",
+          "source": "경남뉴스",
+          "date": "2026-11-24"
+        },
         {
           "title": "[2026 행정사무감사] 강남구의회 박대용 의원 \"전통시장·골목상권 사업 총체적 난맥상\"…일회성 행사부터 수의계약 개선 주문",
           "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5mejllNDYtRWtLMzN6SmVKREVxeXlrU3JjYWI0RWNDaDNMWnZMMTlHbXo1c1hXVy1OWEk2bUhXdDRhTFpQQUFJT2xZYmhDeE1faUFJdVVwaEhqcklocnZWOGJRMFlXU0pHTk5V?oc=5",
@@ -745,18 +757,6 @@
           "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBVZE1iN3J2ZlVkVk9TRERMQWViWXNwd0ZpbnNXQzdiZEVhbldLU0E5eFZfWlBRRmZqTkZ0bnhpQ1RkSmdyeXZybjM3YW9fbXVBWjQxNA?oc=5",
           "source": "성광일보",
           "date": "2026-11-20"
-        },
-        {
-          "title": "미추홀구의회 안재훈 의원, 전통시장·골목상권 화재 예방 및 활성화 촉구",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5ib2lEVnZTX19tcGJjcy1xZkVkTms1TEVXWVJoYVNFSm1OdVBWdDh3NllTWVlEd19KSUZaZ0k2RUxZZXA1QW5lc0ZJbzlGRTZlMVVRam1OWlZCOHlYTmtLQ2xhMC1KTmdOSklqWDVB?oc=5",
-          "source": "현대일보",
-          "date": "2026-11-19"
-        },
-        {
-          "title": "안재훈 미추홀구의원 \"겨울철 전통시장·골목상권 화재 예방 강화\"",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9zazdoZjBTaEtpMTJKdExlT0d5M3N1c1Q5NnFWWXBrSnJ0RXh5aktIVlk0S3U5a3dScUxiTUYzbHhWcDd0bm5FVVpackpJZDBDamp2M1RBQXZyU01Sb0E1QkdCTV95NFBXN0Fja3lveXc?oc=5",
-          "source": "인천투데이",
-          "date": "2026-11-19"
         }
       ]
     },
@@ -815,25 +815,25 @@
     },
     {
       "topic": "주택공급·공공주택",
-      "count": 178,
-      "trend_label": "직전 동일기간보다 12건 감소",
+      "count": 191,
+      "trend_label": "직전 동일기간보다 1건 증가",
       "analyzed_count": 15,
       "summary": {
         "points": [
           {
             "label": "공간·생활권",
-            "text": "역세권 재편·산업입지 변화·교통체계 변화가 13건의 자료에서 공간 변화의 핵심으로 나타났다.",
+            "text": "역세권 재편·교통체계 변화·개발밀도 변화가 13건의 자료에서 공간 변화의 핵심으로 나타났다.",
             "evidence_count": 13
           },
           {
-            "label": "정책·제도",
-            "text": "구역·사업 지정·지원 확대·사업 공모 관련 움직임이 6건의 자료에서 반복됐다.",
+            "label": "사업·공급",
+            "text": "공급 확대·사업 추진·공간·시설 조성 흐름이 6건의 자료에서 확인됐다.",
             "evidence_count": 6
           },
           {
-            "label": "사업·공급",
-            "text": "공급 확대·사업 추진·공간·시설 조성 흐름이 5건의 자료에서 확인됐다.",
-            "evidence_count": 5
+            "label": "정책·제도",
+            "text": "구역·사업 지정·지원 확대·사업 공모 관련 움직임이 4건의 자료에서 반복됐다.",
+            "evidence_count": 4
           }
         ],
         "note": "",
@@ -847,6 +847,12 @@
           "date": "2026-11-22"
         },
         {
+          "title": "양주·남양주·포천, 대규모 택지·철도망 확충 건의…수도권 주택공급 확대 조건",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBDU1NrbmZxYlkwajVGSVkyRDRJTXRaRWFOaDRnZENLTFUwQzJuX2JXa043c1ZmUjB2UGJwZnIzcC1EU0xVdHlyWGdtMC15a3R0YzE1RzRoSG5tMVRFZ1d5SnhzQQ?oc=5",
+          "source": "쿠키뉴스",
+          "date": "2026-11-21"
+        },
+        {
           "title": "백영현 시장, 소흘역세권 공공주택지구 지정·GTX-G 반영 건의",
           "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB1UkhINlBPOFp1RXY4dTRmcVZWYXdia19VLWZWd3NwYlNSMU8tX240bVNlYTc4cVpmMmRBUG1JVjBJczgtbVNDYnpLcDRQXzN0aF9YX2c3UU1qS2VsMmw1Mnd4ZTFYZw?oc=5",
           "source": "포천일보",
@@ -857,26 +863,20 @@
           "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAwc0hSaGFEbDdSSHRVbnl0MjRIa05CblV4ZUd1MUJZbmFWNERtM05qQVRwbElnVTRoeTlEc2s2akV6S00zSHNZYkswWnVNMHB5SGV4cjV0RmQwVjRBeGxjdE5JTnhBeHpwRDlOXzhQcXRvbVRP?oc=5",
           "source": "대한경제",
           "date": "2026-11-17"
-        },
-        {
-          "title": "도심공공주택복합사업, 용적률 높이고 현물보상 승계 허용",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE16LUhTOEJkWFhuQVkzUEpKLXhlNUxfOGhsUEhSVUFkeXdmUGNBaW1YVjU5TWJFYXpiT1Axb2lKNlU2RzQwUmRpQmFtWUZndEVYMktRNEFQZHNROHYzTG95a0ktVGJBZVZFNl9ldVptRTN5OFE?oc=5",
-          "source": "하우징헤럴드",
-          "date": "2026-11-13"
         }
       ]
     },
     {
       "topic": "컴팩트시티·미래도시",
-      "count": 134,
-      "trend_label": "직전 동일기간보다 27건 증가",
+      "count": 135,
+      "trend_label": "직전 동일기간보다 28건 증가",
       "analyzed_count": 15,
       "summary": {
         "points": [
           {
             "label": "공간·생활권",
-            "text": "교통체계 변화가 5건의 자료에서 공간 변화의 핵심으로 나타났다.",
-            "evidence_count": 5
+            "text": "교통체계 변화·철도축 변화가 6건의 자료에서 공간 변화의 핵심으로 나타났다.",
+            "evidence_count": 6
           },
           {
             "label": "사업·공급",
@@ -888,6 +888,12 @@
         "topic": "컴팩트시티·미래도시"
       },
       "examples": [
+        {
+          "title": "[인터뷰] 사공명 철도연 원장 \"하이퍼튜브, 남들 달린 뒤 시작하면 늦다\"",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB3Uy1OZXhOUnQ5b2xPZXpWUmVBUU9DUW1GelE4eG9reS1URjh3X0lsRl9VMUE3VHZLTXdpZzRtRDFWTUxGTUVEV082SWVmYm9zbEhlU0U0TVhUQkplMjVxX3ln?oc=5",
+          "source": "매일신문",
+          "date": "2026-11-24"
+        },
         {
           "title": "제주, 관광형 UAM 상용화 준비 본격화…도의회 시선은 싸늘",
           "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5TSDFTM0lienJ2Y192ZDYzYmkxd1VqcFpsV3cyTnBYbzFIR1E2R1VYeUtDaGhUbHFsY1ZzemN0ZFIwTkxDbnpDRmJzWHVNMS1JNUJxRGdHdlZZaElGLXpMS2pBUFdVeGZmV01qOEFneXR4MGM?oc=5",
@@ -905,27 +911,16 @@
           "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBkb3oyUkRob01VNnRXR0QwaTBLV3RNQ09iTW9xVFhvLVM4cWxoZnVFbjZpbHY2eWt3RU9icDhjc3ZGYnp4RDZpc25fRG1fbFR2RGZUbDBGdmM5OE5jazJFdkJNZlB1MDVkRlEyUkdB?oc=5",
           "source": "제주투데이",
           "date": "2026-11-19"
-        },
-        {
-          "title": "성산포항에 UAM 이·착륙장 조성, 내년 상반기까지 용역",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9jbWlTVnh2S2NxZDNXY2x3eU5Sd0FIaU40MUhPRmsxblVvSzdZZFB0X2JYTUN2bXlsYjJOY3M1a0NDTHpIRjh2bEdOcWZZYkV4ajBBd2FnZ1M1QVVud1hYS1lTR2wxYkc4Q0g4?oc=5",
-          "source": "제주의소리",
-          "date": "2026-11-19"
         }
       ]
     },
     {
       "topic": "지역소멸·균형발전",
-      "count": 99,
-      "trend_label": "직전 동일기간보다 14건 증가",
+      "count": 104,
+      "trend_label": "직전 동일기간보다 19건 증가",
       "analyzed_count": 15,
       "summary": {
         "points": [
-          {
-            "label": "공간·생활권",
-            "text": "인구 변화·지역소멸·상권 변화가 4건의 자료에서 공간 변화의 핵심으로 나타났다.",
-            "evidence_count": 4
-          },
           {
             "label": "사업·공급",
             "text": "계획 수립·공간·시설 조성·사업 추진 흐름이 3건의 자료에서 확인됐다.",
@@ -954,23 +949,23 @@
           "date": "2026-11-24"
         },
         {
-          "title": "전남광주통합특별시의회 박필순 시의원, 전남광주통합특별시 첫 예산안에 쓴소리…해외사무소·첨단산업·균형발전 전략 보완 촉구",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBYUVo4WUZ6bkJhVE5mYWlWQmFERWNDd2hvTVlMUXU5Szc3aWlfeWlqVnhtM2daQVRpQVhIdEZkVHVGOWtTLVE1TXV2eW82cHpjYkF1dQ?oc=5",
-          "source": "시사의창",
-          "date": "2026-11-23"
+          "title": "[여의도 칼럼]문화에도 ‘균형발전’이 필요하다",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9yZGhDOTE5Y0hmZGlDUkFCYWZ3N2dLWHhmSnpkYmF0VHpKeEJxaWRzOUxmdGtRSENYUjR5WEZuRW94OVFQVTN3T2pYZWpqX19KdG9xWVQ2TlpHOXBpRm1MV2kxa3F3clU3Yl96cm1fX0XSAXBBVV95cUxPcmRoQzkxOWNIZmRpQ1JBQmFmdzdnS1h4Zkp6ZGJhdFR6SnhCcWlkczlMZnRrUUhDWFI0eVhGbkVveDlRUFUzd09qWGVqal9fSnRvcVlUNk5aRzlwaUZtTFdpMWtxd3JVN2JfenJtX19F?oc=5",
+          "source": "남도일보",
+          "date": "2026-11-24"
         },
         {
-          "title": "광주도시공사 노조 “시의회 ‘지역균형발전 조례안’은 통합공사 청사 외곽 이전 노린 정치적 포석” 강력 반발",
-          "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBONmxkenduWE14bkNRYnJSeE5UT0JyekdyTG4yODd5WDk3Vm1oRzlTZkJCWnl0ZklJbEduTVVKTVpPQQ?oc=5",
-          "source": "브레이크뉴스",
+          "title": "노성환 경북도의원, 남부권 균형발전·농어촌 현안 해결 위한 정책 대안 촉구",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE96ZXN4cV9TcF9fajRGQ25vOHAyVFlVaTljMGFzMzA0SGYxR18yWnZFaVBhbS03Q3B2UWtacW5rNVpwRFdIYjQtOHBqdlFGQ0hXcmFnN05xc0RWaXBDT09GcFVVel9fbWN0MXY1Zk9nSTJmZw?oc=5",
+          "source": "프라임경제",
           "date": "2026-11-23"
         }
       ]
     },
     {
       "topic": "공업지역·산업단지 제도",
-      "count": 71,
-      "trend_label": "직전 동일기간보다 10건 증가",
+      "count": 74,
+      "trend_label": "직전 동일기간보다 13건 증가",
       "analyzed_count": 15,
       "summary": {
         "points": [
@@ -981,8 +976,13 @@
           },
           {
             "label": "사업·공급",
-            "text": "사업 추진·계획 수립·공간·시설 조성 흐름이 11건의 자료에서 확인됐다.",
-            "evidence_count": 11
+            "text": "공간·시설 조성·사업 추진·계획 수립 흐름이 10건의 자료에서 확인됐다.",
+            "evidence_count": 10
+          },
+          {
+            "label": "정책·제도",
+            "text": "사업 공모·규제 완화 관련 움직임이 2건의 자료에서 반복됐다.",
+            "evidence_count": 2
           }
         ],
         "note": "",
@@ -996,6 +996,12 @@
           "date": "2026-11-06"
         },
         {
+          "title": "화성시, 송산그린시티 국가산업단지 산업시설용지 우선 분양 추천 공모",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE95d1NidUJuM2Y5YVUtZjNQMDY2a3NuVjNtLVNyTExicVltVjhNREVPR0lPSENON1ZYVExEUF9Lbjhmd2d0aTAxaWVzR3hoeExWQWlGMkUxcjZzTzViNEhsZmFwTDA?oc=5",
+          "source": "매일일보",
+          "date": "2026-11-24"
+        },
+        {
           "title": "유호준 의원, 왕숙도시첨단산업단지 로봇산업 거점화 주장",
           "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE14alJDMjlIaTVtRVNMbkQxZ2ZxM1dqUVRCXzRwMVFoa0Rpa0Q2UURUcUtBOHQwWXhGTEg4ZTNXOWoyUQ?oc=5",
           "source": "코리아투데이뉴스",
@@ -1006,12 +1012,6 @@
           "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBXTl9FR0RCSXNra1dUM0xLNVQ0WkIzQXVBZ0NOUXlXSEo5U3lnclkwYWtqV2dfTGgtdHlHNUxYVHR4UmJxRzlCeTFjOFJZTmxjMjFLelY2V01yaW5ERW5OUE5VNno?oc=5",
           "source": "뉴스Q",
           "date": "2026-11-17"
-        },
-        {
-          "title": "신상진 성남시장, 야탑밸리 도시첨단산업단지 추진…방산 AI 산업 육성",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9MWjFaSnZnQ2tyaVdGbHpXQVRDX0ZJVGR3NkRpbXB2RVpVU29kR2lyMzRMVWRrYllDSkhJdzJUbmtnN282bzhkSHVLYlM0aHZfcy1pUk5MUm55WWplMTl6dGozdFYxVldsRjMzQtIBcEFVX3lxTE1wdEtidjZvWjFPN1VwSjRkemRvdVFZeWlFc2JFZF96X3Z3MTBLNUVUbF84S2c0d01Ja2F1VW1oeGhscWZPb3MzcVo3N3VDeEF0V1dxTFoyVHZGNm1PYWUwdExkZi1paGtGVmdmN05ieGw?oc=5",
-          "source": "시민의소리",
-          "date": "2026-11-12"
         }
       ]
     }
@@ -1019,7 +1019,7 @@
   "yearly": [
     {
       "topic": "재건축·재개발·정비사업",
-      "count": 8548,
+      "count": 8569,
       "trend_label": "최근 1년 누적",
       "analyzed_count": 15,
       "summary": {
@@ -1067,7 +1067,7 @@
     },
     {
       "topic": "철도·광역교통·역세권",
-      "count": 5990,
+      "count": 6016,
       "trend_label": "최근 1년 누적",
       "analyzed_count": 15,
       "summary": {
@@ -1115,7 +1115,7 @@
     },
     {
       "topic": "국토계획·용도지역·규제",
-      "count": 4649,
+      "count": 4665,
       "trend_label": "최근 1년 누적",
       "analyzed_count": 15,
       "summary": {
@@ -1168,15 +1168,15 @@
     },
     {
       "topic": "도시재생·빈집·원도심",
-      "count": 4542,
+      "count": 4556,
       "trend_label": "최근 1년 누적",
       "analyzed_count": 15,
       "summary": {
         "points": [
           {
             "label": "정책·제도",
-            "text": "지원 확대·사업 공모·관리 강화 관련 움직임이 6건의 자료에서 반복됐다.",
-            "evidence_count": 6
+            "text": "사업 공모·지원 확대·관리 강화 관련 움직임이 7건의 자료에서 반복됐다.",
+            "evidence_count": 7
           },
           {
             "label": "공간·생활권",
@@ -1201,22 +1201,22 @@
           "date": "2026-08-31"
         },
         {
-          "title": "인천시 도시재생지원센터, 2026년 원도심 활성화 공모사업 성과공유회 개최",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5kbGZEei13Z2EyQVBPb0tEUnhQR0FPOHVXNHZpSnkxT3F1QWFuTHB5d3A1bFNhXzNLdEF4XzFSWlRsbEtMSUJocjJMSUpGMGo4WDlGT1dmSHhmSGtJTEdkUEVCSC1JQU1FdEpfMVgtdw?oc=5",
-          "source": "인천뉴스",
+          "title": "2026년 인천 원도심 활성화 도시재생 공모사업 7곳 성과 공유",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5ibGtTaUM3VVZvYlo4THZsN0tobHVTR3RJWkJvRGxKM0tTM3NkbTE5eDBNVVRfc0paTFNPWUhncVIxM2dLV3R1RmhvaTlSQjNoRU03alp4aDVvUjRsbXZZ?oc=5",
+          "source": "자치의정브리핑",
           "date": "2026-11-24"
         },
         {
-          "title": "인천도시공사, 원도심 활성화 7개 사업 성과 공개…빈집 쉼터·공동시설 운영",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9LMHVhYXhkWVc5LUIybGpMY0JfNl85VWx5TE9BRWpoTlJSU0FrclJWZTlNT01XQnlOci1IbGpqbTBwcm01ZDQ1akZNd2RIRk95RXdXcGVTMW9sUDhSU3RUS3IxVHRXeFd2YUN6U2xHTDRMSjQ?oc=5",
-          "source": "오늘경제",
+          "title": "인천시 도시재생지원센터, 2026년 원도심 활성화 공모사업 성과공유회 개최",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5kbGZEei13Z2EyQVBPb0tEUnhQR0FPOHVXNHZpSnkxT3F1QWFuTHB5d3A1bFNhXzNLdEF4XzFSWlRsbEtMSUJocjJMSUpGMGo4WDlGT1dmSHhmSGtJTEdkUEVCSC1JQU1FdEpfMVgtdw?oc=5",
+          "source": "인천뉴스",
           "date": "2026-11-24"
         }
       ]
     },
     {
       "topic": "상권·골목경제·생활권",
-      "count": 2981,
+      "count": 2991,
       "trend_label": "최근 1년 누적",
       "analyzed_count": 15,
       "summary": {
@@ -1228,14 +1228,26 @@
           },
           {
             "label": "정책·제도",
-            "text": "지원 확대·관리 강화·법령 개정 관련 움직임이 4건의 자료에서 반복됐다.",
-            "evidence_count": 4
+            "text": "지원 확대·관리 강화·법령 개정 관련 움직임이 3건의 자료에서 반복됐다.",
+            "evidence_count": 3
           }
         ],
         "note": "",
         "topic": "상권·골목경제·생활권"
       },
       "examples": [
+        {
+          "title": "진주시의회 연구회, 전통시장·골목상권 상생 과제 도출",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5CNEkxZDl2N25EOVlNTG1sR2VheXU3Q1hoM2x4VFJTVl96MTJfM203OHJBSnh3OG5zRGxwWDZVelRoaE1ON1dtTnNmbEVzUU13cDlpZmlxbFN0MC1pQWtlclFmQkJzMURWYnNZ?oc=5",
+          "source": "경남미디어",
+          "date": "2026-11-24"
+        },
+        {
+          "title": "진주시의회 지역경제 활성화 연구회, 전통시장·골목상권 상생 방안 제시",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9YaXJPNXZJOGNhX3RhdUJOMEgwRXo0MnFySzJSWjIyTWNDSEhpRXZaVnVfVHhRY1JmMEMwMUNrMm12cy1lTGNDak95OXdsbWFvdy15YjN6bDBhX1dOdkhFaE43RVFzTVBi?oc=5",
+          "source": "경남뉴스",
+          "date": "2026-11-24"
+        },
         {
           "title": "[2026 행정사무감사] 강남구의회 박대용 의원 \"전통시장·골목상권 사업 총체적 난맥상\"…일회성 행사부터 수의계약 개선 주문",
           "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5mejllNDYtRWtLMzN6SmVKREVxeXlrU3JjYWI0RWNDaDNMWnZMMTlHbXo1c1hXVy1OWEk2bUhXdDRhTFpQQUFJT2xZYmhDeE1faUFJdVVwaEhqcklocnZWOGJRMFlXU0pHTk5V?oc=5",
@@ -1247,41 +1259,29 @@
           "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBVZE1iN3J2ZlVkVk9TRERMQWViWXNwd0ZpbnNXQzdiZEVhbldLU0E5eFZfWlBRRmZqTkZ0bnhpQ1RkSmdyeXZybjM3YW9fbXVBWjQxNA?oc=5",
           "source": "성광일보",
           "date": "2026-11-20"
-        },
-        {
-          "title": "미추홀구의회 안재훈 의원, 전통시장·골목상권 화재 예방 및 활성화 촉구",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5ib2lEVnZTX19tcGJjcy1xZkVkTms1TEVXWVJoYVNFSm1OdVBWdDh3NllTWVlEd19KSUZaZ0k2RUxZZXA1QW5lc0ZJbzlGRTZlMVVRam1OWlZCOHlYTmtLQ2xhMC1KTmdOSklqWDVB?oc=5",
-          "source": "현대일보",
-          "date": "2026-11-19"
-        },
-        {
-          "title": "안재훈 미추홀구의원 \"겨울철 전통시장·골목상권 화재 예방 강화\"",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9zazdoZjBTaEtpMTJKdExlT0d5M3N1c1Q5NnFWWXBrSnJ0RXh5aktIVlk0S3U5a3dScUxiTUYzbHhWcDd0bm5FVVpackpJZDBDamp2M1RBQXZyU01Sb0E1QkdCTV95NFBXN0Fja3lveXc?oc=5",
-          "source": "인천투데이",
-          "date": "2026-11-19"
         }
       ]
     },
     {
       "topic": "주택공급·공공주택",
-      "count": 1134,
+      "count": 1147,
       "trend_label": "최근 1년 누적",
       "analyzed_count": 15,
       "summary": {
         "points": [
           {
             "label": "공간·생활권",
-            "text": "역세권 재편·산업입지 변화·교통체계 변화가 12건의 자료에서 공간 변화의 핵심으로 나타났다.",
+            "text": "역세권 재편·교통체계 변화·개발밀도 변화가 12건의 자료에서 공간 변화의 핵심으로 나타났다.",
             "evidence_count": 12
           },
           {
-            "label": "정책·제도",
-            "text": "구역·사업 지정·계획·사업 승인·지원 확대 관련 움직임이 6건의 자료에서 반복됐다.",
+            "label": "사업·공급",
+            "text": "공급 확대·사업 추진·계획 수립 흐름이 6건의 자료에서 확인됐다.",
             "evidence_count": 6
           },
           {
-            "label": "사업·공급",
-            "text": "공급 확대·사업 추진·계획 수립 흐름이 5건의 자료에서 확인됐다.",
+            "label": "정책·제도",
+            "text": "구역·사업 지정·계획·사업 승인·지원 확대 관련 움직임이 5건의 자료에서 반복됐다.",
             "evidence_count": 5
           }
         ],
@@ -1302,16 +1302,16 @@
           "date": "2026-11-22"
         },
         {
+          "title": "양주·남양주·포천, 대규모 택지·철도망 확충 건의…수도권 주택공급 확대 조건",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBDU1NrbmZxYlkwajVGSVkyRDRJTXRaRWFOaDRnZENLTFUwQzJuX2JXa043c1ZmUjB2UGJwZnIzcC1EU0xVdHlyWGdtMC15a3R0YzE1RzRoSG5tMVRFZ1d5SnhzQQ?oc=5",
+          "source": "쿠키뉴스",
+          "date": "2026-11-21"
+        },
+        {
           "title": "백영현 시장, 소흘역세권 공공주택지구 지정·GTX-G 반영 건의",
           "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB1UkhINlBPOFp1RXY4dTRmcVZWYXdia19VLWZWd3NwYlNSMU8tX240bVNlYTc4cVpmMmRBUG1JVjBJczgtbVNDYnpLcDRQXzN0aF9YX2c3UU1qS2VsMmw1Mnd4ZTFYZw?oc=5",
           "source": "포천일보",
           "date": "2026-11-19"
-        },
-        {
-          "title": "고양도시관리공사, 고양 창릉 공공주택지구 광역교통개선",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAwc0hSaGFEbDdSSHRVbnl0MjRIa05CblV4ZUd1MUJZbmFWNERtM05qQVRwbElnVTRoeTlEc2s2akV6S00zSHNZYkswWnVNMHB5SGV4cjV0RmQwVjRBeGxjdE5JTnhBeHpwRDlOXzhQcXRvbVRP?oc=5",
-          "source": "대한경제",
-          "date": "2026-11-17"
         }
       ]
     },
@@ -1370,15 +1370,15 @@
     },
     {
       "topic": "컴팩트시티·미래도시",
-      "count": 897,
+      "count": 898,
       "trend_label": "최근 1년 누적",
       "analyzed_count": 15,
       "summary": {
         "points": [
           {
             "label": "공간·생활권",
-            "text": "교통체계 변화가 5건의 자료에서 공간 변화의 핵심으로 나타났다.",
-            "evidence_count": 5
+            "text": "교통체계 변화·철도축 변화가 6건의 자료에서 공간 변화의 핵심으로 나타났다.",
+            "evidence_count": 6
           },
           {
             "label": "사업·공급",
@@ -1390,6 +1390,12 @@
         "topic": "컴팩트시티·미래도시"
       },
       "examples": [
+        {
+          "title": "[인터뷰] 사공명 철도연 원장 \"하이퍼튜브, 남들 달린 뒤 시작하면 늦다\"",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB3Uy1OZXhOUnQ5b2xPZXpWUmVBUU9DUW1GelE4eG9reS1URjh3X0lsRl9VMUE3VHZLTXdpZzRtRDFWTUxGTUVEV082SWVmYm9zbEhlU0U0TVhUQkplMjVxX3ln?oc=5",
+          "source": "매일신문",
+          "date": "2026-11-24"
+        },
         {
           "title": "제주, 관광형 UAM 상용화 준비 본격화…도의회 시선은 싸늘",
           "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5TSDFTM0lienJ2Y192ZDYzYmkxd1VqcFpsV3cyTnBYbzFIR1E2R1VYeUtDaGhUbHFsY1ZzemN0ZFIwTkxDbnpDRmJzWHVNMS1JNUJxRGdHdlZZaElGLXpMS2pBUFdVeGZmV01qOEFneXR4MGM?oc=5",
@@ -1407,18 +1413,12 @@
           "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBkb3oyUkRob01VNnRXR0QwaTBLV3RNQ09iTW9xVFhvLVM4cWxoZnVFbjZpbHY2eWt3RU9icDhjc3ZGYnp4RDZpc25fRG1fbFR2RGZUbDBGdmM5OE5jazJFdkJNZlB1MDVkRlEyUkdB?oc=5",
           "source": "제주투데이",
           "date": "2026-11-19"
-        },
-        {
-          "title": "성산포항에 UAM 이·착륙장 조성, 내년 상반기까지 용역",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9jbWlTVnh2S2NxZDNXY2x3eU5Sd0FIaU40MUhPRmsxblVvSzdZZFB0X2JYTUN2bXlsYjJOY3M1a0NDTHpIRjh2bEdOcWZZYkV4ajBBd2FnZ1M1QVVud1hYS1lTR2wxYkc4Q0g4?oc=5",
-          "source": "제주의소리",
-          "date": "2026-11-19"
         }
       ]
     },
     {
       "topic": "공업지역·산업단지 제도",
-      "count": 553,
+      "count": 556,
       "trend_label": "최근 1년 누적",
       "analyzed_count": 15,
       "summary": {
@@ -1471,15 +1471,15 @@
     },
     {
       "topic": "지역소멸·균형발전",
-      "count": 533,
+      "count": 538,
       "trend_label": "최근 1년 누적",
       "analyzed_count": 15,
       "summary": {
         "points": [
           {
             "label": "공간·생활권",
-            "text": "인구 변화·지역소멸·교통체계 변화가 7건의 자료에서 공간 변화의 핵심으로 나타났다.",
-            "evidence_count": 7
+            "text": "인구 변화·교통체계 변화·지역소멸가 6건의 자료에서 공간 변화의 핵심으로 나타났다.",
+            "evidence_count": 6
           },
           {
             "label": "사업·공급",
