@@ -1,17 +1,17 @@
 {
-  "updated_at": "2026-11-28 04:07 KST",
+  "updated_at": "2026-11-28 13:26 KST",
   "coverage": {
-    "items": 31416,
+    "items": 31472,
     "oldest": "2025-11-30",
-    "newest": "2026-11-27",
-    "days_covered": 363,
+    "newest": "2026-11-28",
+    "days_covered": 364,
     "complete": true
   },
   "weekly": [
     {
       "topic": "재건축·재개발·정비사업",
-      "count": 474,
-      "trend_label": "직전 동일기간보다 1건 감소",
+      "count": 489,
+      "trend_label": "직전 동일기간보다 14건 증가",
       "analyzed_count": 15,
       "summary": {
         "points": [
@@ -53,25 +53,20 @@
     },
     {
       "topic": "도시재생·빈집·원도심",
-      "count": 256,
-      "trend_label": "직전 동일기간보다 64건 증가",
+      "count": 268,
+      "trend_label": "직전 동일기간보다 76건 증가",
       "analyzed_count": 15,
       "summary": {
         "points": [
           {
             "label": "정책·제도",
-            "text": "지원 확대·사업 공모 관련 움직임이 7건의 자료에서 반복됐다.",
+            "text": "사업 공모·지원 확대 관련 움직임이 7건의 자료에서 반복됐다.",
             "evidence_count": 7
           },
           {
             "label": "공간·생활권",
             "text": "빈집 관리가 5건의 자료에서 공간 변화의 핵심으로 나타났다.",
             "evidence_count": 5
-          },
-          {
-            "label": "사업·공급",
-            "text": "사업 준공·공간·시설 조성·사업 추진 흐름이 2건의 자료에서 확인됐다.",
-            "evidence_count": 2
           }
         ],
         "note": "",
@@ -85,6 +80,12 @@
           "date": "2026-11-24"
         },
         {
+          "title": "최현덕 남양주시장, 경주 도시재생 우수사례 ‘행복황촌’ 현장 방문 …원도심 활성화 방안 구상",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5hODUyUXVEdjhoOWcyVDRaOU12cUdLYWtxZjVsWlc3UmVzX3dQUUZfNWpCMGV3TXVUV19PMWltRm1TdHMybTF1UkJrU3FqcGJpX2wzMEpZblBxcUhCU1JuMDVB?oc=5",
+          "source": "경기신문",
+          "date": "2026-11-28"
+        },
+        {
           "title": "정선군 도시재생지원센터, ‘정선형 빈집 재생 표준모델’ 첫 결실 제1호 거점 ‘매거진 여량’ 준공",
           "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBhdHFidENrMGx6Z3o5R2NuMFMyaUJucElIMEJUamE5YklZSnZURHREMDhEYWZPUjRvMVcyTDVlNlpjSThYd2kw?oc=5",
           "source": "시사줌뉴스",
@@ -95,19 +96,13 @@
           "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1EeVo5UVFQZ2lyQTlSX0pBZ204ZkFSUS14a1FSRXpBVzZhdE5KSnhLaUc4ay03c1I5UFkyelBIcy1RZlhtUmdUU3YtZ1lndFJhZGI1T29fVGwzajlMV3RPdHJ6RXFVeFZuRW5hVEd3?oc=5",
           "source": "KBS 뉴스",
           "date": "2026-11-25"
-        },
-        {
-          "title": "상가 10곳 중 4곳 비었다…원도심도 신도시도 심각한 공실난",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5qWXNfSkk0a2dlclgzMWd6ZjAtNG1DcDVRalBDSjN4LWJ2UEc4ZVRHWDdJei1MaWNZSXJqTXJ1Rkt6enV4V0pvb2ptYTI0cEdZVU5OVUxZaS1icFhFWTM0a2Q1T2pienplVjZfbDh3?oc=5",
-          "source": "KBS 뉴스",
-          "date": "2026-11-25"
         }
       ]
     },
     {
       "topic": "철도·광역교통·역세권",
-      "count": 202,
-      "trend_label": "직전 동일기간보다 148건 감소",
+      "count": 205,
+      "trend_label": "직전 동일기간보다 145건 감소",
       "analyzed_count": 15,
       "summary": {
         "points": [
@@ -154,8 +149,8 @@
     },
     {
       "topic": "국토계획·용도지역·규제",
-      "count": 192,
-      "trend_label": "직전 동일기간보다 1건 증가",
+      "count": 197,
+      "trend_label": "직전 동일기간보다 6건 증가",
       "analyzed_count": 15,
       "summary": {
         "points": [
@@ -207,8 +202,8 @@
     },
     {
       "topic": "상권·골목경제·생활권",
-      "count": 154,
-      "trend_label": "직전 동일기간보다 15건 감소",
+      "count": 169,
+      "trend_label": "직전 동일기간과 동일",
       "analyzed_count": 15,
       "summary": {
         "points": [
@@ -219,8 +214,8 @@
           },
           {
             "label": "정책·제도",
-            "text": "구역·사업 지정·지원 확대 관련 움직임이 3건의 자료에서 반복됐다.",
-            "evidence_count": 3
+            "text": "구역·사업 지정·지원 확대 관련 움직임이 5건의 자료에서 반복됐다.",
+            "evidence_count": 5
           }
         ],
         "note": "",
@@ -228,35 +223,35 @@
       },
       "examples": [
         {
+          "title": "가평군 전통시장·골목상권 10곳, 12월 통큰 세일 진행",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBGNE1JQnVJSXpaeWZWOGZyWHA5bktiSEt6Yk1kc1c2X2VjM0VqY1BhaWhIemVZTHUwczB5czUxMDViTXlXazBXcGMwcGp3SVRTTmNIcGpaQk1yMzNKVXN4MWZXZ3RuWjFC?oc=5",
+          "source": "일간경기",
+          "date": "2026-11-27"
+        },
+        {
           "title": "춘천시, 전통시장에 발길 골목상권에 활력…민생 지원 넓힌 한 해",
           "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5fS2xqMEJvcW1wLTd0bzVjSmVTZlljWTIzX0NTQzJLaGRONEdkZ3RMS0JHZ3FBOWZaMlBabUlmUGRKX2xwTExUeUlzWlNMakFTZUdxSUJEQlVocmVWUWpud3M3ZXBLM0NXcHdVWmV2a1JnQdIBckFVX3lxTE5fS2xqMEJvcW1wLTd0bzVjSmVTZlljWTIzX0NTQzJLaGRONEdkZ3RMS0JHZ3FBOWZaMlBabUlmUGRKX2xwTExUeUlzWlNMakFTZUdxSUJEQlVocmVWUWpud3M3ZXBLM0NXcHdVWmV2a1JnQQ?oc=5",
           "source": "엔디엔뉴스",
           "date": "2026-11-27"
         },
         {
-          "title": "미사용 신용카드 포인트 지역화폐로 전환··· 전통시장·골목상권서 사용 : 네이버 블로그",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPTjJGbXpqSFVNdEgtVGNTQkNCS2R4VzM3Ny1xT1VJVU9UcnlfbE8yQmJtMlVPQ1ZZejhNXzZWdWNDVUFMbFFuYWlvX21HRTVZRmJqcWJLaVJTQnczMk02Z0NNTE4zSDROX1laZGd4Um5DSHZJOUU1SnFmQjluR18tdGxwNkdkUmpZbjB6Q1pR?oc=5",
-          "source": "Naver Blog",
-          "date": "2026-11-25"
+          "title": "안산시, 전통시장·골목상권 30곳서 ‘통큰 세일’…최대 20% 환급",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5iaHkwaXlCcUpRazgxMXhPZXZpaW5EaVVwWE1ISExHYXgxaFNYYjl5dzVaQVc0d3N1aGN6Q3JJWS1acnhfbWNOTFpoMzBqWUF3WTVod05VeXl0VE01U3N6bQ?oc=5",
+          "source": "아시아경제",
+          "date": "2026-11-27"
         },
         {
-          "title": "진주시의회, 전통시장·골목상권 동반 성장 정책 마련",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5CazQzdVFZT0JTMUpxLWZCVDZQaWk3ZVI0Y2xXLXFmMmJJc2RwX09jMGpmdkVQaXhucnZURk9YMlNlSmtmMXZjR2NSVF9LaklEXy0tWDd0aEk1bDFvMGl3OW94SWZXTGZEdEwtNm53ak0?oc=5",
-          "source": "신아일보",
-          "date": "2026-11-24"
-        },
-        {
-          "title": "진주시의회 연구회, 전통시장·골목상권 상생 과제 도출",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5CNEkxZDl2N25EOVlNTG1sR2VheXU3Q1hoM2x4VFJTVl96MTJfM203OHJBSnh3OG5zRGxwWDZVelRoaE1ON1dtTnNmbEVzUU13cDlpZmlxbFN0MC1pQWtlclFmQkJzMURWYnNZ?oc=5",
-          "source": "경남미디어",
-          "date": "2026-11-24"
+          "title": "\"전통시장 넘어 골목상권까지 활력 불어넣는다\"…순창군, 제1호 골목형상점가 지정",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5IbWNhSDdfWmxJeURURHRrS3lMTDN6a2NmZFBKbXZ1VW9qVUxPWHFjSW5jRkt1b1pmQ0ZnTm1kbmFWU2lKOUg1bzJaWG9ybzNfUnd4b0JLbDI3YXZvNVpkdjR3NA?oc=5",
+          "source": "더펜뉴스",
+          "date": "2026-11-27"
         }
       ]
     },
     {
       "topic": "주택공급·공공주택",
-      "count": 56,
-      "trend_label": "직전 동일기간보다 12건 증가",
+      "count": 57,
+      "trend_label": "직전 동일기간보다 13건 증가",
       "analyzed_count": 15,
       "summary": {
         "points": [
@@ -304,7 +299,7 @@
     {
       "topic": "지역소멸·균형발전",
       "count": 26,
-      "trend_label": "직전 동일기간보다 15건 감소",
+      "trend_label": "직전 동일기간보다 16건 감소",
       "analyzed_count": 15,
       "summary": {
         "points": [
@@ -399,15 +394,15 @@
     },
     {
       "topic": "토지·부동산시장",
-      "count": 16,
-      "trend_label": "직전 동일기간보다 21건 감소",
-      "analyzed_count": 13,
+      "count": 17,
+      "trend_label": "직전 동일기간보다 20건 감소",
+      "analyzed_count": 14,
       "summary": {
         "points": [
           {
             "label": "시장·비용",
-            "text": "지가 변화·사업성 문제가 6건의 자료에서 주요 관심사로 나타났다.",
-            "evidence_count": 6
+            "text": "지가 변화·분담금·비용 부담 문제가 7건의 자료에서 주요 관심사로 나타났다.",
+            "evidence_count": 7
           },
           {
             "label": "사업·공급",
@@ -431,6 +426,12 @@
           "date": "2026-11-27"
         },
         {
+          "title": "[AI로 본 부동산] 재건축 뒤에 숨은 청구서…분담금·이자 부담 '눈덩이'",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1WNG03a291dWNVeE84NS1Kb3Z6Wkw2Mm9PQldrQTRjN2o0NzJHMVU2eHNDdUI4OEs1NFd4RVdYNVNmXzdYaG9wYnUzT1pXTU9weW8xaUF3Nm0zTTIw?oc=5",
+          "source": "뉴스핌",
+          "date": "2026-11-27"
+        },
+        {
           "title": "공시지가 2조2천억원대 전국 약 63만 필지 등기 정리 시급",
           "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1DVkN5anNyTF8tQld5VmpwR0Zzc1BsTm1YYmtsbE5VR0JoVG1ZbHpWZ2padmJ0bnJyNzh2ZzQ3cTFkdDU2LVhPMU9nSlhTMDk2VnI00gFYQVVfeXFMT1lBTS1pNE5fYzg4SXlObnkyaE9HV0VlSThHaTEwN2tyN2FqNjhNdEVvT01DM1h4X3E4UlBBZ0xjdEVvb1JxWkVPbjU5MUloOGhXZkdvdFRfSw?oc=5",
           "source": "SBS Biz",
@@ -440,12 +441,6 @@
           "title": "지하철역 직결 오피스, 공시지가 55% 높아…‘직통 역세권’ 몸값 뛴다",
           "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0yM2VqN1lqX0huMTBNcjEyajY0UFRlSTh2dkxSQ2NNVHk3eEtNNHRFbXByWHVLVHZyUE10VkJpVUJVSGROek54T3o3RjdmZkwweUJWSDFhWWZLUQ?oc=5",
           "source": "한국경제",
-          "date": "2026-11-26"
-        },
-        {
-          "title": "양천 신월5동 72번지 재개발, 한국투자부동산신탁과 MOU체결",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9lbWlsT3JHWEVPUzFPVDFuUUZGYkh4V0VETjRMZDdNN0lDVkFYR29mNHVReEpLRzNfMFoyX1dJemlZNk94bHh2VUhUY184dFI5cGlNRHpmNUpNa3VoTktNNnhYZjVxTmhxRkstSWZqUnhuSGs?oc=5",
-          "source": "하우징헤럴드",
           "date": "2026-11-26"
         }
       ]
@@ -507,8 +502,8 @@
   "monthly": [
     {
       "topic": "재건축·재개발·정비사업",
-      "count": 2131,
-      "trend_label": "직전 동일기간보다 690건 증가",
+      "count": 2146,
+      "trend_label": "직전 동일기간보다 705건 증가",
       "analyzed_count": 15,
       "summary": {
         "points": [
@@ -519,7 +514,7 @@
           },
           {
             "label": "정책·제도",
-            "text": "구역·사업 지정·제도 시행 관련 움직임이 4건의 자료에서 반복됐다.",
+            "text": "제도 시행·구역·사업 지정 관련 움직임이 4건의 자료에서 반복됐다.",
             "evidence_count": 4
           }
         ],
@@ -555,8 +550,8 @@
     },
     {
       "topic": "철도·광역교통·역세권",
-      "count": 1204,
-      "trend_label": "직전 동일기간보다 6건 감소",
+      "count": 1207,
+      "trend_label": "직전 동일기간보다 3건 감소",
       "analyzed_count": 15,
       "summary": {
         "points": [
@@ -603,14 +598,14 @@
     },
     {
       "topic": "도시재생·빈집·원도심",
-      "count": 857,
-      "trend_label": "직전 동일기간보다 56건 감소",
+      "count": 869,
+      "trend_label": "직전 동일기간보다 44건 감소",
       "analyzed_count": 15,
       "summary": {
         "points": [
           {
             "label": "정책·제도",
-            "text": "지원 확대·사업 공모 관련 움직임이 7건의 자료에서 반복됐다.",
+            "text": "사업 공모·지원 확대 관련 움직임이 7건의 자료에서 반복됐다.",
             "evidence_count": 7
           },
           {
@@ -630,6 +625,12 @@
           "date": "2026-11-24"
         },
         {
+          "title": "최현덕 남양주시장, 경주 도시재생 우수사례 ‘행복황촌’ 현장 방문 …원도심 활성화 방안 구상",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5hODUyUXVEdjhoOWcyVDRaOU12cUdLYWtxZjVsWlc3UmVzX3dQUUZfNWpCMGV3TXVUV19PMWltRm1TdHMybTF1UkJrU3FqcGJpX2wzMEpZblBxcUhCU1JuMDVB?oc=5",
+          "source": "경기신문",
+          "date": "2026-11-28"
+        },
+        {
           "title": "정선군 도시재생지원센터, ‘정선형 빈집 재생 표준모델’ 첫 결실 제1호 거점 ‘매거진 여량’ 준공",
           "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBhdHFidENrMGx6Z3o5R2NuMFMyaUJucElIMEJUamE5YklZSnZURHREMDhEYWZPUjRvMVcyTDVlNlpjSThYd2kw?oc=5",
           "source": "시사줌뉴스",
@@ -640,19 +641,13 @@
           "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1EeVo5UVFQZ2lyQTlSX0pBZ204ZkFSUS14a1FSRXpBVzZhdE5KSnhLaUc4ay03c1I5UFkyelBIcy1RZlhtUmdUU3YtZ1lndFJhZGI1T29fVGwzajlMV3RPdHJ6RXFVeFZuRW5hVEd3?oc=5",
           "source": "KBS 뉴스",
           "date": "2026-11-25"
-        },
-        {
-          "title": "상가 10곳 중 4곳 비었다…원도심도 신도시도 심각한 공실난",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5qWXNfSkk0a2dlclgzMWd6ZjAtNG1DcDVRalBDSjN4LWJ2UEc4ZVRHWDdJei1MaWNZSXJqTXJ1Rkt6enV4V0pvb2ptYTI0cEdZVU5OVUxZaS1icFhFWTM0a2Q1T2pienplVjZfbDh3?oc=5",
-          "source": "KBS 뉴스",
-          "date": "2026-11-25"
         }
       ]
     },
     {
       "topic": "국토계획·용도지역·규제",
-      "count": 800,
-      "trend_label": "직전 동일기간보다 126건 감소",
+      "count": 805,
+      "trend_label": "직전 동일기간보다 121건 감소",
       "analyzed_count": 15,
       "summary": {
         "points": [
@@ -704,8 +699,8 @@
     },
     {
       "topic": "상권·골목경제·생활권",
-      "count": 673,
-      "trend_label": "직전 동일기간보다 34건 증가",
+      "count": 688,
+      "trend_label": "직전 동일기간보다 49건 증가",
       "analyzed_count": 15,
       "summary": {
         "points": [
@@ -716,8 +711,8 @@
           },
           {
             "label": "정책·제도",
-            "text": "지원 확대·관리 강화·법령 개정 관련 움직임이 4건의 자료에서 반복됐다.",
-            "evidence_count": 4
+            "text": "지원 확대·구역·사업 지정·관리 강화 관련 움직임이 5건의 자료에서 반복됐다.",
+            "evidence_count": 5
           }
         ],
         "note": "",
@@ -725,35 +720,35 @@
       },
       "examples": [
         {
+          "title": "가평군 전통시장·골목상권 10곳, 12월 통큰 세일 진행",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBGNE1JQnVJSXpaeWZWOGZyWHA5bktiSEt6Yk1kc1c2X2VjM0VqY1BhaWhIemVZTHUwczB5czUxMDViTXlXazBXcGMwcGp3SVRTTmNIcGpaQk1yMzNKVXN4MWZXZ3RuWjFC?oc=5",
+          "source": "일간경기",
+          "date": "2026-11-27"
+        },
+        {
           "title": "춘천시, 전통시장에 발길 골목상권에 활력…민생 지원 넓힌 한 해",
           "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5fS2xqMEJvcW1wLTd0bzVjSmVTZlljWTIzX0NTQzJLaGRONEdkZ3RMS0JHZ3FBOWZaMlBabUlmUGRKX2xwTExUeUlzWlNMakFTZUdxSUJEQlVocmVWUWpud3M3ZXBLM0NXcHdVWmV2a1JnQdIBckFVX3lxTE5fS2xqMEJvcW1wLTd0bzVjSmVTZlljWTIzX0NTQzJLaGRONEdkZ3RMS0JHZ3FBOWZaMlBabUlmUGRKX2xwTExUeUlzWlNMakFTZUdxSUJEQlVocmVWUWpud3M3ZXBLM0NXcHdVWmV2a1JnQQ?oc=5",
           "source": "엔디엔뉴스",
           "date": "2026-11-27"
         },
         {
-          "title": "미사용 신용카드 포인트 지역화폐로 전환··· 전통시장·골목상권서 사용 : 네이버 블로그",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPTjJGbXpqSFVNdEgtVGNTQkNCS2R4VzM3Ny1xT1VJVU9UcnlfbE8yQmJtMlVPQ1ZZejhNXzZWdWNDVUFMbFFuYWlvX21HRTVZRmJqcWJLaVJTQnczMk02Z0NNTE4zSDROX1laZGd4Um5DSHZJOUU1SnFmQjluR18tdGxwNkdkUmpZbjB6Q1pR?oc=5",
-          "source": "Naver Blog",
-          "date": "2026-11-25"
+          "title": "안산시, 전통시장·골목상권 30곳서 ‘통큰 세일’…최대 20% 환급",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5iaHkwaXlCcUpRazgxMXhPZXZpaW5EaVVwWE1ISExHYXgxaFNYYjl5dzVaQVc0d3N1aGN6Q3JJWS1acnhfbWNOTFpoMzBqWUF3WTVod05VeXl0VE01U3N6bQ?oc=5",
+          "source": "아시아경제",
+          "date": "2026-11-27"
         },
         {
-          "title": "진주시의회, 전통시장·골목상권 동반 성장 정책 마련",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5CazQzdVFZT0JTMUpxLWZCVDZQaWk3ZVI0Y2xXLXFmMmJJc2RwX09jMGpmdkVQaXhucnZURk9YMlNlSmtmMXZjR2NSVF9LaklEXy0tWDd0aEk1bDFvMGl3OW94SWZXTGZEdEwtNm53ak0?oc=5",
-          "source": "신아일보",
-          "date": "2026-11-24"
-        },
-        {
-          "title": "진주시의회 연구회, 전통시장·골목상권 상생 과제 도출",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5CNEkxZDl2N25EOVlNTG1sR2VheXU3Q1hoM2x4VFJTVl96MTJfM203OHJBSnh3OG5zRGxwWDZVelRoaE1ON1dtTnNmbEVzUU13cDlpZmlxbFN0MC1pQWtlclFmQkJzMURWYnNZ?oc=5",
-          "source": "경남미디어",
-          "date": "2026-11-24"
+          "title": "\"전통시장 넘어 골목상권까지 활력 불어넣는다\"…순창군, 제1호 골목형상점가 지정",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5IbWNhSDdfWmxJeURURHRrS3lMTDN6a2NmZFBKbXZ1VW9qVUxPWHFjSW5jRkt1b1pmQ0ZnTm1kbmFWU2lKOUg1bzJaWG9ybzNfUnd4b0JLbDI3YXZvNVpkdjR3NA?oc=5",
+          "source": "더펜뉴스",
+          "date": "2026-11-27"
         }
       ]
     },
     {
       "topic": "주택공급·공공주택",
-      "count": 191,
-      "trend_label": "직전 동일기간보다 25건 감소",
+      "count": 192,
+      "trend_label": "직전 동일기간보다 24건 감소",
       "analyzed_count": 15,
       "summary": {
         "points": [
@@ -769,7 +764,7 @@
           },
           {
             "label": "정책·제도",
-            "text": "구역·사업 지정·제도 시행·지원 확대 관련 움직임이 4건의 자료에서 반복됐다.",
+            "text": "구역·사업 지정·제도 시행·사업 공모 관련 움직임이 4건의 자료에서 반복됐다.",
             "evidence_count": 4
           }
         ],
@@ -805,14 +800,14 @@
     },
     {
       "topic": "토지·부동산시장",
-      "count": 159,
-      "trend_label": "직전 동일기간보다 49건 감소",
+      "count": 160,
+      "trend_label": "직전 동일기간보다 48건 감소",
       "analyzed_count": 15,
       "summary": {
         "points": [
           {
             "label": "시장·비용",
-            "text": "지가 변화·사업성·비용 부담 문제가 7건의 자료에서 주요 관심사로 나타났다.",
+            "text": "지가 변화·분담금·비용 부담 문제가 7건의 자료에서 주요 관심사로 나타났다.",
             "evidence_count": 7
           },
           {
@@ -843,23 +838,23 @@
           "date": "2026-11-27"
         },
         {
+          "title": "[AI로 본 부동산] 재건축 뒤에 숨은 청구서…분담금·이자 부담 '눈덩이'",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1WNG03a291dWNVeE84NS1Kb3Z6Wkw2Mm9PQldrQTRjN2o0NzJHMVU2eHNDdUI4OEs1NFd4RVdYNVNmXzdYaG9wYnUzT1pXTU9weW8xaUF3Nm0zTTIw?oc=5",
+          "source": "뉴스핌",
+          "date": "2026-11-27"
+        },
+        {
           "title": "공시지가 2조2천억원대 전국 약 63만 필지 등기 정리 시급",
           "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1DVkN5anNyTF8tQld5VmpwR0Zzc1BsTm1YYmtsbE5VR0JoVG1ZbHpWZ2padmJ0bnJyNzh2ZzQ3cTFkdDU2LVhPMU9nSlhTMDk2VnI00gFYQVVfeXFMT1lBTS1pNE5fYzg4SXlObnkyaE9HV0VlSThHaTEwN2tyN2FqNjhNdEVvT01DM1h4X3E4UlBBZ0xjdEVvb1JxWkVPbjU5MUloOGhXZkdvdFRfSw?oc=5",
           "source": "SBS Biz",
           "date": "2026-11-27"
-        },
-        {
-          "title": "지하철역 직결 오피스, 공시지가 55% 높아…‘직통 역세권’ 몸값 뛴다",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0yM2VqN1lqX0huMTBNcjEyajY0UFRlSTh2dkxSQ2NNVHk3eEtNNHRFbXByWHVLVHZyUE10VkJpVUJVSGROek54T3o3RjdmZkwweUJWSDFhWWZLUQ?oc=5",
-          "source": "한국경제",
-          "date": "2026-11-26"
         }
       ]
     },
     {
       "topic": "컴팩트시티·미래도시",
-      "count": 120,
-      "trend_label": "직전 동일기간보다 8건 감소",
+      "count": 121,
+      "trend_label": "직전 동일기간보다 7건 감소",
       "analyzed_count": 15,
       "summary": {
         "points": [
@@ -869,14 +864,14 @@
             "evidence_count": 5
           },
           {
-            "label": "공간·생활권",
-            "text": "교통체계 변화·철도축 변화가 4건의 자료에서 공간 변화의 핵심으로 나타났다.",
-            "evidence_count": 4
-          },
-          {
             "label": "안전·환경",
             "text": "안전관리이 4건의 자료에서 주요 대응 과제로 나타났다.",
             "evidence_count": 4
+          },
+          {
+            "label": "공간·생활권",
+            "text": "교통체계 변화·철도축 변화가 3건의 자료에서 공간 변화의 핵심으로 나타났다.",
+            "evidence_count": 3
           }
         ],
         "note": "",
@@ -911,8 +906,8 @@
     },
     {
       "topic": "지역소멸·균형발전",
-      "count": 117,
-      "trend_label": "직전 동일기간보다 25건 증가",
+      "count": 118,
+      "trend_label": "직전 동일기간보다 26건 증가",
       "analyzed_count": 15,
       "summary": {
         "points": [
@@ -1009,7 +1004,7 @@
   "yearly": [
     {
       "topic": "재건축·재개발·정비사업",
-      "count": 8814,
+      "count": 8829,
       "trend_label": "최근 1년 누적",
       "analyzed_count": 15,
       "summary": {
@@ -1057,7 +1052,7 @@
     },
     {
       "topic": "철도·광역교통·역세권",
-      "count": 6146,
+      "count": 6149,
       "trend_label": "최근 1년 누적",
       "analyzed_count": 15,
       "summary": {
@@ -1105,7 +1100,7 @@
     },
     {
       "topic": "국토계획·용도지역·규제",
-      "count": 4780,
+      "count": 4785,
       "trend_label": "최근 1년 누적",
       "analyzed_count": 15,
       "summary": {
@@ -1158,14 +1153,14 @@
     },
     {
       "topic": "도시재생·빈집·원도심",
-      "count": 4718,
+      "count": 4730,
       "trend_label": "최근 1년 누적",
       "analyzed_count": 15,
       "summary": {
         "points": [
           {
             "label": "정책·제도",
-            "text": "지원 확대·사업 공모 관련 움직임이 7건의 자료에서 반복됐다.",
+            "text": "사업 공모·지원 확대 관련 움직임이 7건의 자료에서 반복됐다.",
             "evidence_count": 7
           },
           {
@@ -1191,22 +1186,22 @@
           "date": "2026-08-31"
         },
         {
+          "title": "최현덕 남양주시장, 경주 도시재생 우수사례 ‘행복황촌’ 현장 방문 …원도심 활성화 방안 구상",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5hODUyUXVEdjhoOWcyVDRaOU12cUdLYWtxZjVsWlc3UmVzX3dQUUZfNWpCMGV3TXVUV19PMWltRm1TdHMybTF1UkJrU3FqcGJpX2wzMEpZblBxcUhCU1JuMDVB?oc=5",
+          "source": "경기신문",
+          "date": "2026-11-28"
+        },
+        {
           "title": "정선군 도시재생지원센터, ‘정선형 빈집 재생 표준모델’ 첫 결실 제1호 거점 ‘매거진 여량’ 준공",
           "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBhdHFidENrMGx6Z3o5R2NuMFMyaUJucElIMEJUamE5YklZSnZURHREMDhEYWZPUjRvMVcyTDVlNlpjSThYd2kw?oc=5",
           "source": "시사줌뉴스",
           "date": "2026-11-26"
-        },
-        {
-          "title": "원주, 원도심·신도심 ‘공실률 40%’ 육박",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1EeVo5UVFQZ2lyQTlSX0pBZ204ZkFSUS14a1FSRXpBVzZhdE5KSnhLaUc4ay03c1I5UFkyelBIcy1RZlhtUmdUU3YtZ1lndFJhZGI1T29fVGwzajlMV3RPdHJ6RXFVeFZuRW5hVEd3?oc=5",
-          "source": "KBS 뉴스",
-          "date": "2026-11-25"
         }
       ]
     },
     {
       "topic": "상권·골목경제·생활권",
-      "count": 3091,
+      "count": 3107,
       "trend_label": "최근 1년 누적",
       "analyzed_count": 15,
       "summary": {
@@ -1218,8 +1213,8 @@
           },
           {
             "label": "정책·제도",
-            "text": "지원 확대·관리 강화·법령 개정 관련 움직임이 4건의 자료에서 반복됐다.",
-            "evidence_count": 4
+            "text": "지원 확대·구역·사업 지정·관리 강화 관련 움직임이 5건의 자료에서 반복됐다.",
+            "evidence_count": 5
           }
         ],
         "note": "",
@@ -1227,34 +1222,34 @@
       },
       "examples": [
         {
+          "title": "가평군 전통시장·골목상권 10곳, 12월 통큰 세일 진행",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBGNE1JQnVJSXpaeWZWOGZyWHA5bktiSEt6Yk1kc1c2X2VjM0VqY1BhaWhIemVZTHUwczB5czUxMDViTXlXazBXcGMwcGp3SVRTTmNIcGpaQk1yMzNKVXN4MWZXZ3RuWjFC?oc=5",
+          "source": "일간경기",
+          "date": "2026-11-27"
+        },
+        {
           "title": "춘천시, 전통시장에 발길 골목상권에 활력…민생 지원 넓힌 한 해",
           "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5fS2xqMEJvcW1wLTd0bzVjSmVTZlljWTIzX0NTQzJLaGRONEdkZ3RMS0JHZ3FBOWZaMlBabUlmUGRKX2xwTExUeUlzWlNMakFTZUdxSUJEQlVocmVWUWpud3M3ZXBLM0NXcHdVWmV2a1JnQdIBckFVX3lxTE5fS2xqMEJvcW1wLTd0bzVjSmVTZlljWTIzX0NTQzJLaGRONEdkZ3RMS0JHZ3FBOWZaMlBabUlmUGRKX2xwTExUeUlzWlNMakFTZUdxSUJEQlVocmVWUWpud3M3ZXBLM0NXcHdVWmV2a1JnQQ?oc=5",
           "source": "엔디엔뉴스",
           "date": "2026-11-27"
         },
         {
-          "title": "미사용 신용카드 포인트 지역화폐로 전환··· 전통시장·골목상권서 사용 : 네이버 블로그",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPTjJGbXpqSFVNdEgtVGNTQkNCS2R4VzM3Ny1xT1VJVU9UcnlfbE8yQmJtMlVPQ1ZZejhNXzZWdWNDVUFMbFFuYWlvX21HRTVZRmJqcWJLaVJTQnczMk02Z0NNTE4zSDROX1laZGd4Um5DSHZJOUU1SnFmQjluR18tdGxwNkdkUmpZbjB6Q1pR?oc=5",
-          "source": "Naver Blog",
-          "date": "2026-11-25"
+          "title": "안산시, 전통시장·골목상권 30곳서 ‘통큰 세일’…최대 20% 환급",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5iaHkwaXlCcUpRazgxMXhPZXZpaW5EaVVwWE1ISExHYXgxaFNYYjl5dzVaQVc0d3N1aGN6Q3JJWS1acnhfbWNOTFpoMzBqWUF3WTVod05VeXl0VE01U3N6bQ?oc=5",
+          "source": "아시아경제",
+          "date": "2026-11-27"
         },
         {
-          "title": "진주시의회, 전통시장·골목상권 동반 성장 정책 마련",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5CazQzdVFZT0JTMUpxLWZCVDZQaWk3ZVI0Y2xXLXFmMmJJc2RwX09jMGpmdkVQaXhucnZURk9YMlNlSmtmMXZjR2NSVF9LaklEXy0tWDd0aEk1bDFvMGl3OW94SWZXTGZEdEwtNm53ak0?oc=5",
-          "source": "신아일보",
-          "date": "2026-11-24"
-        },
-        {
-          "title": "진주시의회 연구회, 전통시장·골목상권 상생 과제 도출",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5CNEkxZDl2N25EOVlNTG1sR2VheXU3Q1hoM2x4VFJTVl96MTJfM203OHJBSnh3OG5zRGxwWDZVelRoaE1ON1dtTnNmbEVzUU13cDlpZmlxbFN0MC1pQWtlclFmQkJzMURWYnNZ?oc=5",
-          "source": "경남미디어",
-          "date": "2026-11-24"
+          "title": "\"전통시장 넘어 골목상권까지 활력 불어넣는다\"…순창군, 제1호 골목형상점가 지정",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5IbWNhSDdfWmxJeURURHRrS3lMTDN6a2NmZFBKbXZ1VW9qVUxPWHFjSW5jRkt1b1pmQ0ZnTm1kbmFWU2lKOUg1bzJaWG9ybzNfUnd4b0JLbDI3YXZvNVpkdjR3NA?oc=5",
+          "source": "더펜뉴스",
+          "date": "2026-11-27"
         }
       ]
     },
     {
       "topic": "주택공급·공공주택",
-      "count": 1188,
+      "count": 1190,
       "trend_label": "최근 1년 누적",
       "analyzed_count": 15,
       "summary": {
@@ -1307,7 +1302,7 @@
     },
     {
       "topic": "토지·부동산시장",
-      "count": 1027,
+      "count": 1028,
       "trend_label": "최근 1년 누적",
       "analyzed_count": 15,
       "summary": {
@@ -1360,7 +1355,7 @@
     },
     {
       "topic": "컴팩트시티·미래도시",
-      "count": 907,
+      "count": 908,
       "trend_label": "최근 1년 누적",
       "analyzed_count": 15,
       "summary": {
@@ -1371,14 +1366,14 @@
             "evidence_count": 5
           },
           {
-            "label": "공간·생활권",
-            "text": "교통체계 변화·철도축 변화가 4건의 자료에서 공간 변화의 핵심으로 나타났다.",
-            "evidence_count": 4
-          },
-          {
             "label": "안전·환경",
             "text": "안전관리이 4건의 자료에서 주요 대응 과제로 나타났다.",
             "evidence_count": 4
+          },
+          {
+            "label": "공간·생활권",
+            "text": "교통체계 변화·철도축 변화가 3건의 자료에서 공간 변화의 핵심으로 나타났다.",
+            "evidence_count": 3
           }
         ],
         "note": "",
@@ -1413,7 +1408,7 @@
     },
     {
       "topic": "지역소멸·균형발전",
-      "count": 560,
+      "count": 561,
       "trend_label": "최근 1년 누적",
       "analyzed_count": 15,
       "summary": {
@@ -1461,7 +1456,7 @@
     },
     {
       "topic": "공업지역·산업단지 제도",
-      "count": 559,
+      "count": 560,
       "trend_label": "최근 1년 누적",
       "analyzed_count": 15,
       "summary": {
