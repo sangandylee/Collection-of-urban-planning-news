@@ -1,29 +1,29 @@
 {
-  "updated_at": "2026-11-28 13:26 KST",
+  "updated_at": "2026-11-28 20:09 KST",
   "monthly": [
     {
       "word": "정비사업(재건축·재개발)",
-      "count": 2077
+      "count": 2086
     },
     {
       "word": "조합",
-      "count": 471
+      "count": 472
     },
     {
       "word": "골목상권",
-      "count": 415
+      "count": 422
     },
     {
       "word": "원도심",
-      "count": 398
+      "count": 400
     },
     {
       "word": "도시재생",
-      "count": 353
+      "count": 356
     },
     {
       "word": "역세권",
-      "count": 341
+      "count": 342
     },
     {
       "word": "GTX",
@@ -47,7 +47,7 @@
     },
     {
       "word": "UAM·PAV",
-      "count": 120
+      "count": 121
     },
     {
       "word": "철도지하화",
@@ -85,27 +85,27 @@
   "quarterly": [
     {
       "word": "정비사업(재건축·재개발)",
-      "count": 4765
+      "count": 4774
     },
     {
       "word": "원도심",
-      "count": 1280
+      "count": 1282
     },
     {
       "word": "골목상권",
-      "count": 1080
+      "count": 1087
     },
     {
       "word": "역세권",
-      "count": 1070
+      "count": 1071
     },
     {
       "word": "조합",
-      "count": 1043
+      "count": 1044
     },
     {
       "word": "도시재생",
-      "count": 967
+      "count": 970
     },
     {
       "word": "GTX",
@@ -129,7 +129,7 @@
     },
     {
       "word": "UAM·PAV",
-      "count": 359
+      "count": 360
     },
     {
       "word": "개발밀도",
@@ -167,27 +167,27 @@
   "yearly": [
     {
       "word": "정비사업(재건축·재개발)",
-      "count": 8488
+      "count": 8497
     },
     {
       "word": "원도심",
-      "count": 2115
+      "count": 2117
     },
     {
       "word": "역세권",
-      "count": 1878
+      "count": 1879
     },
     {
       "word": "도시재생",
-      "count": 1828
+      "count": 1831
     },
     {
       "word": "골목상권",
-      "count": 1715
+      "count": 1722
     },
     {
       "word": "조합",
-      "count": 1600
+      "count": 1601
     },
     {
       "word": "도시철도",
@@ -211,7 +211,7 @@
     },
     {
       "word": "UAM·PAV",
-      "count": 887
+      "count": 888
     },
     {
       "word": "산업단지",
